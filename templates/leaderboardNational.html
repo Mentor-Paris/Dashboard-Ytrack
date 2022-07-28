@@ -1,14 +1,16 @@
 <!--Embed the header.html template at this location-->
 {{ template "header.html" .}}
 
-  <h1>Leaderboard Ytrack</h1>
-
-  {{range .listusers}}
-    <p>Username : {{.FirstName}}</p>
-    <p>Email : {{.Email}}</p>
-    <p>Campus : {{.Campus}}</p>
-    <p>Nombre Xp : {{.Xp.Amount}}</p>
-    <img src="{{.Avatar_Url}}" alt="">
+  <h1>Leaderboard Ytrack National</h1>
+  <br>
+  
+  {{range $i, $etudiant := .listusersnational}}
+    <p>Top : {{add $i 1}}</p>
+    <p>Username : {{$etudiant.FirstName}}</p>
+    <p>Email : {{$etudiant.Email}}</p>
+    <p>Campus : {{$etudiant.Campus}}</p>
+    <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+    <img src="{{$etudiant.Avatar_Url}}" alt="">
     <hr>
   {{end}}
 
