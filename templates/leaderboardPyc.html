@@ -3,11 +3,12 @@
 
   <h1>Leaderboard Ytrack Pyc</h1>
 
-  {{range .listusers}}
-    <p>Username : {{.FirstName}}</p>
-    <p>Email : {{.Email}}</p>
-    <p>Nombre Xp : {{.Xp.Amount}}</p>
-    <img src="{{.Avatar_Url}}" alt="">
+  {{range $i, $etudiant := .listusers}}
+    <p>Top : {{add $i 1}}</p>
+    <p>Username : {{$etudiant.FirstName}}</p>
+    <p>Email : {{$etudiant.Email}}</p>
+    <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+    <img src="{{$etudiant.Avatar_Url}}" alt="">
     <hr>
   {{end}}
 
