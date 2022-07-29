@@ -88,6 +88,7 @@ var listusernational = []UserFinalNational{}
 // principal function
 func main() {
 
+	gin.SetMode(gin.ReleaseMode)
 	r := gin.Default()
 
 	r.GET("/", home)
