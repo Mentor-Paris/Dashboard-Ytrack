@@ -106,6 +106,7 @@ func main() {
 	r.SetFuncMap(template.FuncMap{"add": add})
 
 	r.LoadHTMLGlob("templates/*")
+	r.Static("/css", "assets/css")
 
 	fmt.Println("\n" + "Voici le lien du serveur :" + " http://localhost:8080/")
 	r.Run()
@@ -324,30 +325,6 @@ func MergeJsonNational() {
 				listuserfinalnational[i].Avatar_Url = y.Avatar_Url
 				break
 			}
-		}
-	}
-}
-
-func FormatInt(n int64) int64 {
-	in := strconv.FormatInt(n, 10)
-	out := make([]byte, len(in)+(len(in)-2+int(in[0]/'0'))/3)
-	if in[0] == '-' {
-		in, out[0] = in[1:], '-'
-	}
-
-	for i, j, k := len(in)-1, len(out)-1, 0; ; i, j = i-1, j-1 {
-		out[j] = in[i]
-		if i == 0 {
-			a := string(out)
-			b, err := strconv.ParseInt(a, 10, 64)
-			if err != nil {
-				fmt.Println(err)
-			}
-			return b
-		}
-		if k++; k == 3 {
-			j, k = j-1, 0
-			out[j] = ' '
 		}
 	}
 }

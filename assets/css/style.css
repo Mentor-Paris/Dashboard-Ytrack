@@ -1,0 +1,56 @@
+/* || General setup */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: hsl(0, 0%, 16%);
+}
+  
+  /* || typography */
+  
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p, li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 10px #1d1d1e;
+}
+
+p {
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+
+/* || header layout */
+
+nav, footer {
+    background-color: hsl(0, 0%, 15%);
+    padding: 1%;
+}
+
+
+div {
+    padding: 1%;
+    margin-left: 13%;
+}
+
+nav a {
+    display: inline-block;
+    font-size: 16px;
+    color: white;
+}
+
+img {
+    height: 140px;
+    position: absolute;
+    padding: 1%;
+}

@@ -2,13 +2,18 @@
 {{ template "header.html" .}}
 
   <h1>Leaderboard Ytrack Pyc</h1>
+  <br>
 
   {{range $i, $etudiant := .listusers}}
-    <p>Top : {{add $i 1}}</p>
-    <p>Username : {{$etudiant.FirstName}}</p>
-    <p>Email : {{$etudiant.Email}}</p>
-    <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+
     <img src="{{$etudiant.Avatar_Url}}" alt="">
+
+    <div>    
+      <p>Top : {{add $i 1}}</p>
+      <p>Username : {{$etudiant.FirstName}}</p>
+      <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+    </div>
+
     <hr>
   {{end}}
 
