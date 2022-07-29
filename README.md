@@ -32,9 +32,9 @@ The [/usernational page](http://localhost:8080/usernational) is the JSON of all 
 
 The [/user/:id page](http://localhost:8080/user/567) is the JSON about one user of the PYC campus.
 
-The [leaderboard page](http://localhost:8080/leaderboard) is the leaderboard of all users of the PYC campus.
+The [leaderboardPyc page](http://localhost:8080/leaderboard) is the leaderboard of all users of the PYC campus.
 
-The [leaderboard page](http://localhost:8080/leaderboardnational) is the leaderboard of all users of Ytrack.
+The [leaderboardnational page](http://localhost:8080/leaderboardnational) is the leaderboard of all users of Ytrack.
 
 ## How pages work host site
 
@@ -44,6 +44,6 @@ The [/usernational page](https://dashboard-ytrack.onrender.com/usernational) is 
 
 The [/user/:id page](https://dashboard-ytrack.onrender.com/user/567) is the JSON about one user of the PYC campus.
 
-The [leaderboard page](https://dashboard-ytrack.onrender.com/leaderboard) is the leaderboard of all users of the PYC campus.
+The [leaderboardPyc page](https://dashboard-ytrack.onrender.com/leaderboard) is the leaderboard of all users of the PYC campus.
 
-The [leaderboard page](https://dashboard-ytrack.onrender.com/leaderboardnational) is the leaderboard of all users of Ytrack.
+The [leaderboardnational page](https://dashboard-ytrack.onrender.com/leaderboardnational) is the leaderboard of all users of Ytrack.
