@@ -31,21 +31,21 @@ type Ytrack struct {
 
 // UserFinal struct which contains a all informmations of each user pyc
 type UserFinal struct {
-	ID         int    `json:"id"`
-	FirstName  string `json:"firstName"`
-	Email      string `json:"email"`
-	Xp         Xp     `json:"xp"`
-	Avatar_Url string `json:"avatar_url"`
+	ID         int     `json:"id"`
+	FirstName  string  `json:"firstName"`
+	Email      string  `json:"email"`
+	Xp         XpFinal `json:"xp"`
+	Avatar_Url string  `json:"avatar_url"`
 }
 
 // UserFinalnational struct which contains a all informmations of each user national
 type UserFinalNational struct {
-	ID         int    `json:"id"`
-	FirstName  string `json:"firstName"`
-	Campus     string `json:"campus"`
-	Email      string `json:"email"`
-	Xp         Xp     `json:"xp"`
-	Avatar_Url string `json:"avatar_url"`
+	ID         int     `json:"id"`
+	FirstName  string  `json:"firstName"`
+	Campus     string  `json:"campus"`
+	Email      string  `json:"email"`
+	Xp         XpFinal `json:"xp"`
+	Avatar_Url string  `json:"avatar_url"`
 }
 
 // User struct which contains a Firtsname a ID and a list of xp of each user
@@ -57,7 +57,12 @@ type User struct {
 
 // XP struct that contains the total XP of each user
 type Xp struct {
-	Amount int `json:"amount"`
+	Amount int64 `json:"amount"`
+}
+
+type XpFinal struct {
+	Amount    string `json:"amount"`
+	AmountInt int64
 }
 
 // perform a task only once
@@ -159,7 +164,7 @@ func leaderboardapi() []UserFinal {
 		listuser = append(listuser, id)
 	}
 	sort.SliceStable(listuser, func(i, j int) bool {
-		return listuser[i].Xp.Amount > listuser[j].Xp.Amount
+		return listuser[i].Xp.AmountInt > listuser[j].Xp.AmountInt
 	})
 	return listuser[:20]
 }
@@ -181,7 +186,7 @@ func leaderboardapinational() []UserFinalNational {
 		listusernational = append(listusernational, id)
 	}
 	sort.SliceStable(listusernational, func(i, j int) bool {
-		return listusernational[i].Xp.Amount > listusernational[j].Xp.Amount
+		return listusernational[i].Xp.AmountInt > listusernational[j].Xp.AmountInt
 	})
 	return listusernational
 }
@@ -293,7 +298,7 @@ func ReadJsonNational() {
 // merge the json userxp the json userpyc
 func MergeJsonPYC() {
 	for _, i := range users {
-		listuserfinal = append(listuserfinal, UserFinal{ID: i.ID, FirstName: i.FirstName, Xp: i.Xp})
+		listuserfinal = append(listuserfinal, UserFinal{ID: i.ID, FirstName: i.FirstName, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}})
 	}
 	for i := range listuserfinal {
 		for _, y := range usersytrack {
@@ -309,7 +314,7 @@ func MergeJsonPYC() {
 // merge the json userxp the json usernational
 func MergeJsonNational() {
 	for _, i := range usersytracknational {
-		listuserfinalnational = append(listuserfinalnational, UserFinalNational{ID: i.ID, FirstName: i.FirstName, Xp: i.Xp, Campus: i.Campus})
+		listuserfinalnational = append(listuserfinalnational, UserFinalNational{ID: i.ID, FirstName: i.FirstName, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}, Campus: i.Campus})
 	}
 	for i := range listuserfinalnational {
 		for _, y := range usersytrack {
@@ -318,6 +323,49 @@ func MergeJsonNational() {
 				listuserfinalnational[i].Avatar_Url = y.Avatar_Url
 				break
 			}
+		}
+	}
+}
+
+func FormatInt(n int64) int64 {
+	in := strconv.FormatInt(n, 10)
+	out := make([]byte, len(in)+(len(in)-2+int(in[0]/'0'))/3)
+	if in[0] == '-' {
+		in, out[0] = in[1:], '-'
+	}
+
+	for i, j, k := len(in)-1, len(out)-1, 0; ; i, j = i-1, j-1 {
+		out[j] = in[i]
+		if i == 0 {
+			a := string(out)
+			b, err := strconv.ParseInt(a, 10, 64)
+			if err != nil {
+				fmt.Println(err)
+			}
+			return b
+		}
+		if k++; k == 3 {
+			j, k = j-1, 0
+			out[j] = ' '
+		}
+	}
+}
+
+func FormatString(n int64) string {
+	in := strconv.FormatInt(n, 10)
+	out := make([]byte, len(in)+(len(in)-2+int(in[0]/'0'))/3)
+	if in[0] == '-' {
+		in, out[0] = in[1:], '-'
+	}
+
+	for i, j, k := len(in)-1, len(out)-1, 0; ; i, j = i-1, j-1 {
+		out[j] = in[i]
+		if i == 0 {
+			return string(out)
+		}
+		if k++; k == 3 {
+			j, k = j-1, 0
+			out[j] = ' '
 		}
 	}
 }
