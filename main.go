@@ -26,14 +26,12 @@ type UserNational struct {
 type Ytrack struct {
 	Login      string `json:"login"`
 	Avatar_Url string `json:"avatar_url"`
-	Email      string `json:"email"`
 }
 
 // UserFinal struct which contains a all informmations of each user pyc
 type UserFinal struct {
 	ID         int     `json:"id"`
 	FirstName  string  `json:"firstName"`
-	Email      string  `json:"email"`
 	Xp         XpFinal `json:"xp"`
 	Avatar_Url string  `json:"avatar_url"`
 }
@@ -43,7 +41,6 @@ type UserFinalNational struct {
 	ID         int     `json:"id"`
 	FirstName  string  `json:"firstName"`
 	Campus     string  `json:"campus"`
-	Email      string  `json:"email"`
 	Xp         XpFinal `json:"xp"`
 	Avatar_Url string  `json:"avatar_url"`
 }
@@ -305,7 +302,6 @@ func MergeJsonPYC() {
 	for i := range listuserfinal {
 		for _, y := range usersytrack {
 			if listuserfinal[i].FirstName == y.Login {
-				listuserfinal[i].Email = y.Email
 				listuserfinal[i].Avatar_Url = y.Avatar_Url
 				break
 			}
@@ -321,7 +317,6 @@ func MergeJsonNational() {
 	for i := range listuserfinalnational {
 		for _, y := range usersytrack {
 			if listuserfinalnational[i].FirstName == y.Login {
-				listuserfinalnational[i].Email = y.Email
 				listuserfinalnational[i].Avatar_Url = y.Avatar_Url
 				break
 			}
