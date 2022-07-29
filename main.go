@@ -75,7 +75,7 @@ func init() {
 }
 
 // we initialize the variables of the map, array of single User and leaderboard
-var users map[string]User
+var users []User
 var usersytrack []Ytrack
 var usersytracknational []UserNational
 
