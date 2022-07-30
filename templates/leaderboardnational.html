@@ -5,14 +5,47 @@
   <br>
   
   {{range $i, $etudiant := .listusersnational}}
-    <img src="{{$etudiant.Avatar_Url}}" alt="">
-    <div>    
-      <p>Top : {{add $i 1}}</p>
-      <p>Username : {{$etudiant.FirstName}}</p>
-      <p>Campus : {{$etudiant.Campus}}</p>
-      <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
-    </div>
+  {{if eq $i 0}}
+      <img src="{{$etudiant.Avatar_Url}}" alt="">
+
+      <div>    
+        <p>🥇 Top : {{add $i 1}}</p>
+        <p>Username : {{$etudiant.FirstName}}</p>
+        <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+      </div>
+
       <hr>
+    {{else if eq $i 1}}
+      <img src="{{$etudiant.Avatar_Url}}" alt="">
+
+      <div>    
+        <p>🥈 Top : {{add $i 1}}</p>
+        <p>Username : {{$etudiant.FirstName}}</p>
+        <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+      </div>
+
+      <hr>
+    {{else if eq $i 2}}
+      <img src="{{$etudiant.Avatar_Url}}" alt="">
+
+      <div>    
+        <p>🥉 Top : {{add $i 1}}</p>
+        <p>Username : {{$etudiant.FirstName}}</p>
+        <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+      </div>
+
+      <hr>
+    {{ else }}
+      <img src="{{$etudiant.Avatar_Url}}" alt="">
+
+      <div>    
+        <p>Top : {{add $i 1}}</p>
+        <p>Username : {{$etudiant.FirstName}}</p>
+        <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+      </div>
+
+      <hr>
+    {{ end }}
   {{end}}
 
 <!--Embed the footer.html template at this location-->
