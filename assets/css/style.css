@@ -4,6 +4,7 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: hsl(0, 0%, 16%);
+    color: white;
 }
   
   /* || typography */
@@ -53,4 +54,5 @@ img {
     height: 140px;
     position: absolute;
     padding: 1%;
+    color: white;
 }

@@ -36,6 +36,8 @@ The [leaderboardPyc page](http://localhost:8080/leaderboard) is the leaderboard 
 
 The [leaderboardnational page](http://localhost:8080/leaderboardnational) is the leaderboard of all users of Ytrack.
 
+The [graphics page](http://localhost:8080/graphique) contains many graphics of stats of all users of Ytrack.
+
 ## How pages work host site
 
 The [/userPYC page](https://dashboard-ytrack.onrender.com/userPYC) is the JSON of all users of the PYC campus.
@@ -47,3 +49,5 @@ The [/user/:id page](https://dashboard-ytrack.onrender.com/user/567) is the JSON
 The [leaderboardPyc page](https://dashboard-ytrack.onrender.com/leaderboard) is the leaderboard of all users of the PYC campus.
 
 The [leaderboardnational page](https://dashboard-ytrack.onrender.com/leaderboardnational) is the leaderboard of all users of Ytrack.
+
+The [graphics page](https://dashboard-ytrack.onrender.com/graphique) contains many graphics of stats of all users of Ytrack.

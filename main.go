@@ -72,15 +72,17 @@ func init() {
 }
 
 // we initialize the variables of the map, array of single User and leaderboard
-var users []User
-var usersytrack []Ytrack
-var usersytracknational []UserNational
+var (
+	users               []User
+	usersytrack         []Ytrack
+	usersytracknational []UserNational
 
-var listuserfinal = []UserFinal{}
-var listuserfinalnational = []UserFinalNational{}
+	listuserfinal         = []UserFinal{}
+	listuserfinalnational = []UserFinalNational{}
 
-var listuser []UserFinal
-var listusernational = []UserFinalNational{}
+	listuser         []UserFinal
+	listusernational = []UserFinalNational{}
+)
 
 // principal function
 func main() {
@@ -100,10 +102,14 @@ func main() {
 
 	r.GET("leaderboardnational", leaderboardnational)
 
+	r.GET("graphique", graphique)
+
 	r.SetFuncMap(template.FuncMap{"add": add})
 
 	r.LoadHTMLGlob("templates/*")
 	r.Static("/css", "assets/css")
+	r.Static("/img", "assets/img")
+	r.Static("/js", "assets/js")
 
 	fmt.Println("\n" + "Voici le lien du serveur :" + " http://localhost:8080/")
 	r.Run()
@@ -190,7 +196,30 @@ func leaderboardapinational() []UserFinalNational {
 	return listusernational
 }
 
+// display the leaderboard of ytrack
+func graphique(c *gin.Context) {
+	var liststructuser []UserFinalNational
+	var liststringuser []string
+	for _, i := range usersytracknational {
+		liststructuser = append(liststructuser, UserFinalNational{Campus: i.Campus})
+	}
+	for j := range usersytracknational {
+		liststringuser = append(liststringuser, liststructuser[j].Campus)
+	}
+	countcampus := printUniqueValue(liststringuser)
+	c.HTML(http.StatusOK, "graphique.html", gin.H{"countcampus": countcampus})
+}
+
 // external functions
+
+func printUniqueValue(arr []string) map[string]int {
+	//Create a   dictionary of values for each element
+	dict := make(map[string]int)
+	for _, num := range arr {
+		dict[num] = dict[num] + 1
+	}
+	return dict
+}
 
 // add +1 to the index of the top leaderboard
 func add(x, y int) int {

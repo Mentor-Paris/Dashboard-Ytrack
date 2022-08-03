@@ -1,0 +1,19 @@
+<!--Embed the header.html template at this location-->
+{{ template "header.html" .}}
+
+    <img class="graph" src="img/distrib_xp.png" alt="image not available">
+    <img class="graph" src="img/distrib_xp_explo.png" alt="image not available">
+    <img class="graph" src="img/mean_xp_campus.png" alt="image not available">
+    <img class="graph" src="img/mean_xp_campus2.png" alt="image not available">
+    <img class="graph" src="img/top20.png" alt="image not available">
+    <img class="graph" src="img/repartition_students_campus.png" alt="image not available">
+
+    <p>Nombre PYC : {{ index .countcampus "pyc" }} Etudiants</p> 
+    <p>Nombre Bordeaux : {{ index .countcampus "bordeaux" }} Etudiants</p> 
+    <p>Nombre Toulouse : {{ index .countcampus "toulouse" }} Etudiants</p>
+    <p>Nombre Lyon : {{ index .countcampus "lyon" }} Etudiants</p> 
+    <p>Nombre Nantes : {{ index .countcampus "nantes" }} Etudiants</p> 
+    <p>Nombre Aix-En-Provence : {{ index .countcampus "aix" }} Etudiants</p>  
+
+<!--Embed the footer.html template at this location-->
+{{ template "footer.html" .}}
