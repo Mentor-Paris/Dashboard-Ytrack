@@ -6,7 +6,7 @@
 
   {{range $i, $etudiant := .listusers}}
     {{if eq $i 0}}
-      <img src="{{$etudiant.Avatar_Url}}" alt="">
+      <img class="leader" src="{{$etudiant.Avatar_Url}}" alt="">
 
       <div>    
         <p>🥇 Top : {{add $i 1}}</p>
@@ -16,7 +16,7 @@
 
       <hr>
     {{else if eq $i 1}}
-      <img src="{{$etudiant.Avatar_Url}}" alt="">
+      <img class="leader" src="{{$etudiant.Avatar_Url}}" alt="">
 
       <div>    
         <p>🥈 Top : {{add $i 1}}</p>
@@ -26,7 +26,7 @@
 
       <hr>
     {{else if eq $i 2}}
-      <img src="{{$etudiant.Avatar_Url}}" alt="">
+      <img class="leader" src="{{$etudiant.Avatar_Url}}" alt="">
 
       <div>    
         <p>🥉 Top : {{add $i 1}}</p>
@@ -36,7 +36,7 @@
 
       <hr>
     {{ else }}
-      <img src="{{$etudiant.Avatar_Url}}" alt="">
+      <img class="leader" src="{{$etudiant.Avatar_Url}}" alt="">
 
       <div>    
         <p>Top : {{add $i 1}}</p>

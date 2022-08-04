@@ -4,3 +4,16 @@ img.graph {
     padding: 1%;
     color: white;
 }
+
+#plot2 {
+    margin-top: 500px;
+}
+
+#plot4 {
+    margin-top: 400px;
+    margin-left: 290px;
+}
+
+h4 {
+    margin-left: 450px;
+}

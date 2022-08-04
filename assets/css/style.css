@@ -50,8 +50,15 @@ nav a {
     color: white;
 }
 
-img {
+img.leader {
     height: 140px;
+    position: absolute;
+    padding: 1%;
+    color: white;
+}
+
+img {
+    height: 400px;
     position: absolute;
     padding: 1%;
     color: white;

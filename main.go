@@ -110,6 +110,8 @@ func main() {
 	r.Static("/css", "assets/css")
 	r.Static("/img", "assets/img")
 	r.Static("/js", "assets/js")
+	r.Static("/files", "assets/files")
+	r.Static("/json", "assets/json")
 
 	fmt.Println("\n" + "Voici le lien du serveur :" + " http://localhost:8080/")
 	r.Run()
@@ -263,7 +265,7 @@ func randomnational() UserFinalNational {
 // read the JSON file
 func ReadJsonUserXp() {
 	// Open our jsonFile
-	jsonFile, err := os.Open("usersxp.json")
+	jsonFile, err := os.Open("assets/json/usersxp.json")
 	// if we os.Open returns an error then handle it
 	if err != nil {
 		fmt.Println(err)
@@ -284,7 +286,7 @@ func ReadJsonUserXp() {
 // read the JSON file
 func ReadJsonUsersYtrack() {
 	// Open our jsonFile
-	jsonFile, err := os.Open("usersnational.json")
+	jsonFile, err := os.Open("assets/json/usersnational.json")
 	// if we os.Open returns an error then handle it
 	if err != nil {
 		fmt.Println(err)
@@ -305,7 +307,7 @@ func ReadJsonUsersYtrack() {
 // read the JSON file
 func ReadJsonNational() {
 	// Open our jsonFile
-	jsonFile, err := os.Open("usersnationalxp.json")
+	jsonFile, err := os.Open("assets/json/usersnationalxp.json")
 	// if we os.Open returns an error then handle it
 	if err != nil {
 		fmt.Println(err)

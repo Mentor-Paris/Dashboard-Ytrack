@@ -1,19 +1,149 @@
 <!--Embed the header.html template at this location-->
 {{ template "header.html" .}}
 
-    <img class="graph" src="img/distrib_xp.png" alt="image not available">
+    <!-- <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> -->
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+
+    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+
+    <py-env> 
+- pandas
+- matplotlib
+- seaborn
+- plotly
+- paths : 
+  - /json/usersnational.json
+  - /json/usersnationalxp.json
+  - /files/merge_data_user.csv
+    </py-env>
+
+    <!-- <img class="graph" src="img/distrib_xp.png" alt="image not available">
     <img class="graph" src="img/distrib_xp_explo.png" alt="image not available">
     <img class="graph" src="img/mean_xp_campus.png" alt="image not available">
     <img class="graph" src="img/mean_xp_campus2.png" alt="image not available">
     <img class="graph" src="img/top20.png" alt="image not available">
-    <img class="graph" src="img/repartition_students_campus.png" alt="image not available">
+    <img class="graph" src="img/repartition_students_campus.png" alt="image not available"> -->
 
-    <p>Nombre PYC : {{ index .countcampus "pyc" }} Etudiants</p> 
-    <p>Nombre Bordeaux : {{ index .countcampus "bordeaux" }} Etudiants</p> 
-    <p>Nombre Toulouse : {{ index .countcampus "toulouse" }} Etudiants</p>
-    <p>Nombre Lyon : {{ index .countcampus "lyon" }} Etudiants</p> 
-    <p>Nombre Nantes : {{ index .countcampus "nantes" }} Etudiants</p> 
-    <p>Nombre Aix-En-Provence : {{ index .countcampus "aix" }} Etudiants</p>  
+    <br>
+
+    <div>
+        <p>Nombre Etudiants PYC : {{ index .countcampus "pyc" }} Etudiants</p> 
+        <p>Nombre Etudiants Bordeaux : {{ index .countcampus "bordeaux" }} Etudiants</p> 
+        <p>Nombre Etudiants Toulouse : {{ index .countcampus "toulouse" }} Etudiants</p>
+        <p>Nombre Etudiants Lyon : {{ index .countcampus "lyon" }} Etudiants</p> 
+        <p>Nombre Etudiants Nantes : {{ index .countcampus "nantes" }} Etudiants</p> 
+        <p>Nombre Etudiants Aix-En-Provence : {{ index .countcampus "aix" }} Etudiants</p> 
+    </div>
+
+    <h4>Attendez 20secondes et les graphiques apparaîtront</h4>
+
+    <div id="plot"></div>
+    <div id="plot2"></div>
+    <div id="plot3"></div>
+    <div id="plot4"></div>
+
+    <script type='text/javascript'>
+        function plot(graph, chart) {
+            var figure = JSON.parse(graph)
+            Plotly.newPlot(chart, figure, {});
+        }
+    </script>
+    
+    
+    <py-script output="plot">
+
+        import pandas as pd
+
+        import matplotlib.pyplot as plt
+        import seaborn as sns
+
+        import plotly
+        import plotly.graph_objects as go
+        import plotly.express as px
+
+        import js
+
+        usernational = pd.read_json("usersnational.json")
+        usercampus = pd.read_json("usersnationalxp.json")
+
+        usercampus = usercampus.rename(columns={'firstName': 'login'})
+
+        userfinalnational = usercampus = pd.read_csv("merge_data_user.csv")
+        userfinalnational["xp"] = userfinalnational["xp"].replace(r'\D+', '', regex=True)
+        userfinalnational["xp"] = userfinalnational["xp"].replace(r'', 0, regex=True)
+        userfinalnational["xp"] = userfinalnational["xp"].astype('float')
+
+        xpuser = userfinalnational.sort_values(by="xp", ascending=False)
+        xpuser = xpuser[xpuser["xp"] !=0]
+        xpuser = xpuser.dropna()
+        xpuser["xp"] = xpuser["xp"].astype('int')
+
+        main_variables = xpuser.groupby('login', as_index=False).agg({'xp': 'mean'})
+
+        fig, ax = plt.subplots(figsize=(20, 10))
+
+        sns.histplot(main_variables ['xp'], ax=ax, label='_nolegend_', kde=False)
+        ax.axvline(main_variables ['xp'].mean(), color='#c9082a', label='Xp Mean')
+
+        ax.yaxis.set_label_text('Count of Students')
+        ax.xaxis.set_label_text('Number Xp')
+        plt.suptitle('Distribution of Number Xp Data', fontsize=22)
+        plt.legend(loc='upper right', bbox_to_anchor=(0.98, 1.06), frameon=False)
+        sns.despine(ax=ax, left=True)
+
+        fig
+    </py-script>
+
+    <py-script>
+        fig = go.Figure(data=go.Scatter(x=main_variables['xp'],
+                    mode='markers',
+                    text=main_variables['login'],
+                    marker=dict(color='#17408b')
+        ))
+
+        fig.update_layout(
+            title='Distribution of Number Xp Data (interactive exploration)',
+            xaxis_title='Number Xp',
+            plot_bgcolor='rgba(0,0,0,0)',
+            autosize=False,
+            width=1000,
+            height=800,
+        )
+
+        js.plot(fig.to_json(), "plot2")
+    </py-script>
+
+    <py-script output="plot3">
+        xpuser_aix = xpuser[xpuser['campus'] != 'aix']
+        xpuser_aix_nantes = xpuser_aix[xpuser_aix['campus'] != 'nantes']
+        xp_by_campus = xpuser_aix_nantes.groupby(['campus'])['xp'].agg(['mean', 'count'])
+
+        fig, ax = plt.subplots(figsize=(16, 8))
+        
+        sns.lineplot(x=xp_by_campus.index, y='mean', data=xp_by_campus, marker='o', color='#17408b')
+        
+        plt.suptitle('Average Xp Student by Campus', fontsize=22)
+        ax.yaxis.set_label_text('Average Xp Student')
+        ax.xaxis.set_label_text('Campus')
+        sns.despine(ax=ax, left=True)
+        
+        fig
+    </py-script>
+
+    <py-script output="plot4">
+        dc = xpuser["campus"].value_counts().to_frame()
+
+        fig, ax = plt.subplots()
+
+        labels = 'pyc', 'bordeaux', 'toulouse', 'lyon','nantes','aix'
+        explode = (0.1, 0.1, 0, 0, 0, 0) 
+        
+        ax.pie(dc["campus"], explode=explode, labels=labels,autopct='%1.1f%%',shadow=True, startangle=90)
+        plt.suptitle('Distribution of Students of campus', fontsize=22)
+        ax.axis('equal') 
+
+        fig
+    </py-script>
 
 <!--Embed the footer.html template at this location-->
 {{ template "footer.html" .}}
