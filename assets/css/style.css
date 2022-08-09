@@ -7,7 +7,7 @@ html, body {
     color: white;
 }
   
-  /* || typography */
+/* || typography */
   
 h1, h2, h3 {
     font-family: Arial, Helvetica, sans-serif;
@@ -19,7 +19,7 @@ p, li {
     color: white;
 }
 
-h1 {
+h1, h2 {
     font-size: 4rem;
     text-align: center;
     color: white;
@@ -31,11 +31,22 @@ p {
     line-height: 1.5;
 }
 
-/* || header layout */
+/* || header/footer layout */
 
 nav, footer {
-    background-color: hsl(0, 0%, 15%);
+    background-color: hsl(0deg 0% 29%);
     padding: 1%;
+}
+
+footer {
+    margin-top: 30%;
+}
+
+footer p {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 27em;
 }
 
 
@@ -50,6 +61,8 @@ nav a {
     color: white;
 }
 
+/* || img */
+
 img.leader {
     height: 140px;
     position: absolute;
@@ -61,5 +74,34 @@ img {
     height: 400px;
     position: absolute;
     padding: 1%;
+    color: white;
+}
+
+/* || table progress */
+
+#event {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#event td, #event th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#event tr:nth-child(even){
+    background-color: #2c2c2c;
+}
+
+#event tr:hover {
+    background-color: rgb(0, 0, 0);
+}
+
+#event th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #000000;
     color: white;
 }

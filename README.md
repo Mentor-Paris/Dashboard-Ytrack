@@ -38,6 +38,8 @@ The [leaderboardnational page](http://localhost:8080/leaderboardnational) is the
 
 The [stats page](http://localhost:8080/graphique) contains many graphics of stats of all users of Ytrack.
 
+The [progress page](http://localhost:8080/progress) contains the all date of start and end of projects.
+
 ## How pages work host site
 
 The [/userPYC page](https://dashboard-ytrack.onrender.com/userPYC) is the JSON of all users of the PYC campus.
@@ -51,3 +53,5 @@ The [leaderboardPyc page](https://dashboard-ytrack.onrender.com/leaderboard) is 
 The [leaderboardnational page](https://dashboard-ytrack.onrender.com/leaderboardnational) is the leaderboard of all users of Ytrack.
 
 The [stats page](https://dashboard-ytrack.onrender.com/graphique) contains many graphics of stats of all users of Ytrack.
+
+The [progress page](https://dashboard-ytrack.onrender.com/progress) contains the all date of start and end of projects.

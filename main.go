@@ -10,6 +10,8 @@ import (
 	"os"
 	"sort"
 	"strconv"
+	"strings"
+	"time"
 
 	"github.com/gin-gonic/gin"
 )
@@ -45,6 +47,21 @@ type UserFinalNational struct {
 	Avatar_Url string  `json:"avatar_url"`
 }
 
+// Event struct that contains the total event of the plateform
+type Event struct {
+	Status       string       `json:"status"`
+	EndEvent     string       `json:"endAt"`
+	Path         string       `json:"path"`
+	Registration Registration `json:"registration"`
+}
+
+// Event struct that contains the total registration date of the event
+type Registration struct {
+	StartRegistration string `json:"startAt"`
+	EndRegistration   string `json:"endAt"`
+	StartEvent        string `json:"eventStartAt"`
+}
+
 // User struct which contains a Firtsname a ID and a list of xp of each user
 type User struct {
 	FirstName string `json:"firstName"`
@@ -57,9 +74,35 @@ type Xp struct {
 	Amount int64 `json:"amount"`
 }
 
+// XP struct that contains the total XP of each user
 type XpFinal struct {
 	Amount    string `json:"amount"`
 	AmountInt int64
+}
+
+// EventDate struct that contains the total of date event of the plateform
+type EvenDate struct {
+	Debut_reg   string
+	Fin_reg     string
+	Debut_event string
+	Fin_event   string
+	Path        string
+}
+
+// Logs struct that contains the total logs of each user
+type Logs struct {
+	Id     int    `json:"id"`
+	Nom    string `json:"nom"`
+	Prenom string `json:"prenom"`
+	Log    []Log  `json:"log"`
+}
+
+// Log struct that contains the total logs of each user
+type Log struct {
+	Date    string `json:"date"`
+	Mentor  string `json:"mentor"`
+	Comment string `json:"comment"`
+	Clause  string `json:"clause"`
 }
 
 // perform a task only once
@@ -67,8 +110,11 @@ func init() {
 	ReadJsonUserXp()
 	ReadJsonUsersYtrack()
 	ReadJsonNational()
+	ReadJsonEvent()
+	ReadJsonLogs()
 	MergeJsonPYC()
 	MergeJsonNational()
+	ListEvent()
 }
 
 // we initialize the variables of the map, array of single User and leaderboard
@@ -82,6 +128,15 @@ var (
 
 	listuser         []UserFinal
 	listusernational = []UserFinalNational{}
+
+	listlogs []Logs
+
+	events []Event
+
+	listevents []string
+
+	new_events []EvenDate
+	new_event  *EvenDate
 )
 
 // principal function
@@ -103,6 +158,10 @@ func main() {
 	r.GET("leaderboardnational", leaderboardnational)
 
 	r.GET("graphique", graphique)
+
+	r.GET("progress", progress)
+
+	r.GET("students", studentslog)
 
 	r.SetFuncMap(template.FuncMap{"add": add})
 
@@ -210,6 +269,16 @@ func graphique(c *gin.Context) {
 	}
 	countcampus := printUniqueValue(liststringuser)
 	c.HTML(http.StatusOK, "graphique.html", gin.H{"countcampus": countcampus})
+}
+
+// display the date of event of ytrack
+func progress(c *gin.Context) {
+	c.HTML(http.StatusOK, "progress.html", gin.H{"new_events": new_events})
+}
+
+// display the logs of students of ytrack
+func studentslog(c *gin.Context) {
+	c.IndentedJSON(http.StatusOK, listlogs)
 }
 
 // external functions
@@ -325,6 +394,48 @@ func ReadJsonNational() {
 	json.Unmarshal(byteValue, &usersytracknational)
 }
 
+// read the JSON file
+func ReadJsonEvent() {
+	// Open our jsonFile
+	jsonFile, err := os.Open("assets/json/events.json")
+	// if we os.Open returns an error then handle it
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	fmt.Println("Successfully Opened events.json")
+	// defer the closing of our jsonFile so that we can parse it later on
+	defer jsonFile.Close()
+
+	// read our opened xmlFile as a byte array.
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+
+	// we unmarshal our byteArray which contains our
+	// jsonFile's content into 'users' which we defined above
+	json.Unmarshal(byteValue, &events)
+}
+
+// read the JSON file
+func ReadJsonLogs() {
+	// Open our jsonFile
+	jsonFile, err := os.Open("assets/json/logsGeneral.json")
+	// if we os.Open returns an error then handle it
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	fmt.Println("Successfully Opened logsGeneral.json")
+	// defer the closing of our jsonFile so that we can parse it later on
+	defer jsonFile.Close()
+
+	// read our opened xmlFile as a byte array.
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+
+	// we unmarshal our byteArray which contains our
+	// jsonFile's content into 'users' which we defined above
+	json.Unmarshal(byteValue, &listlogs)
+}
+
 // merge the json userxp the json userpyc
 func MergeJsonPYC() {
 	for _, i := range users {
@@ -370,6 +481,55 @@ func FormatString(n int64) string {
 		if k++; k == 3 {
 			j, k = j-1, 0
 			out[j] = ' '
+		}
+	}
+}
+
+// create list, split the path of event, format the date of event
+func ListEvent() {
+	new_event = new(EvenDate)
+	last_str := ""
+
+	for _, i := range events {
+		listevents = append(listevents, i.Registration.StartRegistration, i.Registration.EndRegistration, i.Registration.StartEvent, i.EndEvent, i.Path)
+	}
+
+	for i := range listevents {
+
+		if i%5 != 4 {
+			dateString := listevents[i]
+			date, error := time.Parse("2006-01-02T15:04:05Z07:00", dateString)
+
+			dateformat := date.Format("2006-01-02 15:04:05")
+
+			if error != nil {
+				fmt.Println(error)
+			}
+
+			switch i % 5 {
+			case 0:
+				new_event.Debut_reg = dateformat
+			case 1:
+				new_event.Fin_reg = dateformat
+			case 2:
+				new_event.Debut_event = dateformat
+			case 3:
+				new_event.Fin_event = dateformat
+			}
+
+		} else {
+			s := strings.Split(events[i/5].Path, "/")
+			if 3 >= len(s) {
+				last_str = s[2]
+			} else {
+				last_str = s[2] + "/" + s[3]
+			}
+			new_event.Path = last_str
+			new_events = append(new_events, *new_event)
+			sort.SliceStable(new_events, func(i, j int) bool {
+				return new_events[i].Debut_event > new_events[j].Debut_event
+			})
+			new_event = new(EvenDate)
 		}
 	}
 }

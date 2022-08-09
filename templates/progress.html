@@ -1,0 +1,43 @@
+<!--Embed the header.html template at this location-->
+{{ template "header.html" .}}
+
+<h2>🔥 Progresse Evènements 🔥</h2>
+
+<br>
+
+<p> Cette page contient les dates limites pour les étudiants de Paris Ynov Campus.</p>
+
+<p> La colonne "Date Fin Enregistrement" indique la date de démarrage au plus tard du pool. </p>
+
+<p> La colonne "Date Fin Event" contient la date limite du projet/pool.</p>
+
+<br>
+
+<table id="event">
+    <thead>
+        <tr>
+            <th colspan="2">Tableau des Evènements</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Nom Event </td>
+            <td>Date Debut Enregistrement </td>
+            <td>Date Fin Enregistrement </td>
+            <td>Date Debut Event </td>
+            <td>Date Fin Event </td>
+        </tr>
+        {{range $event := .new_events}}
+            <tr>
+                <td>{{$event.Path }}</td>
+                <td>{{$event.Debut_reg}}</td>
+                <td>{{$event.Fin_reg }}</td>
+                <td>{{$event.Debut_event }}</td>
+                <td>{{$event.Fin_event }}</td>
+            </tr>
+        {{ end }}
+    </tbody> 
+</table>
+
+<!--Embed the footer.html template at this location-->
+{{ template "footer.html" .}}
