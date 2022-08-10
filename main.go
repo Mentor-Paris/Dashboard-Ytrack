@@ -165,6 +165,8 @@ func main() {
 
 	r.GET("students", studentslog)
 
+	r.GET("/students/:id", getstudentsByID)
+
 	r.SetFuncMap(template.FuncMap{"add": add})
 
 	r.LoadHTMLGlob("templates/*")
@@ -297,6 +299,23 @@ func progress(c *gin.Context) {
 // display the logs of students of ytrack
 func studentslog(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, listlogs)
+}
+
+func getstudentsByID(c *gin.Context) {
+	id := c.Param("id")
+	idconvert, err := strconv.Atoi(id)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	for _, a := range listlogs {
+		if a.Id == idconvert {
+			c.IndentedJSON(http.StatusOK, a)
+			return
+		}
+	}
+	c.IndentedJSON(http.StatusNotFound, gin.H{"error": "user not found"})
 }
 
 // external functions
