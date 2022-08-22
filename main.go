@@ -358,7 +358,7 @@ func patchGobot(c *gin.Context) {
 		fmt.Println(err)
 	}
 
-	if id != "" {
+	if id == "" {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
