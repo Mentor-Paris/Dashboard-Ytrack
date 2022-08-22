@@ -195,7 +195,7 @@ func main() {
 
 	r.POST("/go-bot", createGobot)
 
-	r.PATCH("/go-bots", patchGobot)
+	r.PATCH("/go-bot", patchGobot)
 
 	r.SetFuncMap(template.FuncMap{"add": add})
 
@@ -356,30 +356,82 @@ func createGobot(c *gin.Context) { //c stores query parameters, headers
 
 	var newBook Complete_Stud
 
-	id, ok := c.GetQuery("id")
-	idconvert, err := strconv.Atoi(id)
-
-	if err != nil {
-		fmt.Println(err)
-	}
-
-	newBook.Id = idconvert
-	// students.Prenom = prenom
-	// students.Point = pointconvert
-	// students.Credit = creditconvert
-	// students.Guild = guild
-	// students.Discord = discord
+	id, ok := c.GetQuery("Id")
 
 	if !ok {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
 
-	if err := c.BindJSON(&newBook); err != nil {
+	idconvert, err := strconv.Atoi(id)
 
-		// if the error is not equal to null, in that case we shall simpy return
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	Nom, ok := c.GetQuery("Nom")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
+
+	Prenom, ok := c.GetQuery("Prenom")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing prenom query parameter"})
+		return
+	}
+
+	Point, ok := c.GetQuery("Point")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing point query parameter"})
+		return
+	}
+
+	Pointconvert, err := strconv.Atoi(Point)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	Credit, ok := c.GetQuery("Credit")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing credit query parameter"})
+		return
+	}
+
+	Creditconvert, err := strconv.Atoi(Credit)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	Guild, ok := c.GetQuery("Guild")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing guild query parameter"})
+		return
+	}
+
+	Discord, ok := c.GetQuery("Discord")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
+
+	newBook.Id = idconvert
+	newBook.Nom = Nom
+	newBook.Prenom = Prenom
+	newBook.Point = Pointconvert
+	newBook.Credit = Creditconvert
+	newBook.Guild = Guild
+	newBook.Discord = Discord
+
+	// fmt.Printf("%+v\n", newBook)
 
 	liststudents = append(liststudents, newBook)
 	c.IndentedJSON(http.StatusCreated, newBook)
@@ -489,7 +541,7 @@ func getBookById(id int) (*Complete_Stud, error) {
 			return &liststudents[i], nil
 		}
 	}
-	return nil, errors.New("book not found")
+	return nil, errors.New("students not found")
 }
 
 func printUniqueValue(arr []string) map[string]int {
