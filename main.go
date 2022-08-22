@@ -105,6 +105,16 @@ type Log struct {
 	Clause  string `json:"clause"`
 }
 
+type Complete_Stud struct {
+	Id      int    `json:"id"`
+	Nom     string `json:"nom"`
+	Prenom  string `json:"prenom"`
+	Point   int    `json:"point"`
+	Credit  int    `json:"credit"`
+	Guild   string `json:"guild"`
+	Discord string `json:"ID_disc"`
+}
+
 // perform a task only once
 func init() {
 	ReadJsonUserXp()
@@ -112,6 +122,7 @@ func init() {
 	ReadJsonNational()
 	ReadJsonEvent()
 	ReadJsonLogs()
+	ReadJsonStudents()
 	MergeJsonPYC()
 	MergeJsonNational()
 	ListEvent()
@@ -130,6 +141,8 @@ var (
 	listusernational = []UserFinalNational{}
 
 	listlogs []Logs
+
+	liststudents []Complete_Stud
 
 	events []Event
 
@@ -166,6 +179,8 @@ func main() {
 	r.GET("students", studentslog)
 
 	r.GET("/students/:id", getstudentsByID)
+
+	r.GET("/go-bot", getGobot)
 
 	r.SetFuncMap(template.FuncMap{"add": add})
 
@@ -318,6 +333,10 @@ func getstudentsByID(c *gin.Context) {
 	c.IndentedJSON(http.StatusNotFound, gin.H{"error": "user not found"})
 }
 
+func getGobot(c *gin.Context) {
+	c.IndentedJSON(http.StatusOK, liststudents)
+}
+
 // external functions
 
 func printUniqueValue(arr []string) map[string]int {
@@ -462,6 +481,26 @@ func ReadJsonLogs() {
 	}
 
 	fmt.Println("Successfully Opened logsGeneral.json")
+	// defer the closing of our jsonFile so that we can parse it later on
+	defer jsonFile.Close()
+
+	// read our opened xmlFile as a byte array.
+	byteValue, _ := ioutil.ReadAll(jsonFile)
+
+	// we unmarshal our byteArray which contains our
+	// jsonFile's content into 'users' which we defined above
+	json.Unmarshal(byteValue, &liststudents)
+}
+
+func ReadJsonStudents() {
+	// Open our jsonFile
+	jsonFile, err := os.Open("assets/json/api.json")
+	// if we os.Open returns an error then handle it
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	fmt.Println("Successfully Opened api.json")
 	// defer the closing of our jsonFile so that we can parse it later on
 	defer jsonFile.Close()
 
