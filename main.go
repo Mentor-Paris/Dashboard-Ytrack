@@ -193,7 +193,7 @@ func main() {
 
 	r.GET("/go-bot", getGobot)
 
-	r.PATCH("/go-bot/:id/:nom/:prenom/:point/:credit/:guild/:discord", patchGobot)
+	r.PATCH("/go-bots", patchGobot)
 
 	r.SetFuncMap(template.FuncMap{"add": add})
 
@@ -352,68 +352,69 @@ func getGobot(c *gin.Context) {
 
 func patchGobot(c *gin.Context) {
 
-	// "/go-bot/:id/:nom/:prenom/:point/:credit/:guild/:discord"
+	id, ok := c.GetQuery("id")
 
-	id := c.Param("id")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
 	idconvert, err := strconv.Atoi(id)
 
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	nom := c.Param("nom")
+	nom, ok := c.GetQuery("nom")
 
-	prenom := c.Param("prenom")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
 
-	point := c.Param("point")
+	prenom, ok := c.GetQuery("prenom")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	point, ok := c.GetQuery("point")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
 	pointconvert, err := strconv.Atoi(point)
 
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	credit := c.Param("credit")
+	credit, ok := c.GetQuery("credit")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
 	creditconvert, err := strconv.Atoi(credit)
 
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	guild := c.Param("guild")
+	guild, ok := c.GetQuery("guild")
 
-	discord := c.Param("discord")
-
-	if id == "" {
+	if !ok {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
 
-	if nom == "" {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-		return
-	}
+	discord, ok := c.GetQuery("discord")
 
-	if prenom == "" {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-		return
-	}
-
-	if point == "" {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-		return
-	}
-
-	if credit == "" {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-		return
-	}
-
-	if guild == "" {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-		return
-	}
-
-	if discord == "" {
+	if !ok {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
