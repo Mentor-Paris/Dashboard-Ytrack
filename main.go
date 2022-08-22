@@ -193,7 +193,7 @@ func main() {
 
 	r.GET("/go-bot", getGobot)
 
-	r.PATCH("/go-bot/:id", patchGobot)
+	r.PATCH("/go-bot/:id/:nom/:prenom/:point/:credit/:guild/:discord", patchGobot)
 
 	r.SetFuncMap(template.FuncMap{"add": add})
 
@@ -351,6 +351,9 @@ func getGobot(c *gin.Context) {
 }
 
 func patchGobot(c *gin.Context) {
+
+	// "/go-bot/:id/:nom/:prenom/:point/:credit/:guild/:discord"
+
 	id := c.Param("id")
 	idconvert, err := strconv.Atoi(id)
 
@@ -358,25 +361,88 @@ func patchGobot(c *gin.Context) {
 		fmt.Println(err)
 	}
 
+	nom := c.Param("nom")
+
+	prenom := c.Param("prenom")
+
+	point := c.Param("point")
+	pointconvert, err := strconv.Atoi(point)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	credit := c.Param("credit")
+	creditconvert, err := strconv.Atoi(credit)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	guild := c.Param("guild")
+
+	discord := c.Param("discord")
+
 	if id == "" {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
 
-	book, err := getBookById(idconvert)
+	if nom == "" {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	if prenom == "" {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	if point == "" {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	if credit == "" {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	if guild == "" {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	if discord == "" {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	students, err := getBookById(idconvert)
 
 	if err != nil {
-		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Book not found."}) //return custom request for bad request or book not found
+		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Students not found."}) //return custom request for bad request or book not found
 		return
 	}
 
-	if book.Credit <= 0 {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "Book not available."}) //return custom request for bad request or book not found
+	if students.Credit < 0 {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "Credit not available."}) //return custom request for bad request or book not found
 		return
 	}
 
-	book.Credit -= 1
-	c.IndentedJSON(http.StatusOK, book)
+	if students.Point < 0 {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "Point not available."}) //return custom request for bad request or book not found
+		return
+	}
+
+	students.Nom = nom
+	students.Prenom = prenom
+	students.Point = pointconvert
+	students.Credit = creditconvert
+	students.Guild = guild
+	students.Discord = discord
+
+	c.IndentedJSON(http.StatusOK, students)
 }
 
 // external functions
