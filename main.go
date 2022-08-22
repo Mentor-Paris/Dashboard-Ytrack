@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
 	"html/template"
 	"io/ioutil"
@@ -115,6 +116,16 @@ type Complete_Stud struct {
 	Discord string `json:"ID_disc"`
 }
 
+type UpdateStudInput struct {
+	Id      int    `json:"id"`
+	Nom     string `json:"nom"`
+	Prenom  string `json:"prenom"`
+	Point   int    `json:"point"`
+	Credit  int    `json:"credit"`
+	Guild   string `json:"guild"`
+	Discord string `json:"ID_disc"`
+}
+
 // perform a task only once
 func init() {
 	ReadJsonUserXp()
@@ -181,6 +192,8 @@ func main() {
 	r.GET("/students/:id", getstudentsByID)
 
 	r.GET("/go-bot", getGobot)
+
+	r.PATCH("/go-bot/:id", patchGobot)
 
 	r.SetFuncMap(template.FuncMap{"add": add})
 
@@ -337,7 +350,45 @@ func getGobot(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, liststudents)
 }
 
+func patchGobot(c *gin.Context) {
+	id := c.Param("id")
+	idconvert, err := strconv.Atoi(id)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	if id != "" {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	book, err := getBookById(idconvert)
+
+	if err != nil {
+		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Book not found."}) //return custom request for bad request or book not found
+		return
+	}
+
+	if book.Credit <= 0 {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "Book not available."}) //return custom request for bad request or book not found
+		return
+	}
+
+	book.Credit -= 1
+	c.IndentedJSON(http.StatusOK, book)
+}
+
 // external functions
+
+func getBookById(id int) (*Complete_Stud, error) {
+	for i, b := range liststudents {
+		if b.Id == id {
+			return &liststudents[i], nil
+		}
+	}
+	return nil, errors.New("book not found")
+}
 
 func printUniqueValue(arr []string) map[string]int {
 	//Create a   dictionary of values for each element
@@ -489,7 +540,7 @@ func ReadJsonLogs() {
 
 	// we unmarshal our byteArray which contains our
 	// jsonFile's content into 'users' which we defined above
-	json.Unmarshal(byteValue, &liststudents)
+	json.Unmarshal(byteValue, &listlogs)
 }
 
 func ReadJsonStudents() {
@@ -509,7 +560,7 @@ func ReadJsonStudents() {
 
 	// we unmarshal our byteArray which contains our
 	// jsonFile's content into 'users' which we defined above
-	json.Unmarshal(byteValue, &listlogs)
+	json.Unmarshal(byteValue, &liststudents)
 }
 
 // merge the json userxp the json userpyc
