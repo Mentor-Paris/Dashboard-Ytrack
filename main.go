@@ -193,6 +193,8 @@ func main() {
 
 	r.GET("/go-bot", getGobot)
 
+	r.POST("/go-bot", createGobot)
+
 	r.PATCH("/go-bots", patchGobot)
 
 	r.SetFuncMap(template.FuncMap{"add": add})
@@ -350,76 +352,109 @@ func getGobot(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, liststudents)
 }
 
-func patchGobot(c *gin.Context) {
+func createGobot(c *gin.Context) { //c stores query parameters, headers
+
+	var newBook Complete_Stud
 
 	id, ok := c.GetQuery("id")
-
-	if !ok {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-		return
-	}
-
 	idconvert, err := strconv.Atoi(id)
 
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	nom, ok := c.GetQuery("nom")
+	newBook.Id = idconvert
+	// students.Prenom = prenom
+	// students.Point = pointconvert
+	// students.Credit = creditconvert
+	// students.Guild = guild
+	// students.Discord = discord
 
 	if !ok {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
 
-	prenom, ok := c.GetQuery("prenom")
+	if err := c.BindJSON(&newBook); err != nil {
+
+		// if the error is not equal to null, in that case we shall simpy return
+		return
+	}
+
+	liststudents = append(liststudents, newBook)
+	c.IndentedJSON(http.StatusCreated, newBook)
+}
+
+func patchGobot(c *gin.Context) {
+
+	Id, ok := c.GetQuery("Id")
 
 	if !ok {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
 
-	point, ok := c.GetQuery("point")
-
-	if !ok {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-		return
-	}
-
-	pointconvert, err := strconv.Atoi(point)
+	Idconvert, err := strconv.Atoi(Id)
 
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	credit, ok := c.GetQuery("credit")
+	Nom, ok := c.GetQuery("Nom")
 
 	if !ok {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
 
-	creditconvert, err := strconv.Atoi(credit)
+	Prenom, ok := c.GetQuery("Prenom")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing prenom query parameter"})
+		return
+	}
+
+	Point, ok := c.GetQuery("Point")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing point query parameter"})
+		return
+	}
+
+	Pointconvert, err := strconv.Atoi(Point)
 
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	guild, ok := c.GetQuery("guild")
+	Credit, ok := c.GetQuery("Credit")
 
 	if !ok {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing credit query parameter"})
 		return
 	}
 
-	discord, ok := c.GetQuery("discord")
+	Creditconvert, err := strconv.Atoi(Credit)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	Guild, ok := c.GetQuery("Guild")
 
 	if !ok {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing guild query parameter"})
 		return
 	}
 
-	students, err := getBookById(idconvert)
+	Discord, ok := c.GetQuery("Discord")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
+
+	students, err := getBookById(Idconvert)
 
 	if err != nil {
 		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Students not found."}) //return custom request for bad request or book not found
@@ -436,12 +471,12 @@ func patchGobot(c *gin.Context) {
 		return
 	}
 
-	students.Nom = nom
-	students.Prenom = prenom
-	students.Point = pointconvert
-	students.Credit = creditconvert
-	students.Guild = guild
-	students.Discord = discord
+	students.Nom = Nom
+	students.Prenom = Prenom
+	students.Point = Pointconvert
+	students.Credit = Creditconvert
+	students.Guild = Guild
+	students.Discord = Discord
 
 	c.IndentedJSON(http.StatusOK, students)
 }
