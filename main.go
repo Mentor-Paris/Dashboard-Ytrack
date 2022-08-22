@@ -193,7 +193,7 @@ func main() {
 
 	r.GET("/go-bot", getGobot)
 
-	// r.POST("/go-bot", createGobot)
+	r.POST("/go-bot", createGobot)
 
 	r.PATCH("/go-bot", patchGobot)
 
@@ -348,10 +348,6 @@ func getstudentsByID(c *gin.Context) {
 	c.IndentedJSON(http.StatusNotFound, gin.H{"error": "user not found"})
 }
 
-func getGobot(c *gin.Context) {
-	c.IndentedJSON(http.StatusOK, liststudents)
-}
-
 func patchGobot(c *gin.Context) {
 
 	Id, ok := c.GetQuery("Id")
@@ -425,16 +421,6 @@ func patchGobot(c *gin.Context) {
 
 	if err != nil {
 		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Students not found."}) //return custom request for bad request or book not found
-		return
-	}
-
-	if students.Credit < 0 {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "Credit not available."}) //return custom request for bad request or book not found
-		return
-	}
-
-	if students.Point < 0 {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "Point not available."}) //return custom request for bad request or book not found
 		return
 	}
 
