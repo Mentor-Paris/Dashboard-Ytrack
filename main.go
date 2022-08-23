@@ -154,6 +154,7 @@ var (
 	listlogs []Logs
 
 	liststudents []Complete_Stud
+	newStud      Complete_Stud
 
 	events []Event
 
@@ -193,7 +194,7 @@ func main() {
 
 	r.GET("/go-bot", getGobot)
 
-	// r.POST("/go-bot", createGobot)
+	r.POST("/go-bot", createGobot)
 
 	r.PATCH("/go-bot", patchGobot)
 
@@ -215,7 +216,7 @@ func CORSMiddleware() gin.HandlerFunc {
 		c.Writer.Header().Set("Access-Control-Allow-Origin", "*")
 		c.Writer.Header().Set("Access-Control-Allow-Credentials", "true")
 		c.Writer.Header().Set("Access-Control-Allow-Headers", "Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization, accept, origin, Cache-Control, X-Requested-With")
-		c.Writer.Header().Set("Access-Control-Allow-Methods", "POST, OPTIONS, GET, PUT")
+		c.Writer.Header().Set("Access-Control-Allow-Methods", "GET")
 
 		if c.Request.Method == "OPTIONS" {
 			c.AbortWithStatus(204)
@@ -352,90 +353,89 @@ func getGobot(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, liststudents)
 }
 
-// func createGobot(c *gin.Context) { //c stores query parameters, headers
+func createGobot(c *gin.Context) { //c stores query parameters, headers
 
-// 	var newBook Complete_Stud
+	id, ok := c.GetQuery("Id")
 
-// 	id, ok := c.GetQuery("Id")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
 
-// 	if !ok {
-// 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-// 		return
-// 	}
+	idconvert, err := strconv.Atoi(id)
 
-// 	idconvert, err := strconv.Atoi(id)
+	if err != nil {
+		fmt.Println(err)
+	}
 
-// 	if err != nil {
-// 		fmt.Println(err)
-// 	}
+	Nom, ok := c.GetQuery("Nom")
 
-// Nom, ok := c.GetQuery("Nom")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing nom query parameter"})
+		return
+	}
 
-// if !ok {
-// 	c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
-// 	return
-// }
+	Prenom, ok := c.GetQuery("Prenom")
 
-// Prenom, ok := c.GetQuery("Prenom")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing prenom query parameter"})
+		return
+	}
 
-// if !ok {
-// 	c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing prenom query parameter"})
-// 	return
-// }
+	Point, ok := c.GetQuery("Point")
 
-// Point, ok := c.GetQuery("Point")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing point query parameter"})
+		return
+	}
 
-// if !ok {
-// 	c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing point query parameter"})
-// 	return
-// }
+	Pointconvert, err := strconv.Atoi(Point)
 
-// Pointconvert, err := strconv.Atoi(Point)
+	if err != nil {
+		fmt.Println(err)
+	}
 
-// if err != nil {
-// 	fmt.Println(err)
-// }
+	Credit, ok := c.GetQuery("Credit")
 
-// Credit, ok := c.GetQuery("Credit")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing credit query parameter"})
+		return
+	}
 
-// if !ok {
-// 	c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing credit query parameter"})
-// 	return
-// }
+	Creditconvert, err := strconv.Atoi(Credit)
 
-// Creditconvert, err := strconv.Atoi(Credit)
+	if err != nil {
+		fmt.Println(err)
+	}
 
-// if err != nil {
-// 	fmt.Println(err)
-// }
+	Guild, ok := c.GetQuery("Guild")
 
-// Guild, ok := c.GetQuery("Guild")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing guild query parameter"})
+		return
+	}
 
-// if !ok {
-// 	c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing guild query parameter"})
-// 	return
-// }
+	Discord, ok := c.GetQuery("Discord")
 
-// Discord, ok := c.GetQuery("Discord")
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
 
-// if !ok {
-// 	c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
-// 	return
-// }
+	newStud.Id = idconvert
+	newStud.Nom = Nom
+	newStud.Prenom = Prenom
+	newStud.Point = Pointconvert
+	newStud.Credit = Creditconvert
+	newStud.Guild = Guild
+	newStud.Discord = Discord
 
-// newBook.Id = idconvert
-// newBook.Nom = Nom
-// newBook.Prenom = Prenom
-// newBook.Point = Pointconvert
-// newBook.Credit = Creditconvert
-// newBook.Guild = Guild
-// newBook.Discord = Discord
+	// fmt.Printf("%+v\n", newStud)
 
-// 	fmt.Printf("%+v\n", newBook)
+	liststudents = append(liststudents, newStud)
 
-// 	liststudents = append(liststudents, newBook)
-// 	c.IndentedJSON(http.StatusCreated, newBook)
-// }
+	c.IndentedJSON(http.StatusCreated, newStud)
+}
 
 func patchGobot(c *gin.Context) {
 
@@ -455,7 +455,7 @@ func patchGobot(c *gin.Context) {
 	Nom, ok := c.GetQuery("Nom")
 
 	if !ok {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing nom query parameter"})
 		return
 	}
 
