@@ -331,14 +331,20 @@ func leaderboardapinational() []UserFinalNational {
 	})
 	for v := range listusernational {
 		dateString := listusernational[v].Year
-		date, error := time.Parse("2006-01-02T15:04:05Z07:00", dateString)
 
-		if error != nil {
-			fmt.Println(error)
+		if dateString == "" {
+			listusernational[v].Year = "Pas de Promo"
+			listusernational[v].Avatar_Url = "https://via.placeholder.com/360x360"
+		} else {
+			date, error := time.Parse("2006-01-02T15:04:05Z07:00", dateString)
+
+			if error != nil {
+				fmt.Println(error)
+			}
+
+			dateformat := date.Format("2006")
+			listusernational[v].Year = dateformat
 		}
-
-		dateformat := date.Format("2006")
-		listusernational[v].Year = dateformat
 	}
 
 	return listusernational
