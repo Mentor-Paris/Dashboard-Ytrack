@@ -198,6 +198,8 @@ func main() {
 
 	r.PATCH("/go-bot", patchGobot)
 
+	r.DELETE("/go-bot", deleteGobot)
+
 	r.SetFuncMap(template.FuncMap{"add": add})
 
 	r.LoadHTMLGlob("templates/*")
@@ -521,6 +523,33 @@ func patchGobot(c *gin.Context) {
 	students.Discord = Discord
 
 	c.IndentedJSON(http.StatusOK, students)
+}
+
+func deleteGobot(c *gin.Context) {
+
+	id, ok := c.GetQuery("Id")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	Idconvert, err := strconv.Atoi(id)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	for _, i := range liststudents {
+		if i.Id == Idconvert {
+			liststudents = append(liststudents[:Idconvert], liststudents[Idconvert+1:]...)
+			if Idconvert > 0 {
+				Idconvert = Idconvert - 1
+			}
+			continue
+		}
+	}
+	c.IndentedJSON(http.StatusOK, liststudents)
 }
 
 // external functions
