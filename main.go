@@ -100,6 +100,7 @@ type Logs struct {
 
 // Log struct that contains the total logs of each user
 type Log struct {
+	Id_L    int    `json:"id_l"`
 	Date    string `json:"date"`
 	Mentor  string `json:"mentor"`
 	Comment string `json:"comment"`
@@ -194,9 +195,7 @@ func main() {
 
 	r.POST("students", createstudentslog)
 
-	// r.PATCH("students", patchstudentslog)
-
-	// r.DELETE("students", deletestudentslog)
+	r.DELETE("students", deletestudentslog)
 
 	r.GET("/students/:id", getstudentsByID)
 
@@ -579,6 +578,19 @@ func createstudentslog(c *gin.Context) {
 		fmt.Println(err)
 	}
 
+	Id_L, ok := c.GetQuery("Id_L")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id_l query parameter"})
+		return
+	}
+
+	Id_Lconvert, err := strconv.Atoi(Id_L)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
 	Nom, ok := c.GetQuery("Nom")
 
 	if !ok {
@@ -624,12 +636,9 @@ func createstudentslog(c *gin.Context) {
 	logs, err := getLogsById(Idconvert)
 
 	if err != nil {
-		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Students not found."}) //return custom request for bad request or book not found
+		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Students not found."})
 		return
 	}
-
-	// Id  int  Nom  string Prenom string Log  []Log
-	// Date string Mentor string Comment string Clause string
 
 	newLogs = *new(Logs)
 
@@ -641,6 +650,7 @@ func createstudentslog(c *gin.Context) {
 			newLogs.Nom = Nom
 			newLogs.Prenom = Prenom
 
+			new_log.Id_L = Id_Lconvert
 			new_log.Date = Date
 			new_log.Mentor = Mentor
 			new_log.Comment = Comment
@@ -653,16 +663,62 @@ func createstudentslog(c *gin.Context) {
 		logs.Log = newLogs.Log
 	}
 
-	c.IndentedJSON(http.StatusCreated, newLogs)
+	c.IndentedJSON(http.StatusCreated, listlogs)
 }
 
-// func patchstudentslog(c *gin.Context) {
+func deletestudentslog(c *gin.Context) {
 
-// }
+	Id, ok := c.GetQuery("Id")
 
-// func deletestudentslog(c *gin.Context) {
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
 
-// }
+	Idconvert, err := strconv.Atoi(Id)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	Id_L, ok := c.GetQuery("Id_L")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id_l query parameter"})
+		return
+	}
+
+	Id_Lconvert, err := strconv.Atoi(Id_L)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	for j, i := range listlogs {
+		if i.Id == Idconvert {
+			if j == len(listlogs) {
+				continue
+			} else {
+				for k, v := range i.Log {
+					if v.Id_L == Id_Lconvert {
+						if k == len(listlogs) {
+							continue
+						} else {
+							listlogs[j].Log = append(listlogs[j].Log[:k], listlogs[j].Log[k+1:]...)
+							if Idconvert > 0 {
+								Idconvert = Idconvert - 1
+							}
+							continue
+						}
+					}
+				}
+
+			}
+		}
+	}
+
+	c.IndentedJSON(http.StatusOK, listlogs)
+}
 
 // external functions
 
