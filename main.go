@@ -436,7 +436,7 @@ func createGobot(c *gin.Context) { //c stores query parameters, headers
 
 	liststudents = append(liststudents, newStud)
 
-	c.IndentedJSON(http.StatusCreated, newStud)
+	c.IndentedJSON(http.StatusCreated, liststudents)
 }
 
 func patchGobot(c *gin.Context) {
@@ -540,15 +540,21 @@ func deleteGobot(c *gin.Context) {
 		fmt.Println(err)
 	}
 
-	for _, i := range liststudents {
+	for j, i := range liststudents {
 		if i.Id == Idconvert {
-			liststudents = append(liststudents[:Idconvert], liststudents[Idconvert+1:]...)
-			if Idconvert > 0 {
-				Idconvert = Idconvert - 1
+
+			if j == len(liststudents) {
+				continue
+			} else {
+				liststudents = append(liststudents[:j], liststudents[j+1:]...)
+				if Idconvert > 0 {
+					Idconvert = Idconvert - 1
+				}
+				continue
 			}
-			continue
 		}
 	}
+
 	c.IndentedJSON(http.StatusOK, liststudents)
 }
 
