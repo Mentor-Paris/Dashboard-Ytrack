@@ -152,6 +152,8 @@ var (
 	listusernational = []UserFinalNational{}
 
 	listlogs []Logs
+	newLogs  Logs
+	new_log  Log
 
 	liststudents []Complete_Stud
 	newStud      Complete_Stud
@@ -189,6 +191,12 @@ func main() {
 	r.GET("progress", progress)
 
 	r.GET("students", studentslog)
+
+	r.POST("students", createstudentslog)
+
+	// r.PATCH("students", patchstudentslog)
+
+	// r.DELETE("students", deletestudentslog)
 
 	r.GET("/students/:id", getstudentsByID)
 
@@ -355,16 +363,16 @@ func getGobot(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, liststudents)
 }
 
-func createGobot(c *gin.Context) { //c stores query parameters, headers
+func createGobot(c *gin.Context) {
 
-	id, ok := c.GetQuery("Id")
+	Id, ok := c.GetQuery("Id")
 
 	if !ok {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
 
-	idconvert, err := strconv.Atoi(id)
+	Idconvert, err := strconv.Atoi(Id)
 
 	if err != nil {
 		fmt.Println(err)
@@ -424,15 +432,13 @@ func createGobot(c *gin.Context) { //c stores query parameters, headers
 		return
 	}
 
-	newStud.Id = idconvert
+	newStud.Id = Idconvert
 	newStud.Nom = Nom
 	newStud.Prenom = Prenom
 	newStud.Point = Pointconvert
 	newStud.Credit = Creditconvert
 	newStud.Guild = Guild
 	newStud.Discord = Discord
-
-	// fmt.Printf("%+v\n", newStud)
 
 	liststudents = append(liststudents, newStud)
 
@@ -527,14 +533,14 @@ func patchGobot(c *gin.Context) {
 
 func deleteGobot(c *gin.Context) {
 
-	id, ok := c.GetQuery("Id")
+	Id, ok := c.GetQuery("Id")
 
 	if !ok {
 		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
 		return
 	}
 
-	Idconvert, err := strconv.Atoi(id)
+	Idconvert, err := strconv.Atoi(Id)
 
 	if err != nil {
 		fmt.Println(err)
@@ -558,7 +564,116 @@ func deleteGobot(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, liststudents)
 }
 
+func createstudentslog(c *gin.Context) {
+
+	Id, ok := c.GetQuery("Id")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing id query parameter"})
+		return
+	}
+
+	Idconvert, err := strconv.Atoi(Id)
+
+	if err != nil {
+		fmt.Println(err)
+	}
+
+	Nom, ok := c.GetQuery("Nom")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
+
+	Prenom, ok := c.GetQuery("Prenom")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
+
+	Date, ok := c.GetQuery("Date")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
+
+	Mentor, ok := c.GetQuery("Mentor")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
+
+	Comment, ok := c.GetQuery("Comment")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
+
+	Clause, ok := c.GetQuery("Clause")
+
+	if !ok {
+		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing discord query parameter"})
+		return
+	}
+
+	logs, err := getLogsById(Idconvert)
+
+	if err != nil {
+		c.IndentedJSON(http.StatusNotFound, gin.H{"message": "Students not found."}) //return custom request for bad request or book not found
+		return
+	}
+
+	// Id  int  Nom  string Prenom string Log  []Log
+	// Date string Mentor string Comment string Clause string
+
+	newLogs = *new(Logs)
+
+	for _, v := range listlogs {
+		if v.Id == Idconvert {
+
+			newLogs = v
+			newLogs.Id = Idconvert
+			newLogs.Nom = Nom
+			newLogs.Prenom = Prenom
+
+			new_log.Date = Date
+			new_log.Mentor = Mentor
+			new_log.Comment = Comment
+			new_log.Clause = Clause
+			newLogs.Log = append(newLogs.Log, new_log)
+		}
+	}
+
+	if logs.Id == newLogs.Id {
+		logs.Log = newLogs.Log
+	}
+
+	c.IndentedJSON(http.StatusCreated, newLogs)
+}
+
+// func patchstudentslog(c *gin.Context) {
+
+// }
+
+// func deletestudentslog(c *gin.Context) {
+
+// }
+
 // external functions
+
+func getLogsById(id int) (*Logs, error) {
+	for i, b := range listlogs {
+		if b.Id == id {
+			return &listlogs[i], nil
+		}
+	}
+	return nil, errors.New("logs not found")
+}
 
 func getStudById(id int) (*Complete_Stud, error) {
 	for i, b := range liststudents {
