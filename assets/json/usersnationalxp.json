@@ -30,18 +30,6 @@
         "xp": {}
     },
     {
-        "firstName": "louise",
-        "campus": null,
-        "id": 7,
-        "xp": {}
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 9,
-        "xp": {}
-    },
-    {
         "firstName": "TLENAOUR",
         "campus": null,
         "id": 11,
@@ -92,12 +80,6 @@
          
     },
     {
-        "firstName": "Zoe",
-        "campus": null,
-        "id": 16,
-        "xp": {}
-    },
-    {
         "firstName": "ACANTELOUP",
         "campus": "bordeaux",
         "id": 17,
@@ -118,12 +100,6 @@
          
     },
     {
-        "firstName": "",
-        "campus": null,
-        "id": 19,
-        "xp": {}
-    },
-    {
         "firstName": "ADUBOIS2",
         "campus": null,
         "id": 20,
@@ -133,12 +109,6 @@
         "firstName": "JDREYFUS",
         "campus": null,
         "id": 21,
-        "xp": {}
-    },
-    {
-        "firstName": null,
-        "campus": null,
-        "id": 1,
         "xp": {}
     },
     {
@@ -2584,16 +2554,6 @@
          
     },
     {
-        "firstName": "Thomas",
-        "campus": "lyon",
-        "id": 271,
-        "xp": 
-        {
-            "amount": 453537
-        }
-         
-    },
-    {
         "firstName": "TMEIGNIER",
         "campus": "lyon",
         "id": 272,
@@ -2730,16 +2690,6 @@
         "xp": 
         {
             "amount": 788988
-        }
-         
-    },
-    {
-        "firstName": "Arthur",
-        "campus": "lyon",
-        "id": 286,
-        "xp": 
-        {
-            "amount": 582359
         }
          
     },
@@ -3634,12 +3584,6 @@
          
     },
     {
-        "firstName": "julien",
-        "campus": "nantes",
-        "id": 377,
-        "xp": {}
-    },
-    {
         "firstName": "AOUYCHI",
         "campus": "toulouse",
         "id": 378,
@@ -4360,12 +4304,6 @@
         "xp": {}
     },
     {
-        "firstName": "",
-        "campus": null,
-        "id": 466,
-        "xp": {}
-    },
-    {
         "firstName": "LGARCIARODRIGUEZ",
         "campus": null,
         "id": 467,
@@ -4440,26 +4378,6 @@
          
     },
     {
-        "firstName": "",
-        "campus": null,
-        "id": 476,
-        "xp": 
-        {
-            "amount": 101350
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 477,
-        "xp": 
-        {
-            "amount": 51400
-        }
-         
-    },
-    {
         "firstName": "ODAODUC",
         "campus": null,
         "id": 478,
@@ -4510,32 +4428,12 @@
          
     },
     {
-        "firstName": "",
-        "campus": null,
-        "id": 483,
-        "xp": 
-        {
-            "amount": 56100
-        }
-         
-    },
-    {
         "firstName": "NDUPIN",
         "campus": null,
         "id": 484,
         "xp": 
         {
             "amount": 39500
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 485,
-        "xp": 
-        {
-            "amount": 60650
         }
          
     },
@@ -4570,56 +4468,6 @@
          
     },
     {
-        "firstName": "",
-        "campus": null,
-        "id": 489,
-        "xp": 
-        {
-            "amount": 78250
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 490,
-        "xp": 
-        {
-            "amount": 32600
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 491,
-        "xp": 
-        {
-            "amount": 56100
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 492,
-        "xp": 
-        {
-            "amount": 10200
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 493,
-        "xp": 
-        {
-            "amount": 48800
-        }
-         
-    },
-    {
         "firstName": "ADUFLOT",
         "campus": null,
         "id": 494,
@@ -4640,80 +4488,12 @@
          
     },
     {
-        "firstName": "",
-        "campus": null,
-        "id": 496,
-        "xp": 
-        {
-            "amount": 61400
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 497,
-        "xp": 
-        {
-            "amount": 4850
-        }
-         
-    },
-    {
         "firstName": "JLAMOUREUX",
         "campus": null,
         "id": 498,
         "xp": 
         {
             "amount": 59400
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 499,
-        "xp": {}
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 500,
-        "xp": {}
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 501,
-        "xp": 
-        {
-            "amount": 175
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 502,
-        "xp": 
-        {
-            "amount": 5025
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 503,
-        "xp": {}
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 504,
-        "xp": 
-        {
-            "amount": 28400
         }
          
     },
@@ -4754,12 +4534,6 @@
             "amount": 33850
         }
          
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 510,
-        "xp": {}
     },
     {
         "firstName": "LBOZON",
@@ -4838,12 +4612,6 @@
             "amount": 22650
         }
          
-    },
-    {
-        "firstName": "Christopher",
-        "campus": "bordeaux",
-        "id": 6,
-        "xp": {}
     },
     {
         "firstName": "GJEANNE",
@@ -5164,16 +4932,6 @@
          
     },
     {
-        "firstName": "Marie-Angélique",
-        "campus": "nice-sophia",
-        "id": 557,
-        "xp": 
-        {
-            "amount": 773552
-        }
-         
-    },
-    {
         "firstName": "APHILIPIERT",
         "campus": null,
         "id": 558,
@@ -5268,12 +5026,6 @@
             "amount": 730472
         }
          
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 568,
-        "xp": {}
     },
     {
         "firstName": "LJELEZIAN",
@@ -6566,16 +6318,6 @@
         "xp": 
         {
             "amount": 54226
-        }
-         
-    },
-    {
-        "firstName": "",
-        "campus": null,
-        "id": 701,
-        "xp": 
-        {
-            "amount": 62106
         }
          
     },
@@ -9684,17 +9426,7 @@
         "xp": {}
     },
     {
-        "firstName": "mathias",
-        "campus": null,
-        "id": 1026,
-        "xp": 
-        {
-            "amount": 120750
-        }
-         
-    },
-    {
-        "firstName": "Gracieux AHLONSOU KOUMAGNON",
+        "firstName": "GAHLONSOU",
         "campus": null,
         "id": 1027,
         "xp": 

@@ -29,6 +29,7 @@ type UserNational struct {
 type Ytrack struct {
 	Login      string `json:"login"`
 	Avatar_Url string `json:"avatar_url"`
+	Year       string `json:"created"`
 }
 
 // UserFinal struct which contains a all informmations of each user pyc
@@ -37,6 +38,7 @@ type UserFinal struct {
 	FirstName  string  `json:"firstName"`
 	Xp         XpFinal `json:"xp"`
 	Avatar_Url string  `json:"avatar_url"`
+	Year       string  `json:"created"`
 }
 
 // UserFinalnational struct which contains a all informmations of each user national
@@ -46,6 +48,7 @@ type UserFinalNational struct {
 	Campus     string  `json:"campus"`
 	Xp         XpFinal `json:"xp"`
 	Avatar_Url string  `json:"avatar_url"`
+	Year       string  `json:"created"`
 }
 
 // Event struct that contains the total event of the plateform
@@ -138,6 +141,7 @@ func init() {
 	MergeJsonPYC()
 	MergeJsonNational()
 	ListEvent()
+	// FormatDateYear()
 }
 
 // we initialize the variables of the map, array of single User and leaderboard
@@ -292,6 +296,17 @@ func leaderboardapi() []UserFinal {
 	sort.SliceStable(listuser, func(i, j int) bool {
 		return listuser[i].Xp.AmountInt > listuser[j].Xp.AmountInt
 	})
+	for v := range listuser {
+		dateString := listuser[v].Year
+		date, error := time.Parse("2006-01-02T15:04:05Z07:00", dateString)
+
+		if error != nil {
+			fmt.Println(error)
+		}
+
+		dateformat := date.Format("2006")
+		listuser[v].Year = dateformat
+	}
 	return listuser[:20]
 }
 
@@ -314,6 +329,18 @@ func leaderboardapinational() []UserFinalNational {
 	sort.SliceStable(listusernational, func(i, j int) bool {
 		return listusernational[i].Xp.AmountInt > listusernational[j].Xp.AmountInt
 	})
+	for v := range listusernational {
+		dateString := listusernational[v].Year
+		date, error := time.Parse("2006-01-02T15:04:05Z07:00", dateString)
+
+		if error != nil {
+			fmt.Println(error)
+		}
+
+		dateformat := date.Format("2006")
+		listusernational[v].Year = dateformat
+	}
+
 	return listusernational
 }
 
@@ -893,6 +920,7 @@ func ReadJsonLogs() {
 	json.Unmarshal(byteValue, &listlogs)
 }
 
+// read the JSON file
 func ReadJsonStudents() {
 	// Open our jsonFile
 	jsonFile, err := os.Open("assets/json/api.json")
@@ -922,6 +950,7 @@ func MergeJsonPYC() {
 		for _, y := range usersytrack {
 			if listuserfinal[i].FirstName == y.Login {
 				listuserfinal[i].Avatar_Url = y.Avatar_Url
+				listuserfinal[i].Year = y.Year
 				break
 			}
 		}
@@ -937,6 +966,7 @@ func MergeJsonNational() {
 		for _, y := range usersytrack {
 			if listuserfinalnational[i].FirstName == y.Login {
 				listuserfinalnational[i].Avatar_Url = y.Avatar_Url
+				listuserfinalnational[i].Year = y.Year
 				break
 			}
 		}
