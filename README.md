@@ -40,18 +40,8 @@ The [stats page](http://localhost:8080/graphique) contains many graphics of stat
 
 The [progress page](http://localhost:8080/progress) contains the all date of start and end of projects.
 
-## How pages work host site
+The [students page](http://localhost:8080/students) is the JSON about the logs of students.
 
-The [/userPYC page](https://dashboard-ytrack.onrender.com/userPYC) is the JSON of all users of the PYC campus.
+The [students/:id page](http://localhost:8080/students/33) is the JSON about the logs of one students.
 
-The [/usernational page](https://dashboard-ytrack.onrender.com/usernational) is the JSON of all users of Ytrack.
-
-The [/user/:id page](https://dashboard-ytrack.onrender.com/user/567) is the JSON about one user of the PYC campus.
-
-The [leaderboardPyc page](https://dashboard-ytrack.onrender.com/leaderboard) is the leaderboard of all users of the PYC campus.
-
-The [leaderboardnational page](https://dashboard-ytrack.onrender.com/leaderboardnational) is the leaderboard of all users of Ytrack.
-
-The [stats page](https://dashboard-ytrack.onrender.com/graphique) contains many graphics of stats of all users of Ytrack.
-
-The [progress page](https://dashboard-ytrack.onrender.com/progress) contains the all date of start and end of projects.
+The [go-bot page](http://localhost:8080/go-bot) is the JSON of all informations about users of the PYC campus.
