@@ -128,19 +128,6 @@ func PatchGobot(c *gin.Context) {
 		fmt.Println(err)
 	}
 
-	NewId, ok := c.GetQuery("NewId")
-
-	if !ok {
-		c.IndentedJSON(http.StatusBadRequest, gin.H{"message": "missing NewId query parameter"})
-		return
-	}
-
-	NewIdconvert, err := strconv.Atoi(NewId)
-
-	if err != nil {
-		fmt.Println(err)
-	}
-
 	Nom, ok := c.GetQuery("Nom")
 
 	if !ok {
@@ -202,7 +189,6 @@ func PatchGobot(c *gin.Context) {
 		return
 	}
 
-	students.Id = NewIdconvert
 	students.Nom = Nom
 	students.Prenom = Prenom
 	students.Point = Pointconvert
