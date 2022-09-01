@@ -1,12 +1,17 @@
 package main
 
 import (
+	"Restful-API/aix"
 	"Restful-API/api"
+	"Restful-API/bdx"
 	"Restful-API/events"
 	"Restful-API/graph"
 	"Restful-API/logs"
+	"Restful-API/lyon"
 	"Restful-API/national"
+	"Restful-API/nts"
 	"Restful-API/pyc"
+	"Restful-API/tls"
 	"fmt"
 	"html/template"
 	"net/http"
@@ -18,11 +23,29 @@ import (
 func init() {
 	pyc.ReadJsonUserXp()
 	pyc.ReadJsonUsersYtrack()
+	bdx.ReadJsonUserXp()
+	bdx.ReadJsonUsersYtrack()
+	aix.ReadJsonUserXp()
+	aix.ReadJsonUsersYtrack()
+	nts.ReadJsonUserXp()
+	nts.ReadJsonUsersYtrack()
+	lyon.ReadJsonUserXp()
+	lyon.ReadJsonUsersYtrack()
+	tls.ReadJsonUserXp()
+	tls.ReadJsonUsersYtrack()
+
 	national.ReadJsonNational()
 	events.ReadJsonEvent()
 	logs.ReadJsonLogs()
 	api.ReadJsonStudents()
+
 	pyc.MergeJsonPYC()
+	bdx.MergeJson()
+	aix.MergeJson()
+	nts.MergeJson()
+	lyon.MergeJson()
+	tls.MergeJson()
+
 	national.MergeJsonNational()
 	events.ListEvent()
 }
@@ -43,7 +66,17 @@ func main() {
 
 	r.GET("/user/:id", pyc.GetUserByID)
 
-	r.GET("leaderboard", pyc.Leaderboard)
+	r.GET("leaderboardpyc", pyc.Leaderboard)
+
+	r.GET("leaderboardbdx", bdx.Leaderboard)
+
+	r.GET("leaderboardlyon", lyon.Leaderboard)
+
+	r.GET("leaderboardaix", aix.Leaderboard)
+
+	r.GET("leaderboardtls", tls.Leaderboard)
+
+	r.GET("leaderboardnts", nts.Leaderboard)
 
 	r.GET("leaderboardnational", national.Leaderboardnational)
 

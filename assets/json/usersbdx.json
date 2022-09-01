@@ -1,0 +1,1232 @@
+[
+    {
+        "firstName": "ACANTELOUP",
+        "campus": "bordeaux",
+        "id": 17,
+        "xp": {
+            "amount": 256600
+        }
+    },
+    {
+        "firstName": "HTRUONGMAU",
+        "campus": "bordeaux",
+        "id": 187,
+        "xp": {
+            "amount": 116854
+        }
+    },
+    {
+        "firstName": "MCOLLARD",
+        "campus": "bordeaux",
+        "id": 188,
+        "xp": {
+            "amount": 377920
+        }
+    },
+    {
+        "firstName": "MLAGARDE",
+        "campus": "bordeaux",
+        "id": 189,
+        "xp": {
+            "amount": 113977
+        }
+    },
+    {
+        "firstName": "LFALLOUS",
+        "campus": "bordeaux",
+        "id": 190,
+        "xp": {
+            "amount": 997987
+        }
+    },
+    {
+        "firstName": "EMARTINEZ",
+        "campus": "bordeaux",
+        "id": 191,
+        "xp": {
+            "amount": 566156
+        }
+    },
+    {
+        "firstName": "FLAURENT",
+        "campus": "bordeaux",
+        "id": 192,
+        "xp": {
+            "amount": 338207
+        }
+    },
+    {
+        "firstName": "MMOURGUES",
+        "campus": "bordeaux",
+        "id": 193,
+        "xp": {
+            "amount": 575120
+        }
+    },
+    {
+        "firstName": "MCOCO",
+        "campus": "bordeaux",
+        "id": 194,
+        "xp": {
+            "amount": 327478
+        }
+    },
+    {
+        "firstName": "SHERAUD",
+        "campus": "bordeaux",
+        "id": 195,
+        "xp": {
+            "amount": 613707
+        }
+    },
+    {
+        "firstName": "MFERREIRASILVA",
+        "campus": "bordeaux",
+        "id": 196,
+        "xp": {
+            "amount": 839533
+        }
+    },
+    {
+        "firstName": "GMARESCHAL",
+        "campus": "bordeaux",
+        "id": 197,
+        "xp": {
+            "amount": 473157
+        }
+    },
+    {
+        "firstName": "LBOURIN",
+        "campus": "bordeaux",
+        "id": 198,
+        "xp": {
+            "amount": 279444
+        }
+    },
+    {
+        "firstName": "EPEYRATAUD",
+        "campus": "bordeaux",
+        "id": 199,
+        "xp": {
+            "amount": 614993
+        }
+    },
+    {
+        "firstName": "YMONTAGNIER",
+        "campus": "bordeaux",
+        "id": 200,
+        "xp": {
+            "amount": 306994
+        }
+    },
+    {
+        "firstName": "VDAUTREMENT",
+        "campus": "bordeaux",
+        "id": 201,
+        "xp": {
+            "amount": 924036
+        }
+    },
+    {
+        "firstName": "DPHILIPPE",
+        "campus": "bordeaux",
+        "id": 203,
+        "xp": {
+            "amount": 253966
+        }
+    },
+    {
+        "firstName": "CMANANT",
+        "campus": "bordeaux",
+        "id": 204,
+        "xp": {
+            "amount": 639580
+        }
+    },
+    {
+        "firstName": "EPUJOL1",
+        "campus": "bordeaux",
+        "id": 205,
+        "xp": {
+            "amount": 497650
+        }
+    },
+    {
+        "firstName": "LMILH1",
+        "campus": "bordeaux",
+        "id": 206,
+        "xp": {
+            "amount": 513955
+        }
+    },
+    {
+        "firstName": "PVIGNERON",
+        "campus": "bordeaux",
+        "id": 207,
+        "xp": {
+            "amount": 462182
+        }
+    },
+    {
+        "firstName": "FINGREMEAU",
+        "campus": "bordeaux",
+        "id": 208,
+        "xp": {
+            "amount": 1030288
+        }
+    },
+    {
+        "firstName": "AOTTOMANI",
+        "campus": "bordeaux",
+        "id": 209,
+        "xp": {
+            "amount": 130727
+        }
+    },
+    {
+        "firstName": "AABADIE",
+        "campus": "bordeaux",
+        "id": 210,
+        "xp": {
+            "amount": 543897
+        }
+    },
+    {
+        "firstName": "HJOYET",
+        "campus": "bordeaux",
+        "id": 211,
+        "xp": {
+            "amount": 506907
+        }
+    },
+    {
+        "firstName": "MDESMAISON",
+        "campus": "bordeaux",
+        "id": 212,
+        "xp": {
+            "amount": 368143
+        }
+    },
+    {
+        "firstName": "KGRANGER",
+        "campus": "bordeaux",
+        "id": 213,
+        "xp": {
+            "amount": 1268714
+        }
+    },
+    {
+        "firstName": "DRIBEIRO",
+        "campus": "bordeaux",
+        "id": 214,
+        "xp": {
+            "amount": 381358
+        }
+    },
+    {
+        "firstName": "MMARCHAND",
+        "campus": "bordeaux",
+        "id": 215,
+        "xp": {
+            "amount": 644193
+        }
+    },
+    {
+        "firstName": "BAUMEUNIER",
+        "campus": "bordeaux",
+        "id": 216,
+        "xp": {
+            "amount": 682508
+        }
+    },
+    {
+        "firstName": "NDEBENGY",
+        "campus": "bordeaux",
+        "id": 217,
+        "xp": {
+            "amount": 899022
+        }
+    },
+    {
+        "firstName": "CREYPE",
+        "campus": "bordeaux",
+        "id": 218,
+        "xp": {
+            "amount": 1308688
+        }
+    },
+    {
+        "firstName": "LSERY",
+        "campus": "bordeaux",
+        "id": 219,
+        "xp": {
+            "amount": 804221
+        }
+    },
+    {
+        "firstName": "TQUESNOY",
+        "campus": "bordeaux",
+        "id": 220,
+        "xp": {
+            "amount": 599380
+        }
+    },
+    {
+        "firstName": "VDIOLOGENT",
+        "campus": "bordeaux",
+        "id": 221,
+        "xp": {
+            "amount": 626507
+        }
+    },
+    {
+        "firstName": "LMERLAUD",
+        "campus": "bordeaux",
+        "id": 222,
+        "xp": {
+            "amount": 761896
+        }
+    },
+    {
+        "firstName": "MFLAMENT",
+        "campus": "bordeaux",
+        "id": 223,
+        "xp": {
+            "amount": 795271
+        }
+    },
+    {
+        "firstName": "RMICHEL",
+        "campus": "bordeaux",
+        "id": 224,
+        "xp": {
+            "amount": 642255
+        }
+    },
+    {
+        "firstName": "MMURALEEDARAN",
+        "campus": "bordeaux",
+        "id": 225,
+        "xp": {
+            "amount": 368043
+        }
+    },
+    {
+        "firstName": "BGELINEAU",
+        "campus": "bordeaux",
+        "id": 226,
+        "xp": {
+            "amount": 902236
+        }
+    },
+    {
+        "firstName": "DROUSSAT",
+        "campus": "bordeaux",
+        "id": 227,
+        "xp": {
+            "amount": 558130
+        }
+    },
+    {
+        "firstName": "ACLAMADIEU",
+        "campus": "bordeaux",
+        "id": 228,
+        "xp": {
+            "amount": 1221963
+        }
+    },
+    {
+        "firstName": "DFONSECA",
+        "campus": "bordeaux",
+        "id": 229,
+        "xp": {
+            "amount": 551942
+        }
+    },
+    {
+        "firstName": "GMATHIEU",
+        "campus": "bordeaux",
+        "id": 230,
+        "xp": {
+            "amount": 1037738
+        }
+    },
+    {
+        "firstName": "CAUGIERDEMOUSSAC",
+        "campus": "bordeaux",
+        "id": 231,
+        "xp": {
+            "amount": 475629
+        }
+    },
+    {
+        "firstName": "MCHASSON",
+        "campus": "bordeaux",
+        "id": 232,
+        "xp": {
+            "amount": 1041175
+        }
+    },
+    {
+        "firstName": "PABEILLE",
+        "campus": "bordeaux",
+        "id": 234,
+        "xp": {
+            "amount": 322966
+        }
+    },
+    {
+        "firstName": "AJOUANNET",
+        "campus": "bordeaux",
+        "id": 235,
+        "xp": {
+            "amount": 453905
+        }
+    },
+    {
+        "firstName": "FDURU",
+        "campus": "bordeaux",
+        "id": 236,
+        "xp": {
+            "amount": 234966
+        }
+    },
+    {
+        "firstName": "ABOYER1",
+        "campus": "bordeaux",
+        "id": 237,
+        "xp": {
+            "amount": 1101463
+        }
+    },
+    {
+        "firstName": "LYANISS",
+        "campus": "bordeaux",
+        "id": 238,
+        "xp": {
+            "amount": 572704
+        }
+    },
+    {
+        "firstName": "AFLAMBARD",
+        "campus": "bordeaux",
+        "id": 240,
+        "xp": {
+            "amount": 369971
+        }
+    },
+    {
+        "firstName": "FGARCIA3",
+        "campus": "bordeaux",
+        "id": 241,
+        "xp": {
+            "amount": 858547
+        }
+    },
+    {
+        "firstName": "GROUX",
+        "campus": "bordeaux",
+        "id": 244,
+        "xp": {
+            "amount": 599857
+        }
+    },
+    {
+        "firstName": "PBERTIN",
+        "campus": "bordeaux",
+        "id": 245,
+        "xp": {
+            "amount": 335703
+        }
+    },
+    {
+        "firstName": "FDEFREITAS",
+        "campus": "bordeaux",
+        "id": 258,
+        "xp": {
+            "amount": 363391
+        }
+    },
+    {
+        "firstName": "SGAUTIER",
+        "campus": "bordeaux",
+        "id": 269,
+        "xp": {
+            "amount": 526478
+        }
+    },
+    {
+        "firstName": "RSOULIAC",
+        "campus": "bordeaux",
+        "id": 305,
+        "xp": {
+            "amount": 521895
+        }
+    },
+    {
+        "firstName": "KADONAI2",
+        "campus": "bordeaux",
+        "id": 313,
+        "xp": {
+            "amount": 193002
+        }
+    },
+    {
+        "firstName": "ADAUTHEVILLE",
+        "campus": "bordeaux",
+        "id": 315,
+        "xp": {
+            "amount": 243316
+        }
+    },
+    {
+        "firstName": "AMURARO",
+        "campus": "bordeaux",
+        "id": 354,
+        "xp": {
+            "amount": 620358
+        }
+    },
+    {
+        "firstName": "GTARENDEAU",
+        "campus": "bordeaux",
+        "id": 355,
+        "xp": {
+            "amount": 1192083
+        }
+    },
+    {
+        "firstName": "DGAUTHIER",
+        "campus": "bordeaux",
+        "id": 357,
+        "xp": {
+            "amount": 578156
+        }
+    },
+    {
+        "firstName": "DLEVEE",
+        "campus": "bordeaux",
+        "id": 358,
+        "xp": {
+            "amount": 1015194
+        }
+    },
+    {
+        "firstName": "AVELLA",
+        "campus": "bordeaux",
+        "id": 446,
+        "xp": {
+            "amount": 95480
+        }
+    },
+    {
+        "firstName": "RRANAIVOSON",
+        "campus": "bordeaux",
+        "id": 472,
+        "xp": {
+            "amount": 302507
+        }
+    },
+    {
+        "firstName": "GMICHON",
+        "campus": "bordeaux",
+        "id": 473,
+        "xp": {
+            "amount": 18600
+        }
+    },
+    {
+        "firstName": "MLHERBETTE",
+        "campus": "bordeaux",
+        "id": 513,
+        "xp": {}
+    },
+    {
+        "firstName": "FROUCHAUD",
+        "campus": "bordeaux",
+        "id": 514,
+        "xp": {}
+    },
+    {
+        "firstName": "PCOCHARD1",
+        "campus": "bordeaux",
+        "id": 515,
+        "xp": {}
+    },
+    {
+        "firstName": "EDUCOS",
+        "campus": "bordeaux",
+        "id": 516,
+        "xp": {}
+    },
+    {
+        "firstName": "QLOPEZ",
+        "campus": "bordeaux",
+        "id": 517,
+        "xp": {}
+    },
+    {
+        "firstName": "PSCHMIDT",
+        "campus": "bordeaux",
+        "id": 547,
+        "xp": {}
+    },
+    {
+        "firstName": "TCHIRON",
+        "campus": "bordeaux",
+        "id": 579,
+        "xp": {}
+    },
+    {
+        "firstName": "PPOIRIER",
+        "campus": "bordeaux",
+        "id": 580,
+        "xp": {
+            "amount": 1288187
+        }
+    },
+    {
+        "firstName": "EMAGNE",
+        "campus": "bordeaux",
+        "id": 581,
+        "xp": {
+            "amount": 900496
+        }
+    },
+    {
+        "firstName": "LGARRABOS",
+        "campus": "bordeaux",
+        "id": 582,
+        "xp": {
+            "amount": 726782
+        }
+    },
+    {
+        "firstName": "JSELVA",
+        "campus": "bordeaux",
+        "id": 583,
+        "xp": {
+            "amount": 1017822
+        }
+    },
+    {
+        "firstName": "VBONOMO",
+        "campus": "bordeaux",
+        "id": 584,
+        "xp": {
+            "amount": 1073297
+        }
+    },
+    {
+        "firstName": "LGARCIA2",
+        "campus": "bordeaux",
+        "id": 585,
+        "xp": {
+            "amount": 1159096
+        }
+    },
+    {
+        "firstName": "EGIROD",
+        "campus": "bordeaux",
+        "id": 586,
+        "xp": {
+            "amount": 616705
+        }
+    },
+    {
+        "firstName": "MGILLES",
+        "campus": "bordeaux",
+        "id": 587,
+        "xp": {
+            "amount": 742269
+        }
+    },
+    {
+        "firstName": "TEVEILLARD",
+        "campus": "bordeaux",
+        "id": 588,
+        "xp": {
+            "amount": 1017234
+        }
+    },
+    {
+        "firstName": "AMARTINEZBIENABE",
+        "campus": "bordeaux",
+        "id": 590,
+        "xp": {
+            "amount": 457383
+        }
+    },
+    {
+        "firstName": "MSENHAJ",
+        "campus": "bordeaux",
+        "id": 591,
+        "xp": {
+            "amount": 1293722
+        }
+    },
+    {
+        "firstName": "BPORTE1",
+        "campus": "bordeaux",
+        "id": 592,
+        "xp": {
+            "amount": 527668
+        }
+    },
+    {
+        "firstName": "RROULLAND",
+        "campus": "bordeaux",
+        "id": 593,
+        "xp": {
+            "amount": 893410
+        }
+    },
+    {
+        "firstName": "JTHEBAULT",
+        "campus": "bordeaux",
+        "id": 594,
+        "xp": {
+            "amount": 686415
+        }
+    },
+    {
+        "firstName": "HLAVILLE",
+        "campus": "bordeaux",
+        "id": 595,
+        "xp": {
+            "amount": 321828
+        }
+    },
+    {
+        "firstName": "TROGARD",
+        "campus": "bordeaux",
+        "id": 596,
+        "xp": {
+            "amount": 1333524
+        }
+    },
+    {
+        "firstName": "TGACHASSIN",
+        "campus": "bordeaux",
+        "id": 597,
+        "xp": {
+            "amount": 1137911
+        }
+    },
+    {
+        "firstName": "TWEBER1",
+        "campus": "bordeaux",
+        "id": 598,
+        "xp": {
+            "amount": 1583612
+        }
+    },
+    {
+        "firstName": "AFERREIRA",
+        "campus": "bordeaux",
+        "id": 599,
+        "xp": {
+            "amount": 1117722
+        }
+    },
+    {
+        "firstName": "CVIDALIE",
+        "campus": "bordeaux",
+        "id": 600,
+        "xp": {
+            "amount": 548191
+        }
+    },
+    {
+        "firstName": "EMOUTHON",
+        "campus": "bordeaux",
+        "id": 601,
+        "xp": {
+            "amount": 836070
+        }
+    },
+    {
+        "firstName": "ECHALAYE",
+        "campus": "bordeaux",
+        "id": 602,
+        "xp": {
+            "amount": 900098
+        }
+    },
+    {
+        "firstName": "GLAROUMANIE",
+        "campus": "bordeaux",
+        "id": 603,
+        "xp": {
+            "amount": 806272
+        }
+    },
+    {
+        "firstName": "FGARCIA5",
+        "campus": "bordeaux",
+        "id": 604,
+        "xp": {
+            "amount": 1377787
+        }
+    },
+    {
+        "firstName": "ALATORRE",
+        "campus": "bordeaux",
+        "id": 605,
+        "xp": {
+            "amount": 998459
+        }
+    },
+    {
+        "firstName": "QRUEMELI",
+        "campus": "bordeaux",
+        "id": 606,
+        "xp": {
+            "amount": 703130
+        }
+    },
+    {
+        "firstName": "AVASSEUR2",
+        "campus": "bordeaux",
+        "id": 607,
+        "xp": {
+            "amount": 1110159
+        }
+    },
+    {
+        "firstName": "ATORIBIO",
+        "campus": "bordeaux",
+        "id": 608,
+        "xp": {
+            "amount": 733604
+        }
+    },
+    {
+        "firstName": "TLECONTE",
+        "campus": "bordeaux",
+        "id": 609,
+        "xp": {
+            "amount": 490142
+        }
+    },
+    {
+        "firstName": "IZITOUNI",
+        "campus": "bordeaux",
+        "id": 610,
+        "xp": {
+            "amount": 567831
+        }
+    },
+    {
+        "firstName": "VBRAVO",
+        "campus": "bordeaux",
+        "id": 611,
+        "xp": {
+            "amount": 579572
+        }
+    },
+    {
+        "firstName": "AMAURIZI",
+        "campus": "bordeaux",
+        "id": 612,
+        "xp": {
+            "amount": 908521
+        }
+    },
+    {
+        "firstName": "MRENZEMA",
+        "campus": "bordeaux",
+        "id": 614,
+        "xp": {
+            "amount": 1084198
+        }
+    },
+    {
+        "firstName": "LTOULEMON",
+        "campus": "bordeaux",
+        "id": 615,
+        "xp": {
+            "amount": 870795
+        }
+    },
+    {
+        "firstName": "AGAILLARD",
+        "campus": "bordeaux",
+        "id": 616,
+        "xp": {
+            "amount": 494209
+        }
+    },
+    {
+        "firstName": "MDUNIAUD",
+        "campus": "bordeaux",
+        "id": 617,
+        "xp": {
+            "amount": 823857
+        }
+    },
+    {
+        "firstName": "APAJAK",
+        "campus": "bordeaux",
+        "id": 619,
+        "xp": {
+            "amount": 1086011
+        }
+    },
+    {
+        "firstName": "AMOISKA",
+        "campus": "bordeaux",
+        "id": 620,
+        "xp": {
+            "amount": 955622
+        }
+    },
+    {
+        "firstName": "YBOUSSERIA",
+        "campus": "bordeaux",
+        "id": 621,
+        "xp": {
+            "amount": 660805
+        }
+    },
+    {
+        "firstName": "PVAYSSIER",
+        "campus": "bordeaux",
+        "id": 622,
+        "xp": {
+            "amount": 1014585
+        }
+    },
+    {
+        "firstName": "MREVOL-BUISSON",
+        "campus": "bordeaux",
+        "id": 623,
+        "xp": {
+            "amount": 767020
+        }
+    },
+    {
+        "firstName": "MBATGUZERE",
+        "campus": "bordeaux",
+        "id": 624,
+        "xp": {
+            "amount": 696454
+        }
+    },
+    {
+        "firstName": "MLABASSE",
+        "campus": "bordeaux",
+        "id": 625,
+        "xp": {
+            "amount": 1122060
+        }
+    },
+    {
+        "firstName": "APOUGEARD-DULIMBERT",
+        "campus": "bordeaux",
+        "id": 626,
+        "xp": {
+            "amount": 727971
+        }
+    },
+    {
+        "firstName": "KPORTIER",
+        "campus": "bordeaux",
+        "id": 627,
+        "xp": {
+            "amount": 453743
+        }
+    },
+    {
+        "firstName": "EDURAND2",
+        "campus": "bordeaux",
+        "id": 628,
+        "xp": {
+            "amount": 681121
+        }
+    },
+    {
+        "firstName": "HWORA",
+        "campus": "bordeaux",
+        "id": 629,
+        "xp": {
+            "amount": 824194
+        }
+    },
+    {
+        "firstName": "CBRUN",
+        "campus": "bordeaux",
+        "id": 630,
+        "xp": {
+            "amount": 1247486
+        }
+    },
+    {
+        "firstName": "PBOURIAT",
+        "campus": "bordeaux",
+        "id": 631,
+        "xp": {
+            "amount": 901422
+        }
+    },
+    {
+        "firstName": "BGADEBILLE",
+        "campus": "bordeaux",
+        "id": 632,
+        "xp": {
+            "amount": 493856
+        }
+    },
+    {
+        "firstName": "ALAVAUD",
+        "campus": "bordeaux",
+        "id": 633,
+        "xp": {
+            "amount": 869107
+        }
+    },
+    {
+        "firstName": "AMACHY",
+        "campus": "bordeaux",
+        "id": 634,
+        "xp": {
+            "amount": 560403
+        }
+    },
+    {
+        "firstName": "HBOURMAUD",
+        "campus": "bordeaux",
+        "id": 635,
+        "xp": {
+            "amount": 1173185
+        }
+    },
+    {
+        "firstName": "LBIRET",
+        "campus": "bordeaux",
+        "id": 636,
+        "xp": {
+            "amount": 780845
+        }
+    },
+    {
+        "firstName": "JDUBAQUIER",
+        "campus": "bordeaux",
+        "id": 637,
+        "xp": {
+            "amount": 545331
+        }
+    },
+    {
+        "firstName": "RMENARD",
+        "campus": "bordeaux",
+        "id": 638,
+        "xp": {
+            "amount": 867422
+        }
+    },
+    {
+        "firstName": "MCOUTANT",
+        "campus": "bordeaux",
+        "id": 639,
+        "xp": {
+            "amount": 948597
+        }
+    },
+    {
+        "firstName": "YMISSIERGERONIMO",
+        "campus": "bordeaux",
+        "id": 640,
+        "xp": {
+            "amount": 578435
+        }
+    },
+    {
+        "firstName": "MDUPEROU",
+        "campus": "bordeaux",
+        "id": 641,
+        "xp": {
+            "amount": 322906
+        }
+    },
+    {
+        "firstName": "LGRAND-MORCEL",
+        "campus": "bordeaux",
+        "id": 642,
+        "xp": {
+            "amount": 1179573
+        }
+    },
+    {
+        "firstName": "OKOERBER-NATHAN",
+        "campus": "bordeaux",
+        "id": 643,
+        "xp": {
+            "amount": 743409
+        }
+    },
+    {
+        "firstName": "EEYMAS",
+        "campus": "bordeaux",
+        "id": 644,
+        "xp": {
+            "amount": 666690
+        }
+    },
+    {
+        "firstName": "MDOUBLAIT",
+        "campus": "bordeaux",
+        "id": 645,
+        "xp": {
+            "amount": 763247
+        }
+    },
+    {
+        "firstName": "RBEDJA",
+        "campus": "bordeaux",
+        "id": 646,
+        "xp": {
+            "amount": 576028
+        }
+    },
+    {
+        "firstName": "MJUILLARD-FONTANILLE",
+        "campus": "bordeaux",
+        "id": 647,
+        "xp": {
+            "amount": 1313524
+        }
+    },
+    {
+        "firstName": "AMORAND",
+        "campus": "bordeaux",
+        "id": 648,
+        "xp": {
+            "amount": 746283
+        }
+    },
+    {
+        "firstName": "EALVES",
+        "campus": "bordeaux",
+        "id": 649,
+        "xp": {
+            "amount": 595234
+        }
+    },
+    {
+        "firstName": "EBEGUERIE",
+        "campus": "bordeaux",
+        "id": 650,
+        "xp": {
+            "amount": 516455
+        }
+    },
+    {
+        "firstName": "TRIVRY",
+        "campus": "bordeaux",
+        "id": 651,
+        "xp": {
+            "amount": 551381
+        }
+    },
+    {
+        "firstName": "VDALAMELDEBOURNET",
+        "campus": "bordeaux",
+        "id": 652,
+        "xp": {
+            "amount": 849723
+        }
+    },
+    {
+        "firstName": "RPIETRZAK",
+        "campus": "bordeaux",
+        "id": 653,
+        "xp": {
+            "amount": 1167832
+        }
+    },
+    {
+        "firstName": "ASENGUL",
+        "campus": "bordeaux",
+        "id": 654,
+        "xp": {
+            "amount": 535552
+        }
+    },
+    {
+        "firstName": "ACORRE2",
+        "campus": "bordeaux",
+        "id": 657,
+        "xp": {
+            "amount": 1075335
+        }
+    },
+    {
+        "firstName": "MLOZACH",
+        "campus": "bordeaux",
+        "id": 658,
+        "xp": {
+            "amount": 924233
+        }
+    },
+    {
+        "firstName": "EJOVANOVIC",
+        "campus": "bordeaux",
+        "id": 659,
+        "xp": {
+            "amount": 377289
+        }
+    },
+    {
+        "firstName": "TDIOUF",
+        "campus": "bordeaux",
+        "id": 700,
+        "xp": {
+            "amount": 54226
+        }
+    },
+    {
+        "firstName": "RALOUI",
+        "campus": "bordeaux",
+        "id": 752,
+        "xp": {
+            "amount": 409413
+        }
+    },
+    {
+        "firstName": "WBOUHOU",
+        "campus": "bordeaux",
+        "id": 791,
+        "xp": {
+            "amount": 16100
+        }
+    },
+    {
+        "firstName": "LTARAIRE",
+        "campus": "bordeaux",
+        "id": 613,
+        "xp": {
+            "amount": 636632
+        }
+    },
+    {
+        "firstName": "MBESCOND",
+        "campus": "bordeaux",
+        "id": 1269,
+        "xp": {}
+    },
+    {
+        "firstName": "TCURMI",
+        "campus": "bordeaux",
+        "id": 202,
+        "xp": {
+            "amount": 680256
+        }
+    },
+    {
+        "firstName": "Christopher",
+        "campus": "bordeaux",
+        "id": 6,
+        "xp": {}
+    }
+]

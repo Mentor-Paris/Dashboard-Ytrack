@@ -1,0 +1,298 @@
+[
+    {
+        "firstName": "vincent.thebaud",
+        "campus": "aix",
+        "id": 12,
+        "xp": {
+            "amount": 304951
+        }
+    },
+    {
+        "firstName": "LDOMINGUEZ",
+        "campus": "aix",
+        "id": 18,
+        "xp": {
+            "amount": 62342
+        }
+    },
+    {
+        "firstName": "VNAULEAU",
+        "campus": "aix",
+        "id": 316,
+        "xp": {
+            "amount": 1013450
+        }
+    },
+    {
+        "firstName": "MBEY",
+        "campus": "aix",
+        "id": 317,
+        "xp": {
+            "amount": 911755
+        }
+    },
+    {
+        "firstName": "LALEM",
+        "campus": "aix",
+        "id": 318,
+        "xp": {
+            "amount": 912308
+        }
+    },
+    {
+        "firstName": "ADESPRES",
+        "campus": "aix",
+        "id": 319,
+        "xp": {
+            "amount": 776880
+        }
+    },
+    {
+        "firstName": "FIMBERT",
+        "campus": "aix",
+        "id": 320,
+        "xp": {
+            "amount": 797509
+        }
+    },
+    {
+        "firstName": "CSIAUD",
+        "campus": "aix",
+        "id": 321,
+        "xp": {
+            "amount": 766906
+        }
+    },
+    {
+        "firstName": "LCARMINATI",
+        "campus": "aix",
+        "id": 322,
+        "xp": {
+            "amount": 905883
+        }
+    },
+    {
+        "firstName": "ACOCCO",
+        "campus": "aix",
+        "id": 323,
+        "xp": {
+            "amount": 820657
+        }
+    },
+    {
+        "firstName": "GPASCAL",
+        "campus": "aix",
+        "id": 324,
+        "xp": {
+            "amount": 737392
+        }
+    },
+    {
+        "firstName": "RDEMOULIN",
+        "campus": "aix",
+        "id": 325,
+        "xp": {
+            "amount": 659026
+        }
+    },
+    {
+        "firstName": "EDUCOUET",
+        "campus": "aix",
+        "id": 326,
+        "xp": {
+            "amount": 768022
+        }
+    },
+    {
+        "firstName": "AESTEVE",
+        "campus": "aix",
+        "id": 327,
+        "xp": {
+            "amount": 637927
+        }
+    },
+    {
+        "firstName": "MPALMIERI",
+        "campus": "aix",
+        "id": 328,
+        "xp": {
+            "amount": 672177
+        }
+    },
+    {
+        "firstName": "LLESSUISSE",
+        "campus": "aix",
+        "id": 329,
+        "xp": {
+            "amount": 695892
+        }
+    },
+    {
+        "firstName": "DCROUZET",
+        "campus": "aix",
+        "id": 330,
+        "xp": {
+            "amount": 650203
+        }
+    },
+    {
+        "firstName": "CGROSIEUX",
+        "campus": "aix",
+        "id": 331,
+        "xp": {
+            "amount": 857545
+        }
+    },
+    {
+        "firstName": "ABRUNO",
+        "campus": "aix",
+        "id": 332,
+        "xp": {
+            "amount": 790908
+        }
+    },
+    {
+        "firstName": "TPONDAVEN",
+        "campus": "aix",
+        "id": 333,
+        "xp": {
+            "amount": 789717
+        }
+    },
+    {
+        "firstName": "RGUERARD",
+        "campus": "aix",
+        "id": 335,
+        "xp": {
+            "amount": 844093
+        }
+    },
+    {
+        "firstName": "IKIM",
+        "campus": "aix",
+        "id": 336,
+        "xp": {
+            "amount": 762907
+        }
+    },
+    {
+        "firstName": "ASIRI",
+        "campus": "aix",
+        "id": 337,
+        "xp": {
+            "amount": 799107
+        }
+    },
+    {
+        "firstName": "MMARCHESI",
+        "campus": "aix",
+        "id": 338,
+        "xp": {
+            "amount": 417639
+        }
+    },
+    {
+        "firstName": "MMICHEL2",
+        "campus": "aix",
+        "id": 339,
+        "xp": {
+            "amount": 263486
+        }
+    },
+    {
+        "firstName": "MSARTORIBOUTY",
+        "campus": "aix",
+        "id": 341,
+        "xp": {
+            "amount": 844291
+        }
+    },
+    {
+        "firstName": "TSCAFFIDI",
+        "campus": "aix",
+        "id": 342,
+        "xp": {
+            "amount": 811594
+        }
+    },
+    {
+        "firstName": "LDEGUITRE",
+        "campus": "aix",
+        "id": 343,
+        "xp": {
+            "amount": 573956
+        }
+    },
+    {
+        "firstName": "FGERBAUD",
+        "campus": "aix",
+        "id": 344,
+        "xp": {
+            "amount": 635236
+        }
+    },
+    {
+        "firstName": "LKOELLSCH",
+        "campus": "aix",
+        "id": 345,
+        "xp": {
+            "amount": 780942
+        }
+    },
+    {
+        "firstName": "NLEPINAY",
+        "campus": "aix",
+        "id": 346,
+        "xp": {
+            "amount": 873496
+        }
+    },
+    {
+        "firstName": "JSORELARREGAIN",
+        "campus": "aix",
+        "id": 347,
+        "xp": {
+            "amount": 1025753
+        }
+    },
+    {
+        "firstName": "RSANCHEZ1",
+        "campus": "aix",
+        "id": 348,
+        "xp": {
+            "amount": 680464
+        }
+    },
+    {
+        "firstName": "VAGUERA",
+        "campus": "aix",
+        "id": 349,
+        "xp": {
+            "amount": 993734
+        }
+    },
+    {
+        "firstName": "MFUCHS",
+        "campus": "aix",
+        "id": 351,
+        "xp": {
+            "amount": 41588
+        }
+    },
+    {
+        "firstName": "BVIAL--SIMON",
+        "campus": "aix",
+        "id": 365,
+        "xp": {
+            "amount": 133488
+        }
+    },
+    {
+        "firstName": "MOLIVAR",
+        "campus": "aix",
+        "id": 367,
+        "xp": {
+            "amount": 291775
+        }
+    }
+]

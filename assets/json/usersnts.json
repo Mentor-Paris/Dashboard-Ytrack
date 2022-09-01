@@ -1,0 +1,474 @@
+[
+  {
+    "firstName": "COBEJERO",
+    "campus": "nantes",
+    "id": 13,
+    "xp": {
+      "amount": 1445325
+    }
+  },
+  {
+    "firstName": "SPLOTTU1",
+    "campus": "nantes",
+    "id": 15,
+    "xp": {
+      "amount": 263
+    }
+  },
+  {
+    "firstName": "ABOUFFARD",
+    "campus": "nantes",
+    "id": 27,
+    "xp": {
+      "amount": 515941
+    }
+  },
+  {
+    "firstName": "ALETROU",
+    "campus": "nantes",
+    "id": 28,
+    "xp": {
+      "amount": 241927
+    }
+  },
+  {
+    "firstName": "NMARTIN1",
+    "campus": "nantes",
+    "id": 29,
+    "xp": {
+      "amount": 63877
+    }
+  },
+  {
+    "firstName": "FDAGNAS",
+    "campus": "nantes",
+    "id": 30,
+    "xp": {
+      "amount": 732428
+    }
+  },
+  {
+    "firstName": "LJONES",
+    "campus": "nantes",
+    "id": 31,
+    "xp": {
+      "amount": 409193
+    }
+  },
+  {
+    "firstName": "SPLOTTU",
+    "campus": "nantes",
+    "id": 32,
+    "xp": {
+      "amount": 500
+    }
+  },
+  {
+    "firstName": "MLOYERVIAUD",
+    "campus": "nantes",
+    "id": 33,
+    "xp": {
+      "amount": 193215
+    }
+  },
+  {
+    "firstName": "MLEGER",
+    "campus": "nantes",
+    "id": 34,
+    "xp": {
+      "amount": 675354
+    }
+  },
+  {
+    "firstName": "YYASSER",
+    "campus": "nantes",
+    "id": 35,
+    "xp": {
+      "amount": 820220
+    }
+  },
+  {
+    "firstName": "OMOREAU",
+    "campus": "nantes",
+    "id": 36,
+    "xp": {
+      "amount": 625018
+    }
+  },
+  {
+    "firstName": "YBOURGERON",
+    "campus": "nantes",
+    "id": 37,
+    "xp": {
+      "amount": 483440
+    }
+  },
+  {
+    "firstName": "EDUMONT1",
+    "campus": "nantes",
+    "id": 38,
+    "xp": {
+      "amount": 438679
+    }
+  },
+  {
+    "firstName": "LTEILLIAIS",
+    "campus": "nantes",
+    "id": 39,
+    "xp": {
+      "amount": 460092
+    }
+  },
+  {
+    "firstName": "QOBOUNOU",
+    "campus": "nantes",
+    "id": 40,
+    "xp": {
+      "amount": 951433
+    }
+  },
+  {
+    "firstName": "MGRELLIER",
+    "campus": "nantes",
+    "id": 41,
+    "xp": {
+      "amount": 276515
+    }
+  },
+  {
+    "firstName": "LBROCHARD",
+    "campus": "nantes",
+    "id": 42,
+    "xp": {
+      "amount": 347590
+    }
+  },
+  {
+    "firstName": "PCOME",
+    "campus": "nantes",
+    "id": 44,
+    "xp": {
+      "amount": 631819
+    }
+  },
+  {
+    "firstName": "NMELLAL",
+    "campus": "nantes",
+    "id": 45,
+    "xp": {
+      "amount": 367429
+    }
+  },
+  {
+    "firstName": "NBESSEMOULIN",
+    "campus": "nantes",
+    "id": 47,
+    "xp": {
+      "amount": 444116
+    }
+  },
+  {
+    "firstName": "RFAVRIL",
+    "campus": "nantes",
+    "id": 48,
+    "xp": {
+      "amount": 405468
+    }
+  },
+  {
+    "firstName": "NSCHNEIDER",
+    "campus": "nantes",
+    "id": 49,
+    "xp": {
+      "amount": 1232684
+    }
+  },
+  {
+    "firstName": "KDHESSE",
+    "campus": "nantes",
+    "id": 50,
+    "xp": {
+      "amount": 421202
+    }
+  },
+  {
+    "firstName": "KGUYODO",
+    "campus": "nantes",
+    "id": 51,
+    "xp": {
+      "amount": 725530
+    }
+  },
+  {
+    "firstName": "NSEGURA",
+    "campus": "nantes",
+    "id": 52,
+    "xp": {
+      "amount": 435631
+    }
+  },
+  {
+    "firstName": "EPINOT",
+    "campus": "nantes",
+    "id": 54,
+    "xp": {
+      "amount": 454643
+    }
+  },
+  {
+    "firstName": "ACLAVIER",
+    "campus": "nantes",
+    "id": 55,
+    "xp": {
+      "amount": 415765
+    }
+  },
+  {
+    "firstName": "TBOURMAUD",
+    "campus": "nantes",
+    "id": 56,
+    "xp": {
+      "amount": 473492
+    }
+  },
+  {
+    "firstName": "MVERON",
+    "campus": "nantes",
+    "id": 57,
+    "xp": {
+      "amount": 437728
+    }
+  },
+  {
+    "firstName": "julien",
+    "campus": "nantes",
+    "id": 377,
+    "xp": {}
+  },
+  {
+    "firstName": "LVANDERSCHOOTEN1",
+    "campus": "nantes",
+    "id": 387,
+    "xp": {}
+  },
+  {
+    "firstName": "NHOUNGBEDJI",
+    "campus": "nantes",
+    "id": 389,
+    "xp": {}
+  },
+  {
+    "firstName": "PFACONNIER",
+    "campus": "nantes",
+    "id": 559,
+    "xp": {}
+  },
+  {
+    "firstName": "FLOUE",
+    "campus": "nantes",
+    "id": 728,
+    "xp": {
+      "amount": 671245
+    }
+  },
+  {
+    "firstName": "FLATTE",
+    "campus": "nantes",
+    "id": 729,
+    "xp": {
+      "amount": 516798
+    }
+  },
+  {
+    "firstName": "FQUICY",
+    "campus": "nantes",
+    "id": 730,
+    "xp": {
+      "amount": 439143
+    }
+  },
+  {
+    "firstName": "SKARSENTI",
+    "campus": "nantes",
+    "id": 731,
+    "xp": {
+      "amount": 540535
+    }
+  },
+  {
+    "firstName": "LACHARD",
+    "campus": "nantes",
+    "id": 732,
+    "xp": {
+      "amount": 467630
+    }
+  },
+  {
+    "firstName": "MCEBILE",
+    "campus": "nantes",
+    "id": 733,
+    "xp": {
+      "amount": 386800
+    }
+  },
+  {
+    "firstName": "JCROIZIER",
+    "campus": "nantes",
+    "id": 734,
+    "xp": {
+      "amount": 633859
+    }
+  },
+  {
+    "firstName": "JOUTIN",
+    "campus": "nantes",
+    "id": 735,
+    "xp": {
+      "amount": 399344
+    }
+  },
+  {
+    "firstName": "MBOURSE",
+    "campus": "nantes",
+    "id": 736,
+    "xp": {
+      "amount": 601220
+    }
+  },
+  {
+    "firstName": "NRIVALANT",
+    "campus": "nantes",
+    "id": 737,
+    "xp": {
+      "amount": 464222
+    }
+  },
+  {
+    "firstName": "JGUENARD",
+    "campus": "nantes",
+    "id": 738,
+    "xp": {
+      "amount": 508796
+    }
+  },
+  {
+    "firstName": "PDELANOU",
+    "campus": "nantes",
+    "id": 739,
+    "xp": {
+      "amount": 297728
+    }
+  },
+  {
+    "firstName": "AROLLAND1",
+    "campus": "nantes",
+    "id": 740,
+    "xp": {
+      "amount": 758101
+    }
+  },
+  {
+    "firstName": "NBOURRY",
+    "campus": "nantes",
+    "id": 741,
+    "xp": {
+      "amount": 538282
+    }
+  },
+  {
+    "firstName": "LAUBIN",
+    "campus": "nantes",
+    "id": 742,
+    "xp": {
+      "amount": 277806
+    }
+  },
+  {
+    "firstName": "MAUGEREAU",
+    "campus": "nantes",
+    "id": 743,
+    "xp": {
+      "amount": 348795
+    }
+  },
+  {
+    "firstName": "DHERVOUET",
+    "campus": "nantes",
+    "id": 744,
+    "xp": {
+      "amount": 534433
+    }
+  },
+  {
+    "firstName": "YENNOUHI",
+    "campus": "nantes",
+    "id": 745,
+    "xp": {
+      "amount": 682098
+    }
+  },
+  {
+    "firstName": "MTOURABI1",
+    "campus": "nantes",
+    "id": 746,
+    "xp": {
+      "amount": 392142
+    }
+  },
+  {
+    "firstName": "PPIAUGER",
+    "campus": "nantes",
+    "id": 748,
+    "xp": {
+      "amount": 545428
+    }
+  },
+  {
+    "firstName": "MLETESSIER",
+    "campus": "nantes",
+    "id": 750,
+    "xp": {
+      "amount": 252705
+    }
+  },
+  {
+    "firstName": "FCORMERAIS",
+    "campus": "nantes",
+    "id": 751,
+    "xp": {
+      "amount": 741785
+    }
+  },
+  {
+    "firstName": "ECARDOSO",
+    "campus": "nantes",
+    "id": 753,
+    "xp": {
+      "amount": 631088
+    }
+  },
+  {
+    "firstName": "MCHEVALIER1",
+    "campus": "nantes",
+    "id": 754,
+    "xp": {
+      "amount": 759566
+    }
+  },
+  {
+    "firstName": "ARAYNAUD",
+    "campus": "nantes",
+    "id": 755,
+    "xp": {
+      "amount": 705048
+    }
+  },
+  {
+    "firstName": "ATIDJANI",
+    "campus": "nantes",
+    "id": 756,
+    "xp": {
+      "amount": 273580
+    }
+  }
+]

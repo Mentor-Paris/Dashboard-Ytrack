@@ -1,0 +1,57 @@
+<!--Embed the header.html template at this location-->
+{{ template "header.html" .}}
+
+  <h1>👩‍💻 Leaderboard Ytrack Aix 🧑‍💻</h1>
+
+  <br>
+
+  {{range $i, $etudiant := .listusers}}
+    {{if eq $i 0}}
+      <img class="leader" src="{{$etudiant.Avatar_Url}}" alt="">
+
+      <div>    
+        <p>🥇 Top : {{add $i 1}}</p>
+        <p>Username : {{$etudiant.FirstName}}</p>
+        <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+        <p>Année De Promo: {{$etudiant.Year}}</p>
+      </div>
+
+      <hr>
+    {{else if eq $i 1}}
+      <img class="leader" src="{{$etudiant.Avatar_Url}}" alt="">
+
+      <div>    
+        <p>🥈 Top : {{add $i 1}}</p>
+        <p>Username : {{$etudiant.FirstName}}</p>
+        <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+        <p>Année De Promo: {{$etudiant.Year}}</p>
+      </div>
+
+      <hr>
+    {{else if eq $i 2}}
+      <img class="leader" src="{{$etudiant.Avatar_Url}}" alt="">
+
+      <div>    
+        <p>🥉 Top : {{add $i 1}}</p>
+        <p>Username : {{$etudiant.FirstName}}</p>
+        <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+        <p>Année De Promo: {{$etudiant.Year}}</p>
+      </div>
+
+      <hr>
+    {{ else }}
+      <img class="leader" src="{{$etudiant.Avatar_Url}}" alt="">
+
+      <div>    
+        <p>Top : {{add $i 1}}</p>
+        <p>Username : {{$etudiant.FirstName}}</p>
+        <p>Nombre Xp : {{$etudiant.Xp.Amount}}</p>
+        <p>Année De Promo: {{$etudiant.Year}}</p>
+      </div>
+
+      <hr>
+    {{ end }}
+  {{end}}
+
+<!--Embed the footer.html template at this location-->
+{{ template "footer.html" .}}

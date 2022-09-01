@@ -1,11 +1,11 @@
-<nav>
+<nav class="navbar navbar-expand-lg">
     <div class="container">
       <div class="navbar-header">
         <a class="navbar-brand" href="/">
           Home
         </a>
-        <a class="navbar-brand" href="/leaderboard">
-          Leaderboard PYC
+        <a class="navbar-brand dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Leaderboard
         </a>
         <a class="navbar-brand" href="/leaderboardnational">
           Leaderboard National
@@ -16,6 +16,16 @@
         <a class="navbar-brand" href="/progress">
           Progresse Evènements
         </a>
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <li><a class="dropdown-item" href="leaderboardpyc">PYC</a></li>
+          <li><a class="dropdown-item" href="leaderboardbdx">Bordeaux</a></li>
+          <li><hr class="dropdown-divider"></li>
+          <li><a class="dropdown-item" href="leaderboardlyon">Lyon</a></li>
+          <li><a class="dropdown-item" href="leaderboardaix">Aix</a></li>
+          <li><hr class="dropdown-divider"></li>
+          <li><a class="dropdown-item" href="leaderboardtls">Toulouse</a></li>
+          <li><a class="dropdown-item" href="leaderboardnts">Nantes</a></li>
+        </ul>
       </div>
     </div>
 </nav>

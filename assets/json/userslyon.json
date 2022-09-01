@@ -1,0 +1,760 @@
+[
+    {
+        "firstName": "FCOURDESSE",
+        "campus": "lyon",
+        "id": 248,
+        "xp": {
+            "amount": 1390696
+        }
+    },
+    {
+        "firstName": "TNOEL",
+        "campus": "lyon",
+        "id": 249,
+        "xp": {
+            "amount": 399421
+        }
+    },
+    {
+        "firstName": "HPOIZAT",
+        "campus": "lyon",
+        "id": 250,
+        "xp": {
+            "amount": 683396
+        }
+    },
+    {
+        "firstName": "IHACQUIN",
+        "campus": "lyon",
+        "id": 251,
+        "xp": {
+            "amount": 274913
+        }
+    },
+    {
+        "firstName": "EKAPLAN",
+        "campus": "lyon",
+        "id": 252,
+        "xp": {
+            "amount": 350316
+        }
+    },
+    {
+        "firstName": "CVEY",
+        "campus": "lyon",
+        "id": 253,
+        "xp": {
+            "amount": 1379438
+        }
+    },
+    {
+        "firstName": "AFAILLER",
+        "campus": "lyon",
+        "id": 254,
+        "xp": {
+            "amount": 360073
+        }
+    },
+    {
+        "firstName": "CPAYET",
+        "campus": "lyon",
+        "id": 255,
+        "xp": {
+            "amount": 1100918
+        }
+    },
+    {
+        "firstName": "RSILVYLELIGOIS",
+        "campus": "lyon",
+        "id": 256,
+        "xp": {
+            "amount": 643622
+        }
+    },
+    {
+        "firstName": "GPETTA",
+        "campus": "lyon",
+        "id": 257,
+        "xp": {
+            "amount": 813600
+        }
+    },
+    {
+        "firstName": "LTHORENS",
+        "campus": "lyon",
+        "id": 259,
+        "xp": {
+            "amount": 431475
+        }
+    },
+    {
+        "firstName": "MDINVILLE",
+        "campus": "lyon",
+        "id": 260,
+        "xp": {
+            "amount": 440447
+        }
+    },
+    {
+        "firstName": "OCAN",
+        "campus": "lyon",
+        "id": 261,
+        "xp": {
+            "amount": 349015
+        }
+    },
+    {
+        "firstName": "MKJIDAA",
+        "campus": "lyon",
+        "id": 262,
+        "xp": {
+            "amount": 183638
+        }
+    },
+    {
+        "firstName": "ACHAMBAS",
+        "campus": "lyon",
+        "id": 263,
+        "xp": {
+            "amount": 310376
+        }
+    },
+    {
+        "firstName": "LREYNARD",
+        "campus": "lyon",
+        "id": 264,
+        "xp": {
+            "amount": 344891
+        }
+    },
+    {
+        "firstName": "MMEUNIER",
+        "campus": "lyon",
+        "id": 265,
+        "xp": {
+            "amount": 400201
+        }
+    },
+    {
+        "firstName": "FELHANI",
+        "campus": "lyon",
+        "id": 266,
+        "xp": {
+            "amount": 482679
+        }
+    },
+    {
+        "firstName": "MLECHERF",
+        "campus": "lyon",
+        "id": 268,
+        "xp": {
+            "amount": 924103
+        }
+    },
+    {
+        "firstName": "BLY",
+        "campus": "lyon",
+        "id": 270,
+        "xp": {
+            "amount": 325070
+        }
+    },
+    {
+        "firstName": "Thomas",
+        "campus": "lyon",
+        "id": 271,
+        "xp": {
+            "amount": 426212
+        }
+    },
+    {
+        "firstName": "TMEIGNIER",
+        "campus": "lyon",
+        "id": 272,
+        "xp": {
+            "amount": 437873
+        }
+    },
+    {
+        "firstName": "ALYONNET",
+        "campus": "lyon",
+        "id": 273,
+        "xp": {
+            "amount": 347083
+        }
+    },
+    {
+        "firstName": "RVITTE",
+        "campus": "lyon",
+        "id": 274,
+        "xp": {
+            "amount": 419465
+        }
+    },
+    {
+        "firstName": "ABELAIDOUNI",
+        "campus": "lyon",
+        "id": 275,
+        "xp": {
+            "amount": 568271
+        }
+    },
+    {
+        "firstName": "NTHOMAS",
+        "campus": "lyon",
+        "id": 276,
+        "xp": {
+            "amount": 144815
+        }
+    },
+    {
+        "firstName": "CFRASCA",
+        "campus": "lyon",
+        "id": 278,
+        "xp": {
+            "amount": 400233
+        }
+    },
+    {
+        "firstName": "TGAULE",
+        "campus": "lyon",
+        "id": 279,
+        "xp": {
+            "amount": 414959
+        }
+    },
+    {
+        "firstName": "CBARRESI",
+        "campus": "lyon",
+        "id": 280,
+        "xp": {
+            "amount": 494029
+        }
+    },
+    {
+        "firstName": "TBEAL",
+        "campus": "lyon",
+        "id": 281,
+        "xp": {
+            "amount": 565255
+        }
+    },
+    {
+        "firstName": "SALONSO",
+        "campus": "lyon",
+        "id": 282,
+        "xp": {
+            "amount": 748728
+        }
+    },
+    {
+        "firstName": "YVOLLAIRE",
+        "campus": "lyon",
+        "id": 283,
+        "xp": {
+            "amount": 475931
+        }
+    },
+    {
+        "firstName": "YDEHHANI",
+        "campus": "lyon",
+        "id": 284,
+        "xp": {
+            "amount": 856865
+        }
+    },
+    {
+        "firstName": "PRAMPON",
+        "campus": "lyon",
+        "id": 285,
+        "xp": {
+            "amount": 756213
+        }
+    },
+    {
+        "firstName": "Arthur",
+        "campus": "lyon",
+        "id": 286,
+        "xp": {
+            "amount": 558734
+        }
+    },
+    {
+        "firstName": "AGUERIN",
+        "campus": "lyon",
+        "id": 287,
+        "xp": {
+            "amount": 279447
+        }
+    },
+    {
+        "firstName": "HROUMAGNE",
+        "campus": "lyon",
+        "id": 288,
+        "xp": {
+            "amount": 588320
+        }
+    },
+    {
+        "firstName": "ACAPITAIN",
+        "campus": "lyon",
+        "id": 289,
+        "xp": {
+            "amount": 390773
+        }
+    },
+    {
+        "firstName": "QFAYOLLE",
+        "campus": "lyon",
+        "id": 290,
+        "xp": {
+            "amount": 644237
+        }
+    },
+    {
+        "firstName": "QJUVET",
+        "campus": "lyon",
+        "id": 291,
+        "xp": {
+            "amount": 670869
+        }
+    },
+    {
+        "firstName": "NCABOURG",
+        "campus": "lyon",
+        "id": 292,
+        "xp": {
+            "amount": 569544
+        }
+    },
+    {
+        "firstName": "AGELIN1",
+        "campus": "lyon",
+        "id": 293,
+        "xp": {
+            "amount": 859293
+        }
+    },
+    {
+        "firstName": "LTISSERAND2",
+        "campus": "lyon",
+        "id": 295,
+        "xp": {
+            "amount": 10425
+        }
+    },
+    {
+        "firstName": "NLOSSIGNOLDRILLIEN",
+        "campus": "lyon",
+        "id": 296,
+        "xp": {
+            "amount": 268611
+        }
+    },
+    {
+        "firstName": "CBILGER",
+        "campus": "lyon",
+        "id": 297,
+        "xp": {
+            "amount": 428365
+        }
+    },
+    {
+        "firstName": "PGOURGOUILLON",
+        "campus": "lyon",
+        "id": 298,
+        "xp": {
+            "amount": 692450
+        }
+    },
+    {
+        "firstName": "JKHALIFE",
+        "campus": "lyon",
+        "id": 299,
+        "xp": {
+            "amount": 680645
+        }
+    },
+    {
+        "firstName": "TLEDIEU",
+        "campus": "lyon",
+        "id": 300,
+        "xp": {
+            "amount": 740833
+        }
+    },
+    {
+        "firstName": "MNESTILE",
+        "campus": "lyon",
+        "id": 301,
+        "xp": {
+            "amount": 235512
+        }
+    },
+    {
+        "firstName": "MTORRES",
+        "campus": "lyon",
+        "id": 302,
+        "xp": {
+            "amount": 279804
+        }
+    },
+    {
+        "firstName": "OMAILLOT",
+        "campus": "lyon",
+        "id": 303,
+        "xp": {
+            "amount": 384428
+        }
+    },
+    {
+        "firstName": "TBRUYERE",
+        "campus": "lyon",
+        "id": 309,
+        "xp": {
+            "amount": 385985
+        }
+    },
+    {
+        "firstName": "LBARTHELEMY1",
+        "campus": "lyon",
+        "id": 310,
+        "xp": {
+            "amount": 1676437
+        }
+    },
+    {
+        "firstName": "LBOURRY",
+        "campus": "lyon",
+        "id": 314,
+        "xp": {
+            "amount": 710644
+        }
+    },
+    {
+        "firstName": "HDANSOU",
+        "campus": "lyon",
+        "id": 356,
+        "xp": {
+            "amount": 419508
+        }
+    },
+    {
+        "firstName": "LGUNARAJAH",
+        "campus": "lyon",
+        "id": 382,
+        "xp": {
+            "amount": 48995
+        }
+    },
+    {
+        "firstName": "VRIAMON1",
+        "campus": "lyon",
+        "id": 460,
+        "xp": {
+            "amount": 15700
+        }
+    },
+    {
+        "firstName": "JCAETANO",
+        "campus": "lyon",
+        "id": 687,
+        "xp": {
+            "amount": 63525
+        }
+    },
+    {
+        "firstName": "EBAILEY",
+        "campus": "lyon",
+        "id": 688,
+        "xp": {
+            "amount": 33375
+        }
+    },
+    {
+        "firstName": "JVEZIN",
+        "campus": "lyon",
+        "id": 689,
+        "xp": {
+            "amount": 20175
+        }
+    },
+    {
+        "firstName": "APOINSIGNON",
+        "campus": "lyon",
+        "id": 690,
+        "xp": {
+            "amount": 55025
+        }
+    },
+    {
+        "firstName": "WSAIOUDI",
+        "campus": "lyon",
+        "id": 691,
+        "xp": {
+            "amount": 59025
+        }
+    },
+    {
+        "firstName": "LHOSPICE",
+        "campus": "lyon",
+        "id": 693,
+        "xp": {
+            "amount": 50225
+        }
+    },
+    {
+        "firstName": "RPOTIGNON",
+        "campus": "lyon",
+        "id": 694,
+        "xp": {
+            "amount": 20775
+        }
+    },
+    {
+        "firstName": "ACELEBI",
+        "campus": "lyon",
+        "id": 695,
+        "xp": {
+            "amount": 55025
+        }
+    },
+    {
+        "firstName": "EGUIGNABAUDET",
+        "campus": "lyon",
+        "id": 697,
+        "xp": {
+            "amount": 55425
+        }
+    },
+    {
+        "firstName": "ADUMONT2",
+        "campus": "lyon",
+        "id": 698,
+        "xp": {
+            "amount": 49125
+        }
+    },
+    {
+        "firstName": "RFENZL",
+        "campus": "lyon",
+        "id": 699,
+        "xp": {
+            "amount": 41075
+        }
+    },
+    {
+        "firstName": "BVERNET",
+        "campus": "lyon",
+        "id": 702,
+        "xp": {
+            "amount": 61225
+        }
+    },
+    {
+        "firstName": "VPAIRE",
+        "campus": "lyon",
+        "id": 705,
+        "xp": {
+            "amount": 25275
+        }
+    },
+    {
+        "firstName": "LCOURNOLLETRODRIGUEZ",
+        "campus": "lyon",
+        "id": 706,
+        "xp": {
+            "amount": 23725
+        }
+    },
+    {
+        "firstName": "FMARQUES",
+        "campus": "lyon",
+        "id": 707,
+        "xp": {
+            "amount": 25525
+        }
+    },
+    {
+        "firstName": "RGRENIER1",
+        "campus": "lyon",
+        "id": 708,
+        "xp": {
+            "amount": 40275
+        }
+    },
+    {
+        "firstName": "ABERTIER1",
+        "campus": "lyon",
+        "id": 709,
+        "xp": {
+            "amount": 67575
+        }
+    },
+    {
+        "firstName": "UROSSI",
+        "campus": "lyon",
+        "id": 710,
+        "xp": {
+            "amount": 17075
+        }
+    },
+    {
+        "firstName": "MPOINTARD",
+        "campus": "lyon",
+        "id": 711,
+        "xp": {
+            "amount": 38975
+        }
+    },
+    {
+        "firstName": "RFENO",
+        "campus": "lyon",
+        "id": 712,
+        "xp": {
+            "amount": 46725
+        }
+    },
+    {
+        "firstName": "NSEREIR",
+        "campus": "lyon",
+        "id": 713,
+        "xp": {
+            "amount": 29125
+        }
+    },
+    {
+        "firstName": "GSANCHEZ1",
+        "campus": "lyon",
+        "id": 714,
+        "xp": {
+            "amount": 15225
+        }
+    },
+    {
+        "firstName": "CCOINDARDLAGRESLE",
+        "campus": "lyon",
+        "id": 715,
+        "xp": {
+            "amount": 39225
+        }
+    },
+    {
+        "firstName": "TTIRABOSCHI",
+        "campus": "lyon",
+        "id": 716,
+        "xp": {
+            "amount": 14275
+        }
+    },
+    {
+        "firstName": "JDURA",
+        "campus": "lyon",
+        "id": 717,
+        "xp": {
+            "amount": 66175
+        }
+    },
+    {
+        "firstName": "SCAPPE",
+        "campus": "lyon",
+        "id": 718,
+        "xp": {
+            "amount": 32225
+        }
+    },
+    {
+        "firstName": "JAOUADJ",
+        "campus": "lyon",
+        "id": 719,
+        "xp": {
+            "amount": 37525
+        }
+    },
+    {
+        "firstName": "LLACHAL",
+        "campus": "lyon",
+        "id": 720,
+        "xp": {
+            "amount": 14735
+        }
+    },
+    {
+        "firstName": "GTHOYER",
+        "campus": "lyon",
+        "id": 721,
+        "xp": {
+            "amount": 56575
+        }
+    },
+    {
+        "firstName": "GDENIS",
+        "campus": "lyon",
+        "id": 723,
+        "xp": {
+            "amount": 19075
+        }
+    },
+    {
+        "firstName": "MBARRE",
+        "campus": "lyon",
+        "id": 725,
+        "xp": {
+            "amount": 60775
+        }
+    },
+    {
+        "firstName": "DNGUYEN2",
+        "campus": "lyon",
+        "id": 726,
+        "xp": {
+            "amount": 36425
+        }
+    },
+    {
+        "firstName": "MALVINE",
+        "campus": "lyon",
+        "id": 727,
+        "xp": {
+            "amount": 19375
+        }
+    },
+    {
+        "firstName": "MHENRIST",
+        "campus": "lyon",
+        "id": 786,
+        "xp": {
+            "amount": 22725
+        }
+    },
+    {
+        "firstName": "AFRANCOIS1",
+        "campus": "lyon",
+        "id": 788,
+        "xp": {
+            "amount": 6825
+        }
+    },
+    {
+        "firstName": "RLAHLIMI",
+        "campus": "lyon",
+        "id": 789,
+        "xp": {}
+    },
+    {
+        "firstName": "ESEGURET1",
+        "campus": "lyon",
+        "id": 792,
+        "xp": {
+            "amount": 58725
+        }
+    },
+    {
+        "firstName": "ADELLOSO",
+        "campus": "lyon",
+        "id": 809,
+        "xp": {
+            "amount": 48225
+        }
+    }
+]

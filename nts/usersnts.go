@@ -1,4 +1,4 @@
-package pyc
+package nts
 
 import (
 	"encoding/json"
@@ -14,7 +14,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// UserFinal struct which contains a all informmations of each user pyc
+// UserFinal struct which contains a all informmations of each user
 type UserFinal struct {
 	ID         int     `json:"id"`
 	FirstName  string  `json:"firstName"`
@@ -57,8 +57,8 @@ var (
 	listuser []UserFinal
 )
 
-// display the whole JSON of the user of PYC
-func GetAllUsersPYC(c *gin.Context) {
+// display the whole JSON of the user
+func GetAllUsers(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, listuserfinal)
 }
 
@@ -80,15 +80,15 @@ func GetUserByID(c *gin.Context) {
 	c.IndentedJSON(http.StatusNotFound, gin.H{"error": "user not found"})
 }
 
-// display the leaderboard of PYC
+// display the leaderboard
 func Leaderboard(c *gin.Context) {
 	listuser = []UserFinal{}
 	listusers := Leaderboardapi()
 	// Call the HTML method of the Context to render a template
-	c.HTML(http.StatusOK, "leaderboardPyc.html", gin.H{"listusers": listusers})
+	c.HTML(http.StatusOK, "leaderboardnts.html", gin.H{"listusers": listusers})
 }
 
-// create the array of the leaderboard of PYC
+// create the array of the leaderboard
 func Leaderboardapi() []UserFinal {
 
 	for comp := 0; comp < len(listuserfinal); comp++ {
@@ -135,13 +135,13 @@ func random() UserFinal {
 // read the JSON file
 func ReadJsonUserXp() {
 	// Open our jsonFile
-	jsonFile, err := os.Open("assets/json/userspyc.json")
+	jsonFile, err := os.Open("assets/json/usersnts.json")
 	// if we os.Open returns an error then handle it
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	fmt.Println("Successfully Opened userspyc.json")
+	fmt.Println("Successfully Opened usersnts.json")
 	// defer the closing of our jsonFile so that we can parse it later on
 	defer jsonFile.Close()
 
@@ -174,8 +174,8 @@ func ReadJsonUsersYtrack() {
 	json.Unmarshal(byteValue, &Usersytrack)
 }
 
-// merge the json userxp the json userpyc
-func MergeJsonPYC() {
+// merge the json userxp the json user
+func MergeJson() {
 	for _, i := range users {
 		listuserfinal = append(listuserfinal, UserFinal{ID: i.ID, FirstName: i.FirstName, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}})
 	}
