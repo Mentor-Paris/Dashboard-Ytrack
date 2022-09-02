@@ -131,7 +131,7 @@ func CORSMiddleware() gin.HandlerFunc {
 
 // display the home page
 func home(c *gin.Context) {
-	c.HTML(http.StatusOK, "index.html", gin.H{"title": "Home"})
+	c.HTML(http.StatusOK, "index.html", gin.H{"title": "Accueil"})
 }
 
 // add +1 to the index of the top leaderboard

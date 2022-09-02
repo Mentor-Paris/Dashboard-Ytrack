@@ -48,7 +48,7 @@ var (
 
 // display the date of event of ytrack
 func Progress(c *gin.Context) {
-	c.HTML(http.StatusOK, "progress.html", gin.H{"new_events": new_events})
+	c.HTML(http.StatusOK, "progress.html", gin.H{"new_events": new_events, "title": "Evènements"})
 }
 
 // create list, split the path of event, format the date of event

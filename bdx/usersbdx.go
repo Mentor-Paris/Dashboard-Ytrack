@@ -85,7 +85,7 @@ func Leaderboard(c *gin.Context) {
 	listuser = []UserFinal{}
 	listusers := Leaderboardapi()
 	// Call the HTML method of the Context to render a template
-	c.HTML(http.StatusOK, "leaderboardbdx.html", gin.H{"listusers": listusers})
+	c.HTML(http.StatusOK, "leaderboardbdx.html", gin.H{"listusers": listusers, "title": "Leaderboard Bordeaux"})
 }
 
 // create the array of the leaderboard

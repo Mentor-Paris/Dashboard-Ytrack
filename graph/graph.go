@@ -20,7 +20,7 @@ func Graphique(c *gin.Context) {
 		liststringuser = append(liststringuser, liststructuser[j].Campus)
 	}
 	countcampus := printUniqueValue(liststringuser)
-	c.HTML(http.StatusOK, "graphique.html", gin.H{"countcampus": countcampus})
+	c.HTML(http.StatusOK, "graphique.html", gin.H{"countcampus": countcampus, "title": "Statistiques"})
 }
 
 func printUniqueValue(arr []string) map[string]int {

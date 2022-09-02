@@ -59,7 +59,7 @@ func GetAllUsersNational(c *gin.Context) {
 func Leaderboardnational(c *gin.Context) {
 	listusernational = []UserFinalNational{}
 	listusersnational := Leaderboardapinational()
-	c.HTML(http.StatusOK, "leaderboardnational.html", gin.H{"listusersnational": listusersnational})
+	c.HTML(http.StatusOK, "leaderboardnational.html", gin.H{"listusersnational": listusersnational, "title": "Leaderboard National"})
 }
 
 // create the array of the leaderboard of ytrack
