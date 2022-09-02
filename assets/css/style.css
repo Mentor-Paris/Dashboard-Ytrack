@@ -110,3 +110,45 @@ img {
 a:hover {
     color: #000000;
 }
+
+hr {
+    height: 2px;
+}
+
+li {
+    color: black;
+}
+
+.link {
+    position : relative ;
+    display : inline-block ;
+    text-decoration: none ;
+    color: #fff ;
+}
+.link::before,
+.link::after {
+    content: '' ;
+    position: absolute ;
+    left: 0 ;
+    width: 100% ;
+    height: 2px ;
+    background-color: #ffffff ;
+    transform: scaleX(0);
+    transition: transform .25s ;
+}
+.link::before {
+    top : -3px ;
+    transform-origin : left ;
+}
+.link::after {
+    bottom : -3px ;
+    transform-origin : right ;
+}
+.link:hover::before,
+.link:hover::after {
+    transform: scaleX(1) ;
+}
+
+.dropdown-menu.show {
+    margin-left: 315px;
+}
