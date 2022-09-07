@@ -103,13 +103,13 @@ func ListEvent() {
 // read the JSON file
 func ReadJsonEvent() {
 	// Open our jsonFile
-	jsonFile, err := os.Open("assets/json/events.json")
+	jsonFile, err := os.Open("assets/json/eventspyc.json")
 	// if we os.Open returns an error then handle it
 	if err != nil {
 		fmt.Println(err)
 	}
 
-	fmt.Println("Successfully Opened events.json")
+	fmt.Println("Successfully Opened eventspyc.json")
 	// defer the closing of our jsonFile so that we can parse it later on
 	defer jsonFile.Close()
 
