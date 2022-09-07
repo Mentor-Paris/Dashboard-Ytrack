@@ -17,7 +17,7 @@ import (
 // UserFinal struct which contains a all informmations of each user pyc
 type UserFinal struct {
 	ID         int     `json:"id"`
-	FirstName  string  `json:"firstName"`
+	Login      string  `json:"login"`
 	Xp         XpFinal `json:"xp"`
 	Avatar_Url string  `json:"avatar_url"`
 	Year       string  `json:"created"`
@@ -25,9 +25,9 @@ type UserFinal struct {
 
 // User struct which contains a Firtsname a ID and a list of xp of each user
 type User struct {
-	FirstName string `json:"firstName"`
-	ID        int    `json:"id"`
-	Xp        Xp     `json:"xp"`
+	Login string `json:"login"`
+	ID    int    `json:"id"`
+	Xp    Xp     `json:"xp"`
 }
 
 // XP struct that contains the total XP of each user
@@ -177,11 +177,11 @@ func ReadJsonUsersYtrack() {
 // merge the json userxp the json userpyc
 func MergeJsonPYC() {
 	for _, i := range users {
-		listuserfinal = append(listuserfinal, UserFinal{ID: i.ID, FirstName: i.FirstName, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}})
+		listuserfinal = append(listuserfinal, UserFinal{ID: i.ID, Login: i.Login, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}})
 	}
 	for i := range listuserfinal {
 		for _, y := range Usersytrack {
-			if listuserfinal[i].FirstName == y.Login {
+			if listuserfinal[i].Login == y.Login {
 				listuserfinal[i].Avatar_Url = y.Avatar_Url
 				listuserfinal[i].Year = y.Year
 				break

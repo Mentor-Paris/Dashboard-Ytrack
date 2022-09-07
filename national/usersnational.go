@@ -17,10 +17,10 @@ import (
 
 // UserNational struct which contains a Firtsname a ID and a list of xp a Campus of each user national
 type UserNational struct {
-	FirstName string `json:"firstName"`
-	ID        int    `json:"id"`
-	Campus    string `json:"campus"`
-	Xp        Xp     `json:"xp"`
+	Login  string `json:"login"`
+	ID     int    `json:"id"`
+	Campus string `json:"campus"`
+	Xp     Xp     `json:"xp"`
 }
 
 // XP struct that contains the total XP of each user
@@ -31,7 +31,7 @@ type Xp struct {
 // UserFinalnational struct which contains a all informmations of each user national
 type UserFinalNational struct {
 	ID         int     `json:"id"`
-	FirstName  string  `json:"firstName"`
+	Login      string  `json:"login"`
 	Campus     string  `json:"campus"`
 	Xp         XpFinal `json:"xp"`
 	Avatar_Url string  `json:"avatar_url"`
@@ -136,11 +136,11 @@ func ReadJsonNational() {
 // merge the json userxp the json usernational
 func MergeJsonNational() {
 	for _, i := range Usersytracknational {
-		listuserfinalnational = append(listuserfinalnational, UserFinalNational{ID: i.ID, FirstName: i.FirstName, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}, Campus: i.Campus})
+		listuserfinalnational = append(listuserfinalnational, UserFinalNational{ID: i.ID, Login: i.Login, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}, Campus: i.Campus})
 	}
 	for i := range listuserfinalnational {
 		for _, y := range pyc.Usersytrack {
-			if listuserfinalnational[i].FirstName == y.Login {
+			if listuserfinalnational[i].Login == y.Login {
 				listuserfinalnational[i].Avatar_Url = y.Avatar_Url
 				listuserfinalnational[i].Year = y.Year
 				break
