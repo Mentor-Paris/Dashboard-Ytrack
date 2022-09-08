@@ -3363,7 +3363,7 @@
   {
     "firstName": "LAO",
     "login": "ljacques",
-    "campus": null,
+    "campus": "pyc",
     "id": 1454,
     "xp": {
       "amount": 2414
@@ -11605,7 +11605,7 @@
   {
     "firstName": "LANFROID-NAZAC",
     "login": "lguillau",
-    "campus": null,
+    "campus": "pyc",
     "id": 1378,
     "xp": {
       "amount": 13314
@@ -12503,7 +12503,7 @@
   {
     "firstName": "LHUILLERY",
     "login": "lduncan",
-    "campus": null,
+    "campus": "pyc",
     "id": 1452,
     "xp": {
       "amount": 10114
@@ -12512,7 +12512,7 @@
   {
     "firstName": "RUCKTOOA",
     "login": "rthomas",
-    "campus": null,
+    "campus": "pyc",
     "id": 1453,
     "xp": {
       "amount": 1614
@@ -12539,7 +12539,7 @@
   {
     "firstName": "MIHUTA",
     "login": "mmihail",
-    "campus": null,
+    "campus": "pyc",
     "id": 1464,
     "xp": {
       "amount": 3814
@@ -12548,7 +12548,7 @@
   {
     "firstName": "SOUBRAMANIEN",
     "login": "sbaayvin",
-    "campus": null,
+    "campus": "pyc",
     "id": 1466,
     "xp": {
       "amount": 3614
@@ -12557,7 +12557,7 @@
   {
     "firstName": "CAUCHOIX",
     "login": "chocine",
-    "campus": null,
+    "campus": "pyc",
     "id": 1468,
     "xp": {
       "amount": 2414
@@ -12566,7 +12566,7 @@
   {
     "firstName": "VONIN-KABEL",
     "login": "vyvenlee",
-    "campus": null,
+    "campus": "pyc",
     "id": 1472,
     "xp": {
       "amount": 2414
@@ -12584,7 +12584,7 @@
   {
     "firstName": "MASSEY",
     "login": "mraphael",
-    "campus": null,
+    "campus": "pyc",
     "id": 1474,
     "xp": {
       "amount": 3214
@@ -12593,7 +12593,7 @@
   {
     "firstName": "HARHAD",
     "login": "hdjebril",
-    "campus": null,
+    "campus": "pyc",
     "id": 1456,
     "xp": {
       "amount": 14689
@@ -12602,7 +12602,7 @@
   {
     "firstName": "KERVOELEN",
     "login": "kerwann",
-    "campus": null,
+    "campus": "pyc",
     "id": 1458,
     "xp": {
       "amount": 3814
@@ -12611,7 +12611,7 @@
   {
     "firstName": "PARVIN",
     "login": "pkevin",
-    "campus": null,
+    "campus": "pyc",
     "id": 1459,
     "xp": {
       "amount": 2414
@@ -12620,7 +12620,7 @@
   {
     "firstName": "PIGEON",
     "login": "pdorian",
-    "campus": null,
+    "campus": "pyc",
     "id": 1469,
     "xp": {
       "amount": 2414
@@ -12629,7 +12629,7 @@
   {
     "firstName": "TEKTEN",
     "login": "tkaan",
-    "campus": null,
+    "campus": "pyc",
     "id": 1470,
     "xp": {
       "amount": 3614
@@ -12638,7 +12638,7 @@
   {
     "firstName": "QIN",
     "login": "qlea",
-    "campus": null,
+    "campus": "pyc",
     "id": 1471,
     "xp": {
       "amount": 5364
@@ -12647,7 +12647,7 @@
   {
     "firstName": "WALSH DE SERRANT",
     "login": "walberic",
-    "campus": null,
+    "campus": "pyc",
     "id": 1457,
     "xp": {
       "amount": 12214
@@ -12656,7 +12656,7 @@
   {
     "firstName": "PAILLARD",
     "login": "pmathis",
-    "campus": null,
+    "campus": "pyc",
     "id": 1460,
     "xp": {
       "amount": 3614
@@ -12665,7 +12665,7 @@
   {
     "firstName": "ALCARAZ",
     "login": "alhugo",
-    "campus": null,
+    "campus": "pyc",
     "id": 1461,
     "xp": {
       "amount": 10114
@@ -12674,7 +12674,7 @@
   {
     "firstName": "DABO",
     "login": "dliliane",
-    "campus": null,
+    "campus": "pyc",
     "id": 1462,
     "xp": {
       "amount": 3214
@@ -12683,7 +12683,7 @@
   {
     "firstName": "ROCHE",
     "login": "rmaxence",
-    "campus": null,
+    "campus": "pyc",
     "id": 1465,
     "xp": {
       "amount": 2414
@@ -12692,7 +12692,7 @@
   {
     "firstName": "ARTHUR",
     "login": "afabien",
-    "campus": null,
+    "campus": "pyc",
     "id": 1467,
     "xp": {
       "amount": 10114
@@ -12701,7 +12701,7 @@
   {
     "firstName": "ERDOGAN",
     "login": "eferdi",
-    "campus": null,
+    "campus": "pyc",
     "id": 1475,
     "xp": {
       "amount": 10114
@@ -12710,7 +12710,7 @@
   {
     "firstName": "MARIE",
     "login": "mdamien",
-    "campus": null,
+    "campus": "pyc",
     "id": 1476,
     "xp": {
       "amount": 5214
@@ -12719,7 +12719,7 @@
   {
     "firstName": "JIN",
     "login": "jalexand",
-    "campus": null,
+    "campus": "pyc",
     "id": 1477,
     "xp": {
       "amount": 3214
@@ -12735,7 +12735,7 @@
   {
     "firstName": "RIQUET",
     "login": "rclement",
-    "campus": null,
+    "campus": "pyc",
     "id": 1479,
     "xp": {
       "amount": 4414
@@ -12744,7 +12744,7 @@
   {
     "firstName": "RICHARD",
     "login": "rantoine",
-    "campus": null,
+    "campus": "pyc",
     "id": 1480,
     "xp": {
       "amount": 2414
@@ -12753,7 +12753,7 @@
   {
     "firstName": "NOHE ESTRADA",
     "login": "nmaelis",
-    "campus": null,
+    "campus": "pyc",
     "id": 1481,
     "xp": {
       "amount": 11114
@@ -12762,7 +12762,7 @@
   {
     "firstName": "MADIEU-KOMLA",
     "login": "mjoshua",
-    "campus": null,
+    "campus": "pyc",
     "id": 1482,
     "xp": {
       "amount": 4414
@@ -12771,7 +12771,7 @@
   {
     "firstName": "TALAVERA Y NARANJO",
     "login": "tamadis",
-    "campus": null,
+    "campus": "pyc",
     "id": 1483,
     "xp": {
       "amount": 2414
@@ -12780,7 +12780,7 @@
   {
     "firstName": "SMYCZYK",
     "login": "smickael",
-    "campus": null,
+    "campus": "pyc",
     "id": 1484,
     "xp": {
       "amount": 2414
@@ -12789,7 +12789,7 @@
   {
     "firstName": "DUMET",
     "login": "dludovic",
-    "campus": null,
+    "campus": "pyc",
     "id": 1485,
     "xp": {
       "amount": 2414
@@ -12805,7 +12805,7 @@
   {
     "firstName": "AMBA",
     "login": "aterence",
-    "campus": null,
+    "campus": "pyc",
     "id": 1487,
     "xp": {
       "amount": 2414
@@ -12814,7 +12814,7 @@
   {
     "firstName": "SOULIER",
     "login": "sbaptist",
-    "campus": null,
+    "campus": "pyc",
     "id": 1488,
     "xp": {
       "amount": 7114
@@ -12823,7 +12823,7 @@
   {
     "firstName": "BEN YOUSSEF",
     "login": "bsajed",
-    "campus": null,
+    "campus": "pyc",
     "id": 1489,
     "xp": {
       "amount": 2414
@@ -12832,7 +12832,7 @@
   {
     "firstName": "GATTOLIN",
     "login": "gnuma",
-    "campus": null,
+    "campus": "pyc",
     "id": 1490,
     "xp": {
       "amount": 2414
@@ -12841,7 +12841,7 @@
   {
     "firstName": "PULLIG",
     "login": "padriana",
-    "campus": null,
+    "campus": "pyc",
     "id": 1491,
     "xp": {
       "amount": 3214
@@ -12850,7 +12850,7 @@
   {
     "firstName": "GARCIA",
     "login": "ggabriel",
-    "campus": null,
+    "campus": "pyc",
     "id": 1492,
     "xp": {
       "amount": 2414
@@ -12859,7 +12859,7 @@
   {
     "firstName": "MOUNIROU",
     "login": "mwahab",
-    "campus": null,
+    "campus": "pyc",
     "id": 1493,
     "xp": {
       "amount": 1614
@@ -12868,7 +12868,7 @@
   {
     "firstName": "BALIKDJIAN ",
     "login": "balucas",
-    "campus": null,
+    "campus": "pyc",
     "id": 1494,
     "xp": {
       "amount": 3214
@@ -12877,7 +12877,7 @@
   {
     "firstName": "CAMARA",
     "login": "cabdoula",
-    "campus": null,
+    "campus": "pyc",
     "id": 1495,
     "xp": {
       "amount": 2414
@@ -12886,7 +12886,7 @@
   {
     "firstName": "HARDUIN",
     "login": "hlucien",
-    "campus": null,
+    "campus": "pyc",
     "id": 1496,
     "xp": {
       "amount": 2414
@@ -12895,7 +12895,7 @@
   {
     "firstName": "CAZIN",
     "login": "calexis",
-    "campus": null,
+    "campus": "pyc",
     "id": 1497,
     "xp": {
       "amount": 3214
@@ -12904,7 +12904,7 @@
   {
     "firstName": "BATAILLE",
     "login": "bathomas",
-    "campus": null,
+    "campus": "pyc",
     "id": 1498,
     "xp": {
       "amount": 3214
@@ -12913,7 +12913,7 @@
   {
     "firstName": "MORTIER",
     "login": "mmatthie",
-    "campus": null,
+    "campus": "pyc",
     "id": 1499,
     "xp": {
       "amount": 3214
@@ -12922,7 +12922,7 @@
   {
     "firstName": "KREUWEN",
     "login": "kjulie",
-    "campus": null,
+    "campus": "pyc",
     "id": 1500,
     "xp": {
       "amount": 6214
@@ -12931,7 +12931,7 @@
   {
     "firstName": "FOURNIER",
     "login": "fyann",
-    "campus": null,
+    "campus": "pyc",
     "id": 1501,
     "xp": {
       "amount": 10114
@@ -12940,7 +12940,7 @@
   {
     "firstName": "HAMEDI",
     "login": "helisa",
-    "campus": null,
+    "campus": "pyc",
     "id": 1502,
     "xp": {
       "amount": 2414
@@ -12949,7 +12949,7 @@
   {
     "firstName": "POLYNICE",
     "login": "polivier",
-    "campus": null,
+    "campus": "pyc",
     "id": 1503,
     "xp": {
       "amount": 2414
@@ -12958,7 +12958,7 @@
   {
     "firstName": "BONHOMME ",
     "login": "bonathan",
-    "campus": null,
+    "campus": "pyc",
     "id": 1504,
     "xp": {
       "amount": 2414
@@ -13456,7 +13456,7 @@
   {
     "firstName": "RAKOTOMALALA",
     "login": "rfleuryj",
-    "campus": null,
+    "campus": "pyc",
     "id": 1582,
     "xp": {
       "amount": 9014
@@ -14641,7 +14641,7 @@
   {
     "firstName": "DENIEUL LE DIRAISON",
     "login": "dmatthie",
-    "campus": null,
+    "campus": "pyc",
     "id": 1712,
     "xp": {
       "amount": 2414
@@ -14650,7 +14650,7 @@
   {
     "firstName": "AOUDAR",
     "login": "aouardia",
-    "campus": null,
+    "campus": "pyc",
     "id": 1713,
     "xp": {
       "amount": 2414
@@ -14659,7 +14659,7 @@
   {
     "firstName": "MACCARIO",
     "login": "msofian",
-    "campus": null,
+    "campus": "pyc",
     "id": 1714,
     "xp": {
       "amount": 2414
