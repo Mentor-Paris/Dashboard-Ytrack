@@ -78,10 +78,10 @@
   {
     "firstName": "ERUAUD",
     "login": "ERUAUD",
-    "campus": "lyon",
+    "campus": null,
     "id": 14,
     "xp": {
-      "amount": 1552152
+      "amount": 8552152
     }
   },
   {
@@ -218,7 +218,7 @@
     "campus": null,
     "id": 1373,
     "xp": {
-      "amount": 3214
+      "amount": 11214
     }
   },
   {
@@ -1427,7 +1427,7 @@
     "campus": null,
     "id": 1385,
     "xp": {
-      "amount": 3214
+      "amount": 17989
     }
   },
   {
@@ -1913,7 +1913,7 @@
     "campus": null,
     "id": 1379,
     "xp": {
-      "amount": 3214
+      "amount": 16114
     }
   },
   {
@@ -2156,7 +2156,7 @@
     "campus": null,
     "id": 1374,
     "xp": {
-      "amount": 3214
+      "amount": 13314
     }
   },
   {
@@ -2190,7 +2190,7 @@
     "campus": "lyon",
     "id": 248,
     "xp": {
-      "amount": 1390696
+      "amount": 7080722
     }
   },
   {
@@ -2235,7 +2235,7 @@
     "campus": "lyon",
     "id": 253,
     "xp": {
-      "amount": 1379438
+      "amount": 7284829
     }
   },
   {
@@ -2271,7 +2271,7 @@
     "campus": "lyon",
     "id": 257,
     "xp": {
-      "amount": 813600
+      "amount": 6479923
     }
   },
   {
@@ -2640,7 +2640,7 @@
     "campus": null,
     "id": 1375,
     "xp": {
-      "amount": 3214
+      "amount": 11214
     }
   },
   {
@@ -2766,7 +2766,7 @@
     "campus": "lyon",
     "id": 310,
     "xp": {
-      "amount": 1676437
+      "amount": 7192962
     }
   },
   {
@@ -3366,7 +3366,7 @@
     "campus": null,
     "id": 1454,
     "xp": {
-      "amount": 263
+      "amount": 2414
     }
   },
   {
@@ -4274,7 +4274,9 @@
     "login": "halexis",
     "campus": "toulouse",
     "id": 1547,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "",
@@ -5200,7 +5202,7 @@
     "campus": null,
     "id": 1376,
     "xp": {
-      "amount": 1614
+      "amount": 8214
     }
   },
   {
@@ -5686,7 +5688,7 @@
     "campus": null,
     "id": 1377,
     "xp": {
-      "amount": 4214
+      "amount": 16564
     }
   },
   {
@@ -6175,7 +6177,7 @@
     "campus": null,
     "id": 1381,
     "xp": {
-      "amount": 2414
+      "amount": 12314
     }
   },
   {
@@ -6335,7 +6337,7 @@
     "campus": "lyon",
     "id": 723,
     "xp": {
-      "amount": 19075
+      "amount": 27364
     }
   },
   {
@@ -6369,7 +6371,7 @@
     "campus": "lyon",
     "id": 727,
     "xp": {
-      "amount": 19375
+      "amount": 28101
     }
   },
   {
@@ -7849,7 +7851,7 @@
     "campus": null,
     "id": 1368,
     "xp": {
-      "amount": 3214
+      "amount": 13314
     }
   },
   {
@@ -8340,7 +8342,7 @@
     "campus": null,
     "id": 1369,
     "xp": {
-      "amount": 4214
+      "amount": 13314
     }
   },
   {
@@ -8349,7 +8351,7 @@
     "campus": null,
     "id": 1370,
     "xp": {
-      "amount": 2414
+      "amount": 12314
     }
   },
   {
@@ -8413,15 +8415,6 @@
     "id": 975,
     "xp": {
       "amount": 6414
-    }
-  },
-  {
-    "firstName": "QBECKER",
-    "login": "QBECKER",
-    "campus": "toulouse",
-    "id": 978,
-    "xp": {
-      "amount": 638
     }
   },
   {
@@ -8575,6 +8568,15 @@
     "id": 974,
     "xp": {
       "amount": 216113
+    }
+  },
+  {
+    "firstName": "QBECKER",
+    "login": "QBECKER",
+    "campus": "toulouse",
+    "id": 978,
+    "xp": {
+      "amount": 638
     }
   },
   {
@@ -9024,7 +9026,9 @@
     "login": "iluca",
     "campus": "toulouse",
     "id": 1554,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "LAMOULIE",
@@ -11393,7 +11397,7 @@
     "campus": null,
     "id": 1371,
     "xp": {
-      "amount": 2414
+      "amount": 15564
     }
   },
   {
@@ -11595,7 +11599,7 @@
     "campus": null,
     "id": 1372,
     "xp": {
-      "amount": 2414
+      "amount": 13314
     }
   },
   {
@@ -11604,7 +11608,7 @@
     "campus": null,
     "id": 1378,
     "xp": {
-      "amount": 3214
+      "amount": 13314
     }
   },
   {
@@ -11613,7 +11617,7 @@
     "campus": null,
     "id": 1380,
     "xp": {
-      "amount": 1126
+      "amount": 8514
     }
   },
   {
@@ -11622,7 +11626,7 @@
     "campus": null,
     "id": 1382,
     "xp": {
-      "amount": 2414
+      "amount": 13314
     }
   },
   {
@@ -11631,7 +11635,7 @@
     "campus": null,
     "id": 1383,
     "xp": {
-      "amount": 3214
+      "amount": 10114
     }
   },
   {
@@ -11713,7 +11717,7 @@
     "campus": "toulouse",
     "id": 464,
     "xp": {
-      "amount": 18025
+      "amount": 20126
     }
   },
   {
@@ -11794,13 +11798,6 @@
     "xp": {}
   },
   {
-    "firstName": "KOPENKIN",
-    "login": "kdmitrii",
-    "campus": null,
-    "id": 1356,
-    "xp": {}
-  },
-  {
     "firstName": "SPYSSCHAERT",
     "login": "schloe",
     "campus": null,
@@ -11827,7 +11824,7 @@
     "campus": null,
     "id": 1360,
     "xp": {
-      "amount": 2414
+      "amount": 15564
     }
   },
   {
@@ -11836,7 +11833,7 @@
     "campus": null,
     "id": 1361,
     "xp": {
-      "amount": 2414
+      "amount": 12314
     }
   },
   {
@@ -11845,7 +11842,7 @@
     "campus": null,
     "id": 1362,
     "xp": {
-      "amount": 3214
+      "amount": 13314
     }
   },
   {
@@ -11854,7 +11851,7 @@
     "campus": null,
     "id": 1363,
     "xp": {
-      "amount": 3214
+      "amount": 14739
     }
   },
   {
@@ -11863,7 +11860,7 @@
     "campus": null,
     "id": 1364,
     "xp": {
-      "amount": 3214
+      "amount": 17989
     }
   },
   {
@@ -11872,7 +11869,7 @@
     "campus": null,
     "id": 1365,
     "xp": {
-      "amount": 3214
+      "amount": 17989
     }
   },
   {
@@ -11881,7 +11878,7 @@
     "campus": null,
     "id": 1366,
     "xp": {
-      "amount": 3214
+      "amount": 17989
     }
   },
   {
@@ -11890,7 +11887,16 @@
     "campus": null,
     "id": 1367,
     "xp": {
-      "amount": 3214
+      "amount": 12314
+    }
+  },
+  {
+    "firstName": "KOPENKIN",
+    "login": "kdmitrii",
+    "campus": "toulouse",
+    "id": 1356,
+    "xp": {
+      "amount": 1451
     }
   },
   {
@@ -11899,7 +11905,7 @@
     "campus": null,
     "id": 1384,
     "xp": {
-      "amount": 1614
+      "amount": 10714
     }
   },
   {
@@ -11908,7 +11914,7 @@
     "campus": null,
     "id": 1387,
     "xp": {
-      "amount": 2414
+      "amount": 13689
     }
   },
   {
@@ -11917,7 +11923,7 @@
     "campus": null,
     "id": 1388,
     "xp": {
-      "amount": 2414
+      "amount": 12314
     }
   },
   {
@@ -11926,7 +11932,7 @@
     "campus": null,
     "id": 1389,
     "xp": {
-      "amount": 3214
+      "amount": 15564
     }
   },
   {
@@ -11935,7 +11941,7 @@
     "campus": null,
     "id": 1390,
     "xp": {
-      "amount": 2414
+      "amount": 12314
     }
   },
   {
@@ -11944,7 +11950,7 @@
     "campus": null,
     "id": 1386,
     "xp": {
-      "amount": 3214
+      "amount": 17989
     }
   },
   {
@@ -11953,7 +11959,7 @@
     "campus": null,
     "id": 1394,
     "xp": {
-      "amount": 2414
+      "amount": 11514
     }
   },
   {
@@ -11962,7 +11968,7 @@
     "campus": null,
     "id": 1400,
     "xp": {
-      "amount": 3214
+      "amount": 14689
     }
   },
   {
@@ -11971,7 +11977,7 @@
     "campus": null,
     "id": 1401,
     "xp": {
-      "amount": 3214
+      "amount": 15564
     }
   },
   {
@@ -11980,7 +11986,7 @@
     "campus": null,
     "id": 1406,
     "xp": {
-      "amount": 1614
+      "amount": 15564
     }
   },
   {
@@ -11989,7 +11995,7 @@
     "campus": null,
     "id": 1407,
     "xp": {
-      "amount": 3214
+      "amount": 15564
     }
   },
   {
@@ -11998,7 +12004,7 @@
     "campus": null,
     "id": 1411,
     "xp": {
-      "amount": 2414
+      "amount": 11214
     }
   },
   {
@@ -12007,7 +12013,7 @@
     "campus": null,
     "id": 1415,
     "xp": {
-      "amount": 3214
+      "amount": 10114
     }
   },
   {
@@ -12016,7 +12022,7 @@
     "campus": null,
     "id": 1416,
     "xp": {
-      "amount": 2414
+      "amount": 12314
     }
   },
   {
@@ -12025,7 +12031,7 @@
     "campus": null,
     "id": 1419,
     "xp": {
-      "amount": 3214
+      "amount": 16564
     }
   },
   {
@@ -12034,7 +12040,7 @@
     "campus": null,
     "id": 1420,
     "xp": {
-      "amount": 3214
+      "amount": 10114
     }
   },
   {
@@ -12043,7 +12049,7 @@
     "campus": null,
     "id": 1391,
     "xp": {
-      "amount": 3214
+      "amount": 14739
     }
   },
   {
@@ -12052,7 +12058,7 @@
     "campus": null,
     "id": 1392,
     "xp": {
-      "amount": 2414
+      "amount": 11214
     }
   },
   {
@@ -12061,7 +12067,7 @@
     "campus": null,
     "id": 1393,
     "xp": {
-      "amount": 2414
+      "amount": 11214
     }
   },
   {
@@ -12070,7 +12076,7 @@
     "campus": null,
     "id": 1422,
     "xp": {
-      "amount": 3214
+      "amount": 12314
     }
   },
   {
@@ -12079,7 +12085,7 @@
     "campus": null,
     "id": 1395,
     "xp": {
-      "amount": 3214
+      "amount": 13314
     }
   },
   {
@@ -12088,7 +12094,7 @@
     "campus": null,
     "id": 1396,
     "xp": {
-      "amount": 4214
+      "amount": 16564
     }
   },
   {
@@ -12097,7 +12103,7 @@
     "campus": null,
     "id": 1397,
     "xp": {
-      "amount": 3214
+      "amount": 15564
     }
   },
   {
@@ -12106,7 +12112,7 @@
     "campus": null,
     "id": 1398,
     "xp": {
-      "amount": 3214
+      "amount": 14739
     }
   },
   {
@@ -12115,7 +12121,7 @@
     "campus": null,
     "id": 1399,
     "xp": {
-      "amount": 3214
+      "amount": 16564
     }
   },
   {
@@ -12124,7 +12130,7 @@
     "campus": null,
     "id": 1404,
     "xp": {
-      "amount": 2414
+      "amount": 12314
     }
   },
   {
@@ -12133,7 +12139,7 @@
     "campus": null,
     "id": 1408,
     "xp": {
-      "amount": 3214
+      "amount": 11214
     }
   },
   {
@@ -12142,7 +12148,7 @@
     "campus": null,
     "id": 1410,
     "xp": {
-      "amount": 3214
+      "amount": 17989
     }
   },
   {
@@ -12151,7 +12157,7 @@
     "campus": null,
     "id": 1412,
     "xp": {
-      "amount": 2414
+      "amount": 15564
     }
   },
   {
@@ -12160,7 +12166,7 @@
     "campus": null,
     "id": 1413,
     "xp": {
-      "amount": 2414
+      "amount": 11514
     }
   },
   {
@@ -12169,7 +12175,7 @@
     "campus": null,
     "id": 1417,
     "xp": {
-      "amount": 3214
+      "amount": 13689
     }
   },
   {
@@ -12178,7 +12184,7 @@
     "campus": null,
     "id": 1418,
     "xp": {
-      "amount": 2414
+      "amount": 11214
     }
   },
   {
@@ -12187,7 +12193,7 @@
     "campus": null,
     "id": 1421,
     "xp": {
-      "amount": 3214
+      "amount": 10114
     }
   },
   {
@@ -12196,7 +12202,7 @@
     "campus": null,
     "id": 1402,
     "xp": {
-      "amount": 2414
+      "amount": 11214
     }
   },
   {
@@ -12205,7 +12211,7 @@
     "campus": null,
     "id": 1403,
     "xp": {
-      "amount": 1614
+      "amount": 11514
     }
   },
   {
@@ -12214,7 +12220,7 @@
     "campus": null,
     "id": 1405,
     "xp": {
-      "amount": 2414
+      "amount": 12889
     }
   },
   {
@@ -12223,7 +12229,7 @@
     "campus": null,
     "id": 1409,
     "xp": {
-      "amount": 3214
+      "amount": 12314
     }
   },
   {
@@ -12232,7 +12238,7 @@
     "campus": null,
     "id": 1414,
     "xp": {
-      "amount": 2414
+      "amount": 11214
     }
   },
   {
@@ -12241,7 +12247,7 @@
     "campus": null,
     "id": 1423,
     "xp": {
-      "amount": 3214
+      "amount": 13314
     }
   },
   {
@@ -12250,7 +12256,7 @@
     "campus": null,
     "id": 1424,
     "xp": {
-      "amount": 3214
+      "amount": 13689
     }
   },
   {
@@ -12259,7 +12265,7 @@
     "campus": null,
     "id": 1425,
     "xp": {
-      "amount": 3214
+      "amount": 10114
     }
   },
   {
@@ -12268,7 +12274,7 @@
     "campus": null,
     "id": 1426,
     "xp": {
-      "amount": 1126
+      "amount": 5514
     }
   },
   {
@@ -12277,7 +12283,7 @@
     "campus": null,
     "id": 1427,
     "xp": {
-      "amount": 4214
+      "amount": 16564
     }
   },
   {
@@ -12286,7 +12292,7 @@
     "campus": null,
     "id": 1428,
     "xp": {
-      "amount": 638
+      "amount": 2638
     }
   },
   {
@@ -12295,7 +12301,7 @@
     "campus": null,
     "id": 1429,
     "xp": {
-      "amount": 2414
+      "amount": 8214
     }
   },
   {
@@ -12304,7 +12310,7 @@
     "campus": null,
     "id": 1430,
     "xp": {
-      "amount": 3251
+      "amount": 6764
     }
   },
   {
@@ -12313,7 +12319,7 @@
     "campus": null,
     "id": 1431,
     "xp": {
-      "amount": 2414
+      "amount": 7764
     }
   },
   {
@@ -12331,7 +12337,7 @@
     "campus": null,
     "id": 1433,
     "xp": {
-      "amount": 2414
+      "amount": 6964
     }
   },
   {
@@ -12349,7 +12355,7 @@
     "campus": null,
     "id": 1435,
     "xp": {
-      "amount": 2414
+      "amount": 9327
     }
   },
   {
@@ -12358,7 +12364,7 @@
     "campus": null,
     "id": 1436,
     "xp": {
-      "amount": 1614
+      "amount": 3814
     }
   },
   {
@@ -12385,7 +12391,7 @@
     "campus": null,
     "id": 1439,
     "xp": {
-      "amount": 1614
+      "amount": 4914
     }
   },
   {
@@ -12394,7 +12400,7 @@
     "campus": null,
     "id": 1440,
     "xp": {
-      "amount": 1614
+      "amount": 3214
     }
   },
   {
@@ -12403,7 +12409,7 @@
     "campus": null,
     "id": 1441,
     "xp": {
-      "amount": 1614
+      "amount": 3814
     }
   },
   {
@@ -12412,7 +12418,7 @@
     "campus": null,
     "id": 1442,
     "xp": {
-      "amount": 2414
+      "amount": 3214
     }
   },
   {
@@ -12421,7 +12427,7 @@
     "campus": null,
     "id": 1443,
     "xp": {
-      "amount": 3214
+      "amount": 8764
     }
   },
   {
@@ -12430,7 +12436,7 @@
     "campus": null,
     "id": 1444,
     "xp": {
-      "amount": 1614
+      "amount": 6514
     }
   },
   {
@@ -12439,7 +12445,7 @@
     "campus": null,
     "id": 1445,
     "xp": {
-      "amount": 2414
+      "amount": 7764
     }
   },
   {
@@ -12448,7 +12454,7 @@
     "campus": null,
     "id": 1446,
     "xp": {
-      "amount": 1614
+      "amount": 3814
     }
   },
   {
@@ -12457,7 +12463,7 @@
     "campus": null,
     "id": 1447,
     "xp": {
-      "amount": 1126
+      "amount": 1614
     }
   },
   {
@@ -12466,7 +12472,7 @@
     "campus": null,
     "id": 1448,
     "xp": {
-      "amount": 1126
+      "amount": 2714
     }
   },
   {
@@ -12475,7 +12481,7 @@
     "campus": null,
     "id": 1449,
     "xp": {
-      "amount": 1126
+      "amount": 2714
     }
   },
   {
@@ -12484,7 +12490,7 @@
     "campus": null,
     "id": 1450,
     "xp": {
-      "amount": 2414
+      "amount": 6964
     }
   },
   {
@@ -12500,7 +12506,7 @@
     "campus": null,
     "id": 1452,
     "xp": {
-      "amount": 1614
+      "amount": 10114
     }
   },
   {
@@ -12508,24 +12514,26 @@
     "login": "rthomas",
     "campus": null,
     "id": 1453,
-    "xp": {}
-  },
-  {
-    "firstName": "LEGRAND",
-    "login": "lguillaum",
-    "campus": null,
-    "id": 1455,
     "xp": {
       "amount": 1614
     }
   },
   {
+    "firstName": "LEGRAND",
+    "login": "lguillaum",
+    "campus": "pyc",
+    "id": 1455,
+    "xp": {
+      "amount": 5364
+    }
+  },
+  {
     "firstName": "STAILI",
     "login": "silyes",
-    "campus": null,
+    "campus": "pyc",
     "id": 1463,
     "xp": {
-      "amount": 1126
+      "amount": 2414
     }
   },
   {
@@ -12534,7 +12542,7 @@
     "campus": null,
     "id": 1464,
     "xp": {
-      "amount": 2414
+      "amount": 3814
     }
   },
   {
@@ -12543,7 +12551,7 @@
     "campus": null,
     "id": 1466,
     "xp": {
-      "amount": 638
+      "amount": 3614
     }
   },
   {
@@ -12552,7 +12560,7 @@
     "campus": null,
     "id": 1468,
     "xp": {
-      "amount": 638
+      "amount": 2414
     }
   },
   {
@@ -12561,16 +12569,16 @@
     "campus": null,
     "id": 1472,
     "xp": {
-      "amount": 263
+      "amount": 2414
     }
   },
   {
     "firstName": "LAPLACE",
     "login": "ldanny",
-    "campus": null,
+    "campus": "pyc",
     "id": 1473,
     "xp": {
-      "amount": 2414
+      "amount": 6164
     }
   },
   {
@@ -12579,7 +12587,7 @@
     "campus": null,
     "id": 1474,
     "xp": {
-      "amount": 1126
+      "amount": 3214
     }
   },
   {
@@ -12588,7 +12596,7 @@
     "campus": null,
     "id": 1456,
     "xp": {
-      "amount": 2414
+      "amount": 14689
     }
   },
   {
@@ -12597,7 +12605,7 @@
     "campus": null,
     "id": 1458,
     "xp": {
-      "amount": 1614
+      "amount": 3814
     }
   },
   {
@@ -12606,7 +12614,7 @@
     "campus": null,
     "id": 1459,
     "xp": {
-      "amount": 1126
+      "amount": 2414
     }
   },
   {
@@ -12615,7 +12623,7 @@
     "campus": null,
     "id": 1469,
     "xp": {
-      "amount": 263
+      "amount": 2414
     }
   },
   {
@@ -12624,7 +12632,7 @@
     "campus": null,
     "id": 1470,
     "xp": {
-      "amount": 1614
+      "amount": 3614
     }
   },
   {
@@ -12633,7 +12641,7 @@
     "campus": null,
     "id": 1471,
     "xp": {
-      "amount": 638
+      "amount": 5364
     }
   },
   {
@@ -12642,7 +12650,7 @@
     "campus": null,
     "id": 1457,
     "xp": {
-      "amount": 1614
+      "amount": 12214
     }
   },
   {
@@ -12651,7 +12659,7 @@
     "campus": null,
     "id": 1460,
     "xp": {
-      "amount": 1126
+      "amount": 3614
     }
   },
   {
@@ -12660,7 +12668,7 @@
     "campus": null,
     "id": 1461,
     "xp": {
-      "amount": 1126
+      "amount": 10114
     }
   },
   {
@@ -12669,7 +12677,7 @@
     "campus": null,
     "id": 1462,
     "xp": {
-      "amount": 1126
+      "amount": 3214
     }
   },
   {
@@ -12677,7 +12685,9 @@
     "login": "rmaxence",
     "campus": null,
     "id": 1465,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "ARTHUR",
@@ -12685,7 +12695,7 @@
     "campus": null,
     "id": 1467,
     "xp": {
-      "amount": 1614
+      "amount": 10114
     }
   },
   {
@@ -12694,7 +12704,7 @@
     "campus": null,
     "id": 1475,
     "xp": {
-      "amount": 1126
+      "amount": 10114
     }
   },
   {
@@ -12703,7 +12713,7 @@
     "campus": null,
     "id": 1476,
     "xp": {
-      "amount": 1614
+      "amount": 5214
     }
   },
   {
@@ -12712,7 +12722,7 @@
     "campus": null,
     "id": 1477,
     "xp": {
-      "amount": 638
+      "amount": 3214
     }
   },
   {
@@ -12728,7 +12738,7 @@
     "campus": null,
     "id": 1479,
     "xp": {
-      "amount": 1614
+      "amount": 4414
     }
   },
   {
@@ -12736,7 +12746,9 @@
     "login": "rantoine",
     "campus": null,
     "id": 1480,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "NOHE ESTRADA",
@@ -12744,7 +12756,7 @@
     "campus": null,
     "id": 1481,
     "xp": {
-      "amount": 1614
+      "amount": 11114
     }
   },
   {
@@ -12753,7 +12765,7 @@
     "campus": null,
     "id": 1482,
     "xp": {
-      "amount": 1614
+      "amount": 4414
     }
   },
   {
@@ -12761,7 +12773,9 @@
     "login": "tamadis",
     "campus": null,
     "id": 1483,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "SMYCZYK",
@@ -12769,7 +12783,7 @@
     "campus": null,
     "id": 1484,
     "xp": {
-      "amount": 263
+      "amount": 2414
     }
   },
   {
@@ -12778,7 +12792,7 @@
     "campus": null,
     "id": 1485,
     "xp": {
-      "amount": 1126
+      "amount": 2414
     }
   },
   {
@@ -12793,7 +12807,9 @@
     "login": "aterence",
     "campus": null,
     "id": 1487,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "SOULIER",
@@ -12801,7 +12817,7 @@
     "campus": null,
     "id": 1488,
     "xp": {
-      "amount": 1614
+      "amount": 7114
     }
   },
   {
@@ -12810,7 +12826,7 @@
     "campus": null,
     "id": 1489,
     "xp": {
-      "amount": 263
+      "amount": 2414
     }
   },
   {
@@ -12818,7 +12834,9 @@
     "login": "gnuma",
     "campus": null,
     "id": 1490,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "PULLIG",
@@ -12826,7 +12844,7 @@
     "campus": null,
     "id": 1491,
     "xp": {
-      "amount": 263
+      "amount": 3214
     }
   },
   {
@@ -12835,7 +12853,7 @@
     "campus": null,
     "id": 1492,
     "xp": {
-      "amount": 263
+      "amount": 2414
     }
   },
   {
@@ -12843,7 +12861,9 @@
     "login": "mwahab",
     "campus": null,
     "id": 1493,
-    "xp": {}
+    "xp": {
+      "amount": 1614
+    }
   },
   {
     "firstName": "BALIKDJIAN ",
@@ -12851,7 +12871,7 @@
     "campus": null,
     "id": 1494,
     "xp": {
-      "amount": 1614
+      "amount": 3214
     }
   },
   {
@@ -12859,7 +12879,9 @@
     "login": "cabdoula",
     "campus": null,
     "id": 1495,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "HARDUIN",
@@ -12867,7 +12889,7 @@
     "campus": null,
     "id": 1496,
     "xp": {
-      "amount": 638
+      "amount": 2414
     }
   },
   {
@@ -12876,7 +12898,7 @@
     "campus": null,
     "id": 1497,
     "xp": {
-      "amount": 638
+      "amount": 3214
     }
   },
   {
@@ -12884,7 +12906,9 @@
     "login": "bathomas",
     "campus": null,
     "id": 1498,
-    "xp": {}
+    "xp": {
+      "amount": 3214
+    }
   },
   {
     "firstName": "MORTIER",
@@ -12892,7 +12916,7 @@
     "campus": null,
     "id": 1499,
     "xp": {
-      "amount": 638
+      "amount": 3214
     }
   },
   {
@@ -12901,7 +12925,7 @@
     "campus": null,
     "id": 1500,
     "xp": {
-      "amount": 2414
+      "amount": 6214
     }
   },
   {
@@ -12910,7 +12934,7 @@
     "campus": null,
     "id": 1501,
     "xp": {
-      "amount": 1614
+      "amount": 10114
     }
   },
   {
@@ -12919,7 +12943,7 @@
     "campus": null,
     "id": 1502,
     "xp": {
-      "amount": 638
+      "amount": 2414
     }
   },
   {
@@ -12928,7 +12952,7 @@
     "campus": null,
     "id": 1503,
     "xp": {
-      "amount": 638
+      "amount": 2414
     }
   },
   {
@@ -12936,21 +12960,27 @@
     "login": "bonathan",
     "campus": null,
     "id": 1504,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "SELLIER",
     "login": "slouis",
     "campus": "toulouse",
     "id": 1506,
-    "xp": {}
+    "xp": {
+      "amount": 1126
+    }
   },
   {
     "firstName": "LEROI",
     "login": "lremi",
     "campus": "toulouse",
     "id": 1556,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "VILALLONGA",
@@ -12964,63 +12994,81 @@
     "login": "aadam",
     "campus": "toulouse",
     "id": 1508,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "AMOUSSA",
     "login": "ahamdoun",
     "campus": "toulouse",
     "id": 1540,
-    "xp": {}
+    "xp": {
+      "amount": 1126
+    }
   },
   {
     "firstName": "ANDRÉ",
     "login": "aedgar",
     "campus": "toulouse",
     "id": 1527,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "ANDRIANDAFIMANANA",
     "login": "ajohann",
     "campus": "toulouse",
     "id": 1536,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "ANDRIEUX",
     "login": "arodolph",
     "campus": "toulouse",
     "id": 1511,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "THOLLARD",
     "login": "tsebasti",
     "campus": "toulouse",
     "id": 1525,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "AUVRAY",
     "login": "aquentin",
     "campus": "toulouse",
     "id": 1543,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "SOTTI",
     "login": "sgiovann",
     "campus": "toulouse",
     "id": 1517,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "BERRICHI",
     "login": "bmohamed",
     "campus": "toulouse",
     "id": 1523,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "RYBAK",
@@ -13034,217 +13082,279 @@
     "login": "balex",
     "campus": "toulouse",
     "id": 1531,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "BOUIBA",
     "login": "baymanal",
     "campus": "toulouse",
     "id": 1539,
-    "xp": {}
+    "xp": {
+      "amount": 638
+    }
   },
   {
     "firstName": "ROUILLARD",
     "login": "rugo",
     "campus": "toulouse",
     "id": 1534,
-    "xp": {}
+    "xp": {
+      "amount": 1126
+    }
   },
   {
     "firstName": "REUNGOAT",
     "login": "rnathan",
     "campus": "toulouse",
     "id": 1516,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "BREVIERE",
     "login": "bleo",
     "campus": "toulouse",
     "id": 1526,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "RÉGUIA",
     "login": "rdalyll",
     "campus": "toulouse",
     "id": 1530,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "BUZENAC",
     "login": "bremi",
     "campus": "toulouse",
     "id": 1535,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "PUJOL",
     "login": "pariel",
     "campus": "toulouse",
     "id": 1545,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "POUILLOT",
     "login": "premi",
     "campus": "toulouse",
     "id": 1509,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "CENAC",
     "login": "clucille",
     "campus": "toulouse",
     "id": 1541,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "COSTES-ROSSIGNOL",
     "login": "cfanny",
     "campus": "toulouse",
     "id": 1542,
-    "xp": {}
+    "xp": {
+      "amount": 1126
+    }
   },
   {
     "firstName": "PIET",
     "login": "pthomas",
     "campus": "toulouse",
     "id": 1529,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "DETRES",
     "login": "dflorent",
     "campus": "toulouse",
     "id": 1518,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "PALACIOS",
     "login": "pjordan",
     "campus": "toulouse",
     "id": 1520,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "MOUTARD",
     "login": "mquentin",
     "campus": "toulouse",
     "id": 1528,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "DUCHENE",
     "login": "duhugo",
     "campus": "toulouse",
     "id": 1510,
-    "xp": {}
+    "xp": {
+      "amount": 1126
+    }
   },
   {
     "firstName": "FAURÉ ",
     "login": "fleo",
     "campus": "toulouse",
     "id": 1524,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "FERRARI",
     "login": "fenzo",
     "campus": "toulouse",
     "id": 1513,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "MALLET",
     "login": "mnayan",
     "campus": "toulouse",
     "id": 1537,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "LEDUC",
     "login": "lalix",
     "campus": "toulouse",
     "id": 1521,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "GIBOUT",
     "login": "gquentin",
     "campus": "toulouse",
     "id": 1522,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "LE MEUR",
     "login": "lvincent",
     "campus": "toulouse",
     "id": 1532,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "LANIC",
     "login": "lgaelle",
     "campus": "toulouse",
     "id": 1519,
-    "xp": {}
+    "xp": {
+      "amount": 263
+    }
   },
   {
     "firstName": "LACANAL",
     "login": "lbryan",
     "campus": "toulouse",
     "id": 1533,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "LALDY-MAQUIHA",
     "login": "ladan",
     "campus": "toulouse",
     "id": 1538,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "ARMIRAIL",
     "login": "agregory",
     "campus": "toulouse",
     "id": 1549,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "SOCOLOVERT ",
     "login": "slea",
     "campus": "toulouse",
     "id": 1548,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "BRUN",
     "login": "bsasha",
     "campus": "toulouse",
     "id": 1551,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "POIRET",
     "login": "pmaxime",
     "campus": "toulouse",
     "id": 1557,
-    "xp": {}
+    "xp": {
+      "amount": 1126
+    }
   },
   {
     "firstName": "DELHOTEL",
     "login": "dantonin",
     "campus": "toulouse",
     "id": 1550,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "MORINI",
     "login": "mtheo",
     "campus": "toulouse",
     "id": 1562,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "FANNY",
@@ -13258,63 +13368,81 @@
     "login": "lrafael",
     "campus": "toulouse",
     "id": 1564,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "PITREL",
     "login": "pcorenti",
     "campus": "toulouse",
     "id": 1515,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "ALBORA",
     "login": "aflorian",
     "campus": "toulouse",
     "id": 1578,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "TRASSEBOT",
     "login": "tclement",
     "campus": "toulouse",
     "id": 1565,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "CAPUS",
     "login": "cethan",
     "campus": "toulouse",
     "id": 1576,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "DAMBREVILLE",
     "login": "dkarl",
     "campus": "toulouse",
     "id": 1560,
-    "xp": {}
+    "xp": {
+      "amount": 3701
+    }
   },
   {
     "firstName": "DEJEAN",
     "login": "dpierre",
     "campus": "toulouse",
     "id": 1559,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "GERMAIN",
     "login": "garnaud",
     "campus": "toulouse",
     "id": 1558,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "HUYS",
     "login": "hpablo",
     "campus": "toulouse",
     "id": 1561,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "BEHAGUE",
@@ -13322,7 +13450,7 @@
     "campus": null,
     "id": 1581,
     "xp": {
-      "amount": 2414
+      "amount": 10414
     }
   },
   {
@@ -13331,7 +13459,7 @@
     "campus": null,
     "id": 1582,
     "xp": {
-      "amount": 1614
+      "amount": 9014
     }
   },
   {
@@ -13340,7 +13468,7 @@
     "campus": null,
     "id": 1583,
     "xp": {
-      "amount": 2451
+      "amount": 9576
     }
   },
   {
@@ -13349,7 +13477,7 @@
     "campus": null,
     "id": 1584,
     "xp": {
-      "amount": 2451
+      "amount": 4201
     }
   },
   {
@@ -13358,7 +13486,7 @@
     "campus": null,
     "id": 1585,
     "xp": {
-      "amount": 3251
+      "amount": 22064
     }
   },
   {
@@ -13367,7 +13495,7 @@
     "campus": null,
     "id": 1586,
     "xp": {
-      "amount": 3251
+      "amount": 22064
     }
   },
   {
@@ -13376,7 +13504,7 @@
     "campus": null,
     "id": 1587,
     "xp": {
-      "amount": 2451
+      "amount": 19714
     }
   },
   {
@@ -13385,7 +13513,7 @@
     "campus": null,
     "id": 1588,
     "xp": {
-      "amount": 3251
+      "amount": 22064
     }
   },
   {
@@ -13394,7 +13522,7 @@
     "campus": null,
     "id": 1589,
     "xp": {
-      "amount": 3251
+      "amount": 24864
     }
   },
   {
@@ -13403,7 +13531,7 @@
     "campus": null,
     "id": 1590,
     "xp": {
-      "amount": 3251
+      "amount": 20664
     }
   },
   {
@@ -13412,7 +13540,7 @@
     "campus": null,
     "id": 1591,
     "xp": {
-      "amount": 2451
+      "amount": 13001
     }
   },
   {
@@ -13421,7 +13549,7 @@
     "campus": null,
     "id": 1592,
     "xp": {
-      "amount": 2451
+      "amount": 12001
     }
   },
   {
@@ -13430,7 +13558,7 @@
     "campus": null,
     "id": 1593,
     "xp": {
-      "amount": 2451
+      "amount": 20664
     }
   },
   {
@@ -13439,7 +13567,7 @@
     "campus": null,
     "id": 1594,
     "xp": {
-      "amount": 2451
+      "amount": 12001
     }
   },
   {
@@ -13448,7 +13576,7 @@
     "campus": null,
     "id": 1595,
     "xp": {
-      "amount": 875
+      "amount": 2451
     }
   },
   {
@@ -13457,7 +13585,7 @@
     "campus": null,
     "id": 1596,
     "xp": {
-      "amount": 2451
+      "amount": 13564
     }
   },
   {
@@ -13466,7 +13594,7 @@
     "campus": null,
     "id": 1597,
     "xp": {
-      "amount": 3251
+      "amount": 9101
     }
   },
   {
@@ -13475,7 +13603,7 @@
     "campus": null,
     "id": 1598,
     "xp": {
-      "amount": 3251
+      "amount": 21114
     }
   },
   {
@@ -13484,7 +13612,7 @@
     "campus": null,
     "id": 1599,
     "xp": {
-      "amount": 2451
+      "amount": 13564
     }
   },
   {
@@ -13493,7 +13621,7 @@
     "campus": null,
     "id": 1600,
     "xp": {
-      "amount": 2451
+      "amount": 8151
     }
   },
   {
@@ -13502,7 +13630,7 @@
     "campus": null,
     "id": 1601,
     "xp": {
-      "amount": 2451
+      "amount": 19714
     }
   },
   {
@@ -13511,7 +13639,7 @@
     "campus": null,
     "id": 1602,
     "xp": {
-      "amount": 3251
+      "amount": 13564
     }
   },
   {
@@ -13520,7 +13648,7 @@
     "campus": null,
     "id": 1603,
     "xp": {
-      "amount": 3251
+      "amount": 26264
     }
   },
   {
@@ -13529,7 +13657,7 @@
     "campus": null,
     "id": 1604,
     "xp": {
-      "amount": 2451
+      "amount": 4201
     }
   },
   {
@@ -13538,7 +13666,7 @@
     "campus": null,
     "id": 1605,
     "xp": {
-      "amount": 1851
+      "amount": 2451
     }
   },
   {
@@ -13547,7 +13675,7 @@
     "campus": null,
     "id": 1606,
     "xp": {
-      "amount": 2451
+      "amount": 8051
     }
   },
   {
@@ -13555,77 +13683,99 @@
     "login": "bousmane",
     "campus": "toulouse",
     "id": 1579,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "BERTAUD",
     "login": "benathan",
     "campus": "toulouse",
     "id": 1569,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "SABATHE",
     "login": "sjulien",
     "campus": "toulouse",
     "id": 1567,
-    "xp": {}
+    "xp": {
+      "amount": 1126
+    }
   },
   {
     "firstName": "BINETTI",
     "login": "badrien",
     "campus": "toulouse",
     "id": 1575,
-    "xp": {}
+    "xp": {
+      "amount": 263
+    }
   },
   {
     "firstName": "DEVIENNE",
     "login": "darthur",
     "campus": "toulouse",
     "id": 1574,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "DUVAL",
     "login": "denzo",
     "campus": "toulouse",
     "id": 1572,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "MENARD",
     "login": "merwan",
     "campus": "toulouse",
     "id": 1566,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "MARGRAS",
     "login": "mlouis",
     "campus": "toulouse",
     "id": 1571,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "GAYDOVA",
     "login": "gevelina",
     "campus": "toulouse",
     "id": 1577,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "LASSERRE",
     "login": "lanael",
     "campus": "toulouse",
     "id": 1568,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "JEAN LOUIS",
     "login": "jpablo",
     "campus": "toulouse",
     "id": 1580,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "RODENBURGER",
@@ -13640,7 +13790,7 @@
     "campus": null,
     "id": 1608,
     "xp": {
-      "amount": 1851
+      "amount": 2451
     }
   },
   {
@@ -13663,7 +13813,7 @@
     "campus": null,
     "id": 1610,
     "xp": {
-      "amount": 3251
+      "amount": 22064
     }
   },
   {
@@ -13877,19 +14027,12 @@
     "xp": {}
   },
   {
-    "firstName": "Christopher",
-    "login": "root",
-    "campus": "bordeaux",
-    "id": 6,
-    "xp": {}
-  },
-  {
     "firstName": "BESSON",
     "login": "bjules",
     "campus": null,
     "id": 1642,
     "xp": {
-      "amount": 3251
+      "amount": 12664
     }
   },
   {
@@ -13898,7 +14041,7 @@
     "campus": null,
     "id": 1643,
     "xp": {
-      "amount": 775
+      "amount": 3751
     }
   },
   {
@@ -13916,7 +14059,7 @@
     "campus": null,
     "id": 1645,
     "xp": {
-      "amount": 5226
+      "amount": 6176
     }
   },
   {
@@ -13943,7 +14086,7 @@
     "campus": null,
     "id": 1648,
     "xp": {
-      "amount": 175
+      "amount": 2088
     }
   },
   {
@@ -13952,7 +14095,7 @@
     "campus": null,
     "id": 1649,
     "xp": {
-      "amount": 3251
+      "amount": 14564
     }
   },
   {
@@ -13961,7 +14104,7 @@
     "campus": null,
     "id": 1650,
     "xp": {
-      "amount": 2801
+      "amount": 13452
     }
   },
   {
@@ -13970,7 +14113,7 @@
     "campus": null,
     "id": 1651,
     "xp": {
-      "amount": 3751
+      "amount": 13452
     }
   },
   {
@@ -13979,7 +14122,7 @@
     "campus": null,
     "id": 1652,
     "xp": {
-      "amount": 1913
+      "amount": 2626
     }
   },
   {
@@ -14006,7 +14149,7 @@
     "campus": null,
     "id": 1660,
     "xp": {
-      "amount": 2088
+      "amount": 3901
     }
   },
   {
@@ -14040,7 +14183,7 @@
     "campus": null,
     "id": 1656,
     "xp": {
-      "amount": 2801
+      "amount": 5177
     }
   },
   {
@@ -14049,7 +14192,7 @@
     "campus": null,
     "id": 1657,
     "xp": {
-      "amount": 2088
+      "amount": 4464
     }
   },
   {
@@ -14083,7 +14226,7 @@
     "campus": null,
     "id": 1664,
     "xp": {
-      "amount": 4288
+      "amount": 15652
     }
   },
   {
@@ -14117,7 +14260,7 @@
     "campus": null,
     "id": 1668,
     "xp": {
-      "amount": 175
+      "amount": 2801
     }
   },
   {
@@ -14135,7 +14278,7 @@
     "campus": null,
     "id": 1670,
     "xp": {
-      "amount": 775
+      "amount": 7377
     }
   },
   {
@@ -14144,7 +14287,7 @@
     "campus": null,
     "id": 1671,
     "xp": {
-      "amount": 2801
+      "amount": 8477
     }
   },
   {
@@ -14178,7 +14321,7 @@
     "campus": null,
     "id": 1675,
     "xp": {
-      "amount": 2801
+      "amount": 9877
     }
   },
   {
@@ -14212,7 +14355,7 @@
     "campus": null,
     "id": 1679,
     "xp": {
-      "amount": 2801
+      "amount": 5177
     }
   },
   {
@@ -14254,7 +14397,9 @@
     "login": "larthur",
     "campus": null,
     "id": 1684,
-    "xp": {}
+    "xp": {
+      "amount": 5063
+    }
   },
   {
     "firstName": "KAUFFMANT",
@@ -14262,7 +14407,7 @@
     "campus": null,
     "id": 1685,
     "xp": {
-      "amount": 3251
+      "amount": 13564
     }
   },
   {
@@ -14271,7 +14416,7 @@
     "campus": null,
     "id": 1686,
     "xp": {
-      "amount": 175
+      "amount": 2088
     }
   },
   {
@@ -14280,7 +14425,7 @@
     "campus": null,
     "id": 1687,
     "xp": {
-      "amount": 2451
+      "amount": 3251
     }
   },
   {
@@ -14289,7 +14434,7 @@
     "campus": null,
     "id": 1688,
     "xp": {
-      "amount": 2451
+      "amount": 8051
     }
   },
   {
@@ -14298,7 +14443,7 @@
     "campus": null,
     "id": 1689,
     "xp": {
-      "amount": 1851
+      "amount": 10101
     }
   },
   {
@@ -14307,7 +14452,7 @@
     "campus": null,
     "id": 1690,
     "xp": {
-      "amount": 2451
+      "amount": 13764
     }
   },
   {
@@ -14316,7 +14461,7 @@
     "campus": null,
     "id": 1691,
     "xp": {
-      "amount": 1851
+      "amount": 3251
     }
   },
   {
@@ -14325,7 +14470,7 @@
     "campus": null,
     "id": 1692,
     "xp": {
-      "amount": 2451
+      "amount": 9151
     }
   },
   {
@@ -14334,7 +14479,7 @@
     "campus": null,
     "id": 1693,
     "xp": {
-      "amount": 2451
+      "amount": 3251
     }
   },
   {
@@ -14343,7 +14488,7 @@
     "campus": null,
     "id": 1694,
     "xp": {
-      "amount": 2451
+      "amount": 8151
     }
   },
   {
@@ -14352,7 +14497,7 @@
     "campus": null,
     "id": 1695,
     "xp": {
-      "amount": 1851
+      "amount": 7051
     }
   },
   {
@@ -14361,7 +14506,7 @@
     "campus": null,
     "id": 1696,
     "xp": {
-      "amount": 1851
+      "amount": 9151
     }
   },
   {
@@ -14370,7 +14515,7 @@
     "campus": null,
     "id": 1697,
     "xp": {
-      "amount": 2451
+      "amount": 8201
     }
   },
   {
@@ -14379,7 +14524,7 @@
     "campus": null,
     "id": 1698,
     "xp": {
-      "amount": 2451
+      "amount": 3251
     }
   },
   {
@@ -14388,7 +14533,7 @@
     "campus": null,
     "id": 1699,
     "xp": {
-      "amount": 2451
+      "amount": 3251
     }
   },
   {
@@ -14397,7 +14542,7 @@
     "campus": null,
     "id": 1700,
     "xp": {
-      "amount": 2451
+      "amount": 7051
     }
   },
   {
@@ -14406,7 +14551,7 @@
     "campus": null,
     "id": 1701,
     "xp": {
-      "amount": 1851
+      "amount": 3251
     }
   },
   {
@@ -14415,7 +14560,7 @@
     "campus": null,
     "id": 1702,
     "xp": {
-      "amount": 1851
+      "amount": 6301
     }
   },
   {
@@ -14423,7 +14568,9 @@
     "login": "cdylan",
     "campus": null,
     "id": 1707,
-    "xp": {}
+    "xp": {
+      "amount": 500
+    }
   },
   {
     "firstName": "BRANDAO SILVA",
@@ -14431,7 +14578,7 @@
     "campus": null,
     "id": 1708,
     "xp": {
-      "amount": 1851
+      "amount": 3251
     }
   },
   {
@@ -14440,7 +14587,7 @@
     "campus": null,
     "id": 1703,
     "xp": {
-      "amount": 2451
+      "amount": 7351
     }
   },
   {
@@ -14449,7 +14596,7 @@
     "campus": null,
     "id": 1704,
     "xp": {
-      "amount": 875
+      "amount": 2913
     }
   },
   {
@@ -14458,7 +14605,7 @@
     "campus": null,
     "id": 1705,
     "xp": {
-      "amount": 1851
+      "amount": 2451
     }
   },
   {
@@ -14466,7 +14613,9 @@
     "login": "kmouhame",
     "campus": null,
     "id": 1706,
-    "xp": {}
+    "xp": {
+      "amount": 1363
+    }
   },
   {
     "firstName": "NGONO ABANDA",
@@ -14494,7 +14643,9 @@
     "login": "dmatthie",
     "campus": null,
     "id": 1712,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "AOUDAR",
@@ -14502,7 +14653,7 @@
     "campus": null,
     "id": 1713,
     "xp": {
-      "amount": 263
+      "amount": 2414
     }
   },
   {
@@ -14510,56 +14661,72 @@
     "login": "msofian",
     "campus": null,
     "id": 1714,
-    "xp": {}
+    "xp": {
+      "amount": 2414
+    }
   },
   {
     "firstName": "GOURBAL",
     "login": "gfrancoi",
     "campus": "toulouse",
     "id": 1715,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "VAZEILLE",
     "login": "vmariejo",
     "campus": "toulouse",
     "id": 1573,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "TAJ",
     "login": "thugomeh",
     "campus": "toulouse",
     "id": 1718,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "AUGÉ",
     "login": "aromain",
     "campus": "toulouse",
     "id": 1546,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "SUCKIEL",
     "login": "sutheo",
     "campus": "toulouse",
     "id": 1553,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "STOFFELBACH",
     "login": "stheo",
     "campus": "toulouse",
     "id": 1505,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "BOUCAUD",
     "login": "bdorian",
     "campus": "toulouse",
     "id": 1544,
-    "xp": {}
+    "xp": {
+      "amount": 1451
+    }
   },
   {
     "firstName": "BFLORIAN",
@@ -14580,34 +14747,56 @@
     "login": "pmaxence",
     "campus": "toulouse",
     "id": 1570,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "FRAVALO",
     "login": "fkillian",
     "campus": "toulouse",
     "id": 1512,
-    "xp": {}
+    "xp": {
+      "amount": 2101
+    }
   },
   {
     "firstName": "GARNIER",
     "login": "gsimon",
     "campus": "toulouse",
     "id": 1716,
-    "xp": {}
+    "xp": {
+      "amount": 1126
+    }
   },
   {
     "firstName": "HUTIN",
     "login": "hmaxime",
     "campus": "toulouse",
     "id": 1552,
-    "xp": {}
+    "xp": {
+      "amount": 263
+    }
   },
   {
     "firstName": "PFACONNIER",
     "login": "PFACONNIER",
     "campus": "nantes",
     "id": 559,
+    "xp": {}
+  },
+  {
+    "firstName": "Christopher",
+    "login": "root",
+    "campus": "bordeaux",
+    "id": 6,
+    "xp": {}
+  },
+  {
+    "firstName": "ROQUES",
+    "login": "roantoine",
+    "campus": null,
+    "id": 1719,
     "xp": {}
   }
 ]
