@@ -1,6 +1,7 @@
 [
     {
         "firstName": "vincent.thebaud",
+        "login": "vincent.thebaud",
         "campus": "aix",
         "id": 12,
         "xp": {
@@ -9,6 +10,7 @@
     },
     {
         "firstName": "LDOMINGUEZ",
+        "login": "LDOMINGUEZ",
         "campus": "aix",
         "id": 18,
         "xp": {
@@ -17,6 +19,7 @@
     },
     {
         "firstName": "VNAULEAU",
+        "login": "VNAULEAU",
         "campus": "aix",
         "id": 316,
         "xp": {
@@ -25,6 +28,7 @@
     },
     {
         "firstName": "MBEY",
+        "login": "MBEY",
         "campus": "aix",
         "id": 317,
         "xp": {
@@ -33,6 +37,7 @@
     },
     {
         "firstName": "LALEM",
+        "login": "LALEM",
         "campus": "aix",
         "id": 318,
         "xp": {
@@ -41,6 +46,7 @@
     },
     {
         "firstName": "ADESPRES",
+        "login": "ADESPRES",
         "campus": "aix",
         "id": 319,
         "xp": {
@@ -49,6 +55,7 @@
     },
     {
         "firstName": "FIMBERT",
+        "login": "FIMBERT",
         "campus": "aix",
         "id": 320,
         "xp": {
@@ -57,6 +64,7 @@
     },
     {
         "firstName": "CSIAUD",
+        "login": "CSIAUD",
         "campus": "aix",
         "id": 321,
         "xp": {
@@ -65,6 +73,7 @@
     },
     {
         "firstName": "LCARMINATI",
+        "login": "LCARMINATI",
         "campus": "aix",
         "id": 322,
         "xp": {
@@ -73,6 +82,7 @@
     },
     {
         "firstName": "ACOCCO",
+        "login": "ACOCCO",
         "campus": "aix",
         "id": 323,
         "xp": {
@@ -81,6 +91,7 @@
     },
     {
         "firstName": "GPASCAL",
+        "login": "GPASCAL",
         "campus": "aix",
         "id": 324,
         "xp": {
@@ -89,6 +100,7 @@
     },
     {
         "firstName": "RDEMOULIN",
+        "login": "RDEMOULIN",
         "campus": "aix",
         "id": 325,
         "xp": {
@@ -97,6 +109,7 @@
     },
     {
         "firstName": "EDUCOUET",
+        "login": "EDUCOUET",
         "campus": "aix",
         "id": 326,
         "xp": {
@@ -105,6 +118,7 @@
     },
     {
         "firstName": "AESTEVE",
+        "login": "AESTEVE",
         "campus": "aix",
         "id": 327,
         "xp": {
@@ -113,6 +127,7 @@
     },
     {
         "firstName": "MPALMIERI",
+        "login": "MPALMIERI",
         "campus": "aix",
         "id": 328,
         "xp": {
@@ -121,6 +136,7 @@
     },
     {
         "firstName": "LLESSUISSE",
+        "login": "LLESSUISSE",
         "campus": "aix",
         "id": 329,
         "xp": {
@@ -129,6 +145,7 @@
     },
     {
         "firstName": "DCROUZET",
+        "login": "DCROUZET",
         "campus": "aix",
         "id": 330,
         "xp": {
@@ -137,6 +154,7 @@
     },
     {
         "firstName": "CGROSIEUX",
+        "login": "CGROSIEUX",
         "campus": "aix",
         "id": 331,
         "xp": {
@@ -145,6 +163,7 @@
     },
     {
         "firstName": "ABRUNO",
+        "login": "ABRUNO",
         "campus": "aix",
         "id": 332,
         "xp": {
@@ -153,6 +172,7 @@
     },
     {
         "firstName": "TPONDAVEN",
+        "login": "TPONDAVEN",
         "campus": "aix",
         "id": 333,
         "xp": {
@@ -161,6 +181,7 @@
     },
     {
         "firstName": "RGUERARD",
+        "login": "RGUERARD",
         "campus": "aix",
         "id": 335,
         "xp": {
@@ -169,6 +190,7 @@
     },
     {
         "firstName": "IKIM",
+        "login": "IKIM",
         "campus": "aix",
         "id": 336,
         "xp": {
@@ -177,6 +199,7 @@
     },
     {
         "firstName": "ASIRI",
+        "login": "ASIRI",
         "campus": "aix",
         "id": 337,
         "xp": {
@@ -185,6 +208,7 @@
     },
     {
         "firstName": "MMARCHESI",
+        "login": "MMARCHESI",
         "campus": "aix",
         "id": 338,
         "xp": {
@@ -193,6 +217,7 @@
     },
     {
         "firstName": "MMICHEL2",
+        "login": "MMICHEL2",
         "campus": "aix",
         "id": 339,
         "xp": {
@@ -201,6 +226,7 @@
     },
     {
         "firstName": "MSARTORIBOUTY",
+        "login": "MSARTORIBOUTY",
         "campus": "aix",
         "id": 341,
         "xp": {
@@ -209,6 +235,7 @@
     },
     {
         "firstName": "TSCAFFIDI",
+        "login": "TSCAFFIDI",
         "campus": "aix",
         "id": 342,
         "xp": {
@@ -217,6 +244,7 @@
     },
     {
         "firstName": "LDEGUITRE",
+        "login": "LDEGUITRE",
         "campus": "aix",
         "id": 343,
         "xp": {
@@ -225,6 +253,7 @@
     },
     {
         "firstName": "FGERBAUD",
+        "login": "FGERBAUD",
         "campus": "aix",
         "id": 344,
         "xp": {
@@ -233,6 +262,7 @@
     },
     {
         "firstName": "LKOELLSCH",
+        "login": "LKOELLSCH",
         "campus": "aix",
         "id": 345,
         "xp": {
@@ -241,6 +271,7 @@
     },
     {
         "firstName": "NLEPINAY",
+        "login": "NLEPINAY",
         "campus": "aix",
         "id": 346,
         "xp": {
@@ -249,6 +280,7 @@
     },
     {
         "firstName": "JSORELARREGAIN",
+        "login": "JSORELARREGAIN",
         "campus": "aix",
         "id": 347,
         "xp": {
@@ -257,6 +289,7 @@
     },
     {
         "firstName": "RSANCHEZ1",
+        "login": "RSANCHEZ1",
         "campus": "aix",
         "id": 348,
         "xp": {
@@ -265,6 +298,7 @@
     },
     {
         "firstName": "VAGUERA",
+        "login": "VAGUERA",
         "campus": "aix",
         "id": 349,
         "xp": {
@@ -273,6 +307,7 @@
     },
     {
         "firstName": "MFUCHS",
+        "login": "MFUCHS",
         "campus": "aix",
         "id": 351,
         "xp": {
@@ -281,6 +316,7 @@
     },
     {
         "firstName": "BVIAL--SIMON",
+        "login": "BVIAL--SIMON",
         "campus": "aix",
         "id": 365,
         "xp": {
@@ -289,6 +325,7 @@
     },
     {
         "firstName": "MOLIVAR",
+        "login": "MOLIVAR",
         "campus": "aix",
         "id": 367,
         "xp": {

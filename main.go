@@ -66,6 +66,8 @@ func main() {
 
 	r.GET("/user/:id", pyc.GetUserByID)
 
+	r.GET("/users/:id", bdx.GetUserByID)
+
 	r.GET("leaderboardpyc", pyc.Leaderboard)
 
 	r.GET("leaderboardbdx", bdx.Leaderboard)

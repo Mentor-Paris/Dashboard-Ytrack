@@ -762,11 +762,55 @@
         "campus": "pyc",
         "status": null,
         "path": "/pyc/piscine-go-22-23",
-        "endAt": "2022-10-03T00:00:00.066+00:00",
+        "endAt": "2022-10-03T00:00:00+00:00",
         "registration": {
             "startAt": "2022-09-05T06:45:00+00:00",
             "eventStartAt": "2022-09-07T08:00:00+00:00",
             "endAt": "2022-09-07T07:59:00+00:00"
+        }
+    },
+    {
+        "campus": "pyc",
+        "status": "done",
+        "path": "/pyc/piscine-go-22-23/quad",
+        "endAt": "2022-09-12T06:45:00.307+00:00",
+        "registration": {
+            "startAt": "2022-09-09T08:00:00+00:00",
+            "eventStartAt": "2022-09-10T06:45:00+00:00",
+            "endAt": "2022-09-10T06:45:00+00:00"
+        }
+    },
+    {
+        "campus": "pyc",
+        "status": null,
+        "path": "/pyc/piscine-ux-cread",
+        "endAt": "2022-10-08T23:31:00+00:00",
+        "registration": {
+            "startAt": "2022-09-13T06:45:00+00:00",
+            "eventStartAt": "2022-09-13T07:13:00+00:00",
+            "endAt": "2022-09-13T07:13:00+00:00"
+        }
+    },
+    {
+        "campus": "pyc",
+        "status": "done",
+        "path": "/pyc/piscine-go-22-23/exam-01",
+        "endAt": "2022-09-09T10:45:00.753+00:00",
+        "registration": {
+            "startAt": "2022-09-08T06:45:00+00:00",
+            "eventStartAt": "2022-09-09T06:45:00+00:00",
+            "endAt": "2022-09-09T06:45:00+00:00"
+        }
+    },
+    {
+        "campus": "pyc",
+        "status": null,
+        "path": "/pyc/parcours-illustrator",
+        "endAt": "2022-09-19T11:40:00.532+00:00",
+        "registration": {
+            "startAt": "2022-09-12T06:45:00+00:00",
+            "eventStartAt": "2022-09-12T13:00:00+00:00",
+            "endAt": "2022-09-12T13:00:00+00:00"
         }
     }
 ]

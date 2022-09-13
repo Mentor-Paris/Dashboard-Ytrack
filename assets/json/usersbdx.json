@@ -1,6 +1,7 @@
 [
     {
         "firstName": "ACANTELOUP",
+        "login": "ACANTELOUP",
         "campus": "bordeaux",
         "id": 17,
         "xp": {
@@ -9,6 +10,7 @@
     },
     {
         "firstName": "HTRUONGMAU",
+        "login": "HTRUONGMAU",
         "campus": "bordeaux",
         "id": 187,
         "xp": {
@@ -17,6 +19,7 @@
     },
     {
         "firstName": "MCOLLARD",
+        "login": "MCOLLARD",
         "campus": "bordeaux",
         "id": 188,
         "xp": {
@@ -25,6 +28,7 @@
     },
     {
         "firstName": "MLAGARDE",
+        "login": "MLAGARDE",
         "campus": "bordeaux",
         "id": 189,
         "xp": {
@@ -33,6 +37,7 @@
     },
     {
         "firstName": "LFALLOUS",
+        "login": "LFALLOUS",
         "campus": "bordeaux",
         "id": 190,
         "xp": {
@@ -41,6 +46,7 @@
     },
     {
         "firstName": "EMARTINEZ",
+        "login": "EMARTINEZ",
         "campus": "bordeaux",
         "id": 191,
         "xp": {
@@ -49,6 +55,7 @@
     },
     {
         "firstName": "FLAURENT",
+        "login": "FLAURENT",
         "campus": "bordeaux",
         "id": 192,
         "xp": {
@@ -57,6 +64,7 @@
     },
     {
         "firstName": "MMOURGUES",
+        "login": "MMOURGUES",
         "campus": "bordeaux",
         "id": 193,
         "xp": {
@@ -65,6 +73,7 @@
     },
     {
         "firstName": "MCOCO",
+        "login": "MCOCO",
         "campus": "bordeaux",
         "id": 194,
         "xp": {
@@ -73,6 +82,7 @@
     },
     {
         "firstName": "SHERAUD",
+        "login": "SHERAUD",
         "campus": "bordeaux",
         "id": 195,
         "xp": {
@@ -81,6 +91,7 @@
     },
     {
         "firstName": "MFERREIRASILVA",
+        "login": "MFERREIRASILVA",
         "campus": "bordeaux",
         "id": 196,
         "xp": {
@@ -89,6 +100,7 @@
     },
     {
         "firstName": "GMARESCHAL",
+        "login": "GMARESCHAL",
         "campus": "bordeaux",
         "id": 197,
         "xp": {
@@ -97,6 +109,7 @@
     },
     {
         "firstName": "LBOURIN",
+        "login": "LBOURIN",
         "campus": "bordeaux",
         "id": 198,
         "xp": {
@@ -105,6 +118,7 @@
     },
     {
         "firstName": "EPEYRATAUD",
+        "login": "EPEYRATAUD",
         "campus": "bordeaux",
         "id": 199,
         "xp": {
@@ -113,6 +127,7 @@
     },
     {
         "firstName": "YMONTAGNIER",
+        "login": "YMONTAGNIER",
         "campus": "bordeaux",
         "id": 200,
         "xp": {
@@ -121,6 +136,7 @@
     },
     {
         "firstName": "VDAUTREMENT",
+        "login": "VDAUTREMENT",
         "campus": "bordeaux",
         "id": 201,
         "xp": {
@@ -129,6 +145,7 @@
     },
     {
         "firstName": "DPHILIPPE",
+        "login": "DPHILIPPE",
         "campus": "bordeaux",
         "id": 203,
         "xp": {
@@ -137,6 +154,7 @@
     },
     {
         "firstName": "CMANANT",
+        "login": "CMANANT",
         "campus": "bordeaux",
         "id": 204,
         "xp": {
@@ -145,6 +163,7 @@
     },
     {
         "firstName": "EPUJOL1",
+        "login": "EPUJOL1",
         "campus": "bordeaux",
         "id": 205,
         "xp": {
@@ -153,6 +172,7 @@
     },
     {
         "firstName": "LMILH1",
+        "login": "LMILH1",
         "campus": "bordeaux",
         "id": 206,
         "xp": {
@@ -161,6 +181,7 @@
     },
     {
         "firstName": "PVIGNERON",
+        "login": "PVIGNERON",
         "campus": "bordeaux",
         "id": 207,
         "xp": {
@@ -169,6 +190,7 @@
     },
     {
         "firstName": "FINGREMEAU",
+        "login": "FINGREMEAU",
         "campus": "bordeaux",
         "id": 208,
         "xp": {
@@ -177,6 +199,7 @@
     },
     {
         "firstName": "AOTTOMANI",
+        "login": "AOTTOMANI",
         "campus": "bordeaux",
         "id": 209,
         "xp": {
@@ -185,6 +208,7 @@
     },
     {
         "firstName": "AABADIE",
+        "login": "AABADIE",
         "campus": "bordeaux",
         "id": 210,
         "xp": {
@@ -193,6 +217,7 @@
     },
     {
         "firstName": "HJOYET",
+        "login": "HJOYET",
         "campus": "bordeaux",
         "id": 211,
         "xp": {
@@ -201,6 +226,7 @@
     },
     {
         "firstName": "MDESMAISON",
+        "login": "MDESMAISON",
         "campus": "bordeaux",
         "id": 212,
         "xp": {
@@ -209,6 +235,7 @@
     },
     {
         "firstName": "KGRANGER",
+        "login": "KGRANGER",
         "campus": "bordeaux",
         "id": 213,
         "xp": {
@@ -217,6 +244,7 @@
     },
     {
         "firstName": "DRIBEIRO",
+        "login": "DRIBEIRO",
         "campus": "bordeaux",
         "id": 214,
         "xp": {
@@ -225,6 +253,7 @@
     },
     {
         "firstName": "MMARCHAND",
+        "login": "MMARCHAND",
         "campus": "bordeaux",
         "id": 215,
         "xp": {
@@ -233,6 +262,7 @@
     },
     {
         "firstName": "BAUMEUNIER",
+        "login": "BAUMEUNIER",
         "campus": "bordeaux",
         "id": 216,
         "xp": {
@@ -241,6 +271,7 @@
     },
     {
         "firstName": "NDEBENGY",
+        "login": "NDEBENGY",
         "campus": "bordeaux",
         "id": 217,
         "xp": {
@@ -249,14 +280,16 @@
     },
     {
         "firstName": "CREYPE",
+        "login": "CREYPE",
         "campus": "bordeaux",
         "id": 218,
         "xp": {
-            "amount": 1308688
+            "amount": 1319188
         }
     },
     {
         "firstName": "LSERY",
+        "login": "LSERY",
         "campus": "bordeaux",
         "id": 219,
         "xp": {
@@ -265,6 +298,7 @@
     },
     {
         "firstName": "TQUESNOY",
+        "login": "TQUESNOY",
         "campus": "bordeaux",
         "id": 220,
         "xp": {
@@ -273,6 +307,7 @@
     },
     {
         "firstName": "VDIOLOGENT",
+        "login": "VDIOLOGENT",
         "campus": "bordeaux",
         "id": 221,
         "xp": {
@@ -281,6 +316,7 @@
     },
     {
         "firstName": "LMERLAUD",
+        "login": "LMERLAUD",
         "campus": "bordeaux",
         "id": 222,
         "xp": {
@@ -289,6 +325,7 @@
     },
     {
         "firstName": "MFLAMENT",
+        "login": "MFLAMENT",
         "campus": "bordeaux",
         "id": 223,
         "xp": {
@@ -297,6 +334,7 @@
     },
     {
         "firstName": "RMICHEL",
+        "login": "RMICHEL",
         "campus": "bordeaux",
         "id": 224,
         "xp": {
@@ -305,6 +343,7 @@
     },
     {
         "firstName": "MMURALEEDARAN",
+        "login": "MMURALEEDARAN",
         "campus": "bordeaux",
         "id": 225,
         "xp": {
@@ -313,6 +352,7 @@
     },
     {
         "firstName": "BGELINEAU",
+        "login": "BGELINEAU",
         "campus": "bordeaux",
         "id": 226,
         "xp": {
@@ -321,6 +361,7 @@
     },
     {
         "firstName": "DROUSSAT",
+        "login": "DROUSSAT",
         "campus": "bordeaux",
         "id": 227,
         "xp": {
@@ -329,6 +370,7 @@
     },
     {
         "firstName": "ACLAMADIEU",
+        "login": "ACLAMADIEU",
         "campus": "bordeaux",
         "id": 228,
         "xp": {
@@ -337,6 +379,7 @@
     },
     {
         "firstName": "DFONSECA",
+        "login": "DFONSECA",
         "campus": "bordeaux",
         "id": 229,
         "xp": {
@@ -345,6 +388,7 @@
     },
     {
         "firstName": "GMATHIEU",
+        "login": "GMATHIEU",
         "campus": "bordeaux",
         "id": 230,
         "xp": {
@@ -353,6 +397,7 @@
     },
     {
         "firstName": "CAUGIERDEMOUSSAC",
+        "login": "CAUGIERDEMOUSSAC",
         "campus": "bordeaux",
         "id": 231,
         "xp": {
@@ -361,6 +406,7 @@
     },
     {
         "firstName": "MCHASSON",
+        "login": "MCHASSON",
         "campus": "bordeaux",
         "id": 232,
         "xp": {
@@ -369,6 +415,7 @@
     },
     {
         "firstName": "PABEILLE",
+        "login": "PABEILLE",
         "campus": "bordeaux",
         "id": 234,
         "xp": {
@@ -377,6 +424,7 @@
     },
     {
         "firstName": "AJOUANNET",
+        "login": "AJOUANNET",
         "campus": "bordeaux",
         "id": 235,
         "xp": {
@@ -385,6 +433,7 @@
     },
     {
         "firstName": "FDURU",
+        "login": "FDURU",
         "campus": "bordeaux",
         "id": 236,
         "xp": {
@@ -393,6 +442,7 @@
     },
     {
         "firstName": "ABOYER1",
+        "login": "ABOYER1",
         "campus": "bordeaux",
         "id": 237,
         "xp": {
@@ -401,6 +451,7 @@
     },
     {
         "firstName": "LYANISS",
+        "login": "LYANISS",
         "campus": "bordeaux",
         "id": 238,
         "xp": {
@@ -409,6 +460,7 @@
     },
     {
         "firstName": "AFLAMBARD",
+        "login": "AFLAMBARD",
         "campus": "bordeaux",
         "id": 240,
         "xp": {
@@ -417,6 +469,7 @@
     },
     {
         "firstName": "FGARCIA3",
+        "login": "FGARCIA3",
         "campus": "bordeaux",
         "id": 241,
         "xp": {
@@ -425,6 +478,7 @@
     },
     {
         "firstName": "GROUX",
+        "login": "GROUX",
         "campus": "bordeaux",
         "id": 244,
         "xp": {
@@ -433,6 +487,7 @@
     },
     {
         "firstName": "PBERTIN",
+        "login": "PBERTIN",
         "campus": "bordeaux",
         "id": 245,
         "xp": {
@@ -441,6 +496,7 @@
     },
     {
         "firstName": "FDEFREITAS",
+        "login": "FDEFREITAS",
         "campus": "bordeaux",
         "id": 258,
         "xp": {
@@ -449,6 +505,7 @@
     },
     {
         "firstName": "SGAUTIER",
+        "login": "SGAUTIER",
         "campus": "bordeaux",
         "id": 269,
         "xp": {
@@ -457,6 +514,7 @@
     },
     {
         "firstName": "RSOULIAC",
+        "login": "RSOULIAC",
         "campus": "bordeaux",
         "id": 305,
         "xp": {
@@ -465,6 +523,7 @@
     },
     {
         "firstName": "KADONAI2",
+        "login": "KADONAI2",
         "campus": "bordeaux",
         "id": 313,
         "xp": {
@@ -473,6 +532,7 @@
     },
     {
         "firstName": "ADAUTHEVILLE",
+        "login": "ADAUTHEVILLE",
         "campus": "bordeaux",
         "id": 315,
         "xp": {
@@ -481,6 +541,7 @@
     },
     {
         "firstName": "AMURARO",
+        "login": "AMURARO",
         "campus": "bordeaux",
         "id": 354,
         "xp": {
@@ -489,6 +550,7 @@
     },
     {
         "firstName": "GTARENDEAU",
+        "login": "GTARENDEAU",
         "campus": "bordeaux",
         "id": 355,
         "xp": {
@@ -497,6 +559,7 @@
     },
     {
         "firstName": "DGAUTHIER",
+        "login": "DGAUTHIER",
         "campus": "bordeaux",
         "id": 357,
         "xp": {
@@ -505,6 +568,7 @@
     },
     {
         "firstName": "DLEVEE",
+        "login": "DLEVEE",
         "campus": "bordeaux",
         "id": 358,
         "xp": {
@@ -513,6 +577,7 @@
     },
     {
         "firstName": "AVELLA",
+        "login": "AVELLA",
         "campus": "bordeaux",
         "id": 446,
         "xp": {
@@ -521,14 +586,16 @@
     },
     {
         "firstName": "RRANAIVOSON",
+        "login": "RRANAIVOSON",
         "campus": "bordeaux",
         "id": 472,
         "xp": {
-            "amount": 302507
+            "amount": 125800
         }
     },
     {
         "firstName": "GMICHON",
+        "login": "GMICHON",
         "campus": "bordeaux",
         "id": 473,
         "xp": {
@@ -537,48 +604,56 @@
     },
     {
         "firstName": "MLHERBETTE",
+        "login": "MLHERBETTE",
         "campus": "bordeaux",
         "id": 513,
         "xp": {}
     },
     {
         "firstName": "FROUCHAUD",
+        "login": "FROUCHAUD",
         "campus": "bordeaux",
         "id": 514,
         "xp": {}
     },
     {
         "firstName": "PCOCHARD1",
+        "login": "PCOCHARD1",
         "campus": "bordeaux",
         "id": 515,
         "xp": {}
     },
     {
         "firstName": "EDUCOS",
+        "login": "EDUCOS",
         "campus": "bordeaux",
         "id": 516,
         "xp": {}
     },
     {
         "firstName": "QLOPEZ",
+        "login": "QLOPEZ",
         "campus": "bordeaux",
         "id": 517,
         "xp": {}
     },
     {
         "firstName": "PSCHMIDT",
+        "login": "PSCHMIDT",
         "campus": "bordeaux",
         "id": 547,
         "xp": {}
     },
     {
         "firstName": "TCHIRON",
+        "login": "TCHIRON",
         "campus": "bordeaux",
         "id": 579,
         "xp": {}
     },
     {
         "firstName": "PPOIRIER",
+        "login": "PPOIRIER",
         "campus": "bordeaux",
         "id": 580,
         "xp": {
@@ -587,6 +662,7 @@
     },
     {
         "firstName": "EMAGNE",
+        "login": "EMAGNE",
         "campus": "bordeaux",
         "id": 581,
         "xp": {
@@ -595,6 +671,7 @@
     },
     {
         "firstName": "LGARRABOS",
+        "login": "LGARRABOS",
         "campus": "bordeaux",
         "id": 582,
         "xp": {
@@ -603,6 +680,7 @@
     },
     {
         "firstName": "JSELVA",
+        "login": "JSELVA",
         "campus": "bordeaux",
         "id": 583,
         "xp": {
@@ -611,6 +689,7 @@
     },
     {
         "firstName": "VBONOMO",
+        "login": "VBONOMO",
         "campus": "bordeaux",
         "id": 584,
         "xp": {
@@ -619,6 +698,7 @@
     },
     {
         "firstName": "LGARCIA2",
+        "login": "LGARCIA2",
         "campus": "bordeaux",
         "id": 585,
         "xp": {
@@ -627,6 +707,7 @@
     },
     {
         "firstName": "EGIROD",
+        "login": "EGIROD",
         "campus": "bordeaux",
         "id": 586,
         "xp": {
@@ -635,6 +716,7 @@
     },
     {
         "firstName": "MGILLES",
+        "login": "MGILLES",
         "campus": "bordeaux",
         "id": 587,
         "xp": {
@@ -643,6 +725,7 @@
     },
     {
         "firstName": "TEVEILLARD",
+        "login": "TEVEILLARD",
         "campus": "bordeaux",
         "id": 588,
         "xp": {
@@ -651,6 +734,7 @@
     },
     {
         "firstName": "AMARTINEZBIENABE",
+        "login": "AMARTINEZBIENABE",
         "campus": "bordeaux",
         "id": 590,
         "xp": {
@@ -659,6 +743,7 @@
     },
     {
         "firstName": "MSENHAJ",
+        "login": "MSENHAJ",
         "campus": "bordeaux",
         "id": 591,
         "xp": {
@@ -667,6 +752,7 @@
     },
     {
         "firstName": "BPORTE1",
+        "login": "BPORTE1",
         "campus": "bordeaux",
         "id": 592,
         "xp": {
@@ -675,6 +761,7 @@
     },
     {
         "firstName": "RROULLAND",
+        "login": "RROULLAND",
         "campus": "bordeaux",
         "id": 593,
         "xp": {
@@ -683,6 +770,7 @@
     },
     {
         "firstName": "JTHEBAULT",
+        "login": "JTHEBAULT",
         "campus": "bordeaux",
         "id": 594,
         "xp": {
@@ -691,6 +779,7 @@
     },
     {
         "firstName": "HLAVILLE",
+        "login": "HLAVILLE",
         "campus": "bordeaux",
         "id": 595,
         "xp": {
@@ -699,6 +788,7 @@
     },
     {
         "firstName": "TROGARD",
+        "login": "TROGARD",
         "campus": "bordeaux",
         "id": 596,
         "xp": {
@@ -707,6 +797,7 @@
     },
     {
         "firstName": "TGACHASSIN",
+        "login": "TGACHASSIN",
         "campus": "bordeaux",
         "id": 597,
         "xp": {
@@ -715,6 +806,7 @@
     },
     {
         "firstName": "TWEBER1",
+        "login": "TWEBER1",
         "campus": "bordeaux",
         "id": 598,
         "xp": {
@@ -723,6 +815,7 @@
     },
     {
         "firstName": "AFERREIRA",
+        "login": "AFERREIRA",
         "campus": "bordeaux",
         "id": 599,
         "xp": {
@@ -731,6 +824,7 @@
     },
     {
         "firstName": "CVIDALIE",
+        "login": "CVIDALIE",
         "campus": "bordeaux",
         "id": 600,
         "xp": {
@@ -739,6 +833,7 @@
     },
     {
         "firstName": "EMOUTHON",
+        "login": "EMOUTHON",
         "campus": "bordeaux",
         "id": 601,
         "xp": {
@@ -747,6 +842,7 @@
     },
     {
         "firstName": "ECHALAYE",
+        "login": "ECHALAYE",
         "campus": "bordeaux",
         "id": 602,
         "xp": {
@@ -755,6 +851,7 @@
     },
     {
         "firstName": "GLAROUMANIE",
+        "login": "GLAROUMANIE",
         "campus": "bordeaux",
         "id": 603,
         "xp": {
@@ -763,6 +860,7 @@
     },
     {
         "firstName": "FGARCIA5",
+        "login": "FGARCIA5",
         "campus": "bordeaux",
         "id": 604,
         "xp": {
@@ -771,6 +869,7 @@
     },
     {
         "firstName": "ALATORRE",
+        "login": "ALATORRE",
         "campus": "bordeaux",
         "id": 605,
         "xp": {
@@ -779,6 +878,7 @@
     },
     {
         "firstName": "QRUEMELI",
+        "login": "QRUEMELI",
         "campus": "bordeaux",
         "id": 606,
         "xp": {
@@ -787,6 +887,7 @@
     },
     {
         "firstName": "AVASSEUR2",
+        "login": "AVASSEUR2",
         "campus": "bordeaux",
         "id": 607,
         "xp": {
@@ -795,6 +896,7 @@
     },
     {
         "firstName": "ATORIBIO",
+        "login": "ATORIBIO",
         "campus": "bordeaux",
         "id": 608,
         "xp": {
@@ -803,6 +905,7 @@
     },
     {
         "firstName": "TLECONTE",
+        "login": "TLECONTE",
         "campus": "bordeaux",
         "id": 609,
         "xp": {
@@ -811,6 +914,7 @@
     },
     {
         "firstName": "IZITOUNI",
+        "login": "IZITOUNI",
         "campus": "bordeaux",
         "id": 610,
         "xp": {
@@ -819,6 +923,7 @@
     },
     {
         "firstName": "VBRAVO",
+        "login": "VBRAVO",
         "campus": "bordeaux",
         "id": 611,
         "xp": {
@@ -827,6 +932,7 @@
     },
     {
         "firstName": "AMAURIZI",
+        "login": "AMAURIZI",
         "campus": "bordeaux",
         "id": 612,
         "xp": {
@@ -835,6 +941,7 @@
     },
     {
         "firstName": "MRENZEMA",
+        "login": "MRENZEMA",
         "campus": "bordeaux",
         "id": 614,
         "xp": {
@@ -843,6 +950,7 @@
     },
     {
         "firstName": "LTOULEMON",
+        "login": "LTOULEMON",
         "campus": "bordeaux",
         "id": 615,
         "xp": {
@@ -851,6 +959,7 @@
     },
     {
         "firstName": "AGAILLARD",
+        "login": "AGAILLARD",
         "campus": "bordeaux",
         "id": 616,
         "xp": {
@@ -859,6 +968,7 @@
     },
     {
         "firstName": "MDUNIAUD",
+        "login": "MDUNIAUD",
         "campus": "bordeaux",
         "id": 617,
         "xp": {
@@ -867,6 +977,7 @@
     },
     {
         "firstName": "APAJAK",
+        "login": "APAJAK",
         "campus": "bordeaux",
         "id": 619,
         "xp": {
@@ -875,6 +986,7 @@
     },
     {
         "firstName": "AMOISKA",
+        "login": "AMOISKA",
         "campus": "bordeaux",
         "id": 620,
         "xp": {
@@ -883,6 +995,7 @@
     },
     {
         "firstName": "YBOUSSERIA",
+        "login": "YBOUSSERIA",
         "campus": "bordeaux",
         "id": 621,
         "xp": {
@@ -891,6 +1004,7 @@
     },
     {
         "firstName": "PVAYSSIER",
+        "login": "PVAYSSIER",
         "campus": "bordeaux",
         "id": 622,
         "xp": {
@@ -899,6 +1013,7 @@
     },
     {
         "firstName": "MREVOL-BUISSON",
+        "login": "MREVOL-BUISSON",
         "campus": "bordeaux",
         "id": 623,
         "xp": {
@@ -907,6 +1022,7 @@
     },
     {
         "firstName": "MBATGUZERE",
+        "login": "MBATGUZERE",
         "campus": "bordeaux",
         "id": 624,
         "xp": {
@@ -915,6 +1031,7 @@
     },
     {
         "firstName": "MLABASSE",
+        "login": "MLABASSE",
         "campus": "bordeaux",
         "id": 625,
         "xp": {
@@ -923,6 +1040,7 @@
     },
     {
         "firstName": "APOUGEARD-DULIMBERT",
+        "login": "APOUGEARD-DULIMBERT",
         "campus": "bordeaux",
         "id": 626,
         "xp": {
@@ -931,6 +1049,7 @@
     },
     {
         "firstName": "KPORTIER",
+        "login": "KPORTIER",
         "campus": "bordeaux",
         "id": 627,
         "xp": {
@@ -939,6 +1058,7 @@
     },
     {
         "firstName": "EDURAND2",
+        "login": "EDURAND2",
         "campus": "bordeaux",
         "id": 628,
         "xp": {
@@ -947,6 +1067,7 @@
     },
     {
         "firstName": "HWORA",
+        "login": "HWORA",
         "campus": "bordeaux",
         "id": 629,
         "xp": {
@@ -955,6 +1076,7 @@
     },
     {
         "firstName": "CBRUN",
+        "login": "CBRUN",
         "campus": "bordeaux",
         "id": 630,
         "xp": {
@@ -963,6 +1085,7 @@
     },
     {
         "firstName": "PBOURIAT",
+        "login": "PBOURIAT",
         "campus": "bordeaux",
         "id": 631,
         "xp": {
@@ -971,6 +1094,7 @@
     },
     {
         "firstName": "BGADEBILLE",
+        "login": "BGADEBILLE",
         "campus": "bordeaux",
         "id": 632,
         "xp": {
@@ -979,6 +1103,7 @@
     },
     {
         "firstName": "ALAVAUD",
+        "login": "ALAVAUD",
         "campus": "bordeaux",
         "id": 633,
         "xp": {
@@ -987,6 +1112,7 @@
     },
     {
         "firstName": "AMACHY",
+        "login": "AMACHY",
         "campus": "bordeaux",
         "id": 634,
         "xp": {
@@ -995,6 +1121,7 @@
     },
     {
         "firstName": "HBOURMAUD",
+        "login": "HBOURMAUD",
         "campus": "bordeaux",
         "id": 635,
         "xp": {
@@ -1003,6 +1130,7 @@
     },
     {
         "firstName": "LBIRET",
+        "login": "LBIRET",
         "campus": "bordeaux",
         "id": 636,
         "xp": {
@@ -1011,6 +1139,7 @@
     },
     {
         "firstName": "JDUBAQUIER",
+        "login": "JDUBAQUIER",
         "campus": "bordeaux",
         "id": 637,
         "xp": {
@@ -1019,6 +1148,7 @@
     },
     {
         "firstName": "RMENARD",
+        "login": "RMENARD",
         "campus": "bordeaux",
         "id": 638,
         "xp": {
@@ -1027,6 +1157,7 @@
     },
     {
         "firstName": "MCOUTANT",
+        "login": "MCOUTANT",
         "campus": "bordeaux",
         "id": 639,
         "xp": {
@@ -1035,6 +1166,7 @@
     },
     {
         "firstName": "YMISSIERGERONIMO",
+        "login": "YMISSIERGERONIMO",
         "campus": "bordeaux",
         "id": 640,
         "xp": {
@@ -1043,6 +1175,7 @@
     },
     {
         "firstName": "MDUPEROU",
+        "login": "MDUPEROU",
         "campus": "bordeaux",
         "id": 641,
         "xp": {
@@ -1051,6 +1184,7 @@
     },
     {
         "firstName": "LGRAND-MORCEL",
+        "login": "LGRAND-MORCEL",
         "campus": "bordeaux",
         "id": 642,
         "xp": {
@@ -1059,6 +1193,7 @@
     },
     {
         "firstName": "OKOERBER-NATHAN",
+        "login": "OKOERBER-NATHAN",
         "campus": "bordeaux",
         "id": 643,
         "xp": {
@@ -1067,6 +1202,7 @@
     },
     {
         "firstName": "EEYMAS",
+        "login": "EEYMAS",
         "campus": "bordeaux",
         "id": 644,
         "xp": {
@@ -1075,6 +1211,7 @@
     },
     {
         "firstName": "MDOUBLAIT",
+        "login": "MDOUBLAIT",
         "campus": "bordeaux",
         "id": 645,
         "xp": {
@@ -1083,6 +1220,7 @@
     },
     {
         "firstName": "RBEDJA",
+        "login": "RBEDJA",
         "campus": "bordeaux",
         "id": 646,
         "xp": {
@@ -1091,6 +1229,7 @@
     },
     {
         "firstName": "MJUILLARD-FONTANILLE",
+        "login": "MJUILLARD-FONTANILLE",
         "campus": "bordeaux",
         "id": 647,
         "xp": {
@@ -1099,6 +1238,7 @@
     },
     {
         "firstName": "AMORAND",
+        "login": "AMORAND",
         "campus": "bordeaux",
         "id": 648,
         "xp": {
@@ -1107,6 +1247,7 @@
     },
     {
         "firstName": "EALVES",
+        "login": "EALVES",
         "campus": "bordeaux",
         "id": 649,
         "xp": {
@@ -1115,6 +1256,7 @@
     },
     {
         "firstName": "EBEGUERIE",
+        "login": "EBEGUERIE",
         "campus": "bordeaux",
         "id": 650,
         "xp": {
@@ -1123,6 +1265,7 @@
     },
     {
         "firstName": "TRIVRY",
+        "login": "TRIVRY",
         "campus": "bordeaux",
         "id": 651,
         "xp": {
@@ -1131,6 +1274,7 @@
     },
     {
         "firstName": "VDALAMELDEBOURNET",
+        "login": "VDALAMELDEBOURNET",
         "campus": "bordeaux",
         "id": 652,
         "xp": {
@@ -1139,6 +1283,7 @@
     },
     {
         "firstName": "RPIETRZAK",
+        "login": "RPIETRZAK",
         "campus": "bordeaux",
         "id": 653,
         "xp": {
@@ -1147,6 +1292,7 @@
     },
     {
         "firstName": "ASENGUL",
+        "login": "ASENGUL",
         "campus": "bordeaux",
         "id": 654,
         "xp": {
@@ -1155,6 +1301,7 @@
     },
     {
         "firstName": "ACORRE2",
+        "login": "ACORRE2",
         "campus": "bordeaux",
         "id": 657,
         "xp": {
@@ -1163,6 +1310,7 @@
     },
     {
         "firstName": "MLOZACH",
+        "login": "MLOZACH",
         "campus": "bordeaux",
         "id": 658,
         "xp": {
@@ -1171,6 +1319,7 @@
     },
     {
         "firstName": "EJOVANOVIC",
+        "login": "EJOVANOVIC",
         "campus": "bordeaux",
         "id": 659,
         "xp": {
@@ -1179,6 +1328,7 @@
     },
     {
         "firstName": "TDIOUF",
+        "login": "TDIOUF",
         "campus": "bordeaux",
         "id": 700,
         "xp": {
@@ -1187,6 +1337,7 @@
     },
     {
         "firstName": "RALOUI",
+        "login": "RALOUI",
         "campus": "bordeaux",
         "id": 752,
         "xp": {
@@ -1195,6 +1346,7 @@
     },
     {
         "firstName": "WBOUHOU",
+        "login": "WBOUHOU",
         "campus": "bordeaux",
         "id": 791,
         "xp": {
@@ -1203,6 +1355,7 @@
     },
     {
         "firstName": "LTARAIRE",
+        "login": "LTARAIRE",
         "campus": "bordeaux",
         "id": 613,
         "xp": {
@@ -1211,12 +1364,14 @@
     },
     {
         "firstName": "MBESCOND",
+        "login": "MBESCOND",
         "campus": "bordeaux",
         "id": 1269,
         "xp": {}
     },
     {
         "firstName": "TCURMI",
+        "login": "TCURMI",
         "campus": "bordeaux",
         "id": 202,
         "xp": {
@@ -1225,6 +1380,7 @@
     },
     {
         "firstName": "Christopher",
+        "login": "root",
         "campus": "bordeaux",
         "id": 6,
         "xp": {}

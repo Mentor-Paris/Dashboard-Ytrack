@@ -1,14 +1,16 @@
 [
     {
         "firstName": "FCOURDESSE",
+        "login": "FCOURDESSE",
         "campus": "lyon",
         "id": 248,
         "xp": {
-            "amount": 1390696
+            "amount": 7080722
         }
     },
     {
         "firstName": "TNOEL",
+        "login": "TNOEL",
         "campus": "lyon",
         "id": 249,
         "xp": {
@@ -17,6 +19,7 @@
     },
     {
         "firstName": "HPOIZAT",
+        "login": "HPOIZAT",
         "campus": "lyon",
         "id": 250,
         "xp": {
@@ -25,6 +28,7 @@
     },
     {
         "firstName": "IHACQUIN",
+        "login": "IHACQUIN",
         "campus": "lyon",
         "id": 251,
         "xp": {
@@ -33,6 +37,7 @@
     },
     {
         "firstName": "EKAPLAN",
+        "login": "EKAPLAN",
         "campus": "lyon",
         "id": 252,
         "xp": {
@@ -41,14 +46,16 @@
     },
     {
         "firstName": "CVEY",
+        "login": "CVEY",
         "campus": "lyon",
         "id": 253,
         "xp": {
-            "amount": 1379438
+            "amount": 7284829
         }
     },
     {
         "firstName": "AFAILLER",
+        "login": "AFAILLER",
         "campus": "lyon",
         "id": 254,
         "xp": {
@@ -57,6 +64,7 @@
     },
     {
         "firstName": "CPAYET",
+        "login": "CPAYET",
         "campus": "lyon",
         "id": 255,
         "xp": {
@@ -65,6 +73,7 @@
     },
     {
         "firstName": "RSILVYLELIGOIS",
+        "login": "RSILVYLELIGOIS",
         "campus": "lyon",
         "id": 256,
         "xp": {
@@ -73,14 +82,16 @@
     },
     {
         "firstName": "GPETTA",
+        "login": "GPETTA",
         "campus": "lyon",
         "id": 257,
         "xp": {
-            "amount": 813600
+            "amount": 6479923
         }
     },
     {
         "firstName": "LTHORENS",
+        "login": "LTHORENS",
         "campus": "lyon",
         "id": 259,
         "xp": {
@@ -89,6 +100,7 @@
     },
     {
         "firstName": "MDINVILLE",
+        "login": "MDINVILLE",
         "campus": "lyon",
         "id": 260,
         "xp": {
@@ -97,6 +109,7 @@
     },
     {
         "firstName": "OCAN",
+        "login": "OCAN",
         "campus": "lyon",
         "id": 261,
         "xp": {
@@ -105,6 +118,7 @@
     },
     {
         "firstName": "MKJIDAA",
+        "login": "MKJIDAA",
         "campus": "lyon",
         "id": 262,
         "xp": {
@@ -113,6 +127,7 @@
     },
     {
         "firstName": "ACHAMBAS",
+        "login": "ACHAMBAS",
         "campus": "lyon",
         "id": 263,
         "xp": {
@@ -121,6 +136,7 @@
     },
     {
         "firstName": "LREYNARD",
+        "login": "LREYNARD",
         "campus": "lyon",
         "id": 264,
         "xp": {
@@ -129,6 +145,7 @@
     },
     {
         "firstName": "MMEUNIER",
+        "login": "MMEUNIER",
         "campus": "lyon",
         "id": 265,
         "xp": {
@@ -137,6 +154,7 @@
     },
     {
         "firstName": "FELHANI",
+        "login": "FELHANI",
         "campus": "lyon",
         "id": 266,
         "xp": {
@@ -145,6 +163,7 @@
     },
     {
         "firstName": "MLECHERF",
+        "login": "MLECHERF",
         "campus": "lyon",
         "id": 268,
         "xp": {
@@ -153,6 +172,7 @@
     },
     {
         "firstName": "BLY",
+        "login": "BLY",
         "campus": "lyon",
         "id": 270,
         "xp": {
@@ -161,6 +181,7 @@
     },
     {
         "firstName": "Thomas",
+        "login": "TDIETRICH",
         "campus": "lyon",
         "id": 271,
         "xp": {
@@ -169,6 +190,7 @@
     },
     {
         "firstName": "TMEIGNIER",
+        "login": "TMEIGNIER",
         "campus": "lyon",
         "id": 272,
         "xp": {
@@ -177,6 +199,7 @@
     },
     {
         "firstName": "ALYONNET",
+        "login": "ALYONNET",
         "campus": "lyon",
         "id": 273,
         "xp": {
@@ -185,6 +208,7 @@
     },
     {
         "firstName": "RVITTE",
+        "login": "RVITTE",
         "campus": "lyon",
         "id": 274,
         "xp": {
@@ -193,6 +217,7 @@
     },
     {
         "firstName": "ABELAIDOUNI",
+        "login": "ABELAIDOUNI",
         "campus": "lyon",
         "id": 275,
         "xp": {
@@ -201,6 +226,7 @@
     },
     {
         "firstName": "NTHOMAS",
+        "login": "NTHOMAS",
         "campus": "lyon",
         "id": 276,
         "xp": {
@@ -209,6 +235,7 @@
     },
     {
         "firstName": "CFRASCA",
+        "login": "CFRASCA",
         "campus": "lyon",
         "id": 278,
         "xp": {
@@ -217,6 +244,7 @@
     },
     {
         "firstName": "TGAULE",
+        "login": "TGAULE",
         "campus": "lyon",
         "id": 279,
         "xp": {
@@ -225,6 +253,7 @@
     },
     {
         "firstName": "CBARRESI",
+        "login": "CBARRESI",
         "campus": "lyon",
         "id": 280,
         "xp": {
@@ -233,6 +262,7 @@
     },
     {
         "firstName": "TBEAL",
+        "login": "TBEAL",
         "campus": "lyon",
         "id": 281,
         "xp": {
@@ -241,6 +271,7 @@
     },
     {
         "firstName": "SALONSO",
+        "login": "SALONSO",
         "campus": "lyon",
         "id": 282,
         "xp": {
@@ -249,6 +280,7 @@
     },
     {
         "firstName": "YVOLLAIRE",
+        "login": "YVOLLAIRE",
         "campus": "lyon",
         "id": 283,
         "xp": {
@@ -257,6 +289,7 @@
     },
     {
         "firstName": "YDEHHANI",
+        "login": "YDEHHANI",
         "campus": "lyon",
         "id": 284,
         "xp": {
@@ -265,6 +298,7 @@
     },
     {
         "firstName": "PRAMPON",
+        "login": "PRAMPON",
         "campus": "lyon",
         "id": 285,
         "xp": {
@@ -273,6 +307,7 @@
     },
     {
         "firstName": "Arthur",
+        "login": "APATUREL",
         "campus": "lyon",
         "id": 286,
         "xp": {
@@ -281,6 +316,7 @@
     },
     {
         "firstName": "AGUERIN",
+        "login": "AGUERIN",
         "campus": "lyon",
         "id": 287,
         "xp": {
@@ -289,6 +325,7 @@
     },
     {
         "firstName": "HROUMAGNE",
+        "login": "HROUMAGNE",
         "campus": "lyon",
         "id": 288,
         "xp": {
@@ -297,6 +334,7 @@
     },
     {
         "firstName": "ACAPITAIN",
+        "login": "ACAPITAIN",
         "campus": "lyon",
         "id": 289,
         "xp": {
@@ -305,6 +343,7 @@
     },
     {
         "firstName": "QFAYOLLE",
+        "login": "QFAYOLLE",
         "campus": "lyon",
         "id": 290,
         "xp": {
@@ -313,6 +352,7 @@
     },
     {
         "firstName": "QJUVET",
+        "login": "QJUVET",
         "campus": "lyon",
         "id": 291,
         "xp": {
@@ -321,6 +361,7 @@
     },
     {
         "firstName": "NCABOURG",
+        "login": "NCABOURG",
         "campus": "lyon",
         "id": 292,
         "xp": {
@@ -329,6 +370,7 @@
     },
     {
         "firstName": "AGELIN1",
+        "login": "AGELIN1",
         "campus": "lyon",
         "id": 293,
         "xp": {
@@ -337,6 +379,7 @@
     },
     {
         "firstName": "LTISSERAND2",
+        "login": "LTISSERAND2",
         "campus": "lyon",
         "id": 295,
         "xp": {
@@ -345,6 +388,7 @@
     },
     {
         "firstName": "NLOSSIGNOLDRILLIEN",
+        "login": "NLOSSIGNOLDRILLIEN",
         "campus": "lyon",
         "id": 296,
         "xp": {
@@ -353,6 +397,7 @@
     },
     {
         "firstName": "CBILGER",
+        "login": "CBILGER",
         "campus": "lyon",
         "id": 297,
         "xp": {
@@ -361,6 +406,7 @@
     },
     {
         "firstName": "PGOURGOUILLON",
+        "login": "PGOURGOUILLON",
         "campus": "lyon",
         "id": 298,
         "xp": {
@@ -369,6 +415,7 @@
     },
     {
         "firstName": "JKHALIFE",
+        "login": "JKHALIFE",
         "campus": "lyon",
         "id": 299,
         "xp": {
@@ -377,6 +424,7 @@
     },
     {
         "firstName": "TLEDIEU",
+        "login": "TLEDIEU",
         "campus": "lyon",
         "id": 300,
         "xp": {
@@ -385,6 +433,7 @@
     },
     {
         "firstName": "MNESTILE",
+        "login": "MNESTILE",
         "campus": "lyon",
         "id": 301,
         "xp": {
@@ -393,6 +442,7 @@
     },
     {
         "firstName": "MTORRES",
+        "login": "MTORRES",
         "campus": "lyon",
         "id": 302,
         "xp": {
@@ -401,6 +451,7 @@
     },
     {
         "firstName": "OMAILLOT",
+        "login": "OMAILLOT",
         "campus": "lyon",
         "id": 303,
         "xp": {
@@ -409,6 +460,7 @@
     },
     {
         "firstName": "TBRUYERE",
+        "login": "TBRUYERE",
         "campus": "lyon",
         "id": 309,
         "xp": {
@@ -417,14 +469,16 @@
     },
     {
         "firstName": "LBARTHELEMY1",
+        "login": "LBARTHELEMY1",
         "campus": "lyon",
         "id": 310,
         "xp": {
-            "amount": 1676437
+            "amount": 7192962
         }
     },
     {
         "firstName": "LBOURRY",
+        "login": "LBOURRY",
         "campus": "lyon",
         "id": 314,
         "xp": {
@@ -433,6 +487,7 @@
     },
     {
         "firstName": "HDANSOU",
+        "login": "HDANSOU",
         "campus": "lyon",
         "id": 356,
         "xp": {
@@ -441,6 +496,7 @@
     },
     {
         "firstName": "LGUNARAJAH",
+        "login": "LGUNARAJAH",
         "campus": "lyon",
         "id": 382,
         "xp": {
@@ -449,6 +505,7 @@
     },
     {
         "firstName": "VRIAMON1",
+        "login": "VRIAMON1",
         "campus": "lyon",
         "id": 460,
         "xp": {
@@ -457,6 +514,7 @@
     },
     {
         "firstName": "JCAETANO",
+        "login": "JCAETANO",
         "campus": "lyon",
         "id": 687,
         "xp": {
@@ -465,6 +523,7 @@
     },
     {
         "firstName": "EBAILEY",
+        "login": "EBAILEY",
         "campus": "lyon",
         "id": 688,
         "xp": {
@@ -473,6 +532,7 @@
     },
     {
         "firstName": "JVEZIN",
+        "login": "JVEZIN",
         "campus": "lyon",
         "id": 689,
         "xp": {
@@ -481,6 +541,7 @@
     },
     {
         "firstName": "APOINSIGNON",
+        "login": "APOINSIGNON",
         "campus": "lyon",
         "id": 690,
         "xp": {
@@ -489,6 +550,7 @@
     },
     {
         "firstName": "WSAIOUDI",
+        "login": "WSAIOUDI",
         "campus": "lyon",
         "id": 691,
         "xp": {
@@ -497,6 +559,7 @@
     },
     {
         "firstName": "LHOSPICE",
+        "login": "LHOSPICE",
         "campus": "lyon",
         "id": 693,
         "xp": {
@@ -505,6 +568,7 @@
     },
     {
         "firstName": "RPOTIGNON",
+        "login": "RPOTIGNON",
         "campus": "lyon",
         "id": 694,
         "xp": {
@@ -513,6 +577,7 @@
     },
     {
         "firstName": "ACELEBI",
+        "login": "ACELEBI",
         "campus": "lyon",
         "id": 695,
         "xp": {
@@ -521,6 +586,7 @@
     },
     {
         "firstName": "EGUIGNABAUDET",
+        "login": "EGUIGNABAUDET",
         "campus": "lyon",
         "id": 697,
         "xp": {
@@ -529,6 +595,7 @@
     },
     {
         "firstName": "ADUMONT2",
+        "login": "ADUMONT2",
         "campus": "lyon",
         "id": 698,
         "xp": {
@@ -537,6 +604,7 @@
     },
     {
         "firstName": "RFENZL",
+        "login": "RFENZL",
         "campus": "lyon",
         "id": 699,
         "xp": {
@@ -545,6 +613,7 @@
     },
     {
         "firstName": "BVERNET",
+        "login": "BVERNET",
         "campus": "lyon",
         "id": 702,
         "xp": {
@@ -553,6 +622,7 @@
     },
     {
         "firstName": "VPAIRE",
+        "login": "VPAIRE",
         "campus": "lyon",
         "id": 705,
         "xp": {
@@ -561,6 +631,7 @@
     },
     {
         "firstName": "LCOURNOLLETRODRIGUEZ",
+        "login": "LCOURNOLLETRODRIGUEZ",
         "campus": "lyon",
         "id": 706,
         "xp": {
@@ -569,6 +640,7 @@
     },
     {
         "firstName": "FMARQUES",
+        "login": "FMARQUES",
         "campus": "lyon",
         "id": 707,
         "xp": {
@@ -577,6 +649,7 @@
     },
     {
         "firstName": "RGRENIER1",
+        "login": "RGRENIER1",
         "campus": "lyon",
         "id": 708,
         "xp": {
@@ -585,6 +658,7 @@
     },
     {
         "firstName": "ABERTIER1",
+        "login": "ABERTIER1",
         "campus": "lyon",
         "id": 709,
         "xp": {
@@ -593,6 +667,7 @@
     },
     {
         "firstName": "UROSSI",
+        "login": "UROSSI",
         "campus": "lyon",
         "id": 710,
         "xp": {
@@ -601,6 +676,7 @@
     },
     {
         "firstName": "MPOINTARD",
+        "login": "MPOINTARD",
         "campus": "lyon",
         "id": 711,
         "xp": {
@@ -609,6 +685,7 @@
     },
     {
         "firstName": "RFENO",
+        "login": "RFENO",
         "campus": "lyon",
         "id": 712,
         "xp": {
@@ -617,6 +694,7 @@
     },
     {
         "firstName": "NSEREIR",
+        "login": "NSEREIR",
         "campus": "lyon",
         "id": 713,
         "xp": {
@@ -625,6 +703,7 @@
     },
     {
         "firstName": "GSANCHEZ1",
+        "login": "GSANCHEZ1",
         "campus": "lyon",
         "id": 714,
         "xp": {
@@ -633,6 +712,7 @@
     },
     {
         "firstName": "CCOINDARDLAGRESLE",
+        "login": "CCOINDARDLAGRESLE",
         "campus": "lyon",
         "id": 715,
         "xp": {
@@ -641,6 +721,7 @@
     },
     {
         "firstName": "TTIRABOSCHI",
+        "login": "TTIRABOSCHI",
         "campus": "lyon",
         "id": 716,
         "xp": {
@@ -649,6 +730,7 @@
     },
     {
         "firstName": "JDURA",
+        "login": "JDURA",
         "campus": "lyon",
         "id": 717,
         "xp": {
@@ -657,6 +739,7 @@
     },
     {
         "firstName": "SCAPPE",
+        "login": "SCAPPE",
         "campus": "lyon",
         "id": 718,
         "xp": {
@@ -665,6 +748,7 @@
     },
     {
         "firstName": "JAOUADJ",
+        "login": "JAOUADJ",
         "campus": "lyon",
         "id": 719,
         "xp": {
@@ -673,6 +757,7 @@
     },
     {
         "firstName": "LLACHAL",
+        "login": "LLACHAL",
         "campus": "lyon",
         "id": 720,
         "xp": {
@@ -681,6 +766,7 @@
     },
     {
         "firstName": "GTHOYER",
+        "login": "GTHOYER",
         "campus": "lyon",
         "id": 721,
         "xp": {
@@ -689,14 +775,16 @@
     },
     {
         "firstName": "GDENIS",
+        "login": "GDENIS",
         "campus": "lyon",
         "id": 723,
         "xp": {
-            "amount": 19075
+            "amount": 195638
         }
     },
     {
         "firstName": "MBARRE",
+        "login": "MBARRE",
         "campus": "lyon",
         "id": 725,
         "xp": {
@@ -705,6 +793,7 @@
     },
     {
         "firstName": "DNGUYEN2",
+        "login": "DNGUYEN2",
         "campus": "lyon",
         "id": 726,
         "xp": {
@@ -713,14 +802,16 @@
     },
     {
         "firstName": "MALVINE",
+        "login": "MALVINE",
         "campus": "lyon",
         "id": 727,
         "xp": {
-            "amount": 19375
+            "amount": 69139
         }
     },
     {
         "firstName": "MHENRIST",
+        "login": "MHENRIST",
         "campus": "lyon",
         "id": 786,
         "xp": {
@@ -729,20 +820,23 @@
     },
     {
         "firstName": "AFRANCOIS1",
+        "login": "AFRANCOIS1",
         "campus": "lyon",
         "id": 788,
         "xp": {
-            "amount": 6825
+            "amount": 80325
         }
     },
     {
         "firstName": "RLAHLIMI",
+        "login": "RLAHLIMI",
         "campus": "lyon",
         "id": 789,
         "xp": {}
     },
     {
         "firstName": "ESEGURET1",
+        "login": "ESEGURET1",
         "campus": "lyon",
         "id": 792,
         "xp": {
@@ -751,6 +845,7 @@
     },
     {
         "firstName": "ADELLOSO",
+        "login": "ADELLOSO",
         "campus": "lyon",
         "id": 809,
         "xp": {

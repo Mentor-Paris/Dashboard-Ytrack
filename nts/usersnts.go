@@ -103,14 +103,20 @@ func Leaderboardapi() []UserFinal {
 	})
 	for v := range listuser {
 		dateString := listuser[v].Year
-		date, error := time.Parse("2006-01-02T15:04:05Z07:00", dateString)
 
-		if error != nil {
-			fmt.Println(error)
+		if dateString == "" {
+			listuser[v].Year = "Pas de Promo"
+			listuser[v].Avatar_Url = "https://via.placeholder.com/360x360"
+		} else {
+			date, error := time.Parse("2006-01-02T15:04:05Z07:00", dateString)
+
+			if error != nil {
+				fmt.Println(error)
+			}
+
+			dateformat := date.Format("2006")
+			listuser[v].Year = dateformat
 		}
-
-		dateformat := date.Format("2006")
-		listuser[v].Year = dateformat
 	}
 	return listuser[:20]
 }

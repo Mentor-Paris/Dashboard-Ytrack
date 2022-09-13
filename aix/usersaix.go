@@ -14,7 +14,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-// UserFinal struct which contains a all informmations of each user
+// UserFinal struct which contains a all informmations of each user pyc
 type UserFinal struct {
 	ID         int     `json:"id"`
 	Login      string  `json:"login"`
@@ -57,8 +57,8 @@ var (
 	listuser []UserFinal
 )
 
-// display the whole JSON of the user
-func GetAllUsers(c *gin.Context) {
+// display the whole JSON of the user of PYC
+func GetAllUsersPYC(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, listuserfinal)
 }
 
@@ -80,7 +80,7 @@ func GetUserByID(c *gin.Context) {
 	c.IndentedJSON(http.StatusNotFound, gin.H{"error": "user not found"})
 }
 
-// display the leaderboard
+// display the leaderboard of PYC
 func Leaderboard(c *gin.Context) {
 	listuser = []UserFinal{}
 	listusers := Leaderboardapi()
@@ -88,7 +88,7 @@ func Leaderboard(c *gin.Context) {
 	c.HTML(http.StatusOK, "leaderboardaix.html", gin.H{"listusers": listusers, "title": "Leaderboard Aix"})
 }
 
-// create the array of the leaderboard
+// create the array of the leaderboard of PYC
 func Leaderboardapi() []UserFinal {
 
 	for comp := 0; comp < len(listuserfinal); comp++ {
@@ -174,7 +174,7 @@ func ReadJsonUsersYtrack() {
 	json.Unmarshal(byteValue, &Usersytrack)
 }
 
-// merge the json userxp the json user
+// merge the json userxp the json userpyc
 func MergeJson() {
 	for _, i := range users {
 		listuserfinal = append(listuserfinal, UserFinal{ID: i.ID, Login: i.Login, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}})
