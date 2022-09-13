@@ -67,10 +67,10 @@
   },
   {
     "firstName": "ERUAUD",
-    "campus": null,
+    "campus": "lyon",
     "id": 14,
     "xp": {
-      "amount": 8552152
+      "amount": 1552152
     }
   },
   {
@@ -1942,7 +1942,7 @@
     "campus": "lyon",
     "id": 248,
     "xp": {
-      "amount": 7080722
+      "amount": 1390696
     }
   },
   {
@@ -1982,7 +1982,7 @@
     "campus": "lyon",
     "id": 253,
     "xp": {
-      "amount": 7284829
+      "amount": 1379438
     }
   },
   {
@@ -2014,7 +2014,7 @@
     "campus": "lyon",
     "id": 257,
     "xp": {
-      "amount": 6479923
+      "amount": 813600
     }
   },
   {
@@ -2454,7 +2454,7 @@
     "campus": "lyon",
     "id": 310,
     "xp": {
-      "amount": 7192962
+      "amount": 1676437
     }
   },
   {
@@ -2857,7 +2857,7 @@
   },
   {
     "firstName": "ERUAUD1",
-    "campus": null,
+    "campus": "lyon",
     "id": 361,
     "xp": {}
   },
