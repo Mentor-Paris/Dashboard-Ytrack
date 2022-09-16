@@ -890,7 +890,7 @@
         "campus": "pyc",
         "id": 567,
         "xp": {
-            "amount": 782789
+            "amount": 803778
         }
     },
     {
@@ -1519,6 +1519,42 @@
         "id": 64,
         "xp": {
             "amount": 108979
+        }
+    },
+    {
+        "firstName": "KREUWEN",
+        "login": "kjulie",
+        "campus": "pyc",
+        "id": 1500,
+        "xp": {
+          "amount": 228381
+        }
+    },  
+    {
+        "firstName": "WALSH DE SERRANT",
+        "login": "walberic",
+        "campus": "pyc",
+        "id": 1457,
+        "xp": {
+          "amount": 233606
+        }
+    },
+    {
+        "firstName": "HARHAD",
+        "login": "hdjebril",
+        "campus": "pyc",
+        "id": 1456,
+        "xp": {
+          "amount": 233606
+        }
+    },
+    {
+        "firstName": "NOHE ESTRADA",
+        "login": "nmaelis",
+        "campus": "pyc",
+        "id": 1481,
+        "xp": {
+          "amount": 227856
         }
     }
 ]
