@@ -27,11 +27,19 @@ type UserFinal struct {
 type User struct {
 	Login string `json:"login"`
 	ID    int    `json:"id"`
-	Xp    Xp     `json:"xp"`
+	Xp    Xps_Aggregate     `json:"xps_aggregate"`
 }
 
 // XP struct that contains the total XP of each user
-type Xp struct {
+type Xps_Aggregate struct {
+	Aggregate Aggregate `json:"aggregate"`
+}
+
+type Aggregate struct {
+	Sum Sum `json:"sum"`
+}
+
+type Sum struct {
 	Amount int64 `json:"amount"`
 }
 
@@ -183,7 +191,7 @@ func ReadJsonUsersYtrack() {
 // merge the json userxp the json userpyc
 func MergeJsonPYC() {
 	for _, i := range users {
-		listuserfinal = append(listuserfinal, UserFinal{ID: i.ID, Login: i.Login, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}})
+		listuserfinal = append(listuserfinal, UserFinal{ID: i.ID, Login: i.Login, Xp: XpFinal{FormatString(i.Xp.Aggregate.Sum.Amount), i.Xp.Aggregate.Sum.Amount}})
 	}
 	for i := range listuserfinal {
 		for _, y := range Usersytrack {

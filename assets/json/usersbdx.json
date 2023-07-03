@@ -1,1388 +1,2953 @@
 [
-    {
-        "firstName": "ACANTELOUP",
-        "login": "ACANTELOUP",
-        "campus": "bordeaux",
-        "id": 17,
-        "xp": {
-            "amount": 256600
-        }
-    },
-    {
-        "firstName": "HTRUONGMAU",
-        "login": "HTRUONGMAU",
-        "campus": "bordeaux",
-        "id": 187,
-        "xp": {
-            "amount": 116854
-        }
-    },
-    {
-        "firstName": "MCOLLARD",
-        "login": "MCOLLARD",
-        "campus": "bordeaux",
-        "id": 188,
-        "xp": {
-            "amount": 377920
-        }
-    },
-    {
-        "firstName": "MLAGARDE",
-        "login": "MLAGARDE",
-        "campus": "bordeaux",
-        "id": 189,
-        "xp": {
-            "amount": 113977
-        }
-    },
-    {
-        "firstName": "LFALLOUS",
-        "login": "LFALLOUS",
-        "campus": "bordeaux",
-        "id": 190,
-        "xp": {
-            "amount": 997987
-        }
-    },
-    {
-        "firstName": "EMARTINEZ",
-        "login": "EMARTINEZ",
-        "campus": "bordeaux",
-        "id": 191,
-        "xp": {
-            "amount": 566156
-        }
-    },
-    {
-        "firstName": "FLAURENT",
-        "login": "FLAURENT",
-        "campus": "bordeaux",
-        "id": 192,
-        "xp": {
-            "amount": 338207
-        }
-    },
-    {
-        "firstName": "MMOURGUES",
-        "login": "MMOURGUES",
-        "campus": "bordeaux",
-        "id": 193,
-        "xp": {
-            "amount": 575120
-        }
-    },
-    {
-        "firstName": "MCOCO",
-        "login": "MCOCO",
-        "campus": "bordeaux",
-        "id": 194,
-        "xp": {
-            "amount": 327478
-        }
-    },
-    {
-        "firstName": "SHERAUD",
-        "login": "SHERAUD",
-        "campus": "bordeaux",
-        "id": 195,
-        "xp": {
-            "amount": 613707
-        }
-    },
-    {
-        "firstName": "MFERREIRASILVA",
-        "login": "MFERREIRASILVA",
-        "campus": "bordeaux",
-        "id": 196,
-        "xp": {
-            "amount": 839533
-        }
-    },
-    {
-        "firstName": "GMARESCHAL",
-        "login": "GMARESCHAL",
-        "campus": "bordeaux",
-        "id": 197,
-        "xp": {
-            "amount": 473157
-        }
-    },
-    {
-        "firstName": "LBOURIN",
-        "login": "LBOURIN",
-        "campus": "bordeaux",
-        "id": 198,
-        "xp": {
-            "amount": 279444
-        }
-    },
-    {
-        "firstName": "EPEYRATAUD",
-        "login": "EPEYRATAUD",
-        "campus": "bordeaux",
-        "id": 199,
-        "xp": {
-            "amount": 614993
-        }
-    },
-    {
-        "firstName": "YMONTAGNIER",
-        "login": "YMONTAGNIER",
-        "campus": "bordeaux",
-        "id": 200,
-        "xp": {
-            "amount": 306994
-        }
-    },
-    {
-        "firstName": "VDAUTREMENT",
-        "login": "VDAUTREMENT",
-        "campus": "bordeaux",
-        "id": 201,
-        "xp": {
-            "amount": 924036
-        }
-    },
-    {
-        "firstName": "DPHILIPPE",
-        "login": "DPHILIPPE",
-        "campus": "bordeaux",
-        "id": 203,
-        "xp": {
-            "amount": 253966
-        }
-    },
-    {
-        "firstName": "CMANANT",
-        "login": "CMANANT",
-        "campus": "bordeaux",
-        "id": 204,
-        "xp": {
-            "amount": 639580
-        }
-    },
-    {
-        "firstName": "EPUJOL1",
-        "login": "EPUJOL1",
-        "campus": "bordeaux",
-        "id": 205,
-        "xp": {
-            "amount": 497650
-        }
-    },
-    {
-        "firstName": "LMILH1",
-        "login": "LMILH1",
-        "campus": "bordeaux",
-        "id": 206,
-        "xp": {
-            "amount": 513955
-        }
-    },
-    {
-        "firstName": "PVIGNERON",
-        "login": "PVIGNERON",
-        "campus": "bordeaux",
-        "id": 207,
-        "xp": {
-            "amount": 462182
-        }
-    },
-    {
-        "firstName": "FINGREMEAU",
-        "login": "FINGREMEAU",
-        "campus": "bordeaux",
-        "id": 208,
-        "xp": {
-            "amount": 1030288
-        }
-    },
-    {
-        "firstName": "AOTTOMANI",
-        "login": "AOTTOMANI",
-        "campus": "bordeaux",
-        "id": 209,
-        "xp": {
-            "amount": 130727
-        }
-    },
-    {
-        "firstName": "AABADIE",
-        "login": "AABADIE",
-        "campus": "bordeaux",
-        "id": 210,
-        "xp": {
-            "amount": 543897
-        }
-    },
-    {
-        "firstName": "HJOYET",
-        "login": "HJOYET",
-        "campus": "bordeaux",
-        "id": 211,
-        "xp": {
-            "amount": 506907
-        }
-    },
-    {
-        "firstName": "MDESMAISON",
-        "login": "MDESMAISON",
-        "campus": "bordeaux",
-        "id": 212,
-        "xp": {
-            "amount": 368143
-        }
-    },
-    {
-        "firstName": "KGRANGER",
-        "login": "KGRANGER",
-        "campus": "bordeaux",
-        "id": 213,
-        "xp": {
-            "amount": 1268714
-        }
-    },
-    {
-        "firstName": "DRIBEIRO",
-        "login": "DRIBEIRO",
-        "campus": "bordeaux",
-        "id": 214,
-        "xp": {
-            "amount": 381358
-        }
-    },
-    {
-        "firstName": "MMARCHAND",
-        "login": "MMARCHAND",
-        "campus": "bordeaux",
-        "id": 215,
-        "xp": {
-            "amount": 644193
-        }
-    },
-    {
-        "firstName": "BAUMEUNIER",
-        "login": "BAUMEUNIER",
-        "campus": "bordeaux",
-        "id": 216,
-        "xp": {
-            "amount": 682508
-        }
-    },
-    {
-        "firstName": "NDEBENGY",
-        "login": "NDEBENGY",
-        "campus": "bordeaux",
-        "id": 217,
-        "xp": {
-            "amount": 899022
-        }
-    },
-    {
-        "firstName": "CREYPE",
-        "login": "CREYPE",
-        "campus": "bordeaux",
-        "id": 218,
-        "xp": {
-            "amount": 1319188
-        }
-    },
-    {
-        "firstName": "LSERY",
-        "login": "LSERY",
-        "campus": "bordeaux",
-        "id": 219,
-        "xp": {
-            "amount": 804221
-        }
-    },
-    {
-        "firstName": "TQUESNOY",
-        "login": "TQUESNOY",
-        "campus": "bordeaux",
-        "id": 220,
-        "xp": {
-            "amount": 599380
-        }
-    },
-    {
-        "firstName": "VDIOLOGENT",
-        "login": "VDIOLOGENT",
-        "campus": "bordeaux",
-        "id": 221,
-        "xp": {
-            "amount": 626507
-        }
-    },
-    {
-        "firstName": "LMERLAUD",
-        "login": "LMERLAUD",
-        "campus": "bordeaux",
-        "id": 222,
-        "xp": {
-            "amount": 761896
-        }
-    },
-    {
-        "firstName": "MFLAMENT",
-        "login": "MFLAMENT",
-        "campus": "bordeaux",
-        "id": 223,
-        "xp": {
-            "amount": 795271
-        }
-    },
-    {
-        "firstName": "RMICHEL",
-        "login": "RMICHEL",
-        "campus": "bordeaux",
-        "id": 224,
-        "xp": {
-            "amount": 642255
-        }
-    },
-    {
-        "firstName": "MMURALEEDARAN",
-        "login": "MMURALEEDARAN",
-        "campus": "bordeaux",
-        "id": 225,
-        "xp": {
-            "amount": 368043
-        }
-    },
-    {
-        "firstName": "BGELINEAU",
-        "login": "BGELINEAU",
-        "campus": "bordeaux",
-        "id": 226,
-        "xp": {
-            "amount": 902236
-        }
-    },
-    {
-        "firstName": "DROUSSAT",
-        "login": "DROUSSAT",
-        "campus": "bordeaux",
-        "id": 227,
-        "xp": {
-            "amount": 558130
-        }
-    },
-    {
-        "firstName": "ACLAMADIEU",
-        "login": "ACLAMADIEU",
-        "campus": "bordeaux",
-        "id": 228,
-        "xp": {
-            "amount": 1221963
-        }
-    },
-    {
-        "firstName": "DFONSECA",
-        "login": "DFONSECA",
-        "campus": "bordeaux",
-        "id": 229,
-        "xp": {
-            "amount": 551942
-        }
-    },
-    {
-        "firstName": "GMATHIEU",
-        "login": "GMATHIEU",
-        "campus": "bordeaux",
-        "id": 230,
-        "xp": {
-            "amount": 1037738
-        }
-    },
-    {
-        "firstName": "CAUGIERDEMOUSSAC",
-        "login": "CAUGIERDEMOUSSAC",
-        "campus": "bordeaux",
-        "id": 231,
-        "xp": {
-            "amount": 475629
-        }
-    },
-    {
-        "firstName": "MCHASSON",
-        "login": "MCHASSON",
-        "campus": "bordeaux",
-        "id": 232,
-        "xp": {
-            "amount": 1041175
-        }
-    },
-    {
-        "firstName": "PABEILLE",
-        "login": "PABEILLE",
-        "campus": "bordeaux",
-        "id": 234,
-        "xp": {
-            "amount": 322966
-        }
-    },
-    {
-        "firstName": "AJOUANNET",
-        "login": "AJOUANNET",
-        "campus": "bordeaux",
-        "id": 235,
-        "xp": {
-            "amount": 453905
-        }
-    },
-    {
-        "firstName": "FDURU",
-        "login": "FDURU",
-        "campus": "bordeaux",
-        "id": 236,
-        "xp": {
-            "amount": 234966
-        }
-    },
-    {
-        "firstName": "ABOYER1",
-        "login": "ABOYER1",
-        "campus": "bordeaux",
-        "id": 237,
-        "xp": {
-            "amount": 1101463
-        }
-    },
-    {
-        "firstName": "LYANISS",
-        "login": "LYANISS",
-        "campus": "bordeaux",
-        "id": 238,
-        "xp": {
-            "amount": 572704
-        }
-    },
-    {
-        "firstName": "AFLAMBARD",
-        "login": "AFLAMBARD",
-        "campus": "bordeaux",
-        "id": 240,
-        "xp": {
-            "amount": 369971
-        }
-    },
-    {
-        "firstName": "FGARCIA3",
-        "login": "FGARCIA3",
-        "campus": "bordeaux",
-        "id": 241,
-        "xp": {
-            "amount": 858547
-        }
-    },
-    {
-        "firstName": "GROUX",
-        "login": "GROUX",
-        "campus": "bordeaux",
-        "id": 244,
-        "xp": {
-            "amount": 599857
-        }
-    },
-    {
-        "firstName": "PBERTIN",
-        "login": "PBERTIN",
-        "campus": "bordeaux",
-        "id": 245,
-        "xp": {
-            "amount": 335703
-        }
-    },
-    {
-        "firstName": "FDEFREITAS",
-        "login": "FDEFREITAS",
-        "campus": "bordeaux",
-        "id": 258,
-        "xp": {
-            "amount": 363391
-        }
-    },
-    {
-        "firstName": "SGAUTIER",
-        "login": "SGAUTIER",
-        "campus": "bordeaux",
-        "id": 269,
-        "xp": {
-            "amount": 526478
-        }
-    },
-    {
-        "firstName": "RSOULIAC",
-        "login": "RSOULIAC",
-        "campus": "bordeaux",
-        "id": 305,
-        "xp": {
-            "amount": 521895
-        }
-    },
-    {
-        "firstName": "KADONAI2",
-        "login": "KADONAI2",
-        "campus": "bordeaux",
-        "id": 313,
-        "xp": {
-            "amount": 193002
-        }
-    },
-    {
-        "firstName": "ADAUTHEVILLE",
-        "login": "ADAUTHEVILLE",
-        "campus": "bordeaux",
-        "id": 315,
-        "xp": {
-            "amount": 243316
-        }
-    },
-    {
-        "firstName": "AMURARO",
-        "login": "AMURARO",
-        "campus": "bordeaux",
-        "id": 354,
-        "xp": {
-            "amount": 620358
-        }
-    },
-    {
-        "firstName": "GTARENDEAU",
-        "login": "GTARENDEAU",
-        "campus": "bordeaux",
-        "id": 355,
-        "xp": {
-            "amount": 1192083
-        }
-    },
-    {
-        "firstName": "DGAUTHIER",
-        "login": "DGAUTHIER",
-        "campus": "bordeaux",
-        "id": 357,
-        "xp": {
-            "amount": 578156
-        }
-    },
-    {
-        "firstName": "DLEVEE",
-        "login": "DLEVEE",
-        "campus": "bordeaux",
-        "id": 358,
-        "xp": {
-            "amount": 1015194
-        }
-    },
-    {
-        "firstName": "AVELLA",
-        "login": "AVELLA",
-        "campus": "bordeaux",
-        "id": 446,
-        "xp": {
-            "amount": 95480
-        }
-    },
-    {
-        "firstName": "RRANAIVOSON",
-        "login": "RRANAIVOSON",
-        "campus": "bordeaux",
-        "id": 472,
-        "xp": {
-            "amount": 125800
-        }
-    },
-    {
-        "firstName": "GMICHON",
-        "login": "GMICHON",
-        "campus": "bordeaux",
-        "id": 473,
-        "xp": {
-            "amount": 18600
-        }
-    },
-    {
-        "firstName": "MLHERBETTE",
-        "login": "MLHERBETTE",
-        "campus": "bordeaux",
-        "id": 513,
-        "xp": {}
-    },
-    {
-        "firstName": "FROUCHAUD",
-        "login": "FROUCHAUD",
-        "campus": "bordeaux",
-        "id": 514,
-        "xp": {}
-    },
-    {
-        "firstName": "PCOCHARD1",
-        "login": "PCOCHARD1",
-        "campus": "bordeaux",
-        "id": 515,
-        "xp": {}
-    },
-    {
-        "firstName": "EDUCOS",
-        "login": "EDUCOS",
-        "campus": "bordeaux",
-        "id": 516,
-        "xp": {}
-    },
-    {
-        "firstName": "QLOPEZ",
-        "login": "QLOPEZ",
-        "campus": "bordeaux",
-        "id": 517,
-        "xp": {}
-    },
-    {
-        "firstName": "PSCHMIDT",
-        "login": "PSCHMIDT",
-        "campus": "bordeaux",
-        "id": 547,
-        "xp": {}
-    },
-    {
-        "firstName": "TCHIRON",
-        "login": "TCHIRON",
-        "campus": "bordeaux",
-        "id": 579,
-        "xp": {}
-    },
-    {
-        "firstName": "PPOIRIER",
-        "login": "PPOIRIER",
-        "campus": "bordeaux",
-        "id": 580,
-        "xp": {
-            "amount": 1288187
-        }
-    },
-    {
-        "firstName": "EMAGNE",
-        "login": "EMAGNE",
-        "campus": "bordeaux",
-        "id": 581,
-        "xp": {
-            "amount": 900496
-        }
-    },
-    {
-        "firstName": "LGARRABOS",
-        "login": "LGARRABOS",
-        "campus": "bordeaux",
-        "id": 582,
-        "xp": {
-            "amount": 726782
-        }
-    },
-    {
-        "firstName": "JSELVA",
-        "login": "JSELVA",
-        "campus": "bordeaux",
-        "id": 583,
-        "xp": {
-            "amount": 1017822
-        }
-    },
-    {
-        "firstName": "VBONOMO",
-        "login": "VBONOMO",
-        "campus": "bordeaux",
-        "id": 584,
-        "xp": {
-            "amount": 1073297
-        }
-    },
-    {
-        "firstName": "LGARCIA2",
-        "login": "LGARCIA2",
-        "campus": "bordeaux",
-        "id": 585,
-        "xp": {
-            "amount": 1159096
-        }
-    },
-    {
-        "firstName": "EGIROD",
-        "login": "EGIROD",
-        "campus": "bordeaux",
-        "id": 586,
-        "xp": {
-            "amount": 616705
-        }
-    },
-    {
-        "firstName": "MGILLES",
-        "login": "MGILLES",
-        "campus": "bordeaux",
-        "id": 587,
-        "xp": {
-            "amount": 742269
-        }
-    },
-    {
-        "firstName": "TEVEILLARD",
-        "login": "TEVEILLARD",
-        "campus": "bordeaux",
-        "id": 588,
-        "xp": {
-            "amount": 1017234
-        }
-    },
-    {
-        "firstName": "AMARTINEZBIENABE",
-        "login": "AMARTINEZBIENABE",
-        "campus": "bordeaux",
-        "id": 590,
-        "xp": {
-            "amount": 457383
-        }
-    },
-    {
-        "firstName": "MSENHAJ",
-        "login": "MSENHAJ",
-        "campus": "bordeaux",
-        "id": 591,
-        "xp": {
-            "amount": 1293722
-        }
-    },
-    {
-        "firstName": "BPORTE1",
-        "login": "BPORTE1",
-        "campus": "bordeaux",
-        "id": 592,
-        "xp": {
-            "amount": 527668
-        }
-    },
-    {
-        "firstName": "RROULLAND",
-        "login": "RROULLAND",
-        "campus": "bordeaux",
-        "id": 593,
-        "xp": {
-            "amount": 893410
-        }
-    },
-    {
-        "firstName": "JTHEBAULT",
-        "login": "JTHEBAULT",
-        "campus": "bordeaux",
-        "id": 594,
-        "xp": {
-            "amount": 686415
-        }
-    },
-    {
-        "firstName": "HLAVILLE",
-        "login": "HLAVILLE",
-        "campus": "bordeaux",
-        "id": 595,
-        "xp": {
-            "amount": 321828
-        }
-    },
-    {
-        "firstName": "TROGARD",
-        "login": "TROGARD",
-        "campus": "bordeaux",
-        "id": 596,
-        "xp": {
-            "amount": 1333524
-        }
-    },
-    {
-        "firstName": "TGACHASSIN",
-        "login": "TGACHASSIN",
-        "campus": "bordeaux",
-        "id": 597,
-        "xp": {
-            "amount": 1137911
-        }
-    },
-    {
-        "firstName": "TWEBER1",
-        "login": "TWEBER1",
-        "campus": "bordeaux",
-        "id": 598,
-        "xp": {
-            "amount": 1583612
-        }
-    },
-    {
-        "firstName": "AFERREIRA",
-        "login": "AFERREIRA",
-        "campus": "bordeaux",
-        "id": 599,
-        "xp": {
-            "amount": 1117722
-        }
-    },
-    {
-        "firstName": "CVIDALIE",
-        "login": "CVIDALIE",
-        "campus": "bordeaux",
-        "id": 600,
-        "xp": {
-            "amount": 548191
-        }
-    },
-    {
-        "firstName": "EMOUTHON",
-        "login": "EMOUTHON",
-        "campus": "bordeaux",
-        "id": 601,
-        "xp": {
-            "amount": 836070
-        }
-    },
-    {
-        "firstName": "ECHALAYE",
-        "login": "ECHALAYE",
-        "campus": "bordeaux",
-        "id": 602,
-        "xp": {
-            "amount": 900098
-        }
-    },
-    {
-        "firstName": "GLAROUMANIE",
-        "login": "GLAROUMANIE",
-        "campus": "bordeaux",
-        "id": 603,
-        "xp": {
-            "amount": 806272
-        }
-    },
-    {
-        "firstName": "FGARCIA5",
-        "login": "FGARCIA5",
-        "campus": "bordeaux",
-        "id": 604,
-        "xp": {
-            "amount": 1377787
-        }
-    },
-    {
-        "firstName": "ALATORRE",
-        "login": "ALATORRE",
-        "campus": "bordeaux",
-        "id": 605,
-        "xp": {
-            "amount": 998459
-        }
-    },
-    {
-        "firstName": "QRUEMELI",
-        "login": "QRUEMELI",
-        "campus": "bordeaux",
-        "id": 606,
-        "xp": {
-            "amount": 703130
-        }
-    },
-    {
-        "firstName": "AVASSEUR2",
-        "login": "AVASSEUR2",
-        "campus": "bordeaux",
-        "id": 607,
-        "xp": {
-            "amount": 1110159
-        }
-    },
-    {
-        "firstName": "ATORIBIO",
-        "login": "ATORIBIO",
-        "campus": "bordeaux",
-        "id": 608,
-        "xp": {
-            "amount": 733604
-        }
-    },
-    {
-        "firstName": "TLECONTE",
-        "login": "TLECONTE",
-        "campus": "bordeaux",
-        "id": 609,
-        "xp": {
-            "amount": 490142
-        }
-    },
-    {
-        "firstName": "IZITOUNI",
-        "login": "IZITOUNI",
-        "campus": "bordeaux",
-        "id": 610,
-        "xp": {
-            "amount": 567831
-        }
-    },
-    {
-        "firstName": "VBRAVO",
-        "login": "VBRAVO",
-        "campus": "bordeaux",
-        "id": 611,
-        "xp": {
-            "amount": 579572
-        }
-    },
-    {
-        "firstName": "AMAURIZI",
-        "login": "AMAURIZI",
-        "campus": "bordeaux",
-        "id": 612,
-        "xp": {
-            "amount": 908521
-        }
-    },
-    {
-        "firstName": "MRENZEMA",
-        "login": "MRENZEMA",
-        "campus": "bordeaux",
-        "id": 614,
-        "xp": {
-            "amount": 1084198
-        }
-    },
-    {
-        "firstName": "LTOULEMON",
-        "login": "LTOULEMON",
-        "campus": "bordeaux",
-        "id": 615,
-        "xp": {
-            "amount": 870795
-        }
-    },
-    {
-        "firstName": "AGAILLARD",
-        "login": "AGAILLARD",
-        "campus": "bordeaux",
-        "id": 616,
-        "xp": {
-            "amount": 494209
-        }
-    },
-    {
-        "firstName": "MDUNIAUD",
-        "login": "MDUNIAUD",
-        "campus": "bordeaux",
-        "id": 617,
-        "xp": {
-            "amount": 823857
-        }
-    },
-    {
-        "firstName": "APAJAK",
-        "login": "APAJAK",
-        "campus": "bordeaux",
-        "id": 619,
-        "xp": {
-            "amount": 1086011
-        }
-    },
-    {
-        "firstName": "AMOISKA",
-        "login": "AMOISKA",
-        "campus": "bordeaux",
-        "id": 620,
-        "xp": {
-            "amount": 955622
-        }
-    },
-    {
-        "firstName": "YBOUSSERIA",
-        "login": "YBOUSSERIA",
-        "campus": "bordeaux",
-        "id": 621,
-        "xp": {
-            "amount": 660805
-        }
-    },
-    {
-        "firstName": "PVAYSSIER",
-        "login": "PVAYSSIER",
-        "campus": "bordeaux",
-        "id": 622,
-        "xp": {
-            "amount": 1014585
-        }
-    },
-    {
-        "firstName": "MREVOL-BUISSON",
-        "login": "MREVOL-BUISSON",
-        "campus": "bordeaux",
-        "id": 623,
-        "xp": {
-            "amount": 767020
-        }
-    },
-    {
-        "firstName": "MBATGUZERE",
-        "login": "MBATGUZERE",
-        "campus": "bordeaux",
-        "id": 624,
-        "xp": {
-            "amount": 696454
-        }
-    },
-    {
-        "firstName": "MLABASSE",
-        "login": "MLABASSE",
-        "campus": "bordeaux",
-        "id": 625,
-        "xp": {
-            "amount": 1122060
-        }
-    },
-    {
-        "firstName": "APOUGEARD-DULIMBERT",
-        "login": "APOUGEARD-DULIMBERT",
-        "campus": "bordeaux",
-        "id": 626,
-        "xp": {
-            "amount": 727971
-        }
-    },
-    {
-        "firstName": "KPORTIER",
-        "login": "KPORTIER",
-        "campus": "bordeaux",
-        "id": 627,
-        "xp": {
-            "amount": 453743
-        }
-    },
-    {
-        "firstName": "EDURAND2",
-        "login": "EDURAND2",
-        "campus": "bordeaux",
-        "id": 628,
-        "xp": {
-            "amount": 681121
-        }
-    },
-    {
-        "firstName": "HWORA",
-        "login": "HWORA",
-        "campus": "bordeaux",
-        "id": 629,
-        "xp": {
-            "amount": 824194
-        }
-    },
-    {
-        "firstName": "CBRUN",
-        "login": "CBRUN",
-        "campus": "bordeaux",
-        "id": 630,
-        "xp": {
-            "amount": 1247486
-        }
-    },
-    {
-        "firstName": "PBOURIAT",
-        "login": "PBOURIAT",
-        "campus": "bordeaux",
-        "id": 631,
-        "xp": {
-            "amount": 901422
-        }
-    },
-    {
-        "firstName": "BGADEBILLE",
-        "login": "BGADEBILLE",
-        "campus": "bordeaux",
-        "id": 632,
-        "xp": {
-            "amount": 493856
-        }
-    },
-    {
-        "firstName": "ALAVAUD",
-        "login": "ALAVAUD",
-        "campus": "bordeaux",
-        "id": 633,
-        "xp": {
-            "amount": 869107
-        }
-    },
-    {
-        "firstName": "AMACHY",
-        "login": "AMACHY",
-        "campus": "bordeaux",
-        "id": 634,
-        "xp": {
-            "amount": 560403
-        }
-    },
-    {
-        "firstName": "HBOURMAUD",
-        "login": "HBOURMAUD",
-        "campus": "bordeaux",
-        "id": 635,
-        "xp": {
-            "amount": 1173185
-        }
-    },
-    {
-        "firstName": "LBIRET",
-        "login": "LBIRET",
-        "campus": "bordeaux",
-        "id": 636,
-        "xp": {
-            "amount": 780845
-        }
-    },
-    {
-        "firstName": "JDUBAQUIER",
-        "login": "JDUBAQUIER",
-        "campus": "bordeaux",
-        "id": 637,
-        "xp": {
-            "amount": 545331
-        }
-    },
-    {
-        "firstName": "RMENARD",
-        "login": "RMENARD",
-        "campus": "bordeaux",
-        "id": 638,
-        "xp": {
-            "amount": 867422
-        }
-    },
-    {
-        "firstName": "MCOUTANT",
-        "login": "MCOUTANT",
-        "campus": "bordeaux",
-        "id": 639,
-        "xp": {
-            "amount": 948597
-        }
-    },
-    {
-        "firstName": "YMISSIERGERONIMO",
-        "login": "YMISSIERGERONIMO",
-        "campus": "bordeaux",
-        "id": 640,
-        "xp": {
-            "amount": 578435
-        }
-    },
-    {
-        "firstName": "MDUPEROU",
-        "login": "MDUPEROU",
-        "campus": "bordeaux",
-        "id": 641,
-        "xp": {
-            "amount": 322906
-        }
-    },
-    {
-        "firstName": "LGRAND-MORCEL",
-        "login": "LGRAND-MORCEL",
-        "campus": "bordeaux",
-        "id": 642,
-        "xp": {
-            "amount": 1179573
-        }
-    },
-    {
-        "firstName": "OKOERBER-NATHAN",
-        "login": "OKOERBER-NATHAN",
-        "campus": "bordeaux",
-        "id": 643,
-        "xp": {
-            "amount": 743409
-        }
-    },
-    {
-        "firstName": "EEYMAS",
-        "login": "EEYMAS",
-        "campus": "bordeaux",
-        "id": 644,
-        "xp": {
-            "amount": 666690
-        }
-    },
-    {
-        "firstName": "MDOUBLAIT",
-        "login": "MDOUBLAIT",
-        "campus": "bordeaux",
-        "id": 645,
-        "xp": {
-            "amount": 763247
-        }
-    },
-    {
-        "firstName": "RBEDJA",
-        "login": "RBEDJA",
-        "campus": "bordeaux",
-        "id": 646,
-        "xp": {
-            "amount": 576028
-        }
-    },
-    {
-        "firstName": "MJUILLARD-FONTANILLE",
-        "login": "MJUILLARD-FONTANILLE",
-        "campus": "bordeaux",
-        "id": 647,
-        "xp": {
-            "amount": 1313524
-        }
-    },
-    {
-        "firstName": "AMORAND",
-        "login": "AMORAND",
-        "campus": "bordeaux",
-        "id": 648,
-        "xp": {
-            "amount": 746283
-        }
-    },
-    {
-        "firstName": "EALVES",
-        "login": "EALVES",
-        "campus": "bordeaux",
-        "id": 649,
-        "xp": {
-            "amount": 595234
-        }
-    },
-    {
-        "firstName": "EBEGUERIE",
-        "login": "EBEGUERIE",
-        "campus": "bordeaux",
-        "id": 650,
-        "xp": {
-            "amount": 516455
-        }
-    },
-    {
-        "firstName": "TRIVRY",
-        "login": "TRIVRY",
-        "campus": "bordeaux",
-        "id": 651,
-        "xp": {
-            "amount": 551381
-        }
-    },
-    {
-        "firstName": "VDALAMELDEBOURNET",
-        "login": "VDALAMELDEBOURNET",
-        "campus": "bordeaux",
-        "id": 652,
-        "xp": {
-            "amount": 849723
-        }
-    },
-    {
-        "firstName": "RPIETRZAK",
-        "login": "RPIETRZAK",
-        "campus": "bordeaux",
-        "id": 653,
-        "xp": {
-            "amount": 1167832
-        }
-    },
-    {
-        "firstName": "ASENGUL",
-        "login": "ASENGUL",
-        "campus": "bordeaux",
-        "id": 654,
-        "xp": {
-            "amount": 535552
-        }
-    },
-    {
-        "firstName": "ACORRE2",
-        "login": "ACORRE2",
-        "campus": "bordeaux",
-        "id": 657,
-        "xp": {
-            "amount": 1075335
-        }
-    },
-    {
-        "firstName": "MLOZACH",
-        "login": "MLOZACH",
-        "campus": "bordeaux",
-        "id": 658,
-        "xp": {
-            "amount": 924233
-        }
-    },
-    {
-        "firstName": "EJOVANOVIC",
-        "login": "EJOVANOVIC",
-        "campus": "bordeaux",
-        "id": 659,
-        "xp": {
-            "amount": 377289
-        }
-    },
-    {
-        "firstName": "TDIOUF",
-        "login": "TDIOUF",
-        "campus": "bordeaux",
-        "id": 700,
-        "xp": {
-            "amount": 54226
-        }
-    },
-    {
-        "firstName": "RALOUI",
-        "login": "RALOUI",
-        "campus": "bordeaux",
-        "id": 752,
-        "xp": {
-            "amount": 409413
-        }
-    },
-    {
-        "firstName": "WBOUHOU",
-        "login": "WBOUHOU",
-        "campus": "bordeaux",
-        "id": 791,
-        "xp": {
-            "amount": 16100
-        }
-    },
-    {
-        "firstName": "LTARAIRE",
-        "login": "LTARAIRE",
-        "campus": "bordeaux",
-        "id": 613,
-        "xp": {
-            "amount": 636632
-        }
-    },
-    {
-        "firstName": "MBESCOND",
-        "login": "MBESCOND",
-        "campus": "bordeaux",
-        "id": 1269,
-        "xp": {}
-    },
-    {
-        "firstName": "TCURMI",
-        "login": "TCURMI",
-        "campus": "bordeaux",
-        "id": 202,
-        "xp": {
-            "amount": 680256
-        }
-    },
-    {
-        "firstName": "Christopher",
-        "login": "root",
-        "campus": "bordeaux",
-        "id": 6,
-        "xp": {}
-    }
-]
+        {
+          "firstName": "ACANTELOUP",
+          "login": "ACANTELOUP",
+          "campus": "bordeaux",
+          "id": 17,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 330950
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MARIAMON",
+          "login": "mwilliam",
+          "campus": "bordeaux",
+          "id": 1373,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 149503
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LANG",
+          "login": "lmatheo",
+          "campus": "bordeaux",
+          "id": 1385,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 249996
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HTRUONGMAU",
+          "login": "HTRUONGMAU",
+          "campus": "bordeaux",
+          "id": 187,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 116854
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MCOLLARD",
+          "login": "MCOLLARD",
+          "campus": "bordeaux",
+          "id": 188,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 377920
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MLAGARDE",
+          "login": "MLAGARDE",
+          "campus": "bordeaux",
+          "id": 189,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 113977
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LFALLOUS",
+          "login": "LFALLOUS",
+          "campus": "bordeaux",
+          "id": 190,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 997987
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EMARTINEZ",
+          "login": "EMARTINEZ",
+          "campus": "bordeaux",
+          "id": 191,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 566156
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FLAURENT",
+          "login": "FLAURENT",
+          "campus": "bordeaux",
+          "id": 192,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 338207
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MCOCO",
+          "login": "MCOCO",
+          "campus": "bordeaux",
+          "id": 194,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 327478
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SHERAUD",
+          "login": "SHERAUD",
+          "campus": "bordeaux",
+          "id": 195,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 613707
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GMARESCHAL",
+          "login": "GMARESCHAL",
+          "campus": "bordeaux",
+          "id": 197,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 473157
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LBOURIN",
+          "login": "LBOURIN",
+          "campus": "bordeaux",
+          "id": 198,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 279444
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EPEYRATAUD",
+          "login": "EPEYRATAUD",
+          "campus": "bordeaux",
+          "id": 199,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 612943
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YMONTAGNIER",
+          "login": "YMONTAGNIER",
+          "campus": "bordeaux",
+          "id": 200,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 297144
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VDAUTREMENT",
+          "login": "VDAUTREMENT",
+          "campus": "bordeaux",
+          "id": 201,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 924036
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DPHILIPPE",
+          "login": "DPHILIPPE",
+          "campus": "bordeaux",
+          "id": 203,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 253966
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CMANANT",
+          "login": "CMANANT",
+          "campus": "bordeaux",
+          "id": 204,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 639580
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EPUJOL1",
+          "login": "EPUJOL1",
+          "campus": "bordeaux",
+          "id": 205,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 497650
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LMILH1",
+          "login": "LMILH1",
+          "campus": "bordeaux",
+          "id": 206,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 513955
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PVIGNERON",
+          "login": "PVIGNERON",
+          "campus": "bordeaux",
+          "id": 207,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 462182
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FINGREMEAU",
+          "login": "FINGREMEAU",
+          "campus": "bordeaux",
+          "id": 208,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1030288
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AOTTOMANI",
+          "login": "AOTTOMANI",
+          "campus": "bordeaux",
+          "id": 209,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 130727
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AABADIE",
+          "login": "AABADIE",
+          "campus": "bordeaux",
+          "id": 210,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 543897
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HJOYET",
+          "login": "HJOYET",
+          "campus": "bordeaux",
+          "id": 211,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 505157
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MDESMAISON",
+          "login": "MDESMAISON",
+          "campus": "bordeaux",
+          "id": 212,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 368143
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KGRANGER",
+          "login": "KGRANGER",
+          "campus": "bordeaux",
+          "id": 213,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1262864
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DRIBEIRO",
+          "login": "DRIBEIRO",
+          "campus": "bordeaux",
+          "id": 214,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 381358
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMARCHAND",
+          "login": "MMARCHAND",
+          "campus": "bordeaux",
+          "id": 215,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 640793
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BAUMEUNIER",
+          "login": "BAUMEUNIER",
+          "campus": "bordeaux",
+          "id": 216,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 680808
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NDEBENGY",
+          "login": "NDEBENGY",
+          "campus": "bordeaux",
+          "id": 217,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 899022
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ANDRIAMAMPIANINA",
+          "login": "ahugo",
+          "campus": "bordeaux",
+          "id": 1379,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 194832
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CREYPE",
+          "login": "CREYPE",
+          "campus": "bordeaux",
+          "id": 218,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1319188
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LSERY",
+          "login": "LSERY",
+          "campus": "bordeaux",
+          "id": 219,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 804221
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TQUESNOY",
+          "login": "TQUESNOY",
+          "campus": "bordeaux",
+          "id": 220,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 599380
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VDIOLOGENT",
+          "login": "VDIOLOGENT",
+          "campus": "bordeaux",
+          "id": 221,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 625107
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LMERLAUD",
+          "login": "LMERLAUD",
+          "campus": "bordeaux",
+          "id": 222,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 761896
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MFLAMENT",
+          "login": "MFLAMENT",
+          "campus": "bordeaux",
+          "id": 223,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 795271
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RMICHEL",
+          "login": "RMICHEL",
+          "campus": "bordeaux",
+          "id": 224,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 642255
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMURALEEDARAN",
+          "login": "MMURALEEDARAN",
+          "campus": "bordeaux",
+          "id": 225,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 368043
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BGELINEAU",
+          "login": "BGELINEAU",
+          "campus": "bordeaux",
+          "id": 226,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 899286
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DROUSSAT",
+          "login": "DROUSSAT",
+          "campus": "bordeaux",
+          "id": 227,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 558130
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACLAMADIEU",
+          "login": "ACLAMADIEU",
+          "campus": "bordeaux",
+          "id": 228,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1221963
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DFONSECA",
+          "login": "DFONSECA",
+          "campus": "bordeaux",
+          "id": 229,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 551942
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GMATHIEU",
+          "login": "GMATHIEU",
+          "campus": "bordeaux",
+          "id": 230,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1037738
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CAUGIERDEMOUSSAC",
+          "login": "CAUGIERDEMOUSSAC",
+          "campus": "bordeaux",
+          "id": 231,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 475629
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MCHASSON",
+          "login": "MCHASSON",
+          "campus": "bordeaux",
+          "id": 232,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1041175
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PABEILLE",
+          "login": "PABEILLE",
+          "campus": "bordeaux",
+          "id": 234,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 322966
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AJOUANNET",
+          "login": "AJOUANNET",
+          "campus": "bordeaux",
+          "id": 235,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 451155
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FDURU",
+          "login": "FDURU",
+          "campus": "bordeaux",
+          "id": 236,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 234966
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABOYER1",
+          "login": "ABOYER1",
+          "campus": "bordeaux",
+          "id": 237,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1101463
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LYANISS",
+          "login": "LYANISS",
+          "campus": "bordeaux",
+          "id": 238,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 572704
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AFLAMBARD",
+          "login": "AFLAMBARD",
+          "campus": "bordeaux",
+          "id": 240,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 369971
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FGARCIA3",
+          "login": "FGARCIA3",
+          "campus": "bordeaux",
+          "id": 241,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 858047
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GROUX",
+          "login": "GROUX",
+          "campus": "bordeaux",
+          "id": 244,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 599857
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PBERTIN",
+          "login": "PBERTIN",
+          "campus": "bordeaux",
+          "id": 245,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 335703
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FDEFREITAS",
+          "login": "FDEFREITAS",
+          "campus": "bordeaux",
+          "id": 258,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 363391
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SGAUTIER",
+          "login": "SGAUTIER",
+          "campus": "bordeaux",
+          "id": 269,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 526478
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RSOULIAC",
+          "login": "RSOULIAC",
+          "campus": "bordeaux",
+          "id": 305,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 521895
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KADONAI2",
+          "login": "KADONAI2",
+          "campus": "bordeaux",
+          "id": 313,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 193002
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ADAUTHEVILLE",
+          "login": "ADAUTHEVILLE",
+          "campus": "bordeaux",
+          "id": 315,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 243316
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMURARO",
+          "login": "AMURARO",
+          "campus": "bordeaux",
+          "id": 354,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 620358
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GTARENDEAU",
+          "login": "GTARENDEAU",
+          "campus": "bordeaux",
+          "id": 355,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1192083
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DGAUTHIER",
+          "login": "DGAUTHIER",
+          "campus": "bordeaux",
+          "id": 357,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 578156
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DLEVEE",
+          "login": "DLEVEE",
+          "campus": "bordeaux",
+          "id": 358,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1013344
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AVELLA",
+          "login": "AVELLA",
+          "campus": "bordeaux",
+          "id": 446,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 95480
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RRANAIVOSON",
+          "login": "RRANAIVOSON",
+          "campus": "bordeaux",
+          "id": 472,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 112450
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GMICHON",
+          "login": "GMICHON",
+          "campus": "bordeaux",
+          "id": 473,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 17700
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MLHERBETTE",
+          "login": "MLHERBETTE",
+          "campus": "bordeaux",
+          "id": 513,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FROUCHAUD",
+          "login": "FROUCHAUD",
+          "campus": "bordeaux",
+          "id": 514,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PCOCHARD1",
+          "login": "PCOCHARD1",
+          "campus": "bordeaux",
+          "id": 515,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EDUCOS",
+          "login": "EDUCOS",
+          "campus": "bordeaux",
+          "id": 516,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "QLOPEZ",
+          "login": "QLOPEZ",
+          "campus": "bordeaux",
+          "id": 517,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PSCHMIDT",
+          "login": "PSCHMIDT",
+          "campus": "bordeaux",
+          "id": 547,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TCHIRON",
+          "login": "TCHIRON",
+          "campus": "bordeaux",
+          "id": 579,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PPOIRIER",
+          "login": "PPOIRIER",
+          "campus": "bordeaux",
+          "id": 580,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1350837
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EMAGNE",
+          "login": "EMAGNE",
+          "campus": "bordeaux",
+          "id": 581,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 962846
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LGARRABOS",
+          "login": "LGARRABOS",
+          "campus": "bordeaux",
+          "id": 582,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 796782
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JSELVA",
+          "login": "JSELVA",
+          "campus": "bordeaux",
+          "id": 583,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1062872
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VBONOMO",
+          "login": "VBONOMO",
+          "campus": "bordeaux",
+          "id": 584,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1127297
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LGARCIA2",
+          "login": "LGARCIA2",
+          "campus": "bordeaux",
+          "id": 585,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1222996
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EGIROD",
+          "login": "EGIROD",
+          "campus": "bordeaux",
+          "id": 586,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 616705
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MGILLES",
+          "login": "MGILLES",
+          "campus": "bordeaux",
+          "id": 587,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 798419
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TEVEILLARD",
+          "login": "TEVEILLARD",
+          "campus": "bordeaux",
+          "id": 588,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1108384
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMARTINEZBIENABE",
+          "login": "AMARTINEZBIENABE",
+          "campus": "bordeaux",
+          "id": 590,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 457383
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MSENHAJ",
+          "login": "MSENHAJ",
+          "campus": "bordeaux",
+          "id": 591,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1370522
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BPORTE1",
+          "login": "BPORTE1",
+          "campus": "bordeaux",
+          "id": 592,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 596118
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RROULLAND",
+          "login": "RROULLAND",
+          "campus": "bordeaux",
+          "id": 593,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 944260
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JTHEBAULT",
+          "login": "JTHEBAULT",
+          "campus": "bordeaux",
+          "id": 594,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 756415
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HLAVILLE",
+          "login": "HLAVILLE",
+          "campus": "bordeaux",
+          "id": 595,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 321828
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TROGARD",
+          "login": "TROGARD",
+          "campus": "bordeaux",
+          "id": 596,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1335324
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TGACHASSIN",
+          "login": "TGACHASSIN",
+          "campus": "bordeaux",
+          "id": 597,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1139711
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TWEBER1",
+          "login": "TWEBER1",
+          "campus": "bordeaux",
+          "id": 598,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1640912
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AFERREIRA",
+          "login": "AFERREIRA",
+          "campus": "bordeaux",
+          "id": 599,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1169872
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CVIDALIE",
+          "login": "CVIDALIE",
+          "campus": "bordeaux",
+          "id": 600,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 618591
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EMOUTHON",
+          "login": "EMOUTHON",
+          "campus": "bordeaux",
+          "id": 601,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 836070
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ECHALAYE",
+          "login": "ECHALAYE",
+          "campus": "bordeaux",
+          "id": 602,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 951498
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GLAROUMANIE",
+          "login": "GLAROUMANIE",
+          "campus": "bordeaux",
+          "id": 603,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 856372
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FGARCIA5",
+          "login": "FGARCIA5",
+          "campus": "bordeaux",
+          "id": 604,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1541137
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALATORRE",
+          "login": "ALATORRE",
+          "campus": "bordeaux",
+          "id": 605,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1061459
+              }
+            }
+          }
+        },
+        {
+          "firstName": "QRUEMELI",
+          "login": "QRUEMELI",
+          "campus": "bordeaux",
+          "id": 606,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 765930
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AVASSEUR2",
+          "login": "AVASSEUR2",
+          "campus": "bordeaux",
+          "id": 607,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1164309
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ATORIBIO",
+          "login": "ATORIBIO",
+          "campus": "bordeaux",
+          "id": 608,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 799904
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TLECONTE",
+          "login": "TLECONTE",
+          "campus": "bordeaux",
+          "id": 609,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 573642
+              }
+            }
+          }
+        },
+        {
+          "firstName": "IZITOUNI",
+          "login": "IZITOUNI",
+          "campus": "bordeaux",
+          "id": 610,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 637731
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VBRAVO",
+          "login": "VBRAVO",
+          "campus": "bordeaux",
+          "id": 611,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 642272
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMAURIZI",
+          "login": "AMAURIZI",
+          "campus": "bordeaux",
+          "id": 612,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 908521
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MRENZEMA",
+          "login": "MRENZEMA",
+          "campus": "bordeaux",
+          "id": 614,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1155148
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LTOULEMON",
+          "login": "LTOULEMON",
+          "campus": "bordeaux",
+          "id": 615,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 937795
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AGAILLARD",
+          "login": "AGAILLARD",
+          "campus": "bordeaux",
+          "id": 616,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 494209
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MDUNIAUD",
+          "login": "MDUNIAUD",
+          "campus": "bordeaux",
+          "id": 617,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 890157
+              }
+            }
+          }
+        },
+        {
+          "firstName": "APAJAK",
+          "login": "APAJAK",
+          "campus": "bordeaux",
+          "id": 619,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1145111
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMOISKA",
+          "login": "AMOISKA",
+          "campus": "bordeaux",
+          "id": 620,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1023972
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YBOUSSERIA",
+          "login": "YBOUSSERIA",
+          "campus": "bordeaux",
+          "id": 621,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 719955
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PVAYSSIER",
+          "login": "PVAYSSIER",
+          "campus": "bordeaux",
+          "id": 622,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1054985
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MREVOL-BUISSON",
+          "login": "MREVOL-BUISSON",
+          "campus": "bordeaux",
+          "id": 623,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 829170
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBATGUZERE",
+          "login": "MBATGUZERE",
+          "campus": "bordeaux",
+          "id": 624,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 751554
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MLABASSE",
+          "login": "MLABASSE",
+          "campus": "bordeaux",
+          "id": 625,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1160910
+              }
+            }
+          }
+        },
+        {
+          "firstName": "APOUGEARD-DULIMBERT",
+          "login": "APOUGEARD-DULIMBERT",
+          "campus": "bordeaux",
+          "id": 626,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 765371
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KPORTIER",
+          "login": "KPORTIER",
+          "campus": "bordeaux",
+          "id": 627,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 453743
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EDURAND2",
+          "login": "EDURAND2",
+          "campus": "bordeaux",
+          "id": 628,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 742371
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HWORA",
+          "login": "HWORA",
+          "campus": "bordeaux",
+          "id": 629,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 824194
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CBRUN",
+          "login": "CBRUN",
+          "campus": "bordeaux",
+          "id": 630,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1309686
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PBOURIAT",
+          "login": "PBOURIAT",
+          "campus": "bordeaux",
+          "id": 631,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 985172
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BGADEBILLE",
+          "login": "BGADEBILLE",
+          "campus": "bordeaux",
+          "id": 632,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 577556
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALAVAUD",
+          "login": "ALAVAUD",
+          "campus": "bordeaux",
+          "id": 633,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 946357
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMACHY",
+          "login": "AMACHY",
+          "campus": "bordeaux",
+          "id": 634,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 560403
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HBOURMAUD",
+          "login": "HBOURMAUD",
+          "campus": "bordeaux",
+          "id": 635,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1245135
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LBIRET",
+          "login": "LBIRET",
+          "campus": "bordeaux",
+          "id": 636,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 828095
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JDUBAQUIER",
+          "login": "JDUBAQUIER",
+          "campus": "bordeaux",
+          "id": 637,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 575631
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RMENARD",
+          "login": "RMENARD",
+          "campus": "bordeaux",
+          "id": 638,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 955422
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MCOUTANT",
+          "login": "MCOUTANT",
+          "campus": "bordeaux",
+          "id": 639,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1018497
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YMISSIERGERONIMO",
+          "login": "YMISSIERGERONIMO",
+          "campus": "bordeaux",
+          "id": 640,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 578435
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MDUPEROU",
+          "login": "MDUPEROU",
+          "campus": "bordeaux",
+          "id": 641,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 322906
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LGRAND-MORCEL",
+          "login": "LGRAND-MORCEL",
+          "campus": "bordeaux",
+          "id": 642,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1220473
+              }
+            }
+          }
+        },
+        {
+          "firstName": "OKOERBER-NATHAN",
+          "login": "OKOERBER-NATHAN",
+          "campus": "bordeaux",
+          "id": 643,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 743409
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EEYMAS",
+          "login": "EEYMAS",
+          "campus": "bordeaux",
+          "id": 644,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 666690
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MDOUBLAIT",
+          "login": "MDOUBLAIT",
+          "campus": "bordeaux",
+          "id": 645,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 829147
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RBEDJA",
+          "login": "RBEDJA",
+          "campus": "bordeaux",
+          "id": 646,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 615778
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MJUILLARD-FONTANILLE",
+          "login": "MJUILLARD-FONTANILLE",
+          "campus": "bordeaux",
+          "id": 647,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1457774
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMORAND",
+          "login": "AMORAND",
+          "campus": "bordeaux",
+          "id": 648,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 797833
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EALVES",
+          "login": "EALVES",
+          "campus": "bordeaux",
+          "id": 649,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 595234
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EBEGUERIE",
+          "login": "EBEGUERIE",
+          "campus": "bordeaux",
+          "id": 650,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 516455
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TRIVRY",
+          "login": "TRIVRY",
+          "campus": "bordeaux",
+          "id": 651,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 571681
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VDALAMELDEBOURNET",
+          "login": "VDALAMELDEBOURNET",
+          "campus": "bordeaux",
+          "id": 652,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 897273
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RPIETRZAK",
+          "login": "RPIETRZAK",
+          "campus": "bordeaux",
+          "id": 653,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1167832
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ASENGUL",
+          "login": "ASENGUL",
+          "campus": "bordeaux",
+          "id": 654,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 574352
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACORRE2",
+          "login": "ACORRE2",
+          "campus": "bordeaux",
+          "id": 657,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1116235
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MLOZACH",
+          "login": "MLOZACH",
+          "campus": "bordeaux",
+          "id": 658,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 924233
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EJOVANOVIC",
+          "login": "EJOVANOVIC",
+          "campus": "bordeaux",
+          "id": 659,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 422839
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TDIOUF",
+          "login": "TDIOUF",
+          "campus": "bordeaux",
+          "id": 700,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 54226
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RALOUI",
+          "login": "RALOUI",
+          "campus": "bordeaux",
+          "id": 752,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 459913
+              }
+            }
+          }
+        },
+        {
+          "firstName": "WBOUHOU",
+          "login": "WBOUHOU",
+          "campus": "bordeaux",
+          "id": 791,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 16100
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HANSON",
+          "login": "hlucas",
+          "campus": "bordeaux",
+          "id": 1370,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 98118
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LTARAIRE",
+          "login": "LTARAIRE",
+          "campus": "bordeaux",
+          "id": 613,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 684932
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBESCOND",
+          "login": "MBESCOND",
+          "campus": "bordeaux",
+          "id": 1269,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TCURMI",
+          "login": "TCURMI",
+          "campus": "bordeaux",
+          "id": 202,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 680256
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GILLIARD",
+          "login": "gyanis",
+          "campus": "bordeaux",
+          "id": 1380,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 156406
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LANFROID-NAZAC",
+          "login": "lguillau",
+          "campus": "bordeaux",
+          "id": 1378,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 119744
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PELLIER",
+          "login": "pjoris",
+          "campus": "bordeaux",
+          "id": 1372,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 158495
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ROUSSELOT ",
+          "login": "rooceane",
+          "campus": "bordeaux",
+          "id": 1383,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 72815
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BARBOTEAU",
+          "login": "bmathieu",
+          "campus": "bordeaux",
+          "id": 1366,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 154683
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BEL",
+          "login": "balexand",
+          "campus": "bordeaux",
+          "id": 1360,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 150494
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BONNELL",
+          "login": "bnathan",
+          "campus": "bordeaux",
+          "id": 1365,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 392249
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CASTAING",
+          "login": "cthomas",
+          "campus": "bordeaux",
+          "id": 1361,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 114140
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CHAMI",
+          "login": "clukas",
+          "campus": "bordeaux",
+          "id": 1363,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 116693
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FALLON",
+          "login": "fflorent",
+          "campus": "bordeaux",
+          "id": 1367,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 109729
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JOEL",
+          "login": "jancel",
+          "campus": "bordeaux",
+          "id": 1362,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 50754
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LEBOURCQ",
+          "login": "llyse",
+          "campus": "bordeaux",
+          "id": 1390,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 163044
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PRADIER",
+          "login": "pflorian",
+          "campus": "bordeaux",
+          "id": 1384,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 49304
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CASSAIGNE",
+          "login": "caquentin",
+          "campus": "bordeaux",
+          "id": 1388,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 116694
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BOURDONCLE",
+          "login": "balan",
+          "campus": "bordeaux",
+          "id": 1400,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 118456
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DURAND",
+          "login": "dsamy",
+          "campus": "bordeaux",
+          "id": 1407,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 139320
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FATH",
+          "login": "fmael",
+          "campus": "bordeaux",
+          "id": 1419,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 155994
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LOISEL",
+          "login": "lvalenti",
+          "campus": "bordeaux",
+          "id": 1394,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 100157
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MARMANDE",
+          "login": "mmelanie",
+          "campus": "bordeaux",
+          "id": 1406,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 140594
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MARQUIÉ",
+          "login": "mmederic",
+          "campus": "bordeaux",
+          "id": 1415,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 78991
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MILANESE",
+          "login": "malexand",
+          "campus": "bordeaux",
+          "id": 1411,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 64678
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MILOCHAU",
+          "login": "mmattis",
+          "campus": "bordeaux",
+          "id": 1416,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 109378
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PORTIER",
+          "login": "plukas",
+          "campus": "bordeaux",
+          "id": 1386,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 207620
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VIGUIE",
+          "login": "vlorens",
+          "campus": "bordeaux",
+          "id": 1401,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 253533
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BENOIT-LISETTE",
+          "login": "bethan",
+          "campus": "bordeaux",
+          "id": 1391,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 106779
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NUSSBAUM",
+          "login": "nenzo",
+          "campus": "bordeaux",
+          "id": 1393,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 96819
+              }
+            }
+          }
+        },
+        {
+          "firstName": "OZOUX",
+          "login": "oguillau",
+          "campus": "bordeaux",
+          "id": 1422,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 242857
+              }
+            }
+          }
+        },
+        {
+          "firstName": "REGUEME",
+          "login": "rmartin",
+          "campus": "bordeaux",
+          "id": 1392,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 161716
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ARCAS",
+          "login": "amanon",
+          "campus": "bordeaux",
+          "id": 1412,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 166244
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BROQUAIRE",
+          "login": "baxel",
+          "campus": "bordeaux",
+          "id": 1395,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 161144
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CASAREGGIO ",
+          "login": "ccedric",
+          "campus": "bordeaux",
+          "id": 1421,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 34590
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CAU",
+          "login": "craphael",
+          "campus": "bordeaux",
+          "id": 1408,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 129256
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DURAN",
+          "login": "dtimothe",
+          "campus": "bordeaux",
+          "id": 1398,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 141669
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FERRAN",
+          "login": "fmaxance",
+          "campus": "bordeaux",
+          "id": 1417,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 146319
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GUILLEMOT",
+          "login": "gkillian",
+          "campus": "bordeaux",
+          "id": 1397,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 227970
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JACOLOT",
+          "login": "jmarine",
+          "campus": "bordeaux",
+          "id": 1418,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 147757
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MACE",
+          "login": "mleo",
+          "campus": "bordeaux",
+          "id": 1396,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 215808
+              }
+            }
+          }
+        },
+        {
+          "firstName": "POUTS",
+          "login": "ppierre",
+          "campus": "bordeaux",
+          "id": 1404,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 185319
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RANVIN",
+          "login": "rthimoth",
+          "campus": "bordeaux",
+          "id": 1413,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 97381
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SAROUILLE",
+          "login": "salexand",
+          "campus": "bordeaux",
+          "id": 1410,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 312799
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SCHENCK",
+          "login": "syohan",
+          "campus": "bordeaux",
+          "id": 1399,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 141119
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BREGERE",
+          "login": "beliott",
+          "campus": "bordeaux",
+          "id": 1427,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 160907
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DAUBRESSE",
+          "login": "dalexy",
+          "campus": "bordeaux",
+          "id": 1425,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 161932
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LAPEYRE",
+          "login": "larno",
+          "campus": "bordeaux",
+          "id": 1428,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 15488
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MILLE",
+          "login": "mvendeli",
+          "campus": "bordeaux",
+          "id": 1423,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 122332
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PENOT",
+          "login": "pclement",
+          "campus": "bordeaux",
+          "id": 1409,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 147318
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RAFFANEL",
+          "login": "rguilhem",
+          "campus": "bordeaux",
+          "id": 1424,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 129906
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RICCI",
+          "login": "rbastien",
+          "campus": "bordeaux",
+          "id": 1405,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 134193
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SINCK",
+          "login": "serwan",
+          "campus": "bordeaux",
+          "id": 1403,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 116932
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SKANDER",
+          "login": "ssalim",
+          "campus": "bordeaux",
+          "id": 1429,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 85780
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ZAHREDDINE",
+          "login": "zmehdi",
+          "campus": "bordeaux",
+          "id": 1426,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 31814
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VICTOR",
+          "login": "vcesar",
+          "campus": "bordeaux",
+          "id": 1926,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 147179
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ANCEL",
+          "login": "ajoel",
+          "campus": "bordeaux",
+          "id": 1984,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 26713
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BOIZOT",
+          "login": "bmaxime",
+          "campus": "bordeaux",
+          "id": 1420,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 50977
+              }
+            }
+          }
+        },
+        {
+          "firstName": "COURTIAL",
+          "login": "cadryan",
+          "campus": "bordeaux",
+          "id": 1376,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 79579
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DAVID",
+          "login": "dgregory",
+          "campus": "bordeaux",
+          "id": 1377,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 240131
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DÉRONNE ",
+          "login": "dmathis",
+          "campus": "bordeaux",
+          "id": 1375,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 64827
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DIEDERICHS",
+          "login": "dgeoffre",
+          "campus": "bordeaux",
+          "id": 1389,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 154357
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LOPEZ",
+          "login": "ldoniban",
+          "campus": "bordeaux",
+          "id": 1907,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 47413
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NENERT",
+          "login": "nbenedic",
+          "campus": "bordeaux",
+          "id": 1381,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 123169
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMOURGUES",
+          "login": "MMOURGUES",
+          "campus": "bordeaux",
+          "id": 193,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 625896
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABDELOUAHAB",
+          "login": "ailias",
+          "campus": "bordeaux",
+          "id": 1935,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 7000
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BRANCHE",
+          "login": "bguillau",
+          "campus": "bordeaux",
+          "id": 1371,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 240494
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BAYLE",
+          "login": "bmatheo",
+          "campus": "bordeaux",
+          "id": 1368,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 149694
+              }
+            }
+          }
+        },
+        {
+          "firstName": "COMBY",
+          "login": "cquentin",
+          "campus": "bordeaux",
+          "id": 1387,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 232419
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CHANTENAY",
+          "login": "cmathieu",
+          "campus": "bordeaux",
+          "id": 1382,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 126144
+              }
+            }
+          }
+        },
+        {
+          "firstName": "COUTANT",
+          "login": "cgeoffre",
+          "campus": "bordeaux",
+          "id": 1369,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 136344
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RICHETIN",
+          "login": "rbaptist",
+          "campus": "bordeaux",
+          "id": 1402,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 151432
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MFERREIRASILVA",
+          "login": "MFERREIRASILVA",
+          "campus": "bordeaux",
+          "id": 196,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 839533
+              }
+            }
+          }
+        },
+        {
+          "firstName": "Christopher",
+          "login": "root",
+          "campus": "bordeaux",
+          "id": 6,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        }
+      ]

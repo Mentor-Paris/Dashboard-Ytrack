@@ -1,266 +1,607 @@
 [
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes/exam-03",
-        "endAt": "2020-10-02T15:00:00.572+00:00",
-        "registration": {
-            "startAt": "2020-09-30T22:00:00+00:00",
-            "eventStartAt": "2020-10-02T11:00:00+00:00",
-            "endAt": "2020-10-02T14:00:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes/final-exam",
-        "endAt": "2020-10-06T15:00:00+00:00",
-        "registration": {
-            "startAt": "2020-10-04T17:30:00+00:00",
-            "eventStartAt": "2020-10-06T06:00:00+00:00",
-            "endAt": "2020-10-06T08:27:00.413808+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes/exam-01",
-        "endAt": "2020-09-18T15:00:00+00:00",
-        "registration": {
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-01",
+          "endAt": "2020-09-18T15:00:00+00:00",
+          "registration": {
             "startAt": "2020-09-16T22:59:00+00:00",
             "eventStartAt": "2020-09-18T11:00:00+00:00",
             "endAt": "2020-09-19T13:59:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-js-2122",
-        "endAt": "2022-04-19T23:01:31.177+00:00",
-        "registration": {
-            "startAt": "2022-03-24T15:34:00+00:00",
-            "eventStartAt": "2022-03-24T15:34:00+00:00",
-            "endAt": "2022-03-24T15:34:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes/exam-02",
-        "endAt": "2020-09-28T15:00:00.783+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-03",
+          "endAt": "2020-10-02T15:00:00.572+00:00",
+          "registration": {
+            "startAt": "2020-09-30T22:00:00+00:00",
+            "eventStartAt": "2020-10-02T11:00:00+00:00",
+            "endAt": "2020-10-02T14:00:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-02",
+          "endAt": "2020-09-28T15:00:00.783+00:00",
+          "registration": {
             "startAt": "2020-09-23T22:00:00+00:00",
             "eventStartAt": "2020-09-28T11:00:00+00:00",
             "endAt": "2020-09-28T10:55:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-js-2122/sortable",
-        "endAt": "2022-04-07T13:35:31.49+00:00",
-        "registration": {
-            "startAt": "2022-04-03T16:35:31.177+00:00",
-            "eventStartAt": "2022-04-05T09:35:31.177+00:00",
-            "endAt": "2022-04-05T04:35:31.177+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/modules-nantes/piscine-js",
-        "endAt": "2021-04-30T18:00:00+00:00",
-        "registration": {
-            "startAt": "2021-02-01T17:00:00+00:00",
-            "eventStartAt": "2021-02-01T17:31:00+00:00",
-            "endAt": "2021-02-01T17:30:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/modules-nantes",
-        "endAt": "2021-07-16T21:00:00+00:00",
-        "registration": {
-            "startAt": "2020-10-07T16:00:00+00:00",
-            "eventStartAt": "2020-10-09T07:00:00+00:00",
-            "endAt": "2020-10-09T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes-2122/exam-01",
-        "endAt": "2021-09-21T10:00:00.41+00:00",
-        "registration": {
-            "startAt": "2021-09-18T19:33:00+00:00",
-            "eventStartAt": "2021-09-21T06:00:00+00:00",
-            "endAt": "2021-09-21T06:00:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes-2122/sudoku",
-        "endAt": "2021-09-28T15:00:00.628+00:00",
-        "registration": {
-            "startAt": "2021-09-23T08:00:00+00:00",
-            "eventStartAt": "2021-09-27T06:00:00+00:00",
-            "endAt": "2021-09-26T12:33:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes-2122/exam-02",
-        "endAt": "2021-09-29T15:00:00.233+00:00",
-        "registration": {
-            "startAt": "2021-09-22T19:48:00+00:00",
-            "eventStartAt": "2021-09-29T11:00:00+00:00",
-            "endAt": "2021-09-27T18:00:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes-2122/exam-03",
-        "endAt": "2021-10-01T15:00:00.136+00:00",
-        "registration": {
-            "startAt": "2021-09-29T19:48:00+00:00",
-            "eventStartAt": "2021-10-01T11:00:00+00:00",
-            "endAt": "2021-10-01T07:48:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/ymmersion-crea-marcom/carbon-copy",
-        "endAt": "2021-10-04T05:11:00.831+00:00",
-        "registration": {
-            "startAt": "2021-10-01T08:11:00.553+00:00",
-            "eventStartAt": "2021-10-03T01:11:00.553+00:00",
-            "endAt": "2021-10-02T20:11:00.553+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/ymmersion-crea-marcom/free-project",
-        "endAt": "2021-10-11T05:11:01.206+00:00",
-        "registration": {
-            "startAt": "2021-10-08T08:11:00.553+00:00",
-            "eventStartAt": "2021-10-10T01:11:00.553+00:00",
-            "endAt": "2021-10-09T20:11:00.553+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/modules-nantes2122",
-        "endAt": "2022-03-04T11:41:00+00:00",
-        "registration": {
-            "startAt": "2021-10-15T11:39:00+00:00",
-            "eventStartAt": "2021-10-15T11:41:00+00:00",
-            "endAt": "2021-10-15T11:40:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/modules-nantes/piscine-js",
-        "endAt": "2022-05-10T07:30:01.51+00:00",
-        "registration": {
-            "startAt": "2022-01-30T07:30:00.536+00:00",
-            "eventStartAt": "2022-03-01T07:30:00.536+00:00",
-            "endAt": "2022-03-01T07:30:00.536+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes",
-        "endAt": "2020-10-06T15:40:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/final-exam",
+          "endAt": "2020-10-06T15:00:00+00:00",
+          "registration": {
+            "startAt": "2020-10-04T17:30:00+00:00",
+            "eventStartAt": "2020-10-06T06:00:00+00:00",
+            "endAt": "2020-10-06T08:27:00.413808+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes",
+          "endAt": "2020-10-06T15:40:00+00:00",
+          "registration": {
             "startAt": "2020-09-09T11:10:00+00:00",
             "eventStartAt": "2020-09-09T22:00:00+00:00",
             "endAt": "2020-09-09T21:57:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-go-nantes-2122",
-        "endAt": "2021-10-13T00:40:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/modules-nantes",
+          "endAt": "2021-07-16T21:00:00+00:00",
+          "registration": {
+            "startAt": "2020-10-07T16:00:00+00:00",
+            "eventStartAt": "2020-10-09T07:00:00+00:00",
+            "endAt": "2020-10-09T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/modules-nantes/piscine-js",
+          "endAt": "2021-04-30T18:00:00+00:00",
+          "registration": {
+            "startAt": "2021-02-01T17:00:00+00:00",
+            "eventStartAt": "2021-02-01T17:31:00+00:00",
+            "endAt": "2021-02-01T17:30:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes-2122/exam-01",
+          "endAt": "2021-09-21T10:00:00.41+00:00",
+          "registration": {
+            "startAt": "2021-09-18T19:33:00+00:00",
+            "eventStartAt": "2021-09-21T06:00:00+00:00",
+            "endAt": "2021-09-21T06:00:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes-2122/sudoku",
+          "endAt": "2021-09-28T15:00:00.628+00:00",
+          "registration": {
+            "startAt": "2021-09-23T08:00:00+00:00",
+            "eventStartAt": "2021-09-27T06:00:00+00:00",
+            "endAt": "2021-09-26T12:33:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes-2122/exam-02",
+          "endAt": "2021-09-29T15:00:00.233+00:00",
+          "registration": {
+            "startAt": "2021-09-22T19:48:00+00:00",
+            "eventStartAt": "2021-09-29T11:00:00+00:00",
+            "endAt": "2021-09-27T18:00:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes-2122",
+          "endAt": "2021-10-13T00:40:00+00:00",
+          "registration": {
             "startAt": "2021-09-13T09:40:00+00:00",
             "eventStartAt": "2021-09-14T08:33:00+00:00",
             "endAt": "2021-09-14T08:32:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/ymmersion-crea-marcom",
-        "endAt": "2021-10-23T22:31:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/ymmersion-crea-marcom",
+          "endAt": "2021-10-23T22:31:00+00:00",
+          "registration": {
             "startAt": "2021-09-28T06:00:00+00:00",
             "eventStartAt": "2021-09-28T07:11:00+00:00",
             "endAt": "2021-09-28T07:11:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/modules-nantes",
-        "endAt": "2022-03-01T06:30:00.536+00:00",
-        "registration": {
-            "startAt": "2021-10-08T06:00:00+00:00",
-            "eventStartAt": "2021-10-12T06:30:00+00:00",
-            "endAt": "2021-10-12T06:30:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-sql-2122",
-        "endAt": "2021-11-07T16:57:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes-2122/exam-03",
+          "endAt": "2021-10-01T15:00:00.136+00:00",
+          "registration": {
+            "startAt": "2021-09-29T19:48:00+00:00",
+            "eventStartAt": "2021-10-01T11:00:00+00:00",
+            "endAt": "2021-10-01T07:48:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/ymmersion-crea-marcom/carbon-copy",
+          "endAt": "2021-10-04T05:11:00.831+00:00",
+          "registration": {
+            "startAt": "2021-10-01T08:11:00.553+00:00",
+            "eventStartAt": "2021-10-03T01:11:00.553+00:00",
+            "endAt": "2021-10-02T20:11:00.553+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/ymmersion-crea-marcom/free-project",
+          "endAt": "2021-10-11T05:11:01.206+00:00",
+          "registration": {
+            "startAt": "2021-10-08T08:11:00.553+00:00",
+            "eventStartAt": "2021-10-10T01:11:00.553+00:00",
+            "endAt": "2021-10-09T20:11:00.553+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": null,
+          "path": "/nantes/120456",
+          "endAt": "2024-10-22T18:44:00+00:00",
+          "registration": {
+            "startAt": "2022-11-21T08:04:00+00:00",
+            "eventStartAt": "2022-11-21T08:04:00+00:00",
+            "endAt": "2022-11-21T08:04:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-sql-2122",
+          "endAt": "2021-11-07T16:57:00+00:00",
+          "registration": {
             "startAt": "2021-10-06T08:35:00+00:00",
             "eventStartAt": "2021-10-07T08:00:00+00:00",
             "endAt": "2021-10-06T08:36:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-csharp-2122",
-        "endAt": "2021-12-11T04:00:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/modules-nantes",
+          "endAt": "2022-03-01T06:30:00.536+00:00",
+          "registration": {
+            "startAt": "2021-10-08T06:00:00+00:00",
+            "eventStartAt": "2021-10-12T06:30:00+00:00",
+            "endAt": "2021-10-12T06:30:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-csharp-2122",
+          "endAt": "2021-12-11T04:00:00+00:00",
+          "registration": {
             "startAt": "2021-11-14T17:34:00+00:00",
             "eventStartAt": "2021-11-14T17:38:00+00:00",
             "endAt": "2021-11-14T17:38:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": "done",
-        "path": "/nantes/piscine-php2122",
-        "endAt": "2022-01-20T16:00:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-php2122",
+          "endAt": "2022-01-20T16:00:00+00:00",
+          "registration": {
             "startAt": "2021-12-02T16:40:00+00:00",
             "eventStartAt": "2021-12-02T16:41:00+00:00",
             "endAt": "2021-12-02T16:41:00+00:00"
-        }
-    },
-    {
-        "campus": "nantes",
-        "status": null,
-        "path": "/nantes/piscine-go-nantes",
-        "endAt": "2022-10-03T08:50:01.369+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/modules-nantes2122",
+          "endAt": "2022-03-04T11:41:00+00:00",
+          "registration": {
+            "startAt": "2021-10-15T11:39:00+00:00",
+            "eventStartAt": "2021-10-15T11:41:00+00:00",
+            "endAt": "2021-10-15T11:40:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-js-2122/sortable",
+          "endAt": "2022-04-07T13:35:31.49+00:00",
+          "registration": {
+            "startAt": "2022-04-03T16:35:31.177+00:00",
+            "eventStartAt": "2022-04-05T09:35:31.177+00:00",
+            "endAt": "2022-04-05T04:35:31.177+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-js-2122",
+          "endAt": "2022-04-19T23:01:31.177+00:00",
+          "registration": {
+            "startAt": "2022-03-24T15:34:00+00:00",
+            "eventStartAt": "2022-03-24T15:34:00+00:00",
+            "endAt": "2022-03-24T15:34:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/modules-nantes/piscine-js",
+          "endAt": "2022-05-10T07:30:01.51+00:00",
+          "registration": {
+            "startAt": "2022-01-30T07:30:00.536+00:00",
+            "eventStartAt": "2022-03-01T07:30:00.536+00:00",
+            "endAt": "2022-03-01T07:30:00.536+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-sql-2223-info",
+          "endAt": "2022-12-30T01:21:00+00:00",
+          "registration": {
+            "startAt": "2022-12-01T13:39:00+00:00",
+            "eventStartAt": "2022-12-01T13:41:00+00:00",
+            "endAt": "2022-12-01T13:41:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes",
+          "endAt": "2022-10-03T08:50:01.369+00:00",
+          "registration": {
             "startAt": "2022-09-06T14:10:00+00:00",
             "eventStartAt": "2022-09-06T14:32:00+00:00",
             "endAt": "2022-09-06T14:32:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-01",
+          "endAt": "2022-09-09T15:00:00+00:00",
+          "registration": {
+            "startAt": "2022-09-08T06:31:00+00:00",
+            "eventStartAt": "2022-09-09T06:25:00+00:00",
+            "endAt": "2022-09-09T06:20:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-csharp-2223",
+          "endAt": "2022-10-09T03:31:03.491+00:00",
+          "registration": {
+            "startAt": "2022-09-13T11:30:00+00:00",
+            "eventStartAt": "2022-09-13T11:30:00+00:00",
+            "endAt": "2022-09-13T11:30:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-02",
+          "endAt": "2022-09-16T15:00:00.412+00:00",
+          "registration": {
+            "startAt": "2022-09-15T07:10:00+00:00",
+            "eventStartAt": "2022-09-16T11:00:00+00:00",
+            "endAt": "2022-09-16T10:59:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-03",
+          "endAt": "2022-09-27T15:00:00.601+00:00",
+          "registration": {
+            "startAt": "2022-09-26T17:00:00+00:00",
+            "eventStartAt": "2022-09-27T13:00:00+00:00",
+            "endAt": "2022-09-27T13:00:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-ux-marcket",
+          "endAt": "2022-10-14T23:36:32.412+00:00",
+          "registration": {
+            "startAt": "2022-09-19T07:29:00+00:00",
+            "eventStartAt": "2022-09-19T07:30:00+00:00",
+            "endAt": "2022-09-19T07:30:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/sudoku-2022",
+          "endAt": "2022-09-24T10:12:24.797+00:00",
+          "registration": {
+            "startAt": "2022-09-22T06:08:00+00:00",
+            "eventStartAt": "2022-09-22T06:12:00+00:00",
+            "endAt": "2022-09-22T06:12:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/sudoku",
+          "endAt": "2022-09-24T11:06:00.354+00:00",
+          "registration": {
+            "startAt": "2022-09-22T06:53:00+00:00",
+            "eventStartAt": "2022-09-22T07:06:00+00:00",
+            "endAt": "2022-09-22T07:05:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/final-exam",
+          "endAt": "2022-10-03T08:02:01.929+00:00",
+          "registration": {
+            "startAt": "2022-10-01T10:02:01.369+00:00",
+            "eventStartAt": "2022-10-02T23:02:01.369+00:00",
+            "endAt": "2022-10-02T22:02:01.369+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/ux-alix-marcket",
+          "endAt": "2022-10-14T23:44:26.905+00:00",
+          "registration": {
+            "startAt": "2022-09-19T07:44:00+00:00",
+            "eventStartAt": "2022-09-19T07:44:00+00:00",
+            "endAt": "2022-09-19T07:44:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-php-2223",
+          "endAt": "2022-11-22T17:00:00+00:00",
+          "registration": {
+            "startAt": "2022-10-17T06:55:00+00:00",
+            "eventStartAt": "2022-10-17T07:13:00+00:00",
+            "endAt": "2022-10-17T07:12:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/discovery-2223/carbon-copy",
+          "endAt": "2022-10-14T04:35:08.939+00:00",
+          "registration": {
+            "startAt": "2022-10-11T07:35:08.043+00:00",
+            "eventStartAt": "2022-10-13T00:35:08.043+00:00",
+            "endAt": "2022-10-12T19:35:08.043+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/discovery-2223/ephemeris",
+          "endAt": "2022-10-21T04:35:08.45+00:00",
+          "registration": {
+            "startAt": "2022-10-17T07:35:08.043+00:00",
+            "eventStartAt": "2022-10-19T00:35:08.043+00:00",
+            "endAt": "2022-10-18T19:35:08.043+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-01",
+          "endAt": "2022-10-29T06:41:29.275+00:00",
+          "registration": {
+            "startAt": "2022-10-27T14:40:28.567+00:00",
+            "eventStartAt": "2022-10-29T02:41:28.567+00:00",
+            "endAt": "2022-10-29T02:40:28.567+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/sudoku",
+          "endAt": "2022-10-22T17:41:29.569+00:00",
+          "registration": {
+            "startAt": "2022-10-18T20:41:28.567+00:00",
+            "eventStartAt": "2022-10-20T13:41:28.567+00:00",
+            "endAt": "2022-10-20T08:41:28.567+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-sql-2223",
+          "endAt": "2022-10-29T06:30:48.501+00:00",
+          "registration": {
+            "startAt": "2022-10-24T06:22:00+00:00",
+            "eventStartAt": "2022-10-24T06:23:00+00:00",
+            "endAt": "2022-10-24T06:23:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/discovery-2223",
+          "endAt": "2022-11-01T22:35:08.043+00:00",
+          "registration": {
+            "startAt": "2022-10-07T06:35:00+00:00",
+            "eventStartAt": "2022-10-07T06:35:00+00:00",
+            "endAt": "2022-10-07T06:35:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-02",
+          "endAt": "2022-11-05T06:41:28.645+00:00",
+          "registration": {
+            "startAt": "2022-11-03T13:41:28.567+00:00",
+            "eventStartAt": "2022-11-05T02:41:28.567+00:00",
+            "endAt": "2022-11-05T01:41:28.567+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-csharp-2223",
+          "endAt": "2022-11-09T05:31:03.041+00:00",
+          "registration": {
+            "startAt": "2022-10-14T13:30:00+00:00",
+            "eventStartAt": "2022-10-14T13:31:00+00:00",
+            "endAt": "2022-10-14T13:30:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes",
+          "endAt": "2022-11-15T05:41:28.567+00:00",
+          "registration": {
+            "startAt": "2022-10-20T13:41:00+00:00",
+            "eventStartAt": "2022-10-20T13:41:00+00:00",
+            "endAt": "2022-10-20T13:41:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-sql-2223",
+          "endAt": "2022-11-19T07:16:00+00:00",
+          "registration": {
+            "startAt": "2022-11-14T07:15:00+00:00",
+            "eventStartAt": "2022-11-14T07:16:00+00:00",
+            "endAt": "2022-11-14T07:15:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/exam-03",
+          "endAt": "2022-11-12T06:41:29.308+00:00",
+          "registration": {
+            "startAt": "2022-11-10T13:41:28.567+00:00",
+            "eventStartAt": "2022-11-12T02:41:28.567+00:00",
+            "endAt": "2022-11-12T01:41:28.567+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-go-nantes/final-exam",
+          "endAt": "2022-11-16T07:11:29.199+00:00",
+          "registration": {
+            "startAt": "2022-11-14T09:11:28.567+00:00",
+            "eventStartAt": "2022-11-15T22:11:28.567+00:00",
+            "endAt": "2022-11-15T21:11:28.567+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-js-crea/crossword",
+          "endAt": "2023-03-09T19:18:26.508+00:00",
+          "registration": {
+            "startAt": "2023-03-05T22:18:25.689+00:00",
+            "eventStartAt": "2023-03-07T15:18:25.689+00:00",
+            "endAt": "2023-03-07T10:18:25.689+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-js-crea/sortable",
+          "endAt": "2023-03-16T13:18:25.897+00:00",
+          "registration": {
+            "startAt": "2023-03-12T16:18:25.689+00:00",
+            "eventStartAt": "2023-03-14T09:18:25.689+00:00",
+            "endAt": "2023-03-14T04:18:25.689+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-js-crea",
+          "endAt": "2023-03-31T23:00:00+00:00",
+          "registration": {
+            "startAt": "2023-03-02T15:16:00+00:00",
+            "eventStartAt": "2023-03-02T15:18:00+00:00",
+            "endAt": "2023-03-02T15:16:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/groupie-tracker",
+          "endAt": "2023-04-14T01:08:45.545+00:00",
+          "registration": {
+            "startAt": "2023-02-02T09:46:00+00:00",
+            "eventStartAt": "2023-02-03T07:01:00+00:00",
+            "endAt": "2023-02-03T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-js-crea/clonernews",
+          "endAt": "2023-03-23T13:18:26.056+00:00",
+          "registration": {
+            "startAt": "2023-03-19T16:18:25.689+00:00",
+            "eventStartAt": "2023-03-21T09:18:25.689+00:00",
+            "endAt": "2023-03-21T04:18:25.689+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": "done",
+          "path": "/nantes/piscine-js-2122",
+          "endAt": "2023-04-14T22:30:00+00:00",
+          "registration": {
+            "startAt": "2023-03-17T10:00:00+00:00",
+            "eventStartAt": "2023-03-20T06:30:00+00:00",
+            "endAt": "2023-03-20T05:00:00+00:00"
+          }
+        },
+        {
+          "campus": "nantes",
+          "status": null,
+          "path": "/nantes/forum2223",
+          "endAt": "2025-05-11T06:30:00+00:00",
+          "registration": {
+            "startAt": "2023-05-12T06:30:00+00:00",
+            "eventStartAt": "2023-05-12T06:30:00+00:00",
+            "endAt": "2023-05-12T06:30:00+00:00"
+          }
         }
-    }
-]
+      ]

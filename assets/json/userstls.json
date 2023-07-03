@@ -1,1744 +1,2524 @@
 [
-    {
-        "firstName": "DESPENEL",
-        "login": "DESPENEL",
-        "campus": "toulouse",
-        "id": 141,
-        "xp": {
-            "amount": 498732
-        }
-    },
-    {
-        "firstName": "NLOCATELLI",
-        "login": "NLOCATELLI",
-        "campus": "toulouse",
-        "id": 142,
-        "xp": {
-            "amount": 76654
-        }
-    },
-    {
-        "firstName": "CROUGEON",
-        "login": "CROUGEON",
-        "campus": "toulouse",
-        "id": 143,
-        "xp": {
-            "amount": 796834
-        }
-    },
-    {
-        "firstName": "WMANIXAY",
-        "login": "WMANIXAY",
-        "campus": "toulouse",
-        "id": 144,
-        "xp": {
-            "amount": 154404
-        }
-    },
-    {
-        "firstName": "BPUIG",
-        "login": "BPUIG",
-        "campus": "toulouse",
-        "id": 145,
-        "xp": {
-            "amount": 485467
-        }
-    },
-    {
-        "firstName": "EPARRIEL",
-        "login": "EPARRIEL",
-        "campus": "toulouse",
-        "id": 146,
-        "xp": {
-            "amount": 637371
-        }
-    },
-    {
-        "firstName": "TDEOLIVEIRA",
-        "login": "TDEOLIVEIRA",
-        "campus": "toulouse",
-        "id": 147,
-        "xp": {
-            "amount": 120114
-        }
-    },
-    {
-        "firstName": "TVANSCHENDEL",
-        "login": "TVANSCHENDEL",
-        "campus": "toulouse",
-        "id": 148,
-        "xp": {
-            "amount": 589821
-        }
-    },
-    {
-        "firstName": "MRIVIERE",
-        "login": "MRIVIERE",
-        "campus": "toulouse",
-        "id": 149,
-        "xp": {
-            "amount": 651817
-        }
-    },
-    {
-        "firstName": "LSENAC--SAVALL",
-        "login": "LSENAC--SAVALL",
-        "campus": "toulouse",
-        "id": 150,
-        "xp": {
-            "amount": 466005
-        }
-    },
-    {
-        "firstName": "LSASSE",
-        "login": "LSASSE",
-        "campus": "toulouse",
-        "id": 151,
-        "xp": {
-            "amount": 862138
-        }
-    },
-    {
-        "firstName": "PBERDIER",
-        "login": "PBERDIER",
-        "campus": "toulouse",
-        "id": 152,
-        "xp": {
-            "amount": 165442
-        }
-    },
-    {
-        "firstName": "FLEJOSNE",
-        "login": "FLEJOSNE",
-        "campus": "toulouse",
-        "id": 153,
-        "xp": {
-            "amount": 1095747
-        }
-    },
-    {
-        "firstName": "WMESSAN",
-        "login": "WMESSAN",
-        "campus": "toulouse",
-        "id": 154,
-        "xp": {
-            "amount": 463506
-        }
-    },
-    {
-        "firstName": "AMARSILLE",
-        "login": "AMARSILLE",
-        "campus": "toulouse",
-        "id": 155,
-        "xp": {
-            "amount": 343040
-        }
-    },
-    {
-        "firstName": "ATHIEN",
-        "login": "ATHIEN",
-        "campus": "toulouse",
-        "id": 156,
-        "xp": {
-            "amount": 760672
-        }
-    },
-    {
-        "firstName": "CCHEN",
-        "login": "CCHEN",
-        "campus": "toulouse",
-        "id": 157,
-        "xp": {
-            "amount": 11114
-        }
-    },
-    {
-        "firstName": "DTUKHARELI",
-        "login": "DTUKHARELI",
-        "campus": "toulouse",
-        "id": 158,
-        "xp": {
-            "amount": 9626
-        }
-    },
-    {
-        "firstName": "JGLENDINNING",
-        "login": "JGLENDINNING",
-        "campus": "toulouse",
-        "id": 160,
-        "xp": {
-            "amount": 354020
-        }
-    },
-    {
-        "firstName": "TMOIGNE",
-        "login": "TMOIGNE",
-        "campus": "toulouse",
-        "id": 161,
-        "xp": {
-            "amount": 148995
-        }
-    },
-    {
-        "firstName": "CDEMATIENEBIDZIMOU",
-        "login": "CDEMATIENEBIDZIMOU",
-        "campus": "toulouse",
-        "id": 162,
-        "xp": {
-            "amount": 348858
-        }
-    },
-    {
-        "firstName": "AHAOUZI",
-        "login": "AHAOUZI",
-        "campus": "toulouse",
-        "id": 163,
-        "xp": {
-            "amount": 152914
-        }
-    },
-    {
-        "firstName": "JPADER",
-        "login": "JPADER",
-        "campus": "toulouse",
-        "id": 165,
-        "xp": {
-            "amount": 462843
-        }
-    },
-    {
-        "firstName": "CADDARIO",
-        "login": "CADDARIO",
-        "campus": "toulouse",
-        "id": 166,
-        "xp": {
-            "amount": 600908
-        }
-    },
-    {
-        "firstName": "RHUC",
-        "login": "RHUC",
-        "campus": "toulouse",
-        "id": 167,
-        "xp": {
-            "amount": 417416
-        }
-    },
-    {
-        "firstName": "MPHERON",
-        "login": "MPHERON",
-        "campus": "toulouse",
-        "id": 168,
-        "xp": {
-            "amount": 471055
-        }
-    },
-    {
-        "firstName": "TRAYSSAC",
-        "login": "TRAYSSAC",
-        "campus": "toulouse",
-        "id": 169,
-        "xp": {
-            "amount": 330280
-        }
-    },
-    {
-        "firstName": "FMACCOTTA",
-        "login": "FMACCOTTA",
-        "campus": "toulouse",
-        "id": 170,
-        "xp": {
-            "amount": 674424
-        }
-    },
-    {
-        "firstName": "MMORIN",
-        "login": "MMORIN",
-        "campus": "toulouse",
-        "id": 171,
-        "xp": {
-            "amount": 285392
-        }
-    },
-    {
-        "firstName": "TDELBENDE",
-        "login": "TDELBENDE",
-        "campus": "toulouse",
-        "id": 172,
-        "xp": {
-            "amount": 947814
-        }
-    },
-    {
-        "firstName": "CHANSSE",
-        "login": "CHANSSE",
-        "campus": "toulouse",
-        "id": 173,
-        "xp": {
-            "amount": 496407
-        }
-    },
-    {
-        "firstName": "BGNAOUI",
-        "login": "BGNAOUI",
-        "campus": "toulouse",
-        "id": 174,
-        "xp": {
-            "amount": 373479
-        }
-    },
-    {
-        "firstName": "LDOMINGUES",
-        "login": "LDOMINGUES",
-        "campus": "toulouse",
-        "id": 175,
-        "xp": {
-            "amount": 239003
-        }
-    },
-    {
-        "firstName": "ALESTRADE1",
-        "login": "ALESTRADE1",
-        "campus": "toulouse",
-        "id": 176,
-        "xp": {
-            "amount": 94439
-        }
-    },
-    {
-        "firstName": "GSALVI",
-        "login": "GSALVI",
-        "campus": "toulouse",
-        "id": 178,
-        "xp": {
-            "amount": 341555
-        }
-    },
-    {
-        "firstName": "ZSOULA",
-        "login": "ZSOULA",
-        "campus": "toulouse",
-        "id": 179,
-        "xp": {
-            "amount": 907999
-        }
-    },
-    {
-        "firstName": "ACASEZ",
-        "login": "ACASEZ",
-        "campus": "toulouse",
-        "id": 180,
-        "xp": {
-            "amount": 393643
-        }
-    },
-    {
-        "firstName": "PFOURCADE",
-        "login": "PFOURCADE",
-        "campus": "toulouse",
-        "id": 181,
-        "xp": {
-            "amount": 405841
-        }
-    },
-    {
-        "firstName": "RARABEYRE",
-        "login": "RARABEYRE",
-        "campus": "toulouse",
-        "id": 182,
-        "xp": {
-            "amount": 617284
-        }
-    },
-    {
-        "firstName": "TSCHWENK",
-        "login": "TSCHWENK",
-        "campus": "toulouse",
-        "id": 183,
-        "xp": {
-            "amount": 917723
-        }
-    },
-    {
-        "firstName": "GCANCEL",
-        "login": "GCANCEL",
-        "campus": "toulouse",
-        "id": 184,
-        "xp": {
-            "amount": 773696
-        }
-    },
-    {
-        "firstName": "WDUBOIS",
-        "login": "WDUBOIS",
-        "campus": "toulouse",
-        "id": 185,
-        "xp": {
-            "amount": 608209
-        }
-    },
-    {
-        "firstName": "LTIFOUR",
-        "login": "LTIFOUR",
-        "campus": "toulouse",
-        "id": 186,
-        "xp": {
-            "amount": 638772
-        }
-    },
-    {
-        "firstName": "HNUNES",
-        "login": "HNUNES",
-        "campus": "toulouse",
-        "id": 246,
-        "xp": {
-            "amount": 48526
-        }
-    },
-    {
-        "firstName": "ORODRIGUEZ",
-        "login": "ORODRIGUEZ",
-        "campus": "toulouse",
-        "id": 277,
-        "xp": {
-            "amount": 286642
-        }
-    },
-    {
-        "firstName": "AABELLA",
-        "login": "AABELLA",
-        "campus": "toulouse",
-        "id": 159,
-        "xp": {
-            "amount": 174690
-        }
-    },
-    {
-        "firstName": "KBRETHES",
-        "login": "KBRETHES",
-        "campus": "toulouse",
-        "id": 307,
-        "xp": {
-            "amount": 593434
-        }
-    },
-    {
-        "firstName": "TMARTY1",
-        "login": "TMARTY1",
-        "campus": "toulouse",
-        "id": 353,
-        "xp": {
-            "amount": 125950
-        }
-    },
-    {
-        "firstName": "AOUYCHI",
-        "login": "AOUYCHI",
-        "campus": "toulouse",
-        "id": 378,
-        "xp": {
-            "amount": 263
-        }
-    },
-    {
-        "firstName": "GSAURIN",
-        "login": "GSAURIN",
-        "campus": "toulouse",
-        "id": 380,
-        "xp": {
-            "amount": 159550
-        }
-    },
-    {
-        "firstName": "THOLLINGWORTH",
-        "login": "THOLLINGWORTH",
-        "campus": "toulouse",
-        "id": 381,
-        "xp": {
-            "amount": 500
-        }
-    },
-    {
-        "firstName": "HOARAU",
-        "login": "halexis",
-        "campus": "toulouse",
-        "id": 1547,
-        "xp": {
-            "amount": 4889
-        }
-    },
-    {
-        "firstName": "MBODJ",
-        "login": "mamadou",
-        "campus": "toulouse",
-        "id": 1725,
-        "xp": {
-            "amount": 4501
-        }
-    },
-    {
-        "firstName": "TBARTHERE",
-        "login": "TBARTHERE",
-        "campus": "toulouse",
-        "id": 948,
-        "xp": {
-            "amount": 49142
-        }
-    },
-    {
-        "firstName": "ACAVAGNE",
-        "login": "ACAVAGNE",
-        "campus": "toulouse",
-        "id": 954,
-        "xp": {
-            "amount": 244396
-        }
-    },
-    {
-        "firstName": "BDEFRANCE",
-        "login": "BDEFRANCE",
-        "campus": "toulouse",
-        "id": 953,
-        "xp": {
-            "amount": 119280
-        }
-    },
-    {
-        "firstName": "LESCAFFRE1",
-        "login": "LESCAFFRE1",
-        "campus": "toulouse",
-        "id": 951,
-        "xp": {
-            "amount": 235233
-        }
-    },
-    {
-        "firstName": "ZNONIASHVILI",
-        "login": "ZNONIASHVILI",
-        "campus": "toulouse",
-        "id": 949,
-        "xp": {
-            "amount": 106494
-        }
-    },
-    {
-        "firstName": "APROVO",
-        "login": "APROVO",
-        "campus": "toulouse",
-        "id": 955,
-        "xp": {
-            "amount": 228024
-        }
-    },
-    {
-        "firstName": "JROELENS",
-        "login": "JROELENS",
-        "campus": "toulouse",
-        "id": 952,
-        "xp": {
-            "amount": 209971
-        }
-    },
-    {
-        "firstName": "VTESSIER",
-        "login": "VTESSIER",
-        "campus": "toulouse",
-        "id": 950,
-        "xp": {
-            "amount": 97769
-        }
-    },
-    {
-        "firstName": "GERARD",
-        "login": "gvianney",
-        "campus": "toulouse",
-        "id": 1729,
-        "xp": {
-            "amount": 6877
-        }
-    },
-    {
-        "firstName": "JSEGUINLEBOULANGER",
-        "login": "JSEGUINLEBOULANGER",
-        "campus": "toulouse",
-        "id": 958,
-        "xp": {
-            "amount": 141570
-        }
-    },
-    {
-        "firstName": "GFRANCESCUTTI",
-        "login": "GFRANCESCUTTI",
-        "campus": "toulouse",
-        "id": 960,
-        "xp": {
-            "amount": 84545
-        }
-    },
-    {
-        "firstName": "DFABIEN",
-        "login": "DFABIEN",
-        "campus": "toulouse",
-        "id": 962,
-        "xp": {
-            "amount": 135932
-        }
-    },
-    {
-        "firstName": "DFAUCONNIER",
-        "login": "DFAUCONNIER",
-        "campus": "toulouse",
-        "id": 964,
-        "xp": {
-            "amount": 139769
-        }
-    },
-    {
-        "firstName": "GNICOLAS",
-        "login": "GNICOLAS",
-        "campus": "toulouse",
-        "id": 969,
-        "xp": {
-            "amount": 100281
-        }
-    },
-    {
-        "firstName": "RMESTRE",
-        "login": "RMESTRE",
-        "campus": "toulouse",
-        "id": 970,
-        "xp": {
-            "amount": 267148
-        }
-    },
-    {
-        "firstName": "LOULES",
-        "login": "LOULES",
-        "campus": "toulouse",
-        "id": 975,
-        "xp": {
-            "amount": 6414
-        }
-    },
-    {
-        "firstName": "BBENCHARGUI",
-        "login": "BBENCHARGUI",
-        "campus": "toulouse",
-        "id": 983,
-        "xp": {
-            "amount": 54793
-        }
-    },
-    {
-        "firstName": "FBILLIERES",
-        "login": "FBILLIERES",
-        "campus": "toulouse",
-        "id": 963,
-        "xp": {
-            "amount": 150432
-        }
-    },
-    {
-        "firstName": "MBLONDY",
-        "login": "MBLONDY",
-        "campus": "toulouse",
-        "id": 981,
-        "xp": {
-            "amount": 153444
-        }
-    },
-    {
-        "firstName": "GBONNISSENT",
-        "login": "GBONNISSENT",
-        "campus": "toulouse",
-        "id": 967,
-        "xp": {
-            "amount": 138208
-        }
-    },
-    {
-        "firstName": "MBRENAUDIERE",
-        "login": "MBRENAUDIERE",
-        "campus": "toulouse",
-        "id": 972,
-        "xp": {
-            "amount": 12714
-        }
-    },
-    {
-        "firstName": "NCANO",
-        "login": "NCANO",
-        "campus": "toulouse",
-        "id": 980,
-        "xp": {
-            "amount": 126820
-        }
-    },
-    {
-        "firstName": "ACAPO1",
-        "login": "ACAPO1",
-        "campus": "toulouse",
-        "id": 976,
-        "xp": {
-            "amount": 103994
-        }
-    },
-    {
-        "firstName": "LCUSTOS",
-        "login": "LCUSTOS",
-        "campus": "toulouse",
-        "id": 961,
-        "xp": {
-            "amount": 235422
-        }
-    },
-    {
-        "firstName": "MHUBSCH",
-        "login": "MHUBSCH",
-        "campus": "toulouse",
-        "id": 959,
-        "xp": {
-            "amount": 112358
-        }
-    },
-    {
-        "firstName": "NHULLO",
-        "login": "NHULLO",
-        "campus": "toulouse",
-        "id": 966,
-        "xp": {
-            "amount": 125569
-        }
-    },
-    {
-        "firstName": "LMENOU",
-        "login": "LMENOU",
-        "campus": "toulouse",
-        "id": 982,
-        "xp": {
-            "amount": 64605
-        }
-    },
-    {
-        "firstName": "LMOLINERO",
-        "login": "LMOLINERO",
-        "campus": "toulouse",
-        "id": 977,
-        "xp": {
-            "amount": 120069
-        }
-    },
-    {
-        "firstName": "LMONRIBOT",
-        "login": "LMONRIBOT",
-        "campus": "toulouse",
-        "id": 957,
-        "xp": {
-            "amount": 187158
-        }
-    },
-    {
-        "firstName": "APORE1",
-        "login": "APORE1",
-        "campus": "toulouse",
-        "id": 979,
-        "xp": {
-            "amount": 51118
-        }
-    },
-    {
-        "firstName": "TRAMASSAMY1",
-        "login": "TRAMASSAMY1",
-        "campus": "toulouse",
-        "id": 968,
-        "xp": {
-            "amount": 100869
-        }
-    },
-    {
-        "firstName": "LTASSONE",
-        "login": "LTASSONE",
-        "campus": "toulouse",
-        "id": 971,
-        "xp": {
-            "amount": 121731
-        }
-    },
-    {
-        "firstName": "YVELAY",
-        "login": "YVELAY",
-        "campus": "toulouse",
-        "id": 974,
-        "xp": {
-            "amount": 238663
-        }
-    },
-    {
-        "firstName": "QBECKER",
-        "login": "QBECKER",
-        "campus": "toulouse",
-        "id": 978,
-        "xp": {
-            "amount": 638
-        }
-    },
-    {
-        "firstName": "STROITSKY",
-        "login": "STROITSKY",
-        "campus": "toulouse",
-        "id": 987,
-        "xp": {
-            "amount": 9264
-        }
-    },
-    {
-        "firstName": "VPECH",
-        "login": "VPECH",
-        "campus": "toulouse",
-        "id": 990,
-        "xp": {
-            "amount": 5364
-        }
-    },
-    {
-        "firstName": "EBELLAY-HERSON",
-        "login": "EBELLAY-HERSON",
-        "campus": "toulouse",
-        "id": 996,
-        "xp": {
-            "amount": 98733
-        }
-    },
-    {
-        "firstName": "PDUNEAU",
-        "login": "PDUNEAU",
-        "campus": "toulouse",
-        "id": 997,
-        "xp": {
-            "amount": 106182
-        }
-    },
-    {
-        "firstName": "MDIALLO10",
-        "login": "MDIALLO10",
-        "campus": "toulouse",
-        "id": 1001,
-        "xp": {
-            "amount": 263
-        }
-    },
-    {
-        "firstName": "PCABEE",
-        "login": "PCABEE",
-        "campus": "toulouse",
-        "id": 984,
-        "xp": {
-            "amount": 132770
-        }
-    },
-    {
-        "firstName": "TKLODZINSKI",
-        "login": "TKLODZINSKI",
-        "campus": "toulouse",
-        "id": 995,
-        "xp": {
-            "amount": 28952
-        }
-    },
-    {
-        "firstName": "JLELUE",
-        "login": "JLELUE",
-        "campus": "toulouse",
-        "id": 998,
-        "xp": {
-            "amount": 117058
-        }
-    },
-    {
-        "firstName": "MLUBRANO",
-        "login": "MLUBRANO",
-        "campus": "toulouse",
-        "id": 1000,
-        "xp": {
-            "amount": 118894
-        }
-    },
-    {
-        "firstName": "YNGUYEN1",
-        "login": "YNGUYEN1",
-        "campus": "toulouse",
-        "id": 999,
-        "xp": {
-            "amount": 106944
-        }
-    },
-    {
-        "firstName": "AREFYTON",
-        "login": "AREFYTON",
-        "campus": "toulouse",
-        "id": 1002,
-        "xp": {
-            "amount": 162020
-        }
-    },
-    {
-        "firstName": "KROSAK",
-        "login": "KROSAK",
-        "campus": "toulouse",
-        "id": 989,
-        "xp": {
-            "amount": 127082
-        }
-    },
-    {
-        "firstName": "SROSSET",
-        "login": "SROSSET",
-        "campus": "toulouse",
-        "id": 993,
-        "xp": {
-            "amount": 63678
-        }
-    },
-    {
-        "firstName": "SROTH",
-        "login": "SROTH",
-        "campus": "toulouse",
-        "id": 986,
-        "xp": {
-            "amount": 183971
-        }
-    },
-    {
-        "firstName": "LSCHOTT",
-        "login": "LSCHOTT",
-        "campus": "toulouse",
-        "id": 988,
-        "xp": {
-            "amount": 130394
-        }
-    },
-    {
-        "firstName": "LSEILER",
-        "login": "LSEILER",
-        "campus": "toulouse",
-        "id": 991,
-        "xp": {
-            "amount": 147520
-        }
-    },
-    {
-        "firstName": "IZIDI",
-        "login": "iluca",
-        "campus": "toulouse",
-        "id": 1554,
-        "xp": {
-            "amount": 15977
-        }
-    },
-    {
-        "firstName": "LAMOULIE",
-        "login": "lquentin",
-        "campus": "toulouse",
-        "id": 1555,
-        "xp": {
-            "amount": 15977
-        }
-    },
-    {
-        "firstName": "ARAHHAOUI",
-        "login": "ARAHHAOUI",
-        "campus": "toulouse",
-        "id": 947,
-        "xp": {
-            "amount": 69181
-        }
-    },
-    {
-        "firstName": "HASTE",
-        "login": "HASTE",
-        "campus": "toulouse",
-        "id": 992,
-        "xp": {
-            "amount": 151545
-        }
-    },
-    {
-        "firstName": "LAZORIN",
-        "login": "LAZORIN",
-        "campus": "toulouse",
-        "id": 973,
-        "xp": {
-            "amount": 120982
-        }
-    },
-    {
-        "firstName": "ABEL",
-        "login": "ABEL",
-        "campus": "toulouse",
-        "id": 956,
-        "xp": {
-            "amount": 58029
-        }
-    },
-    {
-        "firstName": "JCAVANIER",
-        "login": "JCAVANIER",
-        "campus": "toulouse",
-        "id": 1028,
-        "xp": {
-            "amount": 24075
-        }
-    },
-    {
-        "firstName": "MPLASZCZYNSKI",
-        "login": "MPLASZCZYNSKI",
-        "campus": "toulouse",
-        "id": 965,
-        "xp": {
-            "amount": 188846
-        }
-    },
-    {
-        "firstName": "RTOURNE",
-        "login": "RTOURNE",
-        "campus": "toulouse",
-        "id": 464,
-        "xp": {
-            "amount": 30527
-        }
-    },
-    {
-        "firstName": "KOPENKIN",
-        "login": "kdmitrii",
-        "campus": "toulouse",
-        "id": 1356,
-        "xp": {
-            "amount": 1451
-        }
-    },
-    {
-        "firstName": "SELLIER",
-        "login": "slouis",
-        "campus": "toulouse",
-        "id": 1506,
-        "xp": {
-            "amount": 6814
-        }
-    },
-    {
-        "firstName": "LEROI",
-        "login": "lremi",
-        "campus": "toulouse",
-        "id": 1556,
-        "xp": {
-            "amount": 12815
-        }
-    },
-    {
-        "firstName": "ALVES",
-        "login": "aadam",
-        "campus": "toulouse",
-        "id": 1508,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "AMOUSSA",
-        "login": "ahamdoun",
-        "campus": "toulouse",
-        "id": 1540,
-        "xp": {
-            "amount": 8715
-        }
-    },
-    {
-        "firstName": "ANDRÉ",
-        "login": "aedgar",
-        "campus": "toulouse",
-        "id": 1527,
-        "xp": {
-            "amount": 18865
-        }
-    },
-    {
-        "firstName": "ANDRIANDAFIMANANA",
-        "login": "ajohann",
-        "campus": "toulouse",
-        "id": 1536,
-        "xp": {
-            "amount": 10527
-        }
-    },
-    {
-        "firstName": "ANDRIEUX",
-        "login": "arodolph",
-        "campus": "toulouse",
-        "id": 1511,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "THOLLARD",
-        "login": "tsebasti",
-        "campus": "toulouse",
-        "id": 1525,
-        "xp": {
-            "amount": 18865
-        }
-    },
-    {
-        "firstName": "AUVRAY",
-        "login": "aquentin",
-        "campus": "toulouse",
-        "id": 1543,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "SOTTI",
-        "login": "sgiovann",
-        "campus": "toulouse",
-        "id": 1517,
-        "xp": {
-            "amount": 20240
-        }
-    },
-    {
-        "firstName": "BERRICHI",
-        "login": "bmohamed",
-        "campus": "toulouse",
-        "id": 1523,
-        "xp": {
-            "amount": 12727
-        }
-    },
-    {
-        "firstName": "RYBAK",
-        "login": "rmathis",
-        "campus": "toulouse",
-        "id": 1514,
-        "xp": {
-            "amount": 2101
-        }
-    },
-    {
-        "firstName": "BORIE",
-        "login": "balex",
-        "campus": "toulouse",
-        "id": 1531,
-        "xp": {
-            "amount": 11627
-        }
-    },
-    {
-        "firstName": "BOUIBA",
-        "login": "baymanal",
-        "campus": "toulouse",
-        "id": 1539,
-        "xp": {
-            "amount": 7827
-        }
-    },
-    {
-        "firstName": "ROUILLARD",
-        "login": "rugo",
-        "campus": "toulouse",
-        "id": 1534,
-        "xp": {
-            "amount": 10615
-        }
-    },
-    {
-        "firstName": "REUNGOAT",
-        "login": "rnathan",
-        "campus": "toulouse",
-        "id": 1516,
-        "xp": {
-            "amount": 15977
-        }
-    },
-    {
-        "firstName": "BREVIERE",
-        "login": "bleo",
-        "campus": "toulouse",
-        "id": 1526,
-        "xp": {
-            "amount": 20240
-        }
-    },
-    {
-        "firstName": "RÉGUIA",
-        "login": "rdalyll",
-        "campus": "toulouse",
-        "id": 1530,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "BUZENAC",
-        "login": "bremi",
-        "campus": "toulouse",
-        "id": 1535,
-        "xp": {
-            "amount": 17165
-        }
-    },
-    {
-        "firstName": "PUJOL",
-        "login": "pariel",
-        "campus": "toulouse",
-        "id": 1545,
-        "xp": {
-            "amount": 11715
-        }
-    },
-    {
-        "firstName": "POUILLOT",
-        "login": "premi",
-        "campus": "toulouse",
-        "id": 1509,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "CENAC",
-        "login": "clucille",
-        "campus": "toulouse",
-        "id": 1541,
-        "xp": {
-            "amount": 15290
-        }
-    },
-    {
-        "firstName": "COSTES-ROSSIGNOL",
-        "login": "cfanny",
-        "campus": "toulouse",
-        "id": 1542,
-        "xp": {
-            "amount": 15977
-        }
-    },
-    {
-        "firstName": "PIET",
-        "login": "pthomas",
-        "campus": "toulouse",
-        "id": 1529,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "DETRES",
-        "login": "dflorent",
-        "campus": "toulouse",
-        "id": 1518,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "PALACIOS",
-        "login": "pjordan",
-        "campus": "toulouse",
-        "id": 1520,
-        "xp": {
-            "amount": 10527
-        }
-    },
-    {
-        "firstName": "MOUTARD",
-        "login": "mquentin",
-        "campus": "toulouse",
-        "id": 1528,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "DUCHENE",
-        "login": "duhugo",
-        "campus": "toulouse",
-        "id": 1510,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "FAURÉ ",
-        "login": "fleo",
-        "campus": "toulouse",
-        "id": 1524,
-        "xp": {
-            "amount": 17165
-        }
-    },
-    {
-        "firstName": "FERRARI",
-        "login": "fenzo",
-        "campus": "toulouse",
-        "id": 1513,
-        "xp": {
-            "amount": 12815
-        }
-    },
-    {
-        "firstName": "MALLET",
-        "login": "mnayan",
-        "campus": "toulouse",
-        "id": 1537,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "LEDUC",
-        "login": "lalix",
-        "campus": "toulouse",
-        "id": 1521,
-        "xp": {
-            "amount": 17165
-        }
-    },
-    {
-        "firstName": "GIBOUT",
-        "login": "gquentin",
-        "campus": "toulouse",
-        "id": 1522,
-        "xp": {
-            "amount": 18865
-        }
-    },
-    {
-        "firstName": "LE MEUR",
-        "login": "lvincent",
-        "campus": "toulouse",
-        "id": 1532,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "LANIC",
-        "login": "lgaelle",
-        "campus": "toulouse",
-        "id": 1519,
-        "xp": {
-            "amount": 11627
-        }
-    },
-    {
-        "firstName": "LACANAL",
-        "login": "lbryan",
-        "campus": "toulouse",
-        "id": 1533,
-        "xp": {
-            "amount": 20240
-        }
-    },
-    {
-        "firstName": "LALDY-MAQUIHA",
-        "login": "ladan",
-        "campus": "toulouse",
-        "id": 1538,
-        "xp": {
-            "amount": 14102
-        }
-    },
-    {
-        "firstName": "ARMIRAIL",
-        "login": "agregory",
-        "campus": "toulouse",
-        "id": 1549,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "SOCOLOVERT ",
-        "login": "slea",
-        "campus": "toulouse",
-        "id": 1548,
-        "xp": {
-            "amount": 12815
-        }
-    },
-    {
-        "firstName": "BRUN",
-        "login": "bsasha",
-        "campus": "toulouse",
-        "id": 1551,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "POIRET",
-        "login": "pmaxime",
-        "campus": "toulouse",
-        "id": 1557,
-        "xp": {
-            "amount": 8927
-        }
-    },
-    {
-        "firstName": "DELHOTEL",
-        "login": "dantonin",
-        "campus": "toulouse",
-        "id": 1550,
-        "xp": {
-            "amount": 5689
-        }
-    },
-    {
-        "firstName": "MORINI",
-        "login": "mtheo",
-        "campus": "toulouse",
-        "id": 1562,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "FANNY",
-        "login": "fmehita",
-        "campus": "toulouse",
-        "id": 1563,
-        "xp": {
-            "amount": 5927
-        }
-    },
-    {
-        "firstName": "LAFON",
-        "login": "lrafael",
-        "campus": "toulouse",
-        "id": 1564,
-        "xp": {
-            "amount": 12815
-        }
-    },
-    {
-        "firstName": "PITREL",
-        "login": "pcorenti",
-        "campus": "toulouse",
-        "id": 1515,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "ALBORA",
-        "login": "aflorian",
-        "campus": "toulouse",
-        "id": 1578,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "TRASSEBOT",
-        "login": "tclement",
-        "campus": "toulouse",
-        "id": 1565,
-        "xp": {
-            "amount": 11627
-        }
-    },
-    {
-        "firstName": "CAPUS",
-        "login": "cethan",
-        "campus": "toulouse",
-        "id": 1576,
-        "xp": {
-            "amount": 10527
-        }
-    },
-    {
-        "firstName": "DAMBREVILLE",
-        "login": "dkarl",
-        "campus": "toulouse",
-        "id": 1560,
-        "xp": {
-            "amount": 15290
-        }
-    },
-    {
-        "firstName": "DEJEAN",
-        "login": "dpierre",
-        "campus": "toulouse",
-        "id": 1559,
-        "xp": {
-            "amount": 15290
-        }
-    },
-    {
-        "firstName": "GERMAIN",
-        "login": "garnaud",
-        "campus": "toulouse",
-        "id": 1558,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "HUYS",
-        "login": "hpablo",
-        "campus": "toulouse",
-        "id": 1561,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "BANCE ",
-        "login": "bousmane",
-        "campus": "toulouse",
-        "id": 1579,
-        "xp": {
-            "amount": 8715
-        }
-    },
-    {
-        "firstName": "BERTAUD",
-        "login": "benathan",
-        "campus": "toulouse",
-        "id": 1569,
-        "xp": {
-            "amount": 15290
-        }
-    },
-    {
-        "firstName": "SABATHE",
-        "login": "sjulien",
-        "campus": "toulouse",
-        "id": 1567,
-        "xp": {
-            "amount": 17165
-        }
-    },
-    {
-        "firstName": "BINETTI",
-        "login": "badrien",
-        "campus": "toulouse",
-        "id": 1575,
-        "xp": {
-            "amount": 7289
-        }
-    },
-    {
-        "firstName": "DEVIENNE",
-        "login": "darthur",
-        "campus": "toulouse",
-        "id": 1574,
-        "xp": {
-            "amount": 13915
-        }
-    },
-    {
-        "firstName": "DUVAL",
-        "login": "denzo",
-        "campus": "toulouse",
-        "id": 1572,
-        "xp": {
-            "amount": 10527
-        }
-    },
-    {
-        "firstName": "MENARD",
-        "login": "merwan",
-        "campus": "toulouse",
-        "id": 1566,
-        "xp": {
-            "amount": 8927
-        }
-    },
-    {
-        "firstName": "MARGRAS",
-        "login": "mlouis",
-        "campus": "toulouse",
-        "id": 1571,
-        "xp": {
-            "amount": 12815
-        }
-    },
-    {
-        "firstName": "GAYDOVA",
-        "login": "gevelina",
-        "campus": "toulouse",
-        "id": 1577,
-        "xp": {
-            "amount": 11715
-        }
-    },
-    {
-        "firstName": "LASSERRE",
-        "login": "lanael",
-        "campus": "toulouse",
-        "id": 1568,
-        "xp": {
-            "amount": 18865
-        }
-    },
-    {
-        "firstName": "JEAN LOUIS",
-        "login": "jpablo",
-        "campus": "toulouse",
-        "id": 1580,
-        "xp": {
-            "amount": 22115
-        }
-    },
-    {
-        "firstName": "FRAVALO",
-        "login": "fkillian",
-        "campus": "toulouse",
-        "id": 1512,
-        "xp": {
-            "amount": 17165
-        }
-    },
-    {
-        "firstName": "GOURBAL",
-        "login": "gfrancoi",
-        "campus": "toulouse",
-        "id": 1715,
-        "xp": {
-            "amount": 15290
-        }
-    },
-    {
-        "firstName": "VAZEILLE",
-        "login": "vmariejo",
-        "campus": "toulouse",
-        "id": 1573,
-        "xp": {
-            "amount": 11627
-        }
-    },
-    {
-        "firstName": "TAJ",
-        "login": "thugomeh",
-        "campus": "toulouse",
-        "id": 1718,
-        "xp": {
-            "amount": 12815
-        }
-    },
-    {
-        "firstName": "AUGÉ",
-        "login": "aromain",
-        "campus": "toulouse",
-        "id": 1546,
-        "xp": {
-            "amount": 15290
-        }
-    },
-    {
-        "firstName": "SUCKIEL",
-        "login": "sutheo",
-        "campus": "toulouse",
-        "id": 1553,
-        "xp": {
-            "amount": 15290
-        }
-    },
-    {
-        "firstName": "STOFFELBACH",
-        "login": "stheo",
-        "campus": "toulouse",
-        "id": 1505,
-        "xp": {
-            "amount": 15977
-        }
-    },
-    {
-        "firstName": "BOUCAUD",
-        "login": "bdorian",
-        "campus": "toulouse",
-        "id": 1544,
-        "xp": {
-            "amount": 4501
-        }
-    },
-    {
-        "firstName": "BFLORIAN",
-        "login": "BFLORIAN",
-        "campus": "toulouse",
-        "id": 1018,
-        "xp": {}
-    },
-    {
-        "firstName": "DELAGE",
-        "login": "dtao",
-        "campus": "toulouse",
-        "id": 1717,
-        "xp": {
-            "amount": 1126
-        }
-    },
-    {
-        "firstName": "PATOUILLERE",
-        "login": "pmaxence",
-        "campus": "toulouse",
-        "id": 1570,
-        "xp": {
-            "amount": 17165
-        }
-    },
-    {
-        "firstName": "GARNIER",
-        "login": "gsimon",
-        "campus": "toulouse",
-        "id": 1716,
-        "xp": {
-            "amount": 10027
-        }
-    },
-    {
-        "firstName": "HUTIN",
-        "login": "hmaxime",
-        "campus": "toulouse",
-        "id": 1552,
-        "xp": {
-            "amount": 7289
-        }
-    },
-    {
-        "firstName": "BEN MARZOUK",
-        "login": "bemohamed",
-        "campus": "toulouse",
-        "id": 1720,
-        "xp": {}
-    },
-    {
-        "firstName": "SCHELLENS",
-        "login": "skylian",
-        "campus": "toulouse",
-        "id": 1721,
-        "xp": {
-            "amount": 1150
-        }
-    },
-    {
-        "firstName": "CBAUDRIN",
-        "login": "CBAUDRIN",
-        "campus": "toulouse",
-        "id": 164,
-        "xp": {
-            "amount": 237877
-        }
-    },
-    {
-        "firstName": "CHAD",
-        "login": "cyanis",
-        "campus": "toulouse",
-        "id": 1722,
-        "xp": {
-            "amount": 21150
-        }
-    }
-]
+        {
+          "firstName": "DESPENEL",
+          "login": "DESPENEL",
+          "campus": "toulouse",
+          "id": 141,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 491932
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NLOCATELLI",
+          "login": "NLOCATELLI",
+          "campus": "toulouse",
+          "id": 142,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 76654
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CROUGEON",
+          "login": "CROUGEON",
+          "campus": "toulouse",
+          "id": 143,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 793434
+              }
+            }
+          }
+        },
+        {
+          "firstName": "WMANIXAY",
+          "login": "WMANIXAY",
+          "campus": "toulouse",
+          "id": 144,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 154404
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BPUIG",
+          "login": "BPUIG",
+          "campus": "toulouse",
+          "id": 145,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 479917
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EPARRIEL",
+          "login": "EPARRIEL",
+          "campus": "toulouse",
+          "id": 146,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 637371
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TDEOLIVEIRA",
+          "login": "TDEOLIVEIRA",
+          "campus": "toulouse",
+          "id": 147,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 120114
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TVANSCHENDEL",
+          "login": "TVANSCHENDEL",
+          "campus": "toulouse",
+          "id": 148,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 580871
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MRIVIERE",
+          "login": "MRIVIERE",
+          "campus": "toulouse",
+          "id": 149,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 642567
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PBERDIER",
+          "login": "PBERDIER",
+          "campus": "toulouse",
+          "id": 152,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 165442
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FLEJOSNE",
+          "login": "FLEJOSNE",
+          "campus": "toulouse",
+          "id": 153,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 782847
+              }
+            }
+          }
+        },
+        {
+          "firstName": "WMESSAN",
+          "login": "WMESSAN",
+          "campus": "toulouse",
+          "id": 154,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 463506
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMARSILLE",
+          "login": "AMARSILLE",
+          "campus": "toulouse",
+          "id": 155,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 339340
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ATHIEN",
+          "login": "ATHIEN",
+          "campus": "toulouse",
+          "id": 156,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 756622
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CCHEN",
+          "login": "CCHEN",
+          "campus": "toulouse",
+          "id": 157,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 11114
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DTUKHARELI",
+          "login": "DTUKHARELI",
+          "campus": "toulouse",
+          "id": 158,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 9626
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JGLENDINNING",
+          "login": "JGLENDINNING",
+          "campus": "toulouse",
+          "id": 160,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 350320
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TMOIGNE",
+          "login": "TMOIGNE",
+          "campus": "toulouse",
+          "id": 161,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 148995
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CDEMATIENEBIDZIMOU",
+          "login": "CDEMATIENEBIDZIMOU",
+          "campus": "toulouse",
+          "id": 162,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 348858
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AHAOUZI",
+          "login": "AHAOUZI",
+          "campus": "toulouse",
+          "id": 163,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 151064
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JPADER",
+          "login": "JPADER",
+          "campus": "toulouse",
+          "id": 165,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 448943
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CADDARIO",
+          "login": "CADDARIO",
+          "campus": "toulouse",
+          "id": 166,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 559358
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RHUC",
+          "login": "RHUC",
+          "campus": "toulouse",
+          "id": 167,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 404466
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MPHERON",
+          "login": "MPHERON",
+          "campus": "toulouse",
+          "id": 168,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 468855
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TRAYSSAC",
+          "login": "TRAYSSAC",
+          "campus": "toulouse",
+          "id": 169,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 330280
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FMACCOTTA",
+          "login": "FMACCOTTA",
+          "campus": "toulouse",
+          "id": 170,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 671024
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMORIN",
+          "login": "MMORIN",
+          "campus": "toulouse",
+          "id": 171,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 285392
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TDELBENDE",
+          "login": "TDELBENDE",
+          "campus": "toulouse",
+          "id": 172,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 945814
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CHANSSE",
+          "login": "CHANSSE",
+          "campus": "toulouse",
+          "id": 173,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 495307
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BGNAOUI",
+          "login": "BGNAOUI",
+          "campus": "toulouse",
+          "id": 174,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 373479
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LDOMINGUES",
+          "login": "LDOMINGUES",
+          "campus": "toulouse",
+          "id": 175,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 239003
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALESTRADE1",
+          "login": "ALESTRADE1",
+          "campus": "toulouse",
+          "id": 176,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 94439
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GSALVI",
+          "login": "GSALVI",
+          "campus": "toulouse",
+          "id": 178,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 341555
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ZSOULA",
+          "login": "ZSOULA",
+          "campus": "toulouse",
+          "id": 179,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 905499
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACASEZ",
+          "login": "ACASEZ",
+          "campus": "toulouse",
+          "id": 180,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 392093
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PFOURCADE",
+          "login": "PFOURCADE",
+          "campus": "toulouse",
+          "id": 181,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 404741
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RARABEYRE",
+          "login": "RARABEYRE",
+          "campus": "toulouse",
+          "id": 182,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 611734
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TSCHWENK",
+          "login": "TSCHWENK",
+          "campus": "toulouse",
+          "id": 183,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 903723
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GCANCEL",
+          "login": "GCANCEL",
+          "campus": "toulouse",
+          "id": 184,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 758346
+              }
+            }
+          }
+        },
+        {
+          "firstName": "WDUBOIS",
+          "login": "WDUBOIS",
+          "campus": "toulouse",
+          "id": 185,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 555059
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LTIFOUR",
+          "login": "LTIFOUR",
+          "campus": "toulouse",
+          "id": 186,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 634122
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HNUNES",
+          "login": "HNUNES",
+          "campus": "toulouse",
+          "id": 246,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 48526
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ORODRIGUEZ",
+          "login": "ORODRIGUEZ",
+          "campus": "toulouse",
+          "id": 277,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 286642
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AABELLA",
+          "login": "AABELLA",
+          "campus": "toulouse",
+          "id": 159,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 174690
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KBRETHES",
+          "login": "KBRETHES",
+          "campus": "toulouse",
+          "id": 307,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 588634
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TMARTY1",
+          "login": "TMARTY1",
+          "campus": "toulouse",
+          "id": 353,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 125950
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AOUYCHI",
+          "login": "AOUYCHI",
+          "campus": "toulouse",
+          "id": 378,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 263
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GSAURIN",
+          "login": "GSAURIN",
+          "campus": "toulouse",
+          "id": 380,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 154300
+              }
+            }
+          }
+        },
+        {
+          "firstName": "THOLLINGWORTH",
+          "login": "THOLLINGWORTH",
+          "campus": "toulouse",
+          "id": 381,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 500
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HOARAU",
+          "login": "halexis",
+          "campus": "toulouse",
+          "id": 1547,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 222624
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBODJ",
+          "login": "mamadou",
+          "campus": "toulouse",
+          "id": 1725,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 140320
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TBARTHERE",
+          "login": "TBARTHERE",
+          "campus": "toulouse",
+          "id": 948,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 49142
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BDEFRANCE",
+          "login": "BDEFRANCE",
+          "campus": "toulouse",
+          "id": 953,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 215330
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ZNONIASHVILI",
+          "login": "ZNONIASHVILI",
+          "campus": "toulouse",
+          "id": 949,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 106494
+              }
+            }
+          }
+        },
+        {
+          "firstName": "APROVO",
+          "login": "APROVO",
+          "campus": "toulouse",
+          "id": 955,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 307998
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JROELENS",
+          "login": "JROELENS",
+          "campus": "toulouse",
+          "id": 952,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 318371
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VTESSIER",
+          "login": "VTESSIER",
+          "campus": "toulouse",
+          "id": 950,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 97769
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GERARD",
+          "login": "gvianney",
+          "campus": "toulouse",
+          "id": 1729,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 34965
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JSEGUINLEBOULANGER",
+          "login": "JSEGUINLEBOULANGER",
+          "campus": "toulouse",
+          "id": 958,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 133720
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GFRANCESCUTTI",
+          "login": "GFRANCESCUTTI",
+          "campus": "toulouse",
+          "id": 960,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 84545
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DFABIEN",
+          "login": "DFABIEN",
+          "campus": "toulouse",
+          "id": 962,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 130432
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DFAUCONNIER",
+          "login": "DFAUCONNIER",
+          "campus": "toulouse",
+          "id": 964,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 139769
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GNICOLAS",
+          "login": "GNICOLAS",
+          "campus": "toulouse",
+          "id": 969,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 100281
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RMESTRE",
+          "login": "RMESTRE",
+          "campus": "toulouse",
+          "id": 970,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 267148
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LOULES",
+          "login": "LOULES",
+          "campus": "toulouse",
+          "id": 975,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 6414
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BBENCHARGUI",
+          "login": "BBENCHARGUI",
+          "campus": "toulouse",
+          "id": 983,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 54793
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FBILLIERES",
+          "login": "FBILLIERES",
+          "campus": "toulouse",
+          "id": 963,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 170182
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GBONNISSENT",
+          "login": "GBONNISSENT",
+          "campus": "toulouse",
+          "id": 967,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 173608
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBRENAUDIERE",
+          "login": "MBRENAUDIERE",
+          "campus": "toulouse",
+          "id": 972,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 17914
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NCANO",
+          "login": "NCANO",
+          "campus": "toulouse",
+          "id": 980,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 188720
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACAPO1",
+          "login": "ACAPO1",
+          "campus": "toulouse",
+          "id": 976,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 141694
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LCUSTOS",
+          "login": "LCUSTOS",
+          "campus": "toulouse",
+          "id": 961,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 459922
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MHUBSCH",
+          "login": "MHUBSCH",
+          "campus": "toulouse",
+          "id": 959,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 112358
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NHULLO",
+          "login": "NHULLO",
+          "campus": "toulouse",
+          "id": 966,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 158269
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LMENOU",
+          "login": "LMENOU",
+          "campus": "toulouse",
+          "id": 982,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 94405
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LMOLINERO",
+          "login": "LMOLINERO",
+          "campus": "toulouse",
+          "id": 977,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 150569
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LMONRIBOT",
+          "login": "LMONRIBOT",
+          "campus": "toulouse",
+          "id": 957,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 357358
+              }
+            }
+          }
+        },
+        {
+          "firstName": "APORE1",
+          "login": "APORE1",
+          "campus": "toulouse",
+          "id": 979,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 62418
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TRAMASSAMY1",
+          "login": "TRAMASSAMY1",
+          "campus": "toulouse",
+          "id": 968,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 184269
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LTASSONE",
+          "login": "LTASSONE",
+          "campus": "toulouse",
+          "id": 971,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 191231
+              }
+            }
+          }
+        },
+        {
+          "firstName": "QBECKER",
+          "login": "QBECKER",
+          "campus": "toulouse",
+          "id": 978,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 638
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PCABEE",
+          "login": "PCABEE",
+          "campus": "toulouse",
+          "id": 984,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 210470
+              }
+            }
+          }
+        },
+        {
+          "firstName": "STROITSKY",
+          "login": "STROITSKY",
+          "campus": "toulouse",
+          "id": 987,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 9264
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VPECH",
+          "login": "VPECH",
+          "campus": "toulouse",
+          "id": 990,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 5364
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EBELLAY-HERSON",
+          "login": "EBELLAY-HERSON",
+          "campus": "toulouse",
+          "id": 996,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 96883
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PDUNEAU",
+          "login": "PDUNEAU",
+          "campus": "toulouse",
+          "id": 997,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 106182
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MDIALLO10",
+          "login": "MDIALLO10",
+          "campus": "toulouse",
+          "id": 1001,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 263
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TKLODZINSKI",
+          "login": "TKLODZINSKI",
+          "campus": "toulouse",
+          "id": 995,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 38302
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JLELUE",
+          "login": "JLELUE",
+          "campus": "toulouse",
+          "id": 998,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 131458
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MLUBRANO",
+          "login": "MLUBRANO",
+          "campus": "toulouse",
+          "id": 1000,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 167944
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YNGUYEN1",
+          "login": "YNGUYEN1",
+          "campus": "toulouse",
+          "id": 999,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 148094
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KROSAK",
+          "login": "KROSAK",
+          "campus": "toulouse",
+          "id": 989,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 228132
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SROSSET",
+          "login": "SROSSET",
+          "campus": "toulouse",
+          "id": 993,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 72778
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SROTH",
+          "login": "SROTH",
+          "campus": "toulouse",
+          "id": 986,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 264871
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LSCHOTT",
+          "login": "LSCHOTT",
+          "campus": "toulouse",
+          "id": 988,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 178494
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LSEILER",
+          "login": "LSEILER",
+          "campus": "toulouse",
+          "id": 991,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 253970
+              }
+            }
+          }
+        },
+        {
+          "firstName": "IZIDI",
+          "login": "iluca",
+          "campus": "toulouse",
+          "id": 1554,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 199634
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LAMOULIE",
+          "login": "lquentin",
+          "campus": "toulouse",
+          "id": 1555,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 213436
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ARAHHAOUI",
+          "login": "ARAHHAOUI",
+          "campus": "toulouse",
+          "id": 947,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 69181
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RTOURNE",
+          "login": "RTOURNE",
+          "campus": "toulouse",
+          "id": 464,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 57916
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HASTE",
+          "login": "HASTE",
+          "campus": "toulouse",
+          "id": 992,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 305895
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LAZORIN",
+          "login": "LAZORIN",
+          "campus": "toulouse",
+          "id": 973,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 143982
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABEL",
+          "login": "ABEL",
+          "campus": "toulouse",
+          "id": 956,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 66879
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JCAVANIER",
+          "login": "JCAVANIER",
+          "campus": "toulouse",
+          "id": 1028,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 68975
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MPLASZCZYNSKI",
+          "login": "MPLASZCZYNSKI",
+          "campus": "toulouse",
+          "id": 965,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 282296
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ROSA",
+          "login": "resaie",
+          "campus": "toulouse",
+          "id": 1936,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FRAVALO",
+          "login": "fkillian",
+          "campus": "toulouse",
+          "id": 1512,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 220486
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LSASSE",
+          "login": "LSASSE",
+          "campus": "toulouse",
+          "id": 151,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 837488
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AREFYTON",
+          "login": "AREFYTON",
+          "campus": "toulouse",
+          "id": 1002,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 246120
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBLONDY",
+          "login": "MBLONDY",
+          "campus": "toulouse",
+          "id": 981,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 292394
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KOPENKIN",
+          "login": "kdmitrii",
+          "campus": "toulouse",
+          "id": 1356,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1451
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YVELAY",
+          "login": "YVELAY",
+          "campus": "toulouse",
+          "id": 974,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 351649
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SELLIER",
+          "login": "slouis",
+          "campus": "toulouse",
+          "id": 1506,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 74831
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALVES",
+          "login": "aadam",
+          "campus": "toulouse",
+          "id": 1508,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 204447
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMOUSSA",
+          "login": "ahamdoun",
+          "campus": "toulouse",
+          "id": 1540,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 108970
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ANDRÉ",
+          "login": "aedgar",
+          "campus": "toulouse",
+          "id": 1527,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 186696
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ANDRIANDAFIMANANA",
+          "login": "ajohann",
+          "campus": "toulouse",
+          "id": 1536,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 153357
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ANDRIEUX",
+          "login": "arodolph",
+          "campus": "toulouse",
+          "id": 1511,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 313277
+              }
+            }
+          }
+        },
+        {
+          "firstName": "THOLLARD",
+          "login": "tsebasti",
+          "campus": "toulouse",
+          "id": 1525,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 154249
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AUVRAY",
+          "login": "aquentin",
+          "campus": "toulouse",
+          "id": 1543,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 281651
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SOTTI",
+          "login": "sgiovann",
+          "campus": "toulouse",
+          "id": 1517,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 232522
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BERRICHI",
+          "login": "bmohamed",
+          "campus": "toulouse",
+          "id": 1523,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 157258
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RYBAK",
+          "login": "rmathis",
+          "campus": "toulouse",
+          "id": 1514,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 35629
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BORIE",
+          "login": "balex",
+          "campus": "toulouse",
+          "id": 1531,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 80170
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BOUIBA",
+          "login": "baymanal",
+          "campus": "toulouse",
+          "id": 1539,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 165833
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ROUILLARD",
+          "login": "rugo",
+          "campus": "toulouse",
+          "id": 1534,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 30179
+              }
+            }
+          }
+        },
+        {
+          "firstName": "REUNGOAT",
+          "login": "rnathan",
+          "campus": "toulouse",
+          "id": 1516,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 207160
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BREVIERE",
+          "login": "bleo",
+          "campus": "toulouse",
+          "id": 1526,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 182521
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RÉGUIA",
+          "login": "rdalyll",
+          "campus": "toulouse",
+          "id": 1530,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 250249
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BUZENAC",
+          "login": "bremi",
+          "campus": "toulouse",
+          "id": 1535,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 169123
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PUJOL",
+          "login": "pariel",
+          "campus": "toulouse",
+          "id": 1545,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 90008
+              }
+            }
+          }
+        },
+        {
+          "firstName": "POUILLOT",
+          "login": "premi",
+          "campus": "toulouse",
+          "id": 1509,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 144336
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CENAC",
+          "login": "clucille",
+          "campus": "toulouse",
+          "id": 1541,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 191259
+              }
+            }
+          }
+        },
+        {
+          "firstName": "COSTES-ROSSIGNOL",
+          "login": "cfanny",
+          "campus": "toulouse",
+          "id": 1542,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 112820
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DETRES",
+          "login": "dflorent",
+          "campus": "toulouse",
+          "id": 1518,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 160409
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PALACIOS",
+          "login": "pjordan",
+          "campus": "toulouse",
+          "id": 1520,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 190420
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MOUTARD",
+          "login": "mquentin",
+          "campus": "toulouse",
+          "id": 1528,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 92520
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DUCHENE",
+          "login": "duhugo",
+          "campus": "toulouse",
+          "id": 1510,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 112533
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FAURÉ ",
+          "login": "fleo",
+          "campus": "toulouse",
+          "id": 1524,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 211297
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FERRARI",
+          "login": "fenzo",
+          "campus": "toulouse",
+          "id": 1513,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 254160
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MALLET",
+          "login": "mnayan",
+          "campus": "toulouse",
+          "id": 1537,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 366428
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GIBOUT",
+          "login": "gquentin",
+          "campus": "toulouse",
+          "id": 1522,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 221697
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LE MEUR",
+          "login": "lvincent",
+          "campus": "toulouse",
+          "id": 1532,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 217884
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LANIC",
+          "login": "lgaelle",
+          "campus": "toulouse",
+          "id": 1519,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 195071
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LACANAL",
+          "login": "lbryan",
+          "campus": "toulouse",
+          "id": 1533,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 111534
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LALDY-MAQUIHA",
+          "login": "ladan",
+          "campus": "toulouse",
+          "id": 1538,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 151570
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ARMIRAIL",
+          "login": "agregory",
+          "campus": "toulouse",
+          "id": 1549,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 152070
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SOCOLOVERT ",
+          "login": "slea",
+          "campus": "toulouse",
+          "id": 1548,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 174009
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BRUN",
+          "login": "bsasha",
+          "campus": "toulouse",
+          "id": 1551,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 180559
+              }
+            }
+          }
+        },
+        {
+          "firstName": "POIRET",
+          "login": "pmaxime",
+          "campus": "toulouse",
+          "id": 1557,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 109320
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DELHOTEL",
+          "login": "dantonin",
+          "campus": "toulouse",
+          "id": 1550,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 36980
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MORINI",
+          "login": "mtheo",
+          "campus": "toulouse",
+          "id": 1562,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 199060
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FANNY",
+          "login": "fmehita",
+          "campus": "toulouse",
+          "id": 1563,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 41616
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LAFON",
+          "login": "lrafael",
+          "campus": "toulouse",
+          "id": 1564,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 206160
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALBORA",
+          "login": "aflorian",
+          "campus": "toulouse",
+          "id": 1578,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 243224
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TRASSEBOT",
+          "login": "tclement",
+          "campus": "toulouse",
+          "id": 1565,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 72319
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CAPUS",
+          "login": "cethan",
+          "campus": "toulouse",
+          "id": 1576,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 117320
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DAMBREVILLE",
+          "login": "dkarl",
+          "campus": "toulouse",
+          "id": 1560,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 249424
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DEJEAN",
+          "login": "dpierre",
+          "campus": "toulouse",
+          "id": 1559,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 201611
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GERMAIN",
+          "login": "garnaud",
+          "campus": "toulouse",
+          "id": 1558,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 104520
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HUYS",
+          "login": "hpablo",
+          "campus": "toulouse",
+          "id": 1561,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 206199
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PITREL",
+          "login": "pcorenti",
+          "campus": "toulouse",
+          "id": 1515,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 353926
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BANCE ",
+          "login": "bousmane",
+          "campus": "toulouse",
+          "id": 1579,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 110471
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BERTAUD",
+          "login": "benathan",
+          "campus": "toulouse",
+          "id": 1569,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 242612
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SABATHE",
+          "login": "sjulien",
+          "campus": "toulouse",
+          "id": 1567,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 164836
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BINETTI",
+          "login": "badrien",
+          "campus": "toulouse",
+          "id": 1575,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 109780
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DEVIENNE",
+          "login": "darthur",
+          "campus": "toulouse",
+          "id": 1574,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 146784
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DUVAL",
+          "login": "denzo",
+          "campus": "toulouse",
+          "id": 1572,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 156482
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MENARD",
+          "login": "merwan",
+          "campus": "toulouse",
+          "id": 1566,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 198308
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MARGRAS",
+          "login": "mlouis",
+          "campus": "toulouse",
+          "id": 1571,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 103292
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GAYDOVA",
+          "login": "gevelina",
+          "campus": "toulouse",
+          "id": 1577,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 114670
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LASSERRE",
+          "login": "lanael",
+          "campus": "toulouse",
+          "id": 1568,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 208011
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JEAN LOUIS",
+          "login": "jpablo",
+          "campus": "toulouse",
+          "id": 1580,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 248799
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PIET",
+          "login": "pthomas",
+          "campus": "toulouse",
+          "id": 1529,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 172321
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GOURBAL",
+          "login": "gfrancoi",
+          "campus": "toulouse",
+          "id": 1715,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 195809
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VAZEILLE",
+          "login": "vmariejo",
+          "campus": "toulouse",
+          "id": 1573,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 151621
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TAJ",
+          "login": "thugomeh",
+          "campus": "toulouse",
+          "id": 1718,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 134845
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AUGÉ",
+          "login": "aromain",
+          "campus": "toulouse",
+          "id": 1546,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 188309
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SUCKIEL",
+          "login": "sutheo",
+          "campus": "toulouse",
+          "id": 1553,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 222160
+              }
+            }
+          }
+        },
+        {
+          "firstName": "STOFFELBACH",
+          "login": "stheo",
+          "campus": "toulouse",
+          "id": 1505,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 221248
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BOUCAUD",
+          "login": "bdorian",
+          "campus": "toulouse",
+          "id": 1544,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 150040
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BFLORIAN",
+          "login": "BFLORIAN",
+          "campus": "toulouse",
+          "id": 1018,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DELAGE",
+          "login": "dtao",
+          "campus": "toulouse",
+          "id": 1717,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1126
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PATOUILLERE",
+          "login": "pmaxence",
+          "campus": "toulouse",
+          "id": 1570,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 179023
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GARNIER",
+          "login": "gsimon",
+          "campus": "toulouse",
+          "id": 1716,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 74444
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HUTIN",
+          "login": "hmaxime",
+          "campus": "toulouse",
+          "id": 1552,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 50104
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BEN MARZOUK",
+          "login": "bemohamed",
+          "campus": "toulouse",
+          "id": 1720,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 13650
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SCHELLENS",
+          "login": "skylian",
+          "campus": "toulouse",
+          "id": 1721,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 24850
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CBAUDRIN",
+          "login": "CBAUDRIN",
+          "campus": "toulouse",
+          "id": 164,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 242077
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CHAD",
+          "login": "cyanis",
+          "campus": "toulouse",
+          "id": 1722,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 215000
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LSENAC--SAVALL",
+          "login": "LSENAC--SAVALL",
+          "campus": "toulouse",
+          "id": 150,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 464155
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BOULBES",
+          "login": "boflorian",
+          "campus": "toulouse",
+          "id": 2165,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 15700
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACAVAGNE",
+          "login": "ACAVAGNE",
+          "campus": "toulouse",
+          "id": 954,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 480546
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LESCAFFRE1",
+          "login": "LESCAFFRE1",
+          "campus": "toulouse",
+          "id": 951,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 420433
+              }
+            }
+          }
+        }
+      ]

@@ -1,607 +1,1069 @@
 [
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/grand-prix-go-bordeaux/exam-02",
-        "endAt": "2020-09-28T16:00:00+00:00",
-        "registration": {
-            "startAt": "2020-09-24T23:00:00+00:00",
-            "eventStartAt": "2020-09-28T12:00:00+00:00",
-            "endAt": "2020-09-28T14:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/grand-prix-go-bordeaux/exam-03",
-        "endAt": "2020-10-05T16:00:00.01+00:00",
-        "registration": {
-            "startAt": "2020-10-01T23:00:00+00:00",
-            "eventStartAt": "2020-10-05T12:00:00+00:00",
-            "endAt": "2020-10-04T23:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/grand-prix-go-bordeaux/sudoku",
-        "endAt": "2020-09-27T22:00:00+00:00",
-        "registration": {
-            "startAt": "2020-09-23T22:00:00+00:00",
-            "eventStartAt": "2020-09-25T14:00:00+00:00",
-            "endAt": "2020-09-25T13:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/grand-prix-go-bordeaux/quadchecker",
-        "endAt": "2020-10-04T22:00:00.901+00:00",
-        "registration": {
-            "startAt": "2020-09-30T22:00:00+00:00",
-            "eventStartAt": "2020-10-02T14:00:00+00:00",
-            "endAt": "2020-10-02T13:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/grand-prix-go-bordeaux/quad",
-        "endAt": "2020-09-20T22:00:00+00:00",
-        "registration": {
-            "startAt": "2020-09-16T22:00:00+00:00",
-            "eventStartAt": "2020-09-18T22:00:00+00:00",
-            "endAt": "2020-09-18T21:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/grand-prix-go-bordeaux",
-        "endAt": "2020-10-15T12:19:00+00:00",
-        "registration": {
-            "startAt": "2020-09-14T07:00:00+00:00",
-            "eventStartAt": "2020-09-14T09:00:00+00:00",
-            "endAt": "2020-09-14T08:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/grand-prix-go-bordeaux/exam-01",
-        "endAt": "2020-09-21T16:00:00+00:00",
-        "registration": {
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/grand-prix-go-bordeaux/exam-01",
+          "endAt": "2020-09-21T16:00:00+00:00",
+          "registration": {
             "startAt": "2020-09-17T23:00:00+00:00",
             "eventStartAt": "2020-09-21T12:00:00+00:00",
             "endAt": "2020-09-21T11:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/grand-prix-go-bordeaux/final-exam",
-        "endAt": "2020-10-15T11:15:00.487+00:00",
-        "registration": {
-            "startAt": "2020-10-11T23:00:00+00:00",
-            "eventStartAt": "2020-10-15T07:15:00+00:00",
-            "endAt": "2020-10-14T23:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/div-bordeaux/piscine-js",
-        "endAt": "2021-06-04T21:59:00.825+00:00",
-        "registration": {
-            "startAt": "2020-10-13T03:42:00+00:00",
-            "eventStartAt": "2021-05-05T08:00:00+00:00",
-            "endAt": "2021-05-05T07:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/div-bordeaux",
-        "endAt": "2021-03-04T13:02:00+00:00",
-        "registration": {
-            "startAt": "2020-10-15T12:01:00+00:00",
-            "eventStartAt": "2020-10-15T13:02:00+00:00",
-            "endAt": "2020-10-15T13:01:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/2122-challenge-js",
-        "endAt": "2022-05-20T22:44:00+00:00",
-        "registration": {
-            "startAt": "2022-04-25T06:42:00+00:00",
-            "eventStartAt": "2022-04-25T06:44:00+00:00",
-            "endAt": "2022-04-25T06:43:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/piscine-sql-market",
-        "endAt": "2022-06-13T03:24:00.186+00:00",
-        "registration": {
-            "startAt": "2022-05-23T07:21:00+00:00",
-            "eventStartAt": "2022-05-23T07:23:00+00:00",
-            "endAt": "2022-05-23T07:22:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-market-crea-fs/carbon-copy",
-        "endAt": "2021-06-14T06:01:00.786+00:00",
-        "registration": {
-            "startAt": "2021-06-11T09:01:00.045+00:00",
-            "eventStartAt": "2021-06-13T02:01:00.045+00:00",
-            "endAt": "2021-06-12T21:01:00.045+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-market-crea-fs/ephemeris",
-        "endAt": "2021-06-21T06:01:00.973+00:00",
-        "registration": {
-            "startAt": "2021-06-17T09:01:00.045+00:00",
-            "eventStartAt": "2021-06-19T02:01:00.045+00:00",
-            "endAt": "2021-06-18T21:01:00.045+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-mc-bootcamp/carbon-copy",
-        "endAt": "2021-07-26T07:01:01.602+00:00",
-        "registration": {
-            "startAt": "2021-07-23T10:01:00.817+00:00",
-            "eventStartAt": "2021-07-25T03:01:00.817+00:00",
-            "endAt": "2021-07-24T22:01:00.817+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-mc-bootcamp/ephemeris",
-        "endAt": "2021-08-02T07:01:01.813+00:00",
-        "registration": {
-            "startAt": "2021-07-29T10:01:00.817+00:00",
-            "eventStartAt": "2021-07-31T03:01:00.817+00:00",
-            "endAt": "2021-07-30T22:01:00.817+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/piscine-js-ap/sortable",
-        "endAt": "2021-08-11T08:31:00.969+00:00",
-        "registration": {
-            "startAt": "2021-08-07T11:31:00.474+00:00",
-            "eventStartAt": "2021-08-09T04:31:00.474+00:00",
-            "endAt": "2021-08-08T23:31:00.474+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/piscine-discovery-2",
-        "endAt": "2021-10-19T23:11:00+00:00",
-        "registration": {
-            "startAt": "2021-05-25T07:06:00+00:00",
-            "eventStartAt": "2021-05-25T07:08:00+00:00",
-            "endAt": "2021-05-25T07:07:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-market-crea-fs",
-        "endAt": "2022-08-22T03:56:00.585+00:00",
-        "registration": {
-            "startAt": "2022-07-27T11:55:00+00:00",
-            "eventStartAt": "2022-07-27T11:56:00+00:00",
-            "endAt": "2022-07-27T11:56:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-go-22/quad",
-        "endAt": "2021-09-12T21:59:00.473+00:00",
-        "registration": {
-            "startAt": "2021-09-08T20:00:00+00:00",
-            "eventStartAt": "2021-09-10T12:15:00+00:00",
-            "endAt": "2021-09-10T12:14:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-go-22/exam-01",
-        "endAt": "2021-09-10T11:15:01.017+00:00",
-        "registration": {
-            "startAt": "2021-09-08T18:15:00.666+00:00",
-            "eventStartAt": "2021-09-10T07:15:00.666+00:00",
-            "endAt": "2021-09-10T06:15:00.666+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-go-22/final-exam",
-        "endAt": "2021-09-30T11:15:01.496+00:00",
-        "registration": {
-            "startAt": "2021-09-28T18:15:00.666+00:00",
-            "eventStartAt": "2021-09-30T07:15:00.666+00:00",
-            "endAt": "2021-09-30T06:15:00.666+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-go-22/quadchecker",
-        "endAt": "2021-09-19T17:00:01.485+00:00",
-        "registration": {
-            "startAt": "2021-09-15T20:00:00.666+00:00",
-            "eventStartAt": "2021-09-17T13:00:00.666+00:00",
-            "endAt": "2021-09-17T08:00:00.666+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/22-ymmersion-creation-design/carbon-copy",
-        "endAt": "2021-09-20T05:00:00.948+00:00",
-        "registration": {
-            "startAt": "2021-09-17T08:00:00.577+00:00",
-            "eventStartAt": "2021-09-19T01:00:00.577+00:00",
-            "endAt": "2021-09-18T20:00:00.577+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/22-ymmersion-creation-design/free-project",
-        "endAt": "2021-09-27T05:00:01.075+00:00",
-        "registration": {
-            "startAt": "2021-09-24T08:00:00.577+00:00",
-            "eventStartAt": "2021-09-26T01:00:00.577+00:00",
-            "endAt": "2021-09-25T20:00:00.577+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/22-ymmersion-market-com/free-project",
-        "endAt": "2021-10-03T05:00:01.637+00:00",
-        "registration": {
-            "startAt": "2021-09-30T08:00:00.913+00:00",
-            "eventStartAt": "2021-10-02T01:00:00.913+00:00",
-            "endAt": "2021-10-01T20:00:00.913+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-go-22/exam-02",
-        "endAt": "2021-09-17T10:15:00.129+00:00",
-        "registration": {
-            "startAt": "2021-09-15T18:15:00+00:00",
-            "eventStartAt": "2021-09-17T07:15:00+00:00",
-            "endAt": "2021-09-17T07:05:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-go-22/exam-03",
-        "endAt": "2021-09-24T11:15:00.565+00:00",
-        "registration": {
-            "startAt": "2021-09-22T18:15:00+00:00",
-            "eventStartAt": "2021-09-24T07:15:00+00:00",
-            "endAt": "2021-09-24T06:45:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/22-ymmersion-market-com/carbon-copy",
-        "endAt": "2021-09-26T21:59:00.546+00:00",
-        "registration": {
-            "startAt": "2021-09-23T08:00:00+00:00",
-            "eventStartAt": "2021-09-24T12:01:00+00:00",
-            "endAt": "2021-09-24T11:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-go-22/sudoku",
-        "endAt": "2021-09-26T17:00:00.442+00:00",
-        "registration": {
-            "startAt": "2021-09-22T20:00:00+00:00",
-            "eventStartAt": "2021-09-24T12:00:00+00:00",
-            "endAt": "2021-09-24T08:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-go-22",
-        "endAt": "2021-10-04T01:40:00+00:00",
-        "registration": {
-            "startAt": "2021-09-02T08:23:00+00:00",
-            "eventStartAt": "2021-09-07T07:00:00+00:00",
-            "endAt": "2021-09-07T06:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/2122-div-bordeaux/piscine-js",
-        "endAt": "2022-03-29T23:30:00.745+00:00",
-        "registration": {
-            "startAt": "2022-01-24T04:30:00+00:00",
-            "eventStartAt": "2022-02-23T08:30:00+00:00",
-            "endAt": "2022-02-23T04:30:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-market-crea-fs/carbon-copy",
-        "endAt": "2022-08-03T09:56:01.267+00:00",
-        "registration": {
-            "startAt": "2022-07-31T12:56:00.585+00:00",
-            "eventStartAt": "2022-08-02T05:56:00.585+00:00",
-            "endAt": "2022-08-02T00:56:00.585+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-market-crea-fs/ephemeris",
-        "endAt": "2022-08-10T09:56:00.827+00:00",
-        "registration": {
-            "startAt": "2022-08-06T12:56:00.585+00:00",
-            "eventStartAt": "2022-08-08T05:56:00.585+00:00",
-            "endAt": "2022-08-08T00:56:00.585+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/2122-div-bordeaux",
-        "endAt": "2022-03-22T07:30:00+00:00",
-        "registration": {
-            "startAt": "2021-10-04T20:23:00+00:00",
-            "eventStartAt": "2021-10-06T07:30:00+00:00",
-            "endAt": "2021-10-06T07:24:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/piscine-js-ap/sortable",
-        "endAt": "2022-03-08T08:35:00.994+00:00",
-        "registration": {
-            "startAt": "2022-03-04T11:35:00.438+00:00",
-            "eventStartAt": "2022-03-06T04:35:00.438+00:00",
-            "endAt": "2022-03-05T23:35:00.438+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-js",
-        "endAt": "2020-10-02T14:01:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/grand-prix-go-bordeaux/exam-03",
+          "endAt": "2020-10-05T16:00:00.01+00:00",
+          "registration": {
+            "startAt": "2020-10-01T23:00:00+00:00",
+            "eventStartAt": "2020-10-05T12:00:00+00:00",
+            "endAt": "2020-10-04T23:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/grand-prix-go-bordeaux/quad",
+          "endAt": "2020-09-20T22:00:00+00:00",
+          "registration": {
+            "startAt": "2020-09-16T22:00:00+00:00",
+            "eventStartAt": "2020-09-18T22:00:00+00:00",
+            "endAt": "2020-09-18T21:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/grand-prix-go-bordeaux/sudoku",
+          "endAt": "2020-09-27T22:00:00+00:00",
+          "registration": {
+            "startAt": "2020-09-23T22:00:00+00:00",
+            "eventStartAt": "2020-09-25T14:00:00+00:00",
+            "endAt": "2020-09-25T13:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-js",
+          "endAt": "2020-10-02T14:01:00+00:00",
+          "registration": {
             "startAt": "2020-09-03T13:00:00+00:00",
             "eventStartAt": "2020-09-07T09:01:00+00:00",
             "endAt": "2020-09-07T09:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-js-bordeaux-rse",
-        "endAt": "2021-01-15T14:01:00+00:00",
-        "registration": {
-            "startAt": "2020-11-08T23:01:00+00:00",
-            "eventStartAt": "2020-11-09T14:01:00+00:00",
-            "endAt": "2020-11-09T14:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-market-crea-fs",
-        "endAt": "2021-07-03T00:01:00.045+00:00",
-        "registration": {
-            "startAt": "2021-06-07T06:33:00+00:00",
-            "eventStartAt": "2021-06-07T08:01:00+00:00",
-            "endAt": "2021-06-07T08:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/piscine-js-jcloux",
-        "endAt": "2021-06-04T21:59:00.825+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/grand-prix-go-bordeaux/quadchecker",
+          "endAt": "2020-10-04T22:00:00.901+00:00",
+          "registration": {
+            "startAt": "2020-09-30T22:00:00+00:00",
+            "eventStartAt": "2020-10-02T14:00:00+00:00",
+            "endAt": "2020-10-02T13:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/grand-prix-go-bordeaux/exam-02",
+          "endAt": "2020-09-28T16:00:00+00:00",
+          "registration": {
+            "startAt": "2020-09-24T23:00:00+00:00",
+            "eventStartAt": "2020-09-28T12:00:00+00:00",
+            "endAt": "2020-09-28T14:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/grand-prix-go-bordeaux/final-exam",
+          "endAt": "2020-10-15T11:15:00.487+00:00",
+          "registration": {
+            "startAt": "2020-10-11T23:00:00+00:00",
+            "eventStartAt": "2020-10-15T07:15:00+00:00",
+            "endAt": "2020-10-14T23:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/grand-prix-go-bordeaux",
+          "endAt": "2020-10-15T12:19:00+00:00",
+          "registration": {
+            "startAt": "2020-09-14T07:00:00+00:00",
+            "eventStartAt": "2020-09-14T09:00:00+00:00",
+            "endAt": "2020-09-14T08:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/div-bordeaux",
+          "endAt": "2021-03-04T13:02:00+00:00",
+          "registration": {
+            "startAt": "2020-10-15T12:01:00+00:00",
+            "eventStartAt": "2020-10-15T13:02:00+00:00",
+            "endAt": "2020-10-15T13:01:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-discovery-2",
+          "endAt": "2021-10-19T23:11:00+00:00",
+          "registration": {
+            "startAt": "2021-05-25T07:06:00+00:00",
+            "eventStartAt": "2021-05-25T07:08:00+00:00",
+            "endAt": "2021-05-25T07:07:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/div-bordeaux/piscine-js",
+          "endAt": "2021-06-04T21:59:00.825+00:00",
+          "registration": {
+            "startAt": "2020-10-13T03:42:00+00:00",
+            "eventStartAt": "2021-05-05T08:00:00+00:00",
+            "endAt": "2021-05-05T07:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-js-jcloux",
+          "endAt": "2021-06-04T21:59:00.825+00:00",
+          "registration": {
             "startAt": "2021-05-05T07:56:00+00:00",
             "eventStartAt": "2021-05-05T08:00:00+00:00",
             "endAt": "2021-05-05T07:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/div-gaming",
-        "endAt": "2022-04-20T04:01:00+00:00",
-        "registration": {
-            "startAt": "2021-07-13T12:35:00+00:00",
-            "eventStartAt": "2021-07-14T04:01:00+00:00",
-            "endAt": "2021-07-14T04:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/web-discovery-mc-bootcamp",
-        "endAt": "2021-08-14T01:01:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-js-bordeaux-rse",
+          "endAt": "2021-01-15T14:01:00+00:00",
+          "registration": {
+            "startAt": "2020-11-08T23:01:00+00:00",
+            "eventStartAt": "2020-11-09T14:01:00+00:00",
+            "endAt": "2020-11-09T14:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-market-crea-fs/carbon-copy",
+          "endAt": "2021-06-14T06:01:00.786+00:00",
+          "registration": {
+            "startAt": "2021-06-11T09:01:00.045+00:00",
+            "eventStartAt": "2021-06-13T02:01:00.045+00:00",
+            "endAt": "2021-06-12T21:01:00.045+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-market-crea-fs/ephemeris",
+          "endAt": "2021-06-21T06:01:00.973+00:00",
+          "registration": {
+            "startAt": "2021-06-17T09:01:00.045+00:00",
+            "eventStartAt": "2021-06-19T02:01:00.045+00:00",
+            "endAt": "2021-06-18T21:01:00.045+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-market-crea-fs",
+          "endAt": "2021-07-03T00:01:00.045+00:00",
+          "registration": {
+            "startAt": "2021-06-07T06:33:00+00:00",
+            "eventStartAt": "2021-06-07T08:01:00+00:00",
+            "endAt": "2021-06-07T08:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-22/quad",
+          "endAt": "2021-09-12T21:59:00.473+00:00",
+          "registration": {
+            "startAt": "2021-09-08T20:00:00+00:00",
+            "eventStartAt": "2021-09-10T12:15:00+00:00",
+            "endAt": "2021-09-10T12:14:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-22/quadchecker",
+          "endAt": "2021-09-19T17:00:01.485+00:00",
+          "registration": {
+            "startAt": "2021-09-15T20:00:00.666+00:00",
+            "eventStartAt": "2021-09-17T13:00:00.666+00:00",
+            "endAt": "2021-09-17T08:00:00.666+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-mc-bootcamp/carbon-copy",
+          "endAt": "2021-07-26T07:01:01.602+00:00",
+          "registration": {
+            "startAt": "2021-07-23T10:01:00.817+00:00",
+            "eventStartAt": "2021-07-25T03:01:00.817+00:00",
+            "endAt": "2021-07-24T22:01:00.817+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-mc-bootcamp/ephemeris",
+          "endAt": "2021-08-02T07:01:01.813+00:00",
+          "registration": {
+            "startAt": "2021-07-29T10:01:00.817+00:00",
+            "eventStartAt": "2021-07-31T03:01:00.817+00:00",
+            "endAt": "2021-07-30T22:01:00.817+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-js-ap/sortable",
+          "endAt": "2021-08-11T08:31:00.969+00:00",
+          "registration": {
+            "startAt": "2021-08-07T11:31:00.474+00:00",
+            "eventStartAt": "2021-08-09T04:31:00.474+00:00",
+            "endAt": "2021-08-08T23:31:00.474+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-mc-bootcamp",
+          "endAt": "2021-08-14T01:01:00+00:00",
+          "registration": {
             "startAt": "2021-07-19T07:49:00+00:00",
             "eventStartAt": "2021-07-19T09:01:00+00:00",
             "endAt": "2021-07-19T09:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/piscine-js-ap",
-        "endAt": "2021-08-23T02:31:00.474+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-js-ap",
+          "endAt": "2021-08-23T02:31:00.474+00:00",
+          "registration": {
             "startAt": "2021-07-28T10:30:00+00:00",
             "eventStartAt": "2021-07-28T10:31:00+00:00",
             "endAt": "2021-07-28T10:30:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/22-ymmersion-market-com",
-        "endAt": "2021-10-15T23:00:00.913+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/22-ymmersion-creation-design/free-project",
+          "endAt": "2021-09-27T05:00:01.075+00:00",
+          "registration": {
+            "startAt": "2021-09-24T08:00:00.577+00:00",
+            "eventStartAt": "2021-09-26T01:00:00.577+00:00",
+            "endAt": "2021-09-25T20:00:00.577+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/22-ymmersion-creation-design/carbon-copy",
+          "endAt": "2021-09-20T05:00:00.948+00:00",
+          "registration": {
+            "startAt": "2021-09-17T08:00:00.577+00:00",
+            "eventStartAt": "2021-09-19T01:00:00.577+00:00",
+            "endAt": "2021-09-18T20:00:00.577+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/22-ymmersion-market-com",
+          "endAt": "2021-10-15T23:00:00.913+00:00",
+          "registration": {
             "startAt": "2021-09-20T06:47:00+00:00",
             "eventStartAt": "2021-09-20T07:00:00+00:00",
             "endAt": "2021-09-20T06:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/22-ymmersion-creation-design",
-        "endAt": "2021-12-30T00:00:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-22/exam-02",
+          "endAt": "2021-09-17T10:15:00.129+00:00",
+          "registration": {
+            "startAt": "2021-09-15T18:15:00+00:00",
+            "eventStartAt": "2021-09-17T07:15:00+00:00",
+            "endAt": "2021-09-17T07:05:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-22/exam-01",
+          "endAt": "2021-09-10T11:15:01.017+00:00",
+          "registration": {
+            "startAt": "2021-09-08T18:15:00.666+00:00",
+            "eventStartAt": "2021-09-10T07:15:00.666+00:00",
+            "endAt": "2021-09-10T06:15:00.666+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-22/exam-03",
+          "endAt": "2021-09-24T11:15:00.565+00:00",
+          "registration": {
+            "startAt": "2021-09-22T18:15:00+00:00",
+            "eventStartAt": "2021-09-24T07:15:00+00:00",
+            "endAt": "2021-09-24T06:45:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-22/sudoku",
+          "endAt": "2021-09-26T17:00:00.442+00:00",
+          "registration": {
+            "startAt": "2021-09-22T20:00:00+00:00",
+            "eventStartAt": "2021-09-24T12:00:00+00:00",
+            "endAt": "2021-09-24T08:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/22-ymmersion-market-com/carbon-copy",
+          "endAt": "2021-09-26T21:59:00.546+00:00",
+          "registration": {
+            "startAt": "2021-09-23T08:00:00+00:00",
+            "eventStartAt": "2021-09-24T12:01:00+00:00",
+            "endAt": "2021-09-24T11:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/div-gaming",
+          "endAt": "2022-04-20T04:01:00+00:00",
+          "registration": {
+            "startAt": "2021-07-13T12:35:00+00:00",
+            "eventStartAt": "2021-07-14T04:01:00+00:00",
+            "endAt": "2021-07-14T04:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-22/final-exam",
+          "endAt": "2021-09-30T11:15:01.496+00:00",
+          "registration": {
+            "startAt": "2021-09-28T18:15:00.666+00:00",
+            "eventStartAt": "2021-09-30T07:15:00.666+00:00",
+            "endAt": "2021-09-30T06:15:00.666+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-22",
+          "endAt": "2021-10-04T01:40:00+00:00",
+          "registration": {
+            "startAt": "2021-09-02T08:23:00+00:00",
+            "eventStartAt": "2021-09-07T07:00:00+00:00",
+            "endAt": "2021-09-07T06:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/22-ymmersion-creation-design",
+          "endAt": "2021-12-30T00:00:00+00:00",
+          "registration": {
             "startAt": "2021-09-14T06:50:00+00:00",
             "eventStartAt": "2021-09-14T07:00:00+00:00",
             "endAt": "2021-09-14T06:51:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/2122-challenge-sql",
-        "endAt": "2021-11-27T08:00:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/22-ymmersion-market-com/free-project",
+          "endAt": "2021-10-03T05:00:01.637+00:00",
+          "registration": {
+            "startAt": "2021-09-30T08:00:00.913+00:00",
+            "eventStartAt": "2021-10-02T01:00:00.913+00:00",
+            "endAt": "2021-10-01T20:00:00.913+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-div-bordeaux",
+          "endAt": "2022-03-22T07:30:00+00:00",
+          "registration": {
+            "startAt": "2021-10-04T20:23:00+00:00",
+            "eventStartAt": "2021-10-06T07:30:00+00:00",
+            "endAt": "2021-10-06T07:24:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-challenge-sql",
+          "endAt": "2021-11-27T08:00:00+00:00",
+          "registration": {
             "startAt": "2021-11-08T07:36:00+00:00",
             "eventStartAt": "2021-11-08T08:00:00+00:00",
             "endAt": "2021-11-08T07:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/2122-challenge-csharp",
-        "endAt": "2022-01-29T00:31:00+00:00",
-        "registration": {
-            "startAt": "2022-01-03T08:30:00+00:00",
-            "eventStartAt": "2022-01-03T08:31:00+00:00",
-            "endAt": "2022-01-03T08:31:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/2122-challenge-php",
-        "endAt": "2021-12-18T08:00:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-challenge-php",
+          "endAt": "2021-12-18T08:00:00+00:00",
+          "registration": {
             "startAt": "2021-11-29T05:42:00+00:00",
             "eventStartAt": "2021-11-29T08:00:00+00:00",
             "endAt": "2021-11-29T07:59:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/2122-creadesign-piscine-js",
-        "endAt": "2022-01-30T00:24:00.222+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-challenge-csharp",
+          "endAt": "2022-01-29T00:31:00+00:00",
+          "registration": {
+            "startAt": "2022-01-03T08:30:00+00:00",
+            "eventStartAt": "2022-01-03T08:31:00+00:00",
+            "endAt": "2022-01-03T08:31:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-creadesign-piscine-js",
+          "endAt": "2022-01-30T00:24:00.222+00:00",
+          "registration": {
             "startAt": "2022-01-04T08:23:00+00:00",
             "eventStartAt": "2022-01-04T08:24:00+00:00",
             "endAt": "2022-01-04T08:23:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": null,
-        "path": "/bordeaux/2122-sql-ap",
-        "endAt": "2023-12-12T19:02:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-js-ap/sortable",
+          "endAt": "2022-03-08T08:35:00.994+00:00",
+          "registration": {
+            "startAt": "2022-03-04T11:35:00.438+00:00",
+            "eventStartAt": "2022-03-06T04:35:00.438+00:00",
+            "endAt": "2022-03-05T23:35:00.438+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-div-bordeaux/piscine-js",
+          "endAt": "2022-03-29T23:30:00.745+00:00",
+          "registration": {
+            "startAt": "2022-01-24T04:30:00+00:00",
+            "eventStartAt": "2022-02-23T08:30:00+00:00",
+            "endAt": "2022-02-23T04:30:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": null,
+          "path": "/bordeaux/2122-sql-ap",
+          "endAt": "2023-12-12T19:02:00+00:00",
+          "registration": {
             "startAt": "2022-01-17T08:21:00+00:00",
             "eventStartAt": "2022-01-17T08:21:00+00:00",
             "endAt": "2022-01-17T08:21:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": null,
-        "path": "/bordeaux/piscine-js-ap",
-        "endAt": "2022-09-30T01:35:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-challenge-js",
+          "endAt": "2022-05-20T22:44:00+00:00",
+          "registration": {
+            "startAt": "2022-04-25T06:42:00+00:00",
+            "eventStartAt": "2022-04-25T06:44:00+00:00",
+            "endAt": "2022-04-25T06:43:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-js-ap",
+          "endAt": "2022-09-30T01:35:00+00:00",
+          "registration": {
             "startAt": "2022-02-22T10:34:00+00:00",
             "eventStartAt": "2022-02-22T10:35:00+00:00",
             "endAt": "2022-02-22T10:35:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": "done",
-        "path": "/bordeaux/challenge-php-test",
-        "endAt": "2022-08-28T09:53:00.143+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-rust",
+          "endAt": "2023-01-29T08:14:00.497+00:00",
+          "registration": {
+            "startAt": "2023-01-03T16:13:00+00:00",
+            "eventStartAt": "2023-01-03T16:14:00+00:00",
+            "endAt": "2023-01-03T16:13:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/parcours-sql-22-23",
+          "endAt": "2023-01-10T08:01:00+00:00",
+          "registration": {
+            "startAt": "2023-01-05T08:00:00+00:00",
+            "eventStartAt": "2023-01-05T08:01:00+00:00",
+            "endAt": "2023-01-05T08:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-div-bordeaux",
+          "endAt": "2023-05-03T19:45:00.934+00:00",
+          "registration": {
+            "startAt": "2022-12-14T19:43:00+00:00",
+            "eventStartAt": "2022-12-14T19:45:00+00:00",
+            "endAt": "2022-12-14T19:44:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-sql-market",
+          "endAt": "2022-06-13T03:24:00.186+00:00",
+          "registration": {
+            "startAt": "2022-05-23T07:21:00+00:00",
+            "eventStartAt": "2022-05-23T07:23:00+00:00",
+            "endAt": "2022-05-23T07:22:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-market-crea-fs/carbon-copy",
+          "endAt": "2022-08-03T09:56:01.267+00:00",
+          "registration": {
+            "startAt": "2022-07-31T12:56:00.585+00:00",
+            "eventStartAt": "2022-08-02T05:56:00.585+00:00",
+            "endAt": "2022-08-02T00:56:00.585+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-market-crea-fs/ephemeris",
+          "endAt": "2022-08-10T09:56:00.827+00:00",
+          "registration": {
+            "startAt": "2022-08-06T12:56:00.585+00:00",
+            "eventStartAt": "2022-08-08T05:56:00.585+00:00",
+            "endAt": "2022-08-08T00:56:00.585+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-market-crea-fs",
+          "endAt": "2022-08-22T03:56:00.585+00:00",
+          "registration": {
+            "startAt": "2022-07-27T11:55:00+00:00",
+            "eventStartAt": "2022-07-27T11:56:00+00:00",
+            "endAt": "2022-07-27T11:56:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-java-advanced",
+          "endAt": "2022-12-08T03:11:03.333+00:00",
+          "registration": {
+            "startAt": "2022-12-05T14:34:00+00:00",
+            "eventStartAt": "2022-12-05T14:35:00+00:00",
+            "endAt": "2022-12-05T14:34:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-php-test",
+          "endAt": "2022-08-28T09:53:00.143+00:00",
+          "registration": {
             "startAt": "2022-08-23T09:51:00+00:00",
             "eventStartAt": "2022-08-23T09:53:00+00:00",
             "endAt": "2022-08-23T09:52:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": null,
-        "path": "/bordeaux/parcours-illustrator",
-        "endAt": "2022-09-09T13:38:00.926+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-rust/checkpoint-01-rust",
+          "endAt": "2023-01-08T10:14:01.126+00:00",
+          "registration": {
+            "startAt": "2023-01-06T17:14:00.497+00:00",
+            "eventStartAt": "2023-01-08T06:14:00.497+00:00",
+            "endAt": "2023-01-08T05:14:00.497+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/parcours-illustrator",
+          "endAt": "2022-09-09T13:38:00.926+00:00",
+          "registration": {
             "startAt": "2022-09-02T14:56:00+00:00",
             "eventStartAt": "2022-09-02T14:58:00+00:00",
             "endAt": "2022-09-02T14:57:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": null,
-        "path": "/bordeaux/parcours-photoshop",
-        "endAt": "2022-09-28T07:01:00.31+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/parcours-photoshop",
+          "endAt": "2022-09-28T07:01:00.31+00:00",
+          "registration": {
             "startAt": "2022-09-02T14:59:00+00:00",
             "eventStartAt": "2022-09-02T15:01:00+00:00",
             "endAt": "2022-09-02T15:00:00+00:00"
-        }
-    },
-    {
-        "campus": "bordeaux",
-        "status": null,
-        "path": "/bordeaux/challenge-go-23",
-        "endAt": "2022-10-05T02:40:00.066+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23",
+          "endAt": "2022-10-05T02:40:00+00:00",
+          "registration": {
             "startAt": "2022-09-07T06:59:00+00:00",
             "eventStartAt": "2022-09-07T08:00:00+00:00",
             "endAt": "2022-09-07T07:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-ux",
+          "endAt": "2022-10-14T23:00:00+00:00",
+          "registration": {
+            "startAt": "2022-09-19T06:48:00+00:00",
+            "eventStartAt": "2022-09-19T07:00:00+00:00",
+            "endAt": "2022-09-19T06:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/exam-01",
+          "endAt": "2022-09-09T11:15:00+00:00",
+          "registration": {
+            "startAt": "2022-09-08T19:15:00+00:00",
+            "eventStartAt": "2022-09-09T07:15:00+00:00",
+            "endAt": "2022-09-09T07:15:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/quad",
+          "endAt": "2022-09-11T21:59:02.996+00:00",
+          "registration": {
+            "startAt": "2022-09-08T21:00:00+00:00",
+            "eventStartAt": "2022-09-09T13:43:00+00:00",
+            "endAt": "2022-09-09T13:43:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-rust/chaikin",
+          "endAt": "2023-01-17T14:14:01.12+00:00",
+          "registration": {
+            "startAt": "2023-01-13T17:14:00.497+00:00",
+            "eventStartAt": "2023-01-15T10:14:00.497+00:00",
+            "endAt": "2023-01-15T05:14:00.497+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/exam-02",
+          "endAt": "2022-09-16T10:15:00+00:00",
+          "registration": {
+            "startAt": "2022-09-15T14:43:00+00:00",
+            "eventStartAt": "2022-09-16T07:15:00+00:00",
+            "endAt": "2022-09-16T07:15:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2223-parcours-php",
+          "endAt": "2023-01-28T07:45:00+00:00",
+          "registration": {
+            "startAt": "2023-01-23T07:43:00+00:00",
+            "eventStartAt": "2023-01-23T07:45:00+00:00",
+            "endAt": "2023-01-23T07:45:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/23-ymmersion-web-management",
+          "endAt": "2022-10-14T23:15:00+00:00",
+          "registration": {
+            "startAt": "2022-09-19T07:00:00+00:00",
+            "eventStartAt": "2022-09-19T07:15:00+00:00",
+            "endAt": "2022-09-19T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/exam-03",
+          "endAt": "2022-09-23T11:15:00.381+00:00",
+          "registration": {
+            "startAt": "2022-09-22T19:15:00+00:00",
+            "eventStartAt": "2022-09-23T07:15:00+00:00",
+            "endAt": "2022-09-23T07:15:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-php-test",
+          "endAt": "2022-09-24T07:10:00+00:00",
+          "registration": {
+            "startAt": "2022-09-19T07:08:00+00:00",
+            "eventStartAt": "2022-09-19T07:10:00+00:00",
+            "endAt": "2022-09-19T07:09:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/final-exam",
+          "endAt": "2022-09-30T11:15:00.887+00:00",
+          "registration": {
+            "startAt": "2022-09-28T19:15:00+00:00",
+            "eventStartAt": "2022-09-30T07:15:00+00:00",
+            "endAt": "2022-09-30T07:14:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/parcours-csharp-22-23",
+          "endAt": "2022-10-30T00:00:00+00:00",
+          "registration": {
+            "startAt": "2022-10-04T07:09:00+00:00",
+            "eventStartAt": "2022-10-04T07:15:00+00:00",
+            "endAt": "2022-10-04T07:14:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/exam-01",
+          "endAt": "2022-10-20T11:21:00.505+00:00",
+          "registration": {
+            "startAt": "2022-10-18T18:21:00.202+00:00",
+            "eventStartAt": "2022-10-20T07:21:00.202+00:00",
+            "endAt": "2022-10-20T06:21:00.202+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/final-exam",
+          "endAt": "2022-11-09T11:21:00.991+00:00",
+          "registration": {
+            "startAt": "2022-11-07T18:21:00.202+00:00",
+            "eventStartAt": "2022-11-09T07:21:00.202+00:00",
+            "endAt": "2022-11-09T06:21:00.202+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23",
+          "endAt": "2022-11-14T01:46:00.202+00:00",
+          "registration": {
+            "startAt": "2022-10-17T07:05:00+00:00",
+            "eventStartAt": "2022-10-17T07:06:00+00:00",
+            "endAt": "2022-10-17T07:05:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-docker",
+          "endAt": "2022-10-19T14:43:00.961+00:00",
+          "registration": {
+            "startAt": "2022-10-19T07:41:00+00:00",
+            "eventStartAt": "2022-10-19T07:43:00+00:00",
+            "endAt": "2022-10-19T07:42:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/quadchecker",
+          "endAt": "2022-10-29T17:06:00.638+00:00",
+          "registration": {
+            "startAt": "2022-10-25T20:06:00.202+00:00",
+            "eventStartAt": "2022-10-27T13:06:00.202+00:00",
+            "endAt": "2022-10-27T08:06:00.202+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/exam-02",
+          "endAt": "2022-10-27T11:21:01.197+00:00",
+          "registration": {
+            "startAt": "2022-10-25T18:21:00.202+00:00",
+            "eventStartAt": "2022-10-27T07:21:00.202+00:00",
+            "endAt": "2022-10-27T06:21:00.202+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/quad",
+          "endAt": "2022-10-22T17:06:01.17+00:00",
+          "registration": {
+            "startAt": "2022-10-18T20:06:00.202+00:00",
+            "eventStartAt": "2022-10-20T13:06:00.202+00:00",
+            "endAt": "2022-10-20T08:06:00.202+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-java",
+          "endAt": "2022-10-26T19:36:00+00:00",
+          "registration": {
+            "startAt": "2022-10-24T06:59:00+00:00",
+            "eventStartAt": "2022-10-24T07:00:00+00:00",
+            "endAt": "2022-10-24T06:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-java-advanced",
+          "endAt": "2022-11-30T21:27:00+00:00",
+          "registration": {
+            "startAt": "2022-10-25T07:50:00+00:00",
+            "eventStartAt": "2022-10-25T07:51:00+00:00",
+            "endAt": "2022-10-25T07:50:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/exam-03",
+          "endAt": "2022-11-03T11:21:00.285+00:00",
+          "registration": {
+            "startAt": "2022-11-01T18:21:00.202+00:00",
+            "eventStartAt": "2022-11-03T07:21:00.202+00:00",
+            "endAt": "2022-11-03T06:21:00.202+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-go-23/sudoku",
+          "endAt": "2022-11-05T17:06:00.344+00:00",
+          "registration": {
+            "startAt": "2022-11-01T20:06:00.202+00:00",
+            "eventStartAt": "2022-11-03T13:06:00.202+00:00",
+            "endAt": "2022-11-03T08:06:00.202+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-js-tech/clonernews",
+          "endAt": "2023-02-10T06:34:01.476+00:00",
+          "registration": {
+            "startAt": "2023-02-06T09:34:00.897+00:00",
+            "eventStartAt": "2023-02-08T02:34:00.897+00:00",
+            "endAt": "2023-02-07T21:34:00.897+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/web-discovery-market-crea-fs",
+          "endAt": "2022-12-10T00:00:00+00:00",
+          "registration": {
+            "startAt": "2022-11-14T07:00:00+00:00",
+            "eventStartAt": "2022-11-14T08:00:00+00:00",
+            "endAt": "2022-11-14T07:59:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-rust/drawing",
+          "endAt": "2023-01-10T14:14:01.331+00:00",
+          "registration": {
+            "startAt": "2023-01-06T17:14:00.497+00:00",
+            "eventStartAt": "2023-01-08T10:14:00.497+00:00",
+            "endAt": "2023-01-08T05:14:00.497+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-rust/checkpoint-02-rust",
+          "endAt": "2023-01-15T10:14:00.784+00:00",
+          "registration": {
+            "startAt": "2023-01-13T17:14:00.497+00:00",
+            "eventStartAt": "2023-01-15T06:14:00.497+00:00",
+            "endAt": "2023-01-15T05:14:00.497+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-rust/checkpoint-03-rust",
+          "endAt": "2023-01-22T10:14:00.656+00:00",
+          "registration": {
+            "startAt": "2023-01-20T17:14:00.497+00:00",
+            "eventStartAt": "2023-01-22T06:14:00.497+00:00",
+            "endAt": "2023-01-22T05:14:00.497+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-rust/road-intersection",
+          "endAt": "2023-01-24T14:14:01.436+00:00",
+          "registration": {
+            "startAt": "2023-01-20T17:14:00.497+00:00",
+            "eventStartAt": "2023-01-22T10:14:00.497+00:00",
+            "endAt": "2023-01-22T05:14:00.497+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-js-tech/crossword",
+          "endAt": "2023-01-27T12:34:01.003+00:00",
+          "registration": {
+            "startAt": "2023-01-23T15:34:00.897+00:00",
+            "eventStartAt": "2023-01-25T08:34:00.897+00:00",
+            "endAt": "2023-01-25T03:34:00.897+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/piscine-rust/final-checkpoint-rust",
+          "endAt": "2023-01-29T08:14:01.43+00:00",
+          "registration": {
+            "startAt": "2023-01-27T11:14:00.497+00:00",
+            "eventStartAt": "2023-01-29T00:14:00.497+00:00",
+            "endAt": "2023-01-28T23:14:00.497+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-js-tech/sortable",
+          "endAt": "2023-02-03T06:34:01.572+00:00",
+          "registration": {
+            "startAt": "2023-01-30T09:34:00.897+00:00",
+            "eventStartAt": "2023-02-01T02:34:00.897+00:00",
+            "endAt": "2023-01-31T21:34:00.897+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/parcours-java-22-23",
+          "endAt": "2023-02-08T20:44:00.51+00:00",
+          "registration": {
+            "startAt": "2023-02-06T08:07:00+00:00",
+            "eventStartAt": "2023-02-06T08:08:00+00:00",
+            "endAt": "2023-02-06T08:07:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/parcours-sql-22-23",
+          "endAt": "2023-02-09T07:45:00+00:00",
+          "registration": {
+            "startAt": "2023-01-23T07:00:00+00:00",
+            "eventStartAt": "2023-01-23T07:01:00+00:00",
+            "endAt": "2023-01-23T07:01:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/challenge-js-tech",
+          "endAt": "2023-02-15T00:34:00+00:00",
+          "registration": {
+            "startAt": "2023-01-20T08:33:00+00:00",
+            "eventStartAt": "2023-01-20T08:34:00+00:00",
+            "endAt": "2023-01-20T08:34:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/parcours-python",
+          "endAt": "2023-03-15T20:36:00+00:00",
+          "registration": {
+            "startAt": "2023-03-13T07:55:00+00:00",
+            "eventStartAt": "2023-03-13T08:00:00+00:00",
+            "endAt": "2023-03-13T07:57:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/parcours-js-2023",
+          "endAt": "2023-04-19T00:17:00+00:00",
+          "registration": {
+            "startAt": "2023-03-24T08:15:00+00:00",
+            "eventStartAt": "2023-03-24T08:17:00+00:00",
+            "endAt": "2023-03-24T08:16:00+00:00"
+          }
+        },
+        {
+          "campus": "bordeaux",
+          "status": "done",
+          "path": "/bordeaux/2122-div-bordeaux/piscine-js",
+          "endAt": "2023-05-29T12:45:01.71+00:00",
+          "registration": {
+            "startAt": "2023-04-03T16:45:00.934+00:00",
+            "eventStartAt": "2023-05-03T20:45:00.934+00:00",
+            "endAt": "2023-05-03T16:45:00.934+00:00"
+          }
         }
-    }
-]
+      ]

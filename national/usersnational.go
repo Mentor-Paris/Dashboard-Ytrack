@@ -17,14 +17,22 @@ import (
 
 // UserNational struct which contains a Firtsname a ID and a list of xp a Campus of each user national
 type UserNational struct {
-	Login  string `json:"login"`
-	ID     int    `json:"id"`
-	Campus string `json:"campus"`
-	Xp     Xp     `json:"xp"`
+	Login  string        `json:"login"`
+	ID     int           `json:"id"`
+	Campus string        `json:"campus"`
+	Xp     Xps_Aggregate `json:"xps_aggregate"`
 }
 
 // XP struct that contains the total XP of each user
-type Xp struct {
+type Xps_Aggregate struct {
+	Aggregate Aggregate `json:"aggregate"`
+}
+
+type Aggregate struct {
+	Sum Sum `json:"sum"`
+}
+
+type Sum struct {
 	Amount int64 `json:"amount"`
 }
 
@@ -136,7 +144,7 @@ func ReadJsonNational() {
 // merge the json userxp the json usernational
 func MergeJsonNational() {
 	for _, i := range Usersytracknational {
-		listuserfinalnational = append(listuserfinalnational, UserFinalNational{ID: i.ID, Login: i.Login, Xp: XpFinal{FormatString(i.Xp.Amount), i.Xp.Amount}, Campus: i.Campus})
+		listuserfinalnational = append(listuserfinalnational, UserFinalNational{ID: i.ID, Login: i.Login, Xp: XpFinal{FormatString(i.Xp.Aggregate.Sum.Amount), i.Xp.Aggregate.Sum.Amount}, Campus: i.Campus})
 	}
 	for i := range listuserfinalnational {
 		for _, y := range pyc.Usersytrack {

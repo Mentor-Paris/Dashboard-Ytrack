@@ -1,453 +1,1058 @@
 [
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/bilan-02",
-        "endAt": "2020-10-01T11:15:00+00:00",
-        "registration": {
-            "startAt": "2020-09-28T07:00:00+00:00",
-            "eventStartAt": "2020-10-01T07:15:00+00:00",
-            "endAt": "2020-10-01T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/sudoku",
-        "endAt": "2020-09-29T21:59:00+00:00",
-        "registration": {
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/sudoku",
+          "endAt": "2020-09-29T21:59:00+00:00",
+          "registration": {
             "startAt": "2020-09-22T07:00:00+00:00",
             "eventStartAt": "2020-09-25T07:15:00+00:00",
             "endAt": "2020-09-25T06:45:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/quadchecker",
-        "endAt": "2020-10-12T21:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-27T07:00:00+00:00",
-            "eventStartAt": "2020-10-01T11:00:00+00:00",
-            "endAt": "2020-10-01T10:30:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/quadchecker",
-        "endAt": "2020-10-12T21:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-25T07:00:00+00:00",
-            "eventStartAt": "2020-10-01T11:00:00+00:00",
-            "endAt": "2020-10-01T10:30:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/bilan-02",
-        "endAt": "2020-10-01T11:00:00.415+00:00",
-        "registration": {
-            "startAt": "2020-09-28T07:00:00+00:00",
-            "eventStartAt": "2020-10-01T07:15:00+00:00",
-            "endAt": "2020-10-01T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-01-2122/challenge-js/rhythm-frenzy",
-        "endAt": "2022-05-01T05:20:01.531+00:00",
-        "registration": {
-            "startAt": "2022-04-21T12:20:00.934+00:00",
-            "eventStartAt": "2022-04-23T05:20:00.934+00:00",
-            "endAt": "2022-04-23T00:20:00.934+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-01-2122/challenge-js/sortable",
-        "endAt": "2022-05-23T03:40:01.712+00:00",
-        "registration": {
-            "startAt": "2022-05-14T12:00:00.934+00:00",
-            "eventStartAt": "2022-05-16T05:00:00.934+00:00",
-            "endAt": "2022-05-16T00:00:00.934+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/final-exam",
-        "endAt": "2020-10-30T17:00:00+00:00",
-        "registration": {
-            "startAt": "2020-10-26T08:00:00+00:00",
-            "eventStartAt": "2020-10-30T08:00:00+00:00",
-            "endAt": "2020-10-30T08:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/bilan-01",
-        "endAt": "2020-09-21T11:00:00+00:00",
-        "registration": {
-            "startAt": "2020-09-17T07:00:00+00:00",
-            "eventStartAt": "2020-09-21T07:00:00+00:00",
-            "endAt": "2020-09-21T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/quad",
-        "endAt": "2020-09-21T21:59:00.393+00:00",
-        "registration": {
-            "startAt": "2020-09-15T07:45:00+00:00",
-            "eventStartAt": "2020-09-17T07:15:00+00:00",
-            "endAt": "2020-09-17T06:45:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/final-exam",
-        "endAt": "2020-10-30T17:00:00+00:00",
-        "registration": {
-            "startAt": "2020-10-26T08:00:00+00:00",
-            "eventStartAt": "2020-10-30T08:00:00+00:00",
-            "endAt": "2020-10-30T08:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/sudoku",
-        "endAt": "2020-09-29T09:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-22T07:30:00+00:00",
-            "eventStartAt": "2020-09-25T07:15:00+00:00",
-            "endAt": "2020-09-25T06:45:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/bilan-01",
-        "endAt": "2020-09-21T16:00:00.194+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/bilan-01",
+          "endAt": "2020-09-21T16:00:00.194+00:00",
+          "registration": {
             "startAt": "2020-09-17T12:00:00+00:00",
             "eventStartAt": "2020-09-21T12:00:00+00:00",
             "endAt": "2020-09-21T12:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/quad",
-        "endAt": "2020-09-21T21:59:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/quad",
+          "endAt": "2020-09-21T21:59:00.393+00:00",
+          "registration": {
+            "startAt": "2020-09-15T07:45:00+00:00",
+            "eventStartAt": "2020-09-17T07:15:00+00:00",
+            "endAt": "2020-09-17T06:45:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/quad",
+          "endAt": "2020-09-21T21:59:00+00:00",
+          "registration": {
             "startAt": "2020-09-16T11:00:00+00:00",
             "eventStartAt": "2020-09-17T07:15:00+00:00",
             "endAt": "2020-09-17T06:45:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon",
-        "endAt": "2020-10-30T22:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-09T08:30:00+00:00",
-            "eventStartAt": "2020-09-14T07:30:00+00:00",
-            "endAt": "2020-09-14T07:30:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-01",
-        "endAt": "2021-08-31T21:59:00+00:00",
-        "registration": {
-            "startAt": "2020-10-21T14:09:00+00:00",
-            "eventStartAt": "2020-10-22T07:00:00+00:00",
-            "endAt": "2020-10-22T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-01-2122/challenge-js",
-        "endAt": "2022-05-23T21:00:00.934+00:00",
-        "registration": {
-            "startAt": "2022-02-26T06:00:00+00:00",
-            "eventStartAt": "2022-03-28T06:00:00+00:00",
-            "endAt": "2022-03-28T06:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-02/challenge-php",
-        "endAt": "2021-12-17T22:37:00+00:00",
-        "registration": {
-            "startAt": "2021-11-19T11:20:00+00:00",
-            "eventStartAt": "2021-11-29T07:50:00+00:00",
-            "endAt": "2021-11-28T22:38:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-02/challenge-sql",
-        "endAt": "2021-12-01T08:00:00+00:00",
-        "registration": {
-            "startAt": "2021-10-08T12:02:00+00:00",
-            "eventStartAt": "2021-11-15T08:00:00+00:00",
-            "endAt": "2021-11-14T14:34:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": null,
-        "path": "/lyon/challenge-go",
-        "endAt": "2023-08-05T07:16:00.698+00:00",
-        "registration": {
-            "startAt": "2022-09-06T06:00:00+00:00",
-            "eventStartAt": "2022-09-07T07:16:00+00:00",
-            "endAt": "2022-09-07T07:15:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon",
-        "endAt": "2020-10-30T22:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-14T07:28:00.569389+00:00",
-            "eventStartAt": "2020-09-14T07:30:00.569389+00:00",
-            "endAt": "2020-09-14T07:29:00.569389+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-01",
-        "endAt": "2021-08-31T21:59:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/bilan-02",
+          "endAt": "2020-10-01T11:00:00.415+00:00",
+          "registration": {
+            "startAt": "2020-09-28T07:00:00+00:00",
+            "eventStartAt": "2020-10-01T07:15:00+00:00",
+            "endAt": "2020-10-01T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/bilan-02",
+          "endAt": "2020-10-01T11:15:00+00:00",
+          "registration": {
+            "startAt": "2020-09-28T07:00:00+00:00",
+            "eventStartAt": "2020-10-01T07:15:00+00:00",
+            "endAt": "2020-10-01T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/bilan-01",
+          "endAt": "2020-09-21T11:00:00+00:00",
+          "registration": {
+            "startAt": "2020-09-17T07:00:00+00:00",
+            "eventStartAt": "2020-09-21T07:00:00+00:00",
+            "endAt": "2020-09-21T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/sudoku",
+          "endAt": "2020-09-29T09:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-22T07:30:00+00:00",
+            "eventStartAt": "2020-09-25T07:15:00+00:00",
+            "endAt": "2020-09-25T06:45:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/quadchecker",
+          "endAt": "2020-10-12T21:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-27T07:00:00+00:00",
+            "eventStartAt": "2020-10-01T11:00:00+00:00",
+            "endAt": "2020-10-01T10:30:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/quadchecker",
+          "endAt": "2020-10-12T21:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-25T07:00:00+00:00",
+            "eventStartAt": "2020-10-01T11:00:00+00:00",
+            "endAt": "2020-10-01T10:30:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/final-exam",
+          "endAt": "2020-10-30T17:00:00+00:00",
+          "registration": {
+            "startAt": "2020-10-26T08:00:00+00:00",
+            "eventStartAt": "2020-10-30T08:00:00+00:00",
+            "endAt": "2020-10-30T08:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-01",
+          "endAt": "2021-08-31T21:59:00+00:00",
+          "registration": {
             "startAt": "2020-10-20T10:15:00+00:00",
             "eventStartAt": "2020-10-22T07:00:00+00:00",
             "endAt": "2020-10-22T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-01-2122",
-        "endAt": "2022-07-31T06:00:00.083+00:00",
-        "registration": {
-            "startAt": "2021-10-04T07:00:00+00:00",
-            "eventStartAt": "2021-10-24T06:00:00+00:00",
-            "endAt": "2021-10-23T21:42:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/div-02",
-        "endAt": "2022-07-31T12:29:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon",
+          "endAt": "2020-10-30T22:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-14T07:28:00.569389+00:00",
+            "eventStartAt": "2020-09-14T07:30:00.569389+00:00",
+            "endAt": "2020-09-14T07:29:00.569389+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/final-exam",
+          "endAt": "2020-10-30T17:00:00+00:00",
+          "registration": {
+            "startAt": "2020-10-26T08:00:00+00:00",
+            "eventStartAt": "2020-10-30T08:00:00+00:00",
+            "endAt": "2020-10-30T08:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-01",
+          "endAt": "2021-08-31T21:59:00+00:00",
+          "registration": {
+            "startAt": "2020-10-21T14:09:00+00:00",
+            "eventStartAt": "2020-10-22T07:00:00+00:00",
+            "endAt": "2020-10-22T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon",
+          "endAt": "2020-10-30T22:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-09T08:30:00+00:00",
+            "eventStartAt": "2020-09-14T07:30:00+00:00",
+            "endAt": "2020-09-14T07:30:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-02/challenge-php",
+          "endAt": "2021-12-17T22:37:00+00:00",
+          "registration": {
+            "startAt": "2021-11-19T11:20:00+00:00",
+            "eventStartAt": "2021-11-29T07:50:00+00:00",
+            "endAt": "2021-11-28T22:38:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-02/challenge-sql",
+          "endAt": "2021-12-01T08:00:00+00:00",
+          "registration": {
+            "startAt": "2021-10-08T12:02:00+00:00",
+            "eventStartAt": "2021-11-15T08:00:00+00:00",
+            "endAt": "2021-11-14T14:34:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/disco-mentor/carbon-copy",
+          "endAt": "2022-11-26T13:28:01.036+00:00",
+          "registration": {
+            "startAt": "2022-11-14T13:28:00.89+00:00",
+            "eventStartAt": "2022-11-21T13:28:00.89+00:00",
+            "endAt": "2022-11-21T13:28:00.89+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/discovery-crea/carbon-copy",
+          "endAt": "2022-11-27T08:31:00.464+00:00",
+          "registration": {
+            "startAt": "2022-11-15T08:31:00.05+00:00",
+            "eventStartAt": "2022-11-22T08:31:00.05+00:00",
+            "endAt": "2022-11-22T08:31:00.05+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/discovery-crea/carbon-copy",
+          "endAt": "2022-11-27T13:06:00.539+00:00",
+          "registration": {
+            "startAt": "2022-11-22T13:02:00+00:00",
+            "eventStartAt": "2022-11-22T13:06:00+00:00",
+            "endAt": "2022-11-22T13:05:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/discovery-crea/carbon-copy",
+          "endAt": "2022-11-27T09:07:01.129+00:00",
+          "registration": {
+            "startAt": "2022-11-15T09:07:00.911+00:00",
+            "eventStartAt": "2022-11-22T09:07:00.911+00:00",
+            "endAt": "2022-11-22T09:07:00.911+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": null,
+          "path": "/lyon/chanlenge-csharp",
+          "endAt": "2023-08-15T07:00:00.848+00:00",
+          "registration": {
+            "startAt": "2022-12-05T07:00:00+00:00",
+            "eventStartAt": "2022-12-12T08:00:00+00:00",
+            "endAt": "2022-12-12T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-sql",
+          "endAt": "2023-04-22T09:10:00+00:00",
+          "registration": {
+            "startAt": "2023-01-06T10:09:00+00:00",
+            "eventStartAt": "2023-01-06T10:10:00+00:00",
+            "endAt": "2023-01-06T10:10:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/discovery-crea/carbon-copy",
+          "endAt": "2022-12-24T10:27:25.712+00:00",
+          "registration": {
+            "startAt": "2022-12-12T10:27:00.364+00:00",
+            "eventStartAt": "2022-12-19T10:27:00.364+00:00",
+            "endAt": "2022-12-19T10:27:00.364+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-01-2223/challenge-js/rhythm-frenzy",
+          "endAt": "2022-05-01T05:20:01.531+00:00",
+          "registration": {
+            "startAt": "2022-04-21T12:20:00.934+00:00",
+            "eventStartAt": "2022-04-23T05:20:00.934+00:00",
+            "endAt": "2022-04-23T00:20:00.934+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/discovery-crea",
+          "endAt": "2023-01-07T02:27:00+00:00",
+          "registration": {
+            "startAt": "2022-12-12T10:26:00+00:00",
+            "eventStartAt": "2022-12-12T10:27:00+00:00",
+            "endAt": "2022-12-12T10:27:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-js/rhythm-frenzy",
+          "endAt": "2023-01-15T09:44:00.24+00:00",
+          "registration": {
+            "startAt": "2023-01-05T16:44:00.002+00:00",
+            "eventStartAt": "2023-01-07T09:44:00.002+00:00",
+            "endAt": "2023-01-07T04:44:00.002+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-js",
+          "endAt": "2023-02-07T01:24:00+00:00",
+          "registration": {
+            "startAt": "2022-12-12T10:23:00+00:00",
+            "eventStartAt": "2022-12-12T10:24:00+00:00",
+            "endAt": "2022-12-12T10:24:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-php",
+          "endAt": "2023-06-10T07:04:00+00:00",
+          "registration": {
+            "startAt": "2022-11-24T08:03:00+00:00",
+            "eventStartAt": "2022-11-24T08:04:00+00:00",
+            "endAt": "2022-11-24T08:04:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-02",
+          "endAt": "2022-07-31T12:29:00+00:00",
+          "registration": {
             "startAt": "2021-10-04T06:55:00+00:00",
             "eventStartAt": "2021-10-04T07:00:00+00:00",
             "endAt": "2021-10-04T06:59:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": null,
-        "path": "/lyon/challenge-lyon",
-        "endAt": "2022-09-20T00:31:00.42+00:00",
-        "registration": {
-            "startAt": "2022-08-24T08:15:00+00:00",
-            "eventStartAt": "2022-08-24T08:31:00+00:00",
-            "endAt": "2022-08-24T08:30:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/bilan-01",
-        "endAt": "2022-08-31T11:11:00.633+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/bilan-01",
+          "endAt": "2022-08-31T11:11:00.633+00:00",
+          "registration": {
             "startAt": "2022-08-29T18:11:00.42+00:00",
             "eventStartAt": "2022-08-31T07:11:00.42+00:00",
             "endAt": "2022-08-31T06:11:00.42+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/bilan-02",
-        "endAt": "2022-08-27T23:51:01.159+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/bilan-02",
+          "endAt": "2022-08-27T23:51:01.159+00:00",
+          "registration": {
             "startAt": "2022-08-26T06:51:00.42+00:00",
             "eventStartAt": "2022-08-27T19:51:00.42+00:00",
             "endAt": "2022-08-27T18:51:00.42+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/quad",
-        "endAt": "2022-08-28T22:51:00.98+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/quad",
+          "endAt": "2022-08-28T22:51:00.98+00:00",
+          "registration": {
             "startAt": "2022-08-25T01:51:00.42+00:00",
             "eventStartAt": "2022-08-26T18:51:00.42+00:00",
             "endAt": "2022-08-26T13:51:00.42+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/quadchecker",
-        "endAt": "2022-08-29T23:51:01.159+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-01-2223",
+          "endAt": "2022-07-31T06:00:00.083+00:00",
+          "registration": {
+            "startAt": "2021-10-04T07:00:00+00:00",
+            "eventStartAt": "2021-10-24T06:00:00+00:00",
+            "endAt": "2021-10-23T21:42:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/quadchecker",
+          "endAt": "2022-08-29T23:51:01.159+00:00",
+          "registration": {
             "startAt": "2022-08-26T02:51:00.42+00:00",
             "eventStartAt": "2022-08-27T19:51:00.42+00:00",
             "endAt": "2022-08-27T14:51:00.42+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-lyon/sudoku",
-        "endAt": "2022-08-30T16:31:00.737+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/sudoku",
+          "endAt": "2022-08-30T16:31:00.737+00:00",
+          "registration": {
             "startAt": "2022-08-26T19:31:00.42+00:00",
             "eventStartAt": "2022-08-28T12:31:00.42+00:00",
             "endAt": "2022-08-28T07:31:00.42+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": null,
-        "path": "/lyon/challenge-go",
-        "endAt": "2023-07-10T07:11:00+00:00",
-        "registration": {
-            "startAt": "2022-09-05T07:00:00+00:00",
-            "eventStartAt": "2022-09-07T07:11:00+00:00",
-            "endAt": "2022-09-07T07:10:00+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-go/exam-1",
-        "endAt": "2022-09-07T11:11:01.18+00:00",
-        "registration": {
-            "startAt": "2022-09-05T18:11:00.178+00:00",
-            "eventStartAt": "2022-09-07T07:11:00.178+00:00",
-            "endAt": "2022-09-07T06:11:00.178+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-go/exam-2",
-        "endAt": "2022-09-07T11:11:01.18+00:00",
-        "registration": {
-            "startAt": "2022-09-05T18:11:00.178+00:00",
-            "eventStartAt": "2022-09-07T07:11:00.178+00:00",
-            "endAt": "2022-09-07T06:11:00.178+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-go/exam-3",
-        "endAt": "2022-09-07T11:11:01.18+00:00",
-        "registration": {
-            "startAt": "2022-09-05T18:11:00.178+00:00",
-            "eventStartAt": "2022-09-07T07:11:00.178+00:00",
-            "endAt": "2022-09-07T06:11:00.178+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": null,
-        "path": "/lyon/challenge-go/final-exam",
-        "endAt": "2022-09-07T16:21:01.18+00:00",
-        "registration": {
-            "startAt": "2022-08-24T08:51:00.178+00:00",
-            "eventStartAt": "2022-09-07T07:11:00.178+00:00",
-            "endAt": "2022-09-07T06:11:00.178+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": null,
-        "path": "/lyon/challenge-go/word-search-solver",
-        "endAt": "2022-09-08T01:41:01.18+00:00",
-        "registration": {
-            "startAt": "2022-09-06T07:11:00.178+00:00",
-            "eventStartAt": "2022-09-07T07:11:00.178+00:00",
-            "endAt": "2022-09-07T07:11:00.178+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-go/exam-1",
-        "endAt": "2022-09-07T11:16:01.7+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/chanlenge-csharp",
+          "endAt": "2023-01-18T00:51:00.297+00:00",
+          "registration": {
+            "startAt": "2022-12-12T08:00:00+00:00",
+            "eventStartAt": "2022-12-12T08:11:00+00:00",
+            "endAt": "2022-12-12T08:10:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-2",
+          "endAt": "2022-09-07T11:16:01.701+00:00",
+          "registration": {
             "startAt": "2022-09-05T18:16:00.698+00:00",
             "eventStartAt": "2022-09-07T07:16:00.698+00:00",
             "endAt": "2022-09-07T06:16:00.698+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-go/exam-2",
-        "endAt": "2022-09-07T11:16:01.701+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-3",
+          "endAt": "2022-09-07T11:16:01.701+00:00",
+          "registration": {
             "startAt": "2022-09-05T18:16:00.698+00:00",
             "eventStartAt": "2022-09-07T07:16:00.698+00:00",
             "endAt": "2022-09-07T06:16:00.698+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": "done",
-        "path": "/lyon/challenge-go/exam-3",
-        "endAt": "2022-09-07T11:16:01.701+00:00",
-        "registration": {
-            "startAt": "2022-09-05T18:16:00.698+00:00",
-            "eventStartAt": "2022-09-07T07:16:00.698+00:00",
-            "endAt": "2022-09-07T06:16:00.698+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": null,
-        "path": "/lyon/challenge-go/final-exam",
-        "endAt": "2022-09-07T16:26:01.701+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/final-exam",
+          "endAt": "2022-09-07T16:26:01.701+00:00",
+          "registration": {
             "startAt": "2022-08-24T08:56:00.698+00:00",
             "eventStartAt": "2022-09-07T07:16:00.698+00:00",
             "endAt": "2022-09-07T06:16:00.698+00:00"
-        }
-    },
-    {
-        "campus": "lyon",
-        "status": null,
-        "path": "/lyon/challenge-go/word-search-solver",
-        "endAt": "2022-09-08T01:46:01.701+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon",
+          "endAt": "2022-09-20T00:31:00.42+00:00",
+          "registration": {
+            "startAt": "2022-08-24T08:15:00+00:00",
+            "eventStartAt": "2022-08-24T08:31:00+00:00",
+            "endAt": "2022-08-24T08:30:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/word-search-solver",
+          "endAt": "2022-09-08T01:46:01.701+00:00",
+          "registration": {
             "startAt": "2022-09-06T07:16:00.698+00:00",
             "eventStartAt": "2022-09-07T07:16:00.698+00:00",
             "endAt": "2022-09-07T07:16:00.698+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go",
+          "endAt": "2022-10-02T07:16:00+00:00",
+          "registration": {
+            "startAt": "2022-09-06T06:00:00+00:00",
+            "eventStartAt": "2022-09-07T07:16:00+00:00",
+            "endAt": "2022-09-07T07:15:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-1",
+          "endAt": "2022-09-09T11:11:00+00:00",
+          "registration": {
+            "startAt": "2022-09-09T07:00:00+00:00",
+            "eventStartAt": "2022-09-09T07:11:00+00:00",
+            "endAt": "2022-09-09T07:10:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/quad",
+          "endAt": "2022-09-11T21:59:00.817+00:00",
+          "registration": {
+            "startAt": "2022-09-06T11:56:00+00:00",
+            "eventStartAt": "2022-09-09T15:42:00+00:00",
+            "endAt": "2022-09-09T15:40:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-1",
+          "endAt": "2022-09-12T11:23:00.081+00:00",
+          "registration": {
+            "startAt": "2022-09-12T07:17:00+00:00",
+            "eventStartAt": "2022-09-12T07:23:00+00:00",
+            "endAt": "2022-09-12T07:22:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-sql",
+          "endAt": "2023-01-25T14:22:00+00:00",
+          "registration": {
+            "startAt": "2023-01-09T14:21:00+00:00",
+            "eventStartAt": "2023-01-09T14:22:00+00:00",
+            "endAt": "2023-01-09T14:22:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-2",
+          "endAt": "2022-09-16T16:50:00.462+00:00",
+          "registration": {
+            "startAt": "2022-09-16T12:44:00+00:00",
+            "eventStartAt": "2022-09-16T12:50:00+00:00",
+            "endAt": "2022-09-16T12:48:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-ux",
+          "endAt": "2023-04-10T01:42:00+00:00",
+          "registration": {
+            "startAt": "2022-09-14T09:40:00+00:00",
+            "eventStartAt": "2022-09-14T09:42:00+00:00",
+            "endAt": "2022-09-14T09:41:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-lyon/final-exam",
+          "endAt": "2022-09-19T01:41:01.35+00:00",
+          "registration": {
+            "startAt": "2022-09-04T18:11:00.42+00:00",
+            "eventStartAt": "2022-09-18T16:31:00.42+00:00",
+            "endAt": "2022-09-18T15:31:00.42+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-3",
+          "endAt": "2022-09-23T16:10:00.839+00:00",
+          "registration": {
+            "startAt": "2022-09-23T09:53:00+00:00",
+            "eventStartAt": "2022-09-23T12:10:00+00:00",
+            "endAt": "2022-09-23T12:09:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/word-search-solver",
+          "endAt": "2022-09-25T21:59:00+00:00",
+          "registration": {
+            "startAt": "2022-09-23T09:20:00+00:00",
+            "eventStartAt": "2022-09-23T10:01:00+00:00",
+            "endAt": "2022-09-23T10:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-sql",
+          "endAt": "2022-10-15T06:52:00+00:00",
+          "registration": {
+            "startAt": "2022-09-29T06:49:00+00:00",
+            "eventStartAt": "2022-09-29T07:11:00+00:00",
+            "endAt": "2022-09-29T07:10:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": null,
+          "path": "/lyon/div2223",
+          "endAt": "2023-08-31T06:11:00+00:00",
+          "registration": {
+            "startAt": "2022-10-07T15:03:00+00:00",
+            "eventStartAt": "2022-10-11T07:11:00+00:00",
+            "endAt": "2022-10-10T07:10:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-rust/drawing",
+          "endAt": "2022-10-24T08:40:00.555+00:00",
+          "registration": {
+            "startAt": "2022-10-20T11:40:00.26+00:00",
+            "eventStartAt": "2022-10-22T04:40:00.26+00:00",
+            "endAt": "2022-10-21T23:40:00.26+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-rust/exam-01-rust",
+          "endAt": "2022-10-22T04:40:00.267+00:00",
+          "registration": {
+            "startAt": "2022-10-20T11:40:00.26+00:00",
+            "eventStartAt": "2022-10-22T00:40:00.26+00:00",
+            "endAt": "2022-10-21T23:40:00.26+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-rust/exam-02-rust",
+          "endAt": "2022-10-29T04:40:00.574+00:00",
+          "registration": {
+            "startAt": "2022-10-27T11:40:00.26+00:00",
+            "eventStartAt": "2022-10-29T00:40:00.26+00:00",
+            "endAt": "2022-10-28T23:40:00.26+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-rust/road-intersection",
+          "endAt": "2022-10-31T08:40:00.759+00:00",
+          "registration": {
+            "startAt": "2022-10-27T11:40:00.26+00:00",
+            "eventStartAt": "2022-10-29T04:40:00.26+00:00",
+            "endAt": "2022-10-28T23:40:00.26+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-rust/exam-03-rust",
+          "endAt": "2022-11-05T04:40:00.266+00:00",
+          "registration": {
+            "startAt": "2022-11-03T11:40:00.26+00:00",
+            "eventStartAt": "2022-11-05T00:40:00.26+00:00",
+            "endAt": "2022-11-04T23:40:00.26+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-rust/chaikin",
+          "endAt": "2022-11-07T08:40:00.508+00:00",
+          "registration": {
+            "startAt": "2022-11-03T11:40:00.26+00:00",
+            "eventStartAt": "2022-11-05T04:40:00.26+00:00",
+            "endAt": "2022-11-04T23:40:00.26+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-unity",
+          "endAt": "2023-03-14T13:25:00+00:00",
+          "registration": {
+            "startAt": "2022-10-25T13:23:00+00:00",
+            "eventStartAt": "2022-10-25T13:25:00+00:00",
+            "endAt": "2022-10-25T13:24:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-rust",
+          "endAt": "2022-11-12T02:40:00+00:00",
+          "registration": {
+            "startAt": "2022-10-17T10:38:00+00:00",
+            "eventStartAt": "2022-10-17T10:40:00+00:00",
+            "endAt": "2022-10-17T10:39:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-rust/final-exam-rust",
+          "endAt": "2022-11-12T02:40:00.518+00:00",
+          "registration": {
+            "startAt": "2022-11-10T05:40:00.26+00:00",
+            "eventStartAt": "2022-11-11T18:40:00.26+00:00",
+            "endAt": "2022-11-11T17:40:00.26+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/disco-mentor",
+          "endAt": "2022-12-10T05:28:00+00:00",
+          "registration": {
+            "startAt": "2022-11-14T13:27:00+00:00",
+            "eventStartAt": "2022-11-14T13:28:00+00:00",
+            "endAt": "2022-11-14T13:28:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/discovery-crea",
+          "endAt": "2022-12-11T01:07:00+00:00",
+          "registration": {
+            "startAt": "2022-11-15T09:03:00+00:00",
+            "eventStartAt": "2022-11-15T09:07:00+00:00",
+            "endAt": "2022-11-15T09:06:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-01-2223/challenge-js",
+          "endAt": "2022-05-23T21:00:00.934+00:00",
+          "registration": {
+            "startAt": "2022-02-26T06:00:00+00:00",
+            "eventStartAt": "2022-03-28T06:00:00+00:00",
+            "endAt": "2022-03-28T06:00:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div-01-2223/challenge-js/sortable",
+          "endAt": "2022-05-23T03:40:01.712+00:00",
+          "registration": {
+            "startAt": "2022-05-14T12:00:00.934+00:00",
+            "eventStartAt": "2022-05-16T05:00:00.934+00:00",
+            "endAt": "2022-05-16T00:00:00.934+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-js/sortable",
+          "endAt": "2023-02-06T08:04:00.286+00:00",
+          "registration": {
+            "startAt": "2023-01-28T16:24:00.002+00:00",
+            "eventStartAt": "2023-01-30T09:24:00.002+00:00",
+            "endAt": "2023-01-30T04:24:00.002+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/discovery-crea",
+          "endAt": "2023-05-10T23:31:00.05+00:00",
+          "registration": {
+            "startAt": "2022-11-14T07:00:00+00:00",
+            "eventStartAt": "2022-11-15T08:31:00+00:00",
+            "endAt": "2022-11-15T08:30:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": null,
+          "path": "/lyon/challenge-js",
+          "endAt": "3024-04-08T21:15:00+00:00",
+          "registration": {
+            "startAt": "2023-02-24T09:36:00+00:00",
+            "eventStartAt": "2023-03-13T08:15:00+00:00",
+            "endAt": "2023-03-13T08:14:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-js/boxxle",
+          "endAt": "2023-03-15T08:15:01.863+00:00",
+          "registration": {
+            "startAt": "2023-03-11T20:15:00.862+00:00",
+            "eventStartAt": "2023-03-13T08:15:00.862+00:00",
+            "endAt": "2023-03-13T08:15:00.862+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div2223/challenge-js/boxxle",
+          "endAt": "2023-03-17T10:07:24.607+00:00",
+          "registration": {
+            "startAt": "2023-03-13T22:07:24.107+00:00",
+            "eventStartAt": "2023-03-15T10:07:24.107+00:00",
+            "endAt": "2023-03-15T10:07:24.107+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div2223/challenge-js",
+          "endAt": "2023-05-11T01:07:24.107+00:00",
+          "registration": {
+            "startAt": "2023-02-13T07:11:00.046+00:00",
+            "eventStartAt": "2023-03-15T07:11:00.046+00:00",
+            "endAt": "2023-03-15T07:11:00.046+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-1",
+          "endAt": "2023-03-17T04:07:01.971+00:00",
+          "registration": {
+            "startAt": "2023-03-15T11:07:00.97+00:00",
+            "eventStartAt": "2023-03-17T00:07:00.97+00:00",
+            "endAt": "2023-03-16T23:07:00.97+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-2",
+          "endAt": "2023-03-17T04:07:01.971+00:00",
+          "registration": {
+            "startAt": "2023-03-15T11:07:00.97+00:00",
+            "eventStartAt": "2023-03-17T00:07:00.97+00:00",
+            "endAt": "2023-03-16T23:07:00.97+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-3",
+          "endAt": "2023-03-17T04:07:01.972+00:00",
+          "registration": {
+            "startAt": "2023-03-15T11:07:00.97+00:00",
+            "eventStartAt": "2023-03-17T00:07:00.97+00:00",
+            "endAt": "2023-03-16T23:07:00.97+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/final-exam",
+          "endAt": "2023-03-17T09:17:01.972+00:00",
+          "registration": {
+            "startAt": "2023-03-03T01:47:00.97+00:00",
+            "eventStartAt": "2023-03-17T00:07:00.97+00:00",
+            "endAt": "2023-03-16T23:07:00.97+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/word-search-solver",
+          "endAt": "2023-03-17T18:37:01.972+00:00",
+          "registration": {
+            "startAt": "2023-03-16T00:07:00.97+00:00",
+            "eventStartAt": "2023-03-17T00:07:00.97+00:00",
+            "endAt": "2023-03-17T00:07:00.97+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-js/boxxle",
+          "endAt": "2023-04-10T21:59:00+00:00",
+          "registration": {
+            "startAt": "2023-04-05T21:36:00+00:00",
+            "eventStartAt": "2023-04-06T07:16:00+00:00",
+            "endAt": "2023-04-06T07:15:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/quad",
+          "endAt": "2023-03-23T03:07:01.837+00:00",
+          "registration": {
+            "startAt": "2023-03-16T04:47:00.97+00:00",
+            "eventStartAt": "2023-03-20T06:47:00.97+00:00",
+            "endAt": "2023-03-20T06:47:00.97+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-js/sortable",
+          "endAt": "2023-03-26T21:59:00.329+00:00",
+          "registration": {
+            "startAt": "2023-03-21T08:23:00+00:00",
+            "eventStartAt": "2023-03-23T08:15:00+00:00",
+            "endAt": "2023-03-23T08:10:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": null,
+          "path": "/lyon/challenge-java",
+          "endAt": "3023-07-01T01:06:00+00:00",
+          "registration": {
+            "startAt": "2023-03-20T15:28:00+00:00",
+            "eventStartAt": "2023-03-20T15:30:00+00:00",
+            "endAt": "2023-03-20T15:29:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-js/rhythm-frenzy",
+          "endAt": "2023-04-16T07:35:01.803+00:00",
+          "registration": {
+            "startAt": "2023-04-06T14:35:00.862+00:00",
+            "eventStartAt": "2023-04-08T07:35:00.862+00:00",
+            "endAt": "2023-04-08T02:35:00.862+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div2223/challenge-js/rhythm-frenzy",
+          "endAt": "2023-04-18T09:27:24.932+00:00",
+          "registration": {
+            "startAt": "2023-04-08T16:27:24.107+00:00",
+            "eventStartAt": "2023-04-10T09:27:24.107+00:00",
+            "endAt": "2023-04-10T04:27:24.107+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-java-beginner",
+          "endAt": "2023-04-07T02:44:00+00:00",
+          "registration": {
+            "startAt": "2023-04-04T14:06:00+00:00",
+            "eventStartAt": "2023-04-04T14:08:00+00:00",
+            "endAt": "2023-04-04T14:07:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-java-beginner",
+          "endAt": "2023-04-10T00:57:00.095+00:00",
+          "registration": {
+            "startAt": "2023-04-07T12:19:00+00:00",
+            "eventStartAt": "2023-04-07T12:21:00+00:00",
+            "endAt": "2023-04-07T12:20:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go",
+          "endAt": "2023-04-21T00:07:00+00:00",
+          "registration": {
+            "startAt": "2023-03-17T00:05:00+00:00",
+            "eventStartAt": "2023-03-17T00:07:00+00:00",
+            "endAt": "2023-03-17T00:06:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/div2223/challenge-js/sortable",
+          "endAt": "2023-05-05T09:07:24.301+00:00",
+          "registration": {
+            "startAt": "2023-05-01T16:07:24.107+00:00",
+            "eventStartAt": "2023-05-03T09:07:24.107+00:00",
+            "endAt": "2023-05-03T04:07:24.107+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": null,
+          "path": "/lyon/challenge-go",
+          "endAt": "2023-11-21T09:27:00+00:00",
+          "registration": {
+            "startAt": "2023-06-16T08:25:00+00:00",
+            "eventStartAt": "2023-06-16T08:27:00+00:00",
+            "endAt": "2023-06-16T08:26:00+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-3",
+          "endAt": "2023-06-16T12:27:01.542+00:00",
+          "registration": {
+            "startAt": "2023-06-14T19:27:00.542+00:00",
+            "eventStartAt": "2023-06-16T08:27:00.542+00:00",
+            "endAt": "2023-06-16T07:27:00.542+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-1",
+          "endAt": "2023-06-16T12:27:01.543+00:00",
+          "registration": {
+            "startAt": "2023-06-14T19:27:00.542+00:00",
+            "eventStartAt": "2023-06-16T08:27:00.542+00:00",
+            "endAt": "2023-06-16T07:27:00.542+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/exam-2",
+          "endAt": "2023-06-16T12:27:01.543+00:00",
+          "registration": {
+            "startAt": "2023-06-14T19:27:00.542+00:00",
+            "eventStartAt": "2023-06-16T08:27:00.542+00:00",
+            "endAt": "2023-06-16T07:27:00.542+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/final-exam",
+          "endAt": "2023-06-16T17:37:01.543+00:00",
+          "registration": {
+            "startAt": "2023-06-02T10:07:00.542+00:00",
+            "eventStartAt": "2023-06-16T08:27:00.542+00:00",
+            "endAt": "2023-06-16T07:27:00.542+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/word-search-solver",
+          "endAt": "2023-06-17T02:57:01.543+00:00",
+          "registration": {
+            "startAt": "2023-06-15T08:27:00.542+00:00",
+            "eventStartAt": "2023-06-16T08:27:00.542+00:00",
+            "endAt": "2023-06-16T08:27:00.542+00:00"
+          }
+        },
+        {
+          "campus": "lyon",
+          "status": "done",
+          "path": "/lyon/challenge-go/quad",
+          "endAt": "2023-06-22T11:27:01.419+00:00",
+          "registration": {
+            "startAt": "2023-06-15T13:07:00.542+00:00",
+            "eventStartAt": "2023-06-19T15:07:00.542+00:00",
+            "endAt": "2023-06-19T15:07:00.542+00:00"
+          }
         }
-    }
-]
+      ]

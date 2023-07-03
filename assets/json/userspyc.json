@@ -1,1560 +1,3265 @@
 [
-    {
-        "firstName": "YPALMIER",
-        "login": "YPALMIER",
-        "campus": "pyc",
-        "id": 58,
-        "xp": {
-            "amount": 261931
-        }
-    },
-    {
-        "firstName": "VHOCQUAUX",
-        "login": "VHOCQUAUX",
-        "campus": "pyc",
-        "id": 59,
-        "xp": {
-            "amount": 75542
-        }
-    },
-    {
-        "firstName": "AFOURTADO",
-        "login": "AFOURTADO",
-        "campus": "pyc",
-        "id": 60,
-        "xp": {
-            "amount": 37789
-        }
-    },
-    {
-        "firstName": "KGROLLEMUND",
-        "login": "KGROLLEMUND",
-        "campus": "pyc",
-        "id": 61,
-        "xp": {
-            "amount": 180555
-        }
-    },
-    {
-        "firstName": "JBERNARDINI",
-        "login": "JBERNARDINI",
-        "campus": "pyc",
-        "id": 62,
-        "xp": {
-            "amount": 382178
-        }
-    },
-    {
-        "firstName": "TVALMORIN",
-        "login": "TVALMORIN",
-        "campus": "pyc",
-        "id": 63,
-        "xp": {
-            "amount": 25253
-        }
-    },
-    {
-        "firstName": "ALACROIX1",
-        "login": "ALACROIX1",
-        "campus": "pyc",
-        "id": 65,
-        "xp": {
-            "amount": 123392
-        }
-    },
-    {
-        "firstName": "DONDZEIKONI",
-        "login": "DONDZEIKONI",
-        "campus": "pyc",
-        "id": 66,
-        "xp": {
-            "amount": 24755
-        }
-    },
-    {
-        "firstName": "ESENEL",
-        "login": "ESENEL",
-        "campus": "pyc",
-        "id": 67,
-        "xp": {
-            "amount": 113453
-        }
-    },
-    {
-        "firstName": "RKRIBA",
-        "login": "RKRIBA",
-        "campus": "pyc",
-        "id": 68,
-        "xp": {
-            "amount": 187994
-        }
-    },
-    {
-        "firstName": "RNAKACHE",
-        "login": "RNAKACHE",
-        "campus": "pyc",
-        "id": 69,
-        "xp": {
-            "amount": 144828
-        }
-    },
-    {
-        "firstName": "VPARRA",
-        "login": "VPARRA",
-        "campus": "pyc",
-        "id": 70,
-        "xp": {
-            "amount": 322007
-        }
-    },
-    {
-        "firstName": "ROUAHI",
-        "login": "ROUAHI",
-        "campus": "pyc",
-        "id": 71,
-        "xp": {
-            "amount": 187829
-        }
-    },
-    {
-        "firstName": "MROADLEY-BATTIN",
-        "login": "MROADLEY-BATTIN",
-        "campus": "pyc",
-        "id": 72,
-        "xp": {
-            "amount": 294123
-        }
-    },
-    {
-        "firstName": "SFEKAIER",
-        "login": "SFEKAIER",
-        "campus": "pyc",
-        "id": 73,
-        "xp": {
-            "amount": 264531
-        }
-    },
-    {
-        "firstName": "FMORACCHINI",
-        "login": "FMORACCHINI",
-        "campus": "pyc",
-        "id": 75,
-        "xp": {
-            "amount": 428535
-        }
-    },
-    {
-        "firstName": "SCORREIA",
-        "login": "SCORREIA",
-        "campus": "pyc",
-        "id": 76,
-        "xp": {
-            "amount": 284544
-        }
-    },
-    {
-        "firstName": "ABA",
-        "login": "ABA",
-        "campus": "pyc",
-        "id": 77,
-        "xp": {
-            "amount": 180389
-        }
-    },
-    {
-        "firstName": "ZMEFTAH",
-        "login": "ZMEFTAH",
-        "campus": "pyc",
-        "id": 78,
-        "xp": {
-            "amount": 36839
-        }
-    },
-    {
-        "firstName": "NMOYEN",
-        "login": "NMOYEN",
-        "campus": "pyc",
-        "id": 79,
-        "xp": {
-            "amount": 166368
-        }
-    },
-    {
-        "firstName": "HMOUSTOIFA",
-        "login": "HMOUSTOIFA",
-        "campus": "pyc",
-        "id": 80,
-        "xp": {
-            "amount": 79764
-        }
-    },
-    {
-        "firstName": "AVELLEINE",
-        "login": "AVELLEINE",
-        "campus": "pyc",
-        "id": 81,
-        "xp": {
-            "amount": 397045
-        }
-    },
-    {
-        "firstName": "BBOUQUIER",
-        "login": "BBOUQUIER",
-        "campus": "pyc",
-        "id": 82,
-        "xp": {
-            "amount": 331793
-        }
-    },
-    {
-        "firstName": "VWETSHI",
-        "login": "VWETSHI",
-        "campus": "pyc",
-        "id": 83,
-        "xp": {
-            "amount": 129657
-        }
-    },
-    {
-        "firstName": "TWU1",
-        "login": "TWU1",
-        "campus": "pyc",
-        "id": 84,
-        "xp": {
-            "amount": 224281
-        }
-    },
-    {
-        "firstName": "JCASTELLANOS",
-        "login": "JCASTELLANOS",
-        "campus": "pyc",
-        "id": 85,
-        "xp": {
-            "amount": 192580
-        }
-    },
-    {
-        "firstName": "ADUCOUDRE",
-        "login": "ADUCOUDRE",
-        "campus": "pyc",
-        "id": 86,
-        "xp": {
-            "amount": 292208
-        }
-    },
-    {
-        "firstName": "TBELLAMY",
-        "login": "TBELLAMY",
-        "campus": "pyc",
-        "id": 87,
-        "xp": {
-            "amount": 63165
-        }
-    },
-    {
-        "firstName": "SLAMHAYA",
-        "login": "SLAMHAYA",
-        "campus": "pyc",
-        "id": 88,
-        "xp": {
-            "amount": 308594
-        }
-    },
-    {
-        "firstName": "MGIEU",
-        "login": "MGIEU",
-        "campus": "pyc",
-        "id": 89,
-        "xp": {
-            "amount": 236257
-        }
-    },
-    {
-        "firstName": "YMOREN",
-        "login": "YMOREN",
-        "campus": "pyc",
-        "id": 90,
-        "xp": {
-            "amount": 233344
-        }
-    },
-    {
-        "firstName": "ABERNARD3",
-        "login": "ABERNARD3",
-        "campus": "pyc",
-        "id": 91,
-        "xp": {
-            "amount": 406894
-        }
-    },
-    {
-        "firstName": "GACQUADRO",
-        "login": "GACQUADRO",
-        "campus": "pyc",
-        "id": 92,
-        "xp": {
-            "amount": 288894
-        }
-    },
-    {
-        "firstName": "HSEESAHYE",
-        "login": "HSEESAHYE",
-        "campus": "pyc",
-        "id": 93,
-        "xp": {
-            "amount": 20453
-        }
-    },
-    {
-        "firstName": "PGARCIA",
-        "login": "PGARCIA",
-        "campus": "pyc",
-        "id": 94,
-        "xp": {
-            "amount": 213930
-        }
-    },
-    {
-        "firstName": "MCZADOWSKI",
-        "login": "MCZADOWSKI",
-        "campus": "pyc",
-        "id": 95,
-        "xp": {
-            "amount": 475016
-        }
-    },
-    {
-        "firstName": "ACLAVERIA",
-        "login": "ACLAVERIA",
-        "campus": "pyc",
-        "id": 96,
-        "xp": {
-            "amount": 322368
-        }
-    },
-    {
-        "firstName": "MFARISSI1",
-        "login": "MFARISSI1",
-        "campus": "pyc",
-        "id": 97,
-        "xp": {
-            "amount": 75066
-        }
-    },
-    {
-        "firstName": "RCARMOUN",
-        "login": "RCARMOUN",
-        "campus": "pyc",
-        "id": 98,
-        "xp": {
-            "amount": 168904
-        }
-    },
-    {
-        "firstName": "JLOGANADIN",
-        "login": "JLOGANADIN",
-        "campus": "pyc",
-        "id": 99,
-        "xp": {
-            "amount": 91201
-        }
-    },
-    {
-        "firstName": "NKHALLOULI",
-        "login": "NKHALLOULI",
-        "campus": "pyc",
-        "id": 100,
-        "xp": {
-            "amount": 126840
-        }
-    },
-    {
-        "firstName": "CKADDAS",
-        "login": "CKADDAS",
-        "campus": "pyc",
-        "id": 101,
-        "xp": {
-            "amount": 156617
-        }
-    },
-    {
-        "firstName": "CROC",
-        "login": "CROC",
-        "campus": "pyc",
-        "id": 102,
-        "xp": {
-            "amount": 370333
-        }
-    },
-    {
-        "firstName": "DDROZD",
-        "login": "DDROZD",
-        "campus": "pyc",
-        "id": 104,
-        "xp": {
-            "amount": 296608
-        }
-    },
-    {
-        "firstName": "YMBEMBA",
-        "login": "YMBEMBA",
-        "campus": "pyc",
-        "id": 105,
-        "xp": {
-            "amount": 63603
-        }
-    },
-    {
-        "firstName": "ACLODION",
-        "login": "ACLODION",
-        "campus": "pyc",
-        "id": 106,
-        "xp": {
-            "amount": 73125
-        }
-    },
-    {
-        "firstName": "VSKVORTSOV",
-        "login": "VSKVORTSOV",
-        "campus": "pyc",
-        "id": 107,
-        "xp": {
-            "amount": 197741
-        }
-    },
-    {
-        "firstName": "MDEROSIER",
-        "login": "MDEROSIER",
-        "campus": "pyc",
-        "id": 108,
-        "xp": {
-            "amount": 378633
-        }
-    },
-    {
-        "firstName": "EGRZESKIEWICZ",
-        "login": "EGRZESKIEWICZ",
-        "campus": "pyc",
-        "id": 109,
-        "xp": {
-            "amount": 221644
-        }
-    },
-    {
-        "firstName": "HELGANTOUH",
-        "login": "HELGANTOUH",
-        "campus": "pyc",
-        "id": 110,
-        "xp": {
-            "amount": 76003
-        }
-    },
-    {
-        "firstName": "FKOZLOV",
-        "login": "FKOZLOV",
-        "campus": "pyc",
-        "id": 111,
-        "xp": {
-            "amount": 272255
-        }
-    },
-    {
-        "firstName": "DCOURTEAUX",
-        "login": "DCOURTEAUX",
-        "campus": "pyc",
-        "id": 112,
-        "xp": {
-            "amount": 119305
-        }
-    },
-    {
-        "firstName": "SDRARIS",
-        "login": "SDRARIS",
-        "campus": "pyc",
-        "id": 113,
-        "xp": {
-            "amount": 94165
-        }
-    },
-    {
-        "firstName": "AMICHEL2",
-        "login": "AMICHEL2",
-        "campus": "pyc",
-        "id": 114,
-        "xp": {
-            "amount": 268483
-        }
-    },
-    {
-        "firstName": "TDELAITTRE",
-        "login": "TDELAITTRE",
-        "campus": "pyc",
-        "id": 115,
-        "xp": {
-            "amount": 15689
-        }
-    },
-    {
-        "firstName": "YABOU-KHADIJA",
-        "login": "YABOU-KHADIJA",
-        "campus": "pyc",
-        "id": 116,
-        "xp": {
-            "amount": 117953
-        }
-    },
-    {
-        "firstName": "MTARHOUNI",
-        "login": "MTARHOUNI",
-        "campus": "pyc",
-        "id": 117,
-        "xp": {
-            "amount": 396698
-        }
-    },
-    {
-        "firstName": "YDJOUDI",
-        "login": "YDJOUDI",
-        "campus": "pyc",
-        "id": 118,
-        "xp": {
-            "amount": 186881
-        }
-    },
-    {
-        "firstName": "CLEICHNIG",
-        "login": "CLEICHNIG",
-        "campus": "pyc",
-        "id": 119,
-        "xp": {
-            "amount": 328832
-        }
-    },
-    {
-        "firstName": "KALVES",
-        "login": "KALVES",
-        "campus": "pyc",
-        "id": 120,
-        "xp": {
-            "amount": 272219
-        }
-    },
-    {
-        "firstName": "ARIBES",
-        "login": "ARIBES",
-        "campus": "pyc",
-        "id": 121,
-        "xp": {
-            "amount": 171392
-        }
-    },
-    {
-        "firstName": "OKABASELE",
-        "login": "OKABASELE",
-        "campus": "pyc",
-        "id": 122,
-        "xp": {
-            "amount": 393504
-        }
-    },
-    {
-        "firstName": "TARNAUD",
-        "login": "TARNAUD",
-        "campus": "pyc",
-        "id": 123,
-        "xp": {
-            "amount": 214130
-        }
-    },
-    {
-        "firstName": "MRAZAFINDRIANTSOA",
-        "login": "MRAZAFINDRIANTSOA",
-        "campus": "pyc",
-        "id": 124,
-        "xp": {
-            "amount": 154191
-        }
-    },
-    {
-        "firstName": "RAINSEBA",
-        "login": "RAINSEBA",
-        "campus": "pyc",
-        "id": 125,
-        "xp": {
-            "amount": 393571
-        }
-    },
-    {
-        "firstName": "MMEZOUANI",
-        "login": "MMEZOUANI",
-        "campus": "pyc",
-        "id": 126,
-        "xp": {
-            "amount": 132679
-        }
-    },
-    {
-        "firstName": "DESTRADE",
-        "login": "DESTRADE",
-        "campus": "pyc",
-        "id": 127,
-        "xp": {
-            "amount": 198504
-        }
-    },
-    {
-        "firstName": "LAID",
-        "login": "LAID",
-        "campus": "pyc",
-        "id": 128,
-        "xp": {
-            "amount": 59141
-        }
-    },
-    {
-        "firstName": "NKOUFI",
-        "login": "NKOUFI",
-        "campus": "pyc",
-        "id": 129,
-        "xp": {
-            "amount": 22055
-        }
-    },
-    {
-        "firstName": "SDOCKX",
-        "login": "SDOCKX",
-        "campus": "pyc",
-        "id": 131,
-        "xp": {
-            "amount": 339480
-        }
-    },
-    {
-        "firstName": "EREN",
-        "login": "EREN",
-        "campus": "pyc",
-        "id": 132,
-        "xp": {
-            "amount": 235654
-        }
-    },
-    {
-        "firstName": "SBENTEFRIT",
-        "login": "SBENTEFRIT",
-        "campus": "pyc",
-        "id": 133,
-        "xp": {
-            "amount": 149892
-        }
-    },
-    {
-        "firstName": "AGUERAND",
-        "login": "AGUERAND",
-        "campus": "pyc",
-        "id": 134,
-        "xp": {
-            "amount": 255917
-        }
-    },
-    {
-        "firstName": "CLANNERETONNE",
-        "login": "CLANNERETONNE",
-        "campus": "pyc",
-        "id": 135,
-        "xp": {
-            "amount": 65816
-        }
-    },
-    {
-        "firstName": "AGUISNE",
-        "login": "AGUISNE",
-        "campus": "pyc",
-        "id": 136,
-        "xp": {
-            "amount": 32815
-        }
-    },
-    {
-        "firstName": "SMELONI",
-        "login": "SMELONI",
-        "campus": "pyc",
-        "id": 137,
-        "xp": {
-            "amount": 158953
-        }
-    },
-    {
-        "firstName": "BTCHUISSEU",
-        "login": "BTCHUISSEU",
-        "campus": "pyc",
-        "id": 139,
-        "xp": {
-            "amount": 183878
-        }
-    },
-    {
-        "firstName": "BPEYRE",
-        "login": "BPEYRE",
-        "campus": "pyc",
-        "id": 140,
-        "xp": {
-            "amount": 274014
-        }
-    },
-    {
-        "firstName": "CBONDANICK",
-        "login": "CBONDANICK",
-        "campus": "pyc",
-        "id": 242,
-        "xp": {
-            "amount": 6065
-        }
-    },
-    {
-        "firstName": "EPHUNG",
-        "login": "EPHUNG",
-        "campus": "pyc",
-        "id": 243,
-        "xp": {
-            "amount": 78066
-        }
-    },
-    {
-        "firstName": "MLEVANNHAN",
-        "login": "MLEVANNHAN",
-        "campus": "pyc",
-        "id": 306,
-        "xp": {
-            "amount": 109628
-        }
-    },
-    {
-        "firstName": "AKHANNOUSSI",
-        "login": "AKHANNOUSSI",
-        "campus": "pyc",
-        "id": 308,
-        "xp": {
-            "amount": 92752
-        }
-    },
-    {
-        "firstName": "TMASSE",
-        "login": "TMASSE",
-        "campus": "pyc",
-        "id": 311,
-        "xp": {
-            "amount": 291745
-        }
-    },
-    {
-        "firstName": "TALARCON",
-        "login": "TALARCON",
-        "campus": "pyc",
-        "id": 312,
-        "xp": {
-            "amount": 132229
-        }
-    },
-    {
-        "firstName": "FSAID",
-        "login": "FSAID",
-        "campus": "pyc",
-        "id": 352,
-        "xp": {
-            "amount": 33665
-        }
-    },
-    {
-        "firstName": "TTSOUMOU-BITA",
-        "login": "TTSOUMOU-BITA",
-        "campus": "pyc",
-        "id": 360,
-        "xp": {
-            "amount": 41527
-        }
-    },
-    {
-        "firstName": "NAZZAM",
-        "login": "NAZZAM",
-        "campus": "pyc",
-        "id": 362,
-        "xp": {
-            "amount": 119114
-        }
-    },
-    {
-        "firstName": "ASANGARE",
-        "login": "ASANGARE",
-        "campus": "pyc",
-        "id": 366,
-        "xp": {
-            "amount": 488
-        }
-    },
-    {
-        "firstName": "WFOURNIE",
-        "login": "WFOURNIE",
-        "campus": "pyc",
-        "id": 369,
-        "xp": {
-            "amount": 607124
-        }
-    },
-    {
-        "firstName": "ECANOINE",
-        "login": "ECANOINE",
-        "campus": "pyc",
-        "id": 371,
-        "xp": {
-            "amount": 132545
-        }
-    },
-    {
-        "firstName": "KTHAI",
-        "login": "KTHAI",
-        "campus": "pyc",
-        "id": 372,
-        "xp": {
-            "amount": 40728
-        }
-    },
-    {
-        "firstName": "ATRAN",
-        "login": "ATRAN",
-        "campus": "pyc",
-        "id": 373,
-        "xp": {
-            "amount": 60982
-        }
-    },
-    {
-        "firstName": "BMONGO",
-        "login": "BMONGO",
-        "campus": "pyc",
-        "id": 375,
-        "xp": {
-            "amount": 3277
-        }
-    },
-    {
-        "firstName": "VMALLIPOUDY",
-        "login": "VMALLIPOUDY",
-        "campus": "pyc",
-        "id": 376,
-        "xp": {
-            "amount": 131657
-        }
-    },
-    {
-        "firstName": "ANKOA",
-        "login": "ANKOA",
-        "campus": "pyc",
-        "id": 379,
-        "xp": {}
-    },
-    {
-        "firstName": "LZOSSOUNGBO",
-        "login": "LZOSSOUNGBO",
-        "campus": "pyc",
-        "id": 384,
-        "xp": {
-            "amount": 37250
-        }
-    },
-    {
-        "firstName": "YTHIOMBIANO",
-        "login": "YTHIOMBIANO",
-        "campus": "pyc",
-        "id": 385,
-        "xp": {
-            "amount": 17300
-        }
-    },
-    {
-        "firstName": "ASIMBNAG",
-        "login": "ASIMBNAG",
-        "campus": "pyc",
-        "id": 386,
-        "xp": {}
-    },
-    {
-        "firstName": "KBLE",
-        "login": "KBLE",
-        "campus": "pyc",
-        "id": 388,
-        "xp": {}
-    },
-    {
-        "firstName": "GDUPUY",
-        "login": "GDUPUY",
-        "campus": "pyc",
-        "id": 567,
-        "xp": {
-            "amount": 803778
-        }
-    },
-    {
-        "firstName": "SSTAILI",
-        "login": "SSTAILI",
-        "campus": "pyc",
-        "id": 570,
-        "xp": {}
-    },
-    {
-        "firstName": "PCHESNEAU",
-        "login": "PCHESNEAU",
-        "campus": "pyc",
-        "id": 571,
-        "xp": {
-            "amount": 57904
-        }
-    },
-    {
-        "firstName": "WMOKHTARI",
-        "login": "WMOKHTARI",
-        "campus": "pyc",
-        "id": 573,
-        "xp": {
-            "amount": 79976
-        }
-    },
-    {
-        "firstName": "MURLU",
-        "login": "MURLU",
-        "campus": "pyc",
-        "id": 1086,
-        "xp": {
-            "amount": 528203
-        }
-    },
-    {
-        "firstName": "YSKONIECZNY",
-        "login": "YSKONIECZNY",
-        "campus": "pyc",
-        "id": 1087,
-        "xp": {
-            "amount": 424364
-        }
-    },
-    {
-        "firstName": "ASENTHILKUMAR",
-        "login": "ASENTHILKUMAR",
-        "campus": "pyc",
-        "id": 1088,
-        "xp": {
-            "amount": 169089
-        }
-    },
-    {
-        "firstName": "ALOUREIRO",
-        "login": "ALOUREIRO",
-        "campus": "pyc",
-        "id": 1089,
-        "xp": {
-            "amount": 248389
-        }
-    },
-    {
-        "firstName": "LCHARLOPEAU",
-        "login": "LCHARLOPEAU",
-        "campus": "pyc",
-        "id": 1090,
-        "xp": {
-            "amount": 558328
-        }
-    },
-    {
-        "firstName": "TRAKOTONIAINA",
-        "login": "TRAKOTONIAINA",
-        "campus": "pyc",
-        "id": 1091,
-        "xp": {
-            "amount": 8214
-        }
-    },
-    {
-        "firstName": "NBOIVIN",
-        "login": "NBOIVIN",
-        "campus": "pyc",
-        "id": 1092,
-        "xp": {
-            "amount": 689665
-        }
-    },
-    {
-        "firstName": "SNAVEENDRAN",
-        "login": "SNAVEENDRAN",
-        "campus": "pyc",
-        "id": 1093,
-        "xp": {
-            "amount": 138889
-        }
-    },
-    {
-        "firstName": "ATORREGROSSA",
-        "login": "ATORREGROSSA",
-        "campus": "pyc",
-        "id": 1094,
-        "xp": {
-            "amount": 271989
-        }
-    },
-    {
-        "firstName": "JSUTHAKAR",
-        "login": "JSUTHAKAR",
-        "campus": "pyc",
-        "id": 1095,
-        "xp": {
-            "amount": 135989
-        }
-    },
-    {
-        "firstName": "ASENECAL",
-        "login": "ASENECAL",
-        "campus": "pyc",
-        "id": 1096,
-        "xp": {
-            "amount": 845664
-        }
-    },
-    {
-        "firstName": "APLICQUE",
-        "login": "APLICQUE",
-        "campus": "pyc",
-        "id": 1097,
-        "xp": {
-            "amount": 269889
-        }
-    },
-    {
-        "firstName": "DDACUNHAGOMES",
-        "login": "DDACUNHAGOMES",
-        "campus": "pyc",
-        "id": 1099,
-        "xp": {
-            "amount": 235739
-        }
-    },
-    {
-        "firstName": "JTRAN3",
-        "login": "JTRAN3",
-        "campus": "pyc",
-        "id": 1100,
-        "xp": {
-            "amount": 247339
-        }
-    },
-    {
-        "firstName": "SVANDERCOILDEN",
-        "login": "SVANDERCOILDEN",
-        "campus": "pyc",
-        "id": 1101,
-        "xp": {
-            "amount": 560814
-        }
-    },
-    {
-        "firstName": "LMORGADO",
-        "login": "LMORGADO",
-        "campus": "pyc",
-        "id": 1102,
-        "xp": {
-            "amount": 1492107
-        }
-    },
-    {
-        "firstName": "CETHEVE",
-        "login": "CETHEVE",
-        "campus": "pyc",
-        "id": 1103,
-        "xp": {
-            "amount": 434339
-        }
-    },
-    {
-        "firstName": "RRAIS",
-        "login": "RRAIS",
-        "campus": "pyc",
-        "id": 1104,
-        "xp": {
-            "amount": 330789
-        }
-    },
-    {
-        "firstName": "SYAKOVLEFF",
-        "login": "SYAKOVLEFF",
-        "campus": "pyc",
-        "id": 1105,
-        "xp": {
-            "amount": 611152
-        }
-    },
-    {
-        "firstName": "MTOKO",
-        "login": "MTOKO",
-        "campus": "pyc",
-        "id": 1106,
-        "xp": {
-            "amount": 944454
-        }
-    },
-    {
-        "firstName": "TLEMAITRE1",
-        "login": "TLEMAITRE1",
-        "campus": "pyc",
-        "id": 1107,
-        "xp": {
-            "amount": 1592323
-        }
-    },
-    {
-        "firstName": "RDELPLACE",
-        "login": "RDELPLACE",
-        "campus": "pyc",
-        "id": 1108,
-        "xp": {
-            "amount": 126514
-        }
-    },
-    {
-        "firstName": "NLAKHDARI",
-        "login": "NLAKHDARI",
-        "campus": "pyc",
-        "id": 1109,
-        "xp": {
-            "amount": 641439
-        }
-    },
-    {
-        "firstName": "YHADDADI",
-        "login": "YHADDADI",
-        "campus": "pyc",
-        "id": 1110,
-        "xp": {
-            "amount": 522905
-        }
-    },
-    {
-        "firstName": "HMORAISMARTINS",
-        "login": "HMORAISMARTINS",
-        "campus": "pyc",
-        "id": 1111,
-        "xp": {
-            "amount": 289389
-        }
-    },
-    {
-        "firstName": "MAUGUSTE",
-        "login": "MAUGUSTE",
-        "campus": "pyc",
-        "id": 1112,
-        "xp": {
-            "amount": 281189
-        }
-    },
-    {
-        "firstName": "LMARTIN6",
-        "login": "LMARTIN6",
-        "campus": "pyc",
-        "id": 1113,
-        "xp": {
-            "amount": 492164
-        }
-    },
-    {
-        "firstName": "YFRIKICH",
-        "login": "YFRIKICH",
-        "campus": "pyc",
-        "id": 1114,
-        "xp": {
-            "amount": 492690
-        }
-    },
-    {
-        "firstName": "BMETEHRI",
-        "login": "BMETEHRI",
-        "campus": "pyc",
-        "id": 1115,
-        "xp": {
-            "amount": 798217
-        }
-    },
-    {
-        "firstName": "DSIEWEYOUALEU",
-        "login": "DSIEWEYOUALEU",
-        "campus": "pyc",
-        "id": 1116,
-        "xp": {
-            "amount": 258014
-        }
-    },
-    {
-        "firstName": "AFARAH",
-        "login": "AFARAH",
-        "campus": "pyc",
-        "id": 1118,
-        "xp": {
-            "amount": 217914
-        }
-    },
-    {
-        "firstName": "AMOQUIN",
-        "login": "AMOQUIN",
-        "campus": "pyc",
-        "id": 1120,
-        "xp": {
-            "amount": 426539
-        }
-    },
-    {
-        "firstName": "MKABOUH",
-        "login": "MKABOUH",
-        "campus": "pyc",
-        "id": 1121,
-        "xp": {
-            "amount": 181414
-        }
-    },
-    {
-        "firstName": "ATARNAR",
-        "login": "ATARNAR",
-        "campus": "pyc",
-        "id": 1122,
-        "xp": {
-            "amount": 12289
-        }
-    },
-    {
-        "firstName": "ELOMPREZ",
-        "login": "ELOMPREZ",
-        "campus": "pyc",
-        "id": 1123,
-        "xp": {
-            "amount": 246464
-        }
-    },
-    {
-        "firstName": "DSEBASTIEN1",
-        "login": "DSEBASTIEN1",
-        "campus": "pyc",
-        "id": 1124,
-        "xp": {
-            "amount": 279389
-        }
-    },
-    {
-        "firstName": "YCHARHIL",
-        "login": "YCHARHIL",
-        "campus": "pyc",
-        "id": 1125,
-        "xp": {
-            "amount": 560264
-        }
-    },
-    {
-        "firstName": "SCORREA-GUANEL",
-        "login": "SCORREA-GUANEL",
-        "campus": "pyc",
-        "id": 1126,
-        "xp": {
-            "amount": 500615
-        }
-    },
-    {
-        "firstName": "MMENDESDASILVA",
-        "login": "MMENDESDASILVA",
-        "campus": "pyc",
-        "id": 1128,
-        "xp": {
-            "amount": 172014
-        }
-    },
-    {
-        "firstName": "CAYOUZ",
-        "login": "CAYOUZ",
-        "campus": "pyc",
-        "id": 1129,
-        "xp": {
-            "amount": 48414
-        }
-    },
-    {
-        "firstName": "MBESSOUF",
-        "login": "MBESSOUF",
-        "campus": "pyc",
-        "id": 1131,
-        "xp": {
-            "amount": 207264
-        }
-    },
-    {
-        "firstName": "DEDUARDO",
-        "login": "DEDUARDO",
-        "campus": "pyc",
-        "id": 1132,
-        "xp": {
-            "amount": 288239
-        }
-    },
-    {
-        "firstName": "TBOUCEBAINE",
-        "login": "TBOUCEBAINE",
-        "campus": "pyc",
-        "id": 1134,
-        "xp": {
-            "amount": 292089
-        }
-    },
-    {
-        "firstName": "MDAOUDI",
-        "login": "MDAOUDI",
-        "campus": "pyc",
-        "id": 1135,
-        "xp": {
-            "amount": 726739
-        }
-    },
-    {
-        "firstName": "NCARTRON",
-        "login": "NCARTRON",
-        "campus": "pyc",
-        "id": 1136,
-        "xp": {
-            "amount": 55614
-        }
-    },
-    {
-        "firstName": "TPASSAVE",
-        "login": "TPASSAVE",
-        "campus": "pyc",
-        "id": 1137,
-        "xp": {
-            "amount": 434614
-        }
-    },
-    {
-        "firstName": "CCHOUIREF",
-        "login": "CCHOUIREF",
-        "campus": "pyc",
-        "id": 1138,
-        "xp": {
-            "amount": 324064
-        }
-    },
-    {
-        "firstName": "AKONTE",
-        "login": "AKONTE",
-        "campus": "pyc",
-        "id": 1139,
-        "xp": {
-            "amount": 219014
-        }
-    },
-    {
-        "firstName": "RBERJONNEAU",
-        "login": "RBERJONNEAU",
-        "campus": "pyc",
-        "id": 1141,
-        "xp": {
-            "amount": 373314
-        }
-    },
-    {
-        "firstName": "SNEMATCHA",
-        "login": "SNEMATCHA",
-        "campus": "pyc",
-        "id": 1142,
-        "xp": {
-            "amount": 924556
-        }
-    },
-    {
-        "firstName": "KNGUYEN2",
-        "login": "KNGUYEN2",
-        "campus": "pyc",
-        "id": 1143,
-        "xp": {
-            "amount": 245913
-        }
-    },
-    {
-        "firstName": "KGOMIS1",
-        "login": "KGOMIS1",
-        "campus": "pyc",
-        "id": 1145,
-        "xp": {
-            "amount": 364914
-        }
-    },
-    {
-        "firstName": "LHAIDAR",
-        "login": "LHAIDAR",
-        "campus": "pyc",
-        "id": 1147,
-        "xp": {
-            "amount": 1061570
-        }
-    },
-    {
-        "firstName": "KMBOMAMULALA",
-        "login": "KMBOMAMULALA",
-        "campus": "pyc",
-        "id": 1150,
-        "xp": {
-            "amount": 219114
-        }
-    },
-    {
-        "firstName": "AKANAAN",
-        "login": "AKANAAN",
-        "campus": "pyc",
-        "id": 1151,
-        "xp": {
-            "amount": 113139
-        }
-    },
-    {
-        "firstName": "YZAOUI",
-        "login": "YZAOUI",
-        "campus": "pyc",
-        "id": 1153,
-        "xp": {
-            "amount": 1175675
-        }
-    },
-    {
-        "firstName": "AFARAJALLAH",
-        "login": "AFARAJALLAH",
-        "campus": "pyc",
-        "id": 1154,
-        "xp": {
-            "amount": 292539
-        }
-    },
-    {
-        "firstName": "JGERMAIN",
-        "login": "JGERMAIN",
-        "campus": "pyc",
-        "id": 1155,
-        "xp": {
-            "amount": 15414
-        }
-    },
-    {
-        "firstName": "AYABRE",
-        "login": "AYABRE",
-        "campus": "pyc",
-        "id": 1157,
-        "xp": {
-            "amount": 290300
-        }
-    },
-    {
-        "firstName": "HGEUFFRARD",
-        "login": "HGEUFFRARD",
-        "campus": "pyc",
-        "id": 1117,
-        "xp": {
-            "amount": 252339
-        }
-    },
-    {
-        "firstName": "MGHARSALLAH",
-        "login": "MGHARSALLAH",
-        "campus": "pyc",
-        "id": 1130,
-        "xp": {
-            "amount": 36489
-        }
-    },
-    {
-        "firstName": "LLABADY",
-        "login": "LLABADY",
-        "campus": "pyc",
-        "id": 1242,
-        "xp": {
-            "amount": 16525
-        }
-    },
-    {
-        "firstName": "MWENG",
-        "login": "MWENG",
-        "campus": "pyc",
-        "id": 1237,
-        "xp": {
-            "amount": 11200
-        }
-    },
-    {
-        "firstName": "NCHOW",
-        "login": "NCHOW",
-        "campus": "pyc",
-        "id": 1119,
-        "xp": {
-            "amount": 271189
-        }
-    },
-    {
-        "firstName": "MBERGER1",
-        "login": "MBERGER1",
-        "campus": "pyc",
-        "id": 1127,
-        "xp": {
-            "amount": 518389
-        }
-    },
-    {
-        "firstName": "DBARBIER",
-        "login": "DBARBIER",
-        "campus": "pyc",
-        "id": 1133,
-        "xp": {
-            "amount": 58414
-        }
-    },
-    {
-        "firstName": "JGUY",
-        "login": "JGUY",
-        "campus": "pyc",
-        "id": 64,
-        "xp": {
-            "amount": 108979
-        }
-    },
-    {
-        "firstName": "KREUWEN",
-        "login": "kjulie",
-        "campus": "pyc",
-        "id": 1500,
-        "xp": {
-          "amount": 228381
-        }
-    },  
-    {
-        "firstName": "WALSH DE SERRANT",
-        "login": "walberic",
-        "campus": "pyc",
-        "id": 1457,
-        "xp": {
-          "amount": 233606
-        }
-    },
-    {
-        "firstName": "HARHAD",
-        "login": "hdjebril",
-        "campus": "pyc",
-        "id": 1456,
-        "xp": {
-          "amount": 233606
-        }
-    },
-    {
-        "firstName": "NOHE ESTRADA",
-        "login": "nmaelis",
-        "campus": "pyc",
-        "id": 1481,
-        "xp": {
-          "amount": 227856
-        }
-    }
-]
+        {
+          "firstName": "YPALMIER",
+          "login": "YPALMIER",
+          "campus": "pyc",
+          "id": 58,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 245542
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VHOCQUAUX",
+          "login": "VHOCQUAUX",
+          "campus": "pyc",
+          "id": 59,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 75542
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AFOURTADO",
+          "login": "AFOURTADO",
+          "campus": "pyc",
+          "id": 60,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 32239
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KGROLLEMUND",
+          "login": "KGROLLEMUND",
+          "campus": "pyc",
+          "id": 61,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 155929
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JBERNARDINI",
+          "login": "JBERNARDINI",
+          "campus": "pyc",
+          "id": 62,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 235742
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TVALMORIN",
+          "login": "TVALMORIN",
+          "campus": "pyc",
+          "id": 63,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 19677
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALACROIX1",
+          "login": "ALACROIX1",
+          "campus": "pyc",
+          "id": 65,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 113566
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DONDZEIKONI",
+          "login": "DONDZEIKONI",
+          "campus": "pyc",
+          "id": 66,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 21527
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ESENEL",
+          "login": "ESENEL",
+          "campus": "pyc",
+          "id": 67,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 106403
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RKRIBA",
+          "login": "RKRIBA",
+          "campus": "pyc",
+          "id": 68,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 138366
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RNAKACHE",
+          "login": "RNAKACHE",
+          "campus": "pyc",
+          "id": 69,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 140678
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VPARRA",
+          "login": "VPARRA",
+          "campus": "pyc",
+          "id": 70,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 271704
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ROUAHI",
+          "login": "ROUAHI",
+          "campus": "pyc",
+          "id": 71,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 167379
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MROADLEY-BATTIN",
+          "login": "MROADLEY-BATTIN",
+          "campus": "pyc",
+          "id": 72,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 238442
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SFEKAIER",
+          "login": "SFEKAIER",
+          "campus": "pyc",
+          "id": 73,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 221529
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FMORACCHINI",
+          "login": "FMORACCHINI",
+          "campus": "pyc",
+          "id": 75,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 269493
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SCORREIA",
+          "login": "SCORREIA",
+          "campus": "pyc",
+          "id": 76,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 204328
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABA",
+          "login": "ABA",
+          "campus": "pyc",
+          "id": 77,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 156139
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ZMEFTAH",
+          "login": "ZMEFTAH",
+          "campus": "pyc",
+          "id": 78,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 35839
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NMOYEN",
+          "login": "NMOYEN",
+          "campus": "pyc",
+          "id": 79,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 157980
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HMOUSTOIFA",
+          "login": "HMOUSTOIFA",
+          "campus": "pyc",
+          "id": 80,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 75164
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AVELLEINE",
+          "login": "AVELLEINE",
+          "campus": "pyc",
+          "id": 81,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 342055
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BBOUQUIER",
+          "login": "BBOUQUIER",
+          "campus": "pyc",
+          "id": 82,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 275591
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VWETSHI",
+          "login": "VWETSHI",
+          "campus": "pyc",
+          "id": 83,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 94354
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TWU1",
+          "login": "TWU1",
+          "campus": "pyc",
+          "id": 84,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 168692
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JCASTELLANOS",
+          "login": "JCASTELLANOS",
+          "campus": "pyc",
+          "id": 85,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 190842
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ADUCOUDRE",
+          "login": "ADUCOUDRE",
+          "campus": "pyc",
+          "id": 86,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 206717
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TBELLAMY",
+          "login": "TBELLAMY",
+          "campus": "pyc",
+          "id": 87,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 58915
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SLAMHAYA",
+          "login": "SLAMHAYA",
+          "campus": "pyc",
+          "id": 88,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 198716
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MGIEU",
+          "login": "MGIEU",
+          "campus": "pyc",
+          "id": 89,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 183329
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YMOREN",
+          "login": "YMOREN",
+          "campus": "pyc",
+          "id": 90,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 196666
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABERNARD3",
+          "login": "ABERNARD3",
+          "campus": "pyc",
+          "id": 91,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 334851
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GACQUADRO",
+          "login": "GACQUADRO",
+          "campus": "pyc",
+          "id": 92,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 227666
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HSEESAHYE",
+          "login": "HSEESAHYE",
+          "campus": "pyc",
+          "id": 93,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 18677
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PGARCIA",
+          "login": "PGARCIA",
+          "campus": "pyc",
+          "id": 94,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 139891
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MCZADOWSKI",
+          "login": "MCZADOWSKI",
+          "campus": "pyc",
+          "id": 95,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 241404
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACLAVERIA",
+          "login": "ACLAVERIA",
+          "campus": "pyc",
+          "id": 96,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 266592
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MFARISSI1",
+          "login": "MFARISSI1",
+          "campus": "pyc",
+          "id": 97,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 72627
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RCARMOUN",
+          "login": "RCARMOUN",
+          "campus": "pyc",
+          "id": 98,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 145866
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JLOGANADIN",
+          "login": "JLOGANADIN",
+          "campus": "pyc",
+          "id": 99,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 87401
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NKHALLOULI",
+          "login": "NKHALLOULI",
+          "campus": "pyc",
+          "id": 100,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 119990
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CKADDAS",
+          "login": "CKADDAS",
+          "campus": "pyc",
+          "id": 101,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 129179
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CROC",
+          "login": "CROC",
+          "campus": "pyc",
+          "id": 102,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 274992
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DDROZD",
+          "login": "DDROZD",
+          "campus": "pyc",
+          "id": 104,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 224380
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YMBEMBA",
+          "login": "YMBEMBA",
+          "campus": "pyc",
+          "id": 105,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 109277
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACLODION",
+          "login": "ACLODION",
+          "campus": "pyc",
+          "id": 106,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 72475
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VSKVORTSOV",
+          "login": "VSKVORTSOV",
+          "campus": "pyc",
+          "id": 107,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 191691
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MDEROSIER",
+          "login": "MDEROSIER",
+          "campus": "pyc",
+          "id": 108,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 315731
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EGRZESKIEWICZ",
+          "login": "EGRZESKIEWICZ",
+          "campus": "pyc",
+          "id": 109,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 212643
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HELGANTOUH",
+          "login": "HELGANTOUH",
+          "campus": "pyc",
+          "id": 110,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 73102
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FKOZLOV",
+          "login": "FKOZLOV",
+          "campus": "pyc",
+          "id": 111,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 267680
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DCOURTEAUX",
+          "login": "DCOURTEAUX",
+          "campus": "pyc",
+          "id": 112,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 107802
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SDRARIS",
+          "login": "SDRARIS",
+          "campus": "pyc",
+          "id": 113,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 86314
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TDELAITTRE",
+          "login": "TDELAITTRE",
+          "campus": "pyc",
+          "id": 115,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 15089
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YABOU-KHADIJA",
+          "login": "YABOU-KHADIJA",
+          "campus": "pyc",
+          "id": 116,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 112277
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MTARHOUNI",
+          "login": "MTARHOUNI",
+          "campus": "pyc",
+          "id": 117,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 315157
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YDJOUDI",
+          "login": "YDJOUDI",
+          "campus": "pyc",
+          "id": 118,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 139902
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CLEICHNIG",
+          "login": "CLEICHNIG",
+          "campus": "pyc",
+          "id": 119,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 253030
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KALVES",
+          "login": "KALVES",
+          "campus": "pyc",
+          "id": 120,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 214042
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ARIBES",
+          "login": "ARIBES",
+          "campus": "pyc",
+          "id": 121,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 161616
+              }
+            }
+          }
+        },
+        {
+          "firstName": "OKABASELE",
+          "login": "OKABASELE",
+          "campus": "pyc",
+          "id": 122,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 352579
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TARNAUD",
+          "login": "TARNAUD",
+          "campus": "pyc",
+          "id": 123,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 133354
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MRAZAFINDRIANTSOA",
+          "login": "MRAZAFINDRIANTSOA",
+          "campus": "pyc",
+          "id": 124,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 130615
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RAINSEBA",
+          "login": "RAINSEBA",
+          "campus": "pyc",
+          "id": 125,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 316718
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMEZOUANI",
+          "login": "MMEZOUANI",
+          "campus": "pyc",
+          "id": 126,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 126691
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DESTRADE",
+          "login": "DESTRADE",
+          "campus": "pyc",
+          "id": 127,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 191916
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LAID",
+          "login": "LAID",
+          "campus": "pyc",
+          "id": 128,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 53927
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NKOUFI",
+          "login": "NKOUFI",
+          "campus": "pyc",
+          "id": 129,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 18127
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SDOCKX",
+          "login": "SDOCKX",
+          "campus": "pyc",
+          "id": 131,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 288991
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EREN",
+          "login": "EREN",
+          "campus": "pyc",
+          "id": 132,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 173878
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SBENTEFRIT",
+          "login": "SBENTEFRIT",
+          "campus": "pyc",
+          "id": 133,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 147816
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AGUERAND",
+          "login": "AGUERAND",
+          "campus": "pyc",
+          "id": 134,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 210891
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CLANNERETONNE",
+          "login": "CLANNERETONNE",
+          "campus": "pyc",
+          "id": 135,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 61740
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AGUISNE",
+          "login": "AGUISNE",
+          "campus": "pyc",
+          "id": 136,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 26827
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SMELONI",
+          "login": "SMELONI",
+          "campus": "pyc",
+          "id": 137,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 141827
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BTCHUISSEU",
+          "login": "BTCHUISSEU",
+          "campus": "pyc",
+          "id": 139,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 165978
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BPEYRE",
+          "login": "BPEYRE",
+          "campus": "pyc",
+          "id": 140,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 234064
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FRANCISCO",
+          "login": "flouisca",
+          "campus": "pyc",
+          "id": 1938,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 13913
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CBONDANICK",
+          "login": "CBONDANICK",
+          "campus": "pyc",
+          "id": 242,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 5577
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EPHUNG",
+          "login": "EPHUNG",
+          "campus": "pyc",
+          "id": 243,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 74627
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MLEVANNHAN",
+          "login": "MLEVANNHAN",
+          "campus": "pyc",
+          "id": 306,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 106752
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AKHANNOUSSI",
+          "login": "AKHANNOUSSI",
+          "campus": "pyc",
+          "id": 308,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 91502
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TMASSE",
+          "login": "TMASSE",
+          "campus": "pyc",
+          "id": 311,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 232617
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TALARCON",
+          "login": "TALARCON",
+          "campus": "pyc",
+          "id": 312,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 126216
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FSAID",
+          "login": "FSAID",
+          "campus": "pyc",
+          "id": 352,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 31177
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TTSOUMOU-BITA",
+          "login": "TTSOUMOU-BITA",
+          "campus": "pyc",
+          "id": 360,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 36264
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NAZZAM",
+          "login": "NAZZAM",
+          "campus": "pyc",
+          "id": 362,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 110914
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ASANGARE",
+          "login": "ASANGARE",
+          "campus": "pyc",
+          "id": 366,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 488
+              }
+            }
+          }
+        },
+        {
+          "firstName": "WFOURNIE",
+          "login": "WFOURNIE",
+          "campus": "pyc",
+          "id": 369,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 499295
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ECANOINE",
+          "login": "ECANOINE",
+          "campus": "pyc",
+          "id": 371,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 93479
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KTHAI",
+          "login": "KTHAI",
+          "campus": "pyc",
+          "id": 372,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 38614
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ATRAN",
+          "login": "ATRAN",
+          "campus": "pyc",
+          "id": 373,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 42976
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BMONGO",
+          "login": "BMONGO",
+          "campus": "pyc",
+          "id": 375,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 3014
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VMALLIPOUDY",
+          "login": "VMALLIPOUDY",
+          "campus": "pyc",
+          "id": 376,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 114564
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ANKOA",
+          "login": "ANKOA",
+          "campus": "pyc",
+          "id": 379,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LZOSSOUNGBO",
+          "login": "LZOSSOUNGBO",
+          "campus": "pyc",
+          "id": 384,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 37250
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YTHIOMBIANO",
+          "login": "YTHIOMBIANO",
+          "campus": "pyc",
+          "id": 385,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 13900
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ASIMBNAG",
+          "login": "ASIMBNAG",
+          "campus": "pyc",
+          "id": 386,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KBLE",
+          "login": "KBLE",
+          "campus": "pyc",
+          "id": 388,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YOUSSOUF ALI",
+          "login": "ymiyad",
+          "campus": "pyc",
+          "id": 1727,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 339258
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SSTAILI",
+          "login": "SSTAILI",
+          "campus": "pyc",
+          "id": 570,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GDUPUY",
+          "login": "GDUPUY",
+          "campus": "pyc",
+          "id": 567,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 808090
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PCHESNEAU",
+          "login": "PCHESNEAU",
+          "campus": "pyc",
+          "id": 571,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 57904
+              }
+            }
+          }
+        },
+        {
+          "firstName": "WMOKHTARI",
+          "login": "WMOKHTARI",
+          "campus": "pyc",
+          "id": 573,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 74976
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MURLU",
+          "login": "MURLU",
+          "campus": "pyc",
+          "id": 1086,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 630303
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YSKONIECZNY",
+          "login": "YSKONIECZNY",
+          "campus": "pyc",
+          "id": 1087,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 408414
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ASENTHILKUMAR",
+          "login": "ASENTHILKUMAR",
+          "campus": "pyc",
+          "id": 1088,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 230389
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALOUREIRO",
+          "login": "ALOUREIRO",
+          "campus": "pyc",
+          "id": 1089,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 298839
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LCHARLOPEAU",
+          "login": "LCHARLOPEAU",
+          "campus": "pyc",
+          "id": 1090,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 632028
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TRAKOTONIAINA",
+          "login": "TRAKOTONIAINA",
+          "campus": "pyc",
+          "id": 1091,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 8214
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NBOIVIN",
+          "login": "NBOIVIN",
+          "campus": "pyc",
+          "id": 1092,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 499565
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SNAVEENDRAN",
+          "login": "SNAVEENDRAN",
+          "campus": "pyc",
+          "id": 1093,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 205739
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ATORREGROSSA",
+          "login": "ATORREGROSSA",
+          "campus": "pyc",
+          "id": 1094,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 307089
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JSUTHAKAR",
+          "login": "JSUTHAKAR",
+          "campus": "pyc",
+          "id": 1095,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 167689
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ASENECAL",
+          "login": "ASENECAL",
+          "campus": "pyc",
+          "id": 1096,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 949464
+              }
+            }
+          }
+        },
+        {
+          "firstName": "APLICQUE",
+          "login": "APLICQUE",
+          "campus": "pyc",
+          "id": 1097,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 306939
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DDACUNHAGOMES",
+          "login": "DDACUNHAGOMES",
+          "campus": "pyc",
+          "id": 1099,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 316089
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JTRAN3",
+          "login": "JTRAN3",
+          "campus": "pyc",
+          "id": 1100,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 329689
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SVANDERCOILDEN",
+          "login": "SVANDERCOILDEN",
+          "campus": "pyc",
+          "id": 1101,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 637578
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LMORGADO",
+          "login": "LMORGADO",
+          "campus": "pyc",
+          "id": 1102,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1502796
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CETHEVE",
+          "login": "CETHEVE",
+          "campus": "pyc",
+          "id": 1103,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 516789
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RRAIS",
+          "login": "RRAIS",
+          "campus": "pyc",
+          "id": 1104,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 352289
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SYAKOVLEFF",
+          "login": "SYAKOVLEFF",
+          "campus": "pyc",
+          "id": 1105,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 596452
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MTOKO",
+          "login": "MTOKO",
+          "campus": "pyc",
+          "id": 1106,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 964504
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TLEMAITRE1",
+          "login": "TLEMAITRE1",
+          "campus": "pyc",
+          "id": 1107,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1687335
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RDELPLACE",
+          "login": "RDELPLACE",
+          "campus": "pyc",
+          "id": 1108,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 171864
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NLAKHDARI",
+          "login": "NLAKHDARI",
+          "campus": "pyc",
+          "id": 1109,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 581289
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YHADDADI",
+          "login": "YHADDADI",
+          "campus": "pyc",
+          "id": 1110,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 489305
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HMORAISMARTINS",
+          "login": "HMORAISMARTINS",
+          "campus": "pyc",
+          "id": 1111,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 347089
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MAUGUSTE",
+          "login": "MAUGUSTE",
+          "campus": "pyc",
+          "id": 1112,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 311989
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LMARTIN6",
+          "login": "LMARTIN6",
+          "campus": "pyc",
+          "id": 1113,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 523364
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YFRIKICH",
+          "login": "YFRIKICH",
+          "campus": "pyc",
+          "id": 1114,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 447890
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BMETEHRI",
+          "login": "BMETEHRI",
+          "campus": "pyc",
+          "id": 1115,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 849267
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DSIEWEYOUALEU",
+          "login": "DSIEWEYOUALEU",
+          "campus": "pyc",
+          "id": 1116,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 258014
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AFARAH",
+          "login": "AFARAH",
+          "campus": "pyc",
+          "id": 1118,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 217914
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMOQUIN",
+          "login": "AMOQUIN",
+          "campus": "pyc",
+          "id": 1120,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 459989
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MKABOUH",
+          "login": "MKABOUH",
+          "campus": "pyc",
+          "id": 1121,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 181414
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ATARNAR",
+          "login": "ATARNAR",
+          "campus": "pyc",
+          "id": 1122,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 12289
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ELOMPREZ",
+          "login": "ELOMPREZ",
+          "campus": "pyc",
+          "id": 1123,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 249864
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DSEBASTIEN1",
+          "login": "DSEBASTIEN1",
+          "campus": "pyc",
+          "id": 1124,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 251789
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YCHARHIL",
+          "login": "YCHARHIL",
+          "campus": "pyc",
+          "id": 1125,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 520114
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SCORREA-GUANEL",
+          "login": "SCORREA-GUANEL",
+          "campus": "pyc",
+          "id": 1126,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 513165
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMENDESDASILVA",
+          "login": "MMENDESDASILVA",
+          "campus": "pyc",
+          "id": 1128,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 165614
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CAYOUZ",
+          "login": "CAYOUZ",
+          "campus": "pyc",
+          "id": 1129,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 48414
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBESSOUF",
+          "login": "MBESSOUF",
+          "campus": "pyc",
+          "id": 1131,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 200864
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DEDUARDO",
+          "login": "DEDUARDO",
+          "campus": "pyc",
+          "id": 1132,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 297739
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TBOUCEBAINE",
+          "login": "TBOUCEBAINE",
+          "campus": "pyc",
+          "id": 1134,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 340139
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MDAOUDI",
+          "login": "MDAOUDI",
+          "campus": "pyc",
+          "id": 1135,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 758739
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NCARTRON",
+          "login": "NCARTRON",
+          "campus": "pyc",
+          "id": 1136,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 55614
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TPASSAVE",
+          "login": "TPASSAVE",
+          "campus": "pyc",
+          "id": 1137,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 329414
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CCHOUIREF",
+          "login": "CCHOUIREF",
+          "campus": "pyc",
+          "id": 1138,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 381864
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AKONTE",
+          "login": "AKONTE",
+          "campus": "pyc",
+          "id": 1139,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 247614
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RBERJONNEAU",
+          "login": "RBERJONNEAU",
+          "campus": "pyc",
+          "id": 1141,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 461314
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SNEMATCHA",
+          "login": "SNEMATCHA",
+          "campus": "pyc",
+          "id": 1142,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 711156
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KNGUYEN2",
+          "login": "KNGUYEN2",
+          "campus": "pyc",
+          "id": 1143,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 245913
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KGOMIS1",
+          "login": "KGOMIS1",
+          "campus": "pyc",
+          "id": 1145,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 306914
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LHAIDAR",
+          "login": "LHAIDAR",
+          "campus": "pyc",
+          "id": 1147,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1084707
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KMBOMAMULALA",
+          "login": "KMBOMAMULALA",
+          "campus": "pyc",
+          "id": 1150,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 200914
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AKANAAN",
+          "login": "AKANAAN",
+          "campus": "pyc",
+          "id": 1151,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 113139
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YZAOUI",
+          "login": "YZAOUI",
+          "campus": "pyc",
+          "id": 1153,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1255925
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AFARAJALLAH",
+          "login": "AFARAJALLAH",
+          "campus": "pyc",
+          "id": 1154,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 374239
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JGERMAIN",
+          "login": "JGERMAIN",
+          "campus": "pyc",
+          "id": 1155,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 15414
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AYABRE",
+          "login": "AYABRE",
+          "campus": "pyc",
+          "id": 1157,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 165700
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HGEUFFRARD",
+          "login": "HGEUFFRARD",
+          "campus": "pyc",
+          "id": 1117,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 289239
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MGHARSALLAH",
+          "login": "MGHARSALLAH",
+          "campus": "pyc",
+          "id": 1130,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 53889
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LLABADY",
+          "login": "LLABADY",
+          "campus": "pyc",
+          "id": 1242,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 16525
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MWENG",
+          "login": "MWENG",
+          "campus": "pyc",
+          "id": 1237,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 11200
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NCHOW",
+          "login": "NCHOW",
+          "campus": "pyc",
+          "id": 1119,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 271189
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBERGER1",
+          "login": "MBERGER1",
+          "campus": "pyc",
+          "id": 1127,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 596739
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DBARBIER",
+          "login": "DBARBIER",
+          "campus": "pyc",
+          "id": 1133,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 58414
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JGUY",
+          "login": "JGUY",
+          "campus": "pyc",
+          "id": 64,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 103441
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KARKOUR",
+          "login": "krayane",
+          "campus": "pyc",
+          "id": 1343,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 3027
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KASSOURI",
+          "login": "krachid",
+          "campus": "pyc",
+          "id": 1853,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 138092
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TALAAT",
+          "login": "tsavaira",
+          "campus": "pyc",
+          "id": 1848,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 40914
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMICHEL2",
+          "login": "AMICHEL2",
+          "campus": "pyc",
+          "id": 114,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 207192
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RUCKTOOA",
+          "login": "rthomas",
+          "campus": "pyc",
+          "id": 1453,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 16127
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CAUCHOIX",
+          "login": "chocine",
+          "campus": "pyc",
+          "id": 1468,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 135418
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LAPLACE",
+          "login": "ldanny",
+          "campus": "pyc",
+          "id": 1473,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 419008
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LEGRAND",
+          "login": "lguillaum",
+          "campus": "pyc",
+          "id": 1455,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 74278
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MASSEY",
+          "login": "mraphael",
+          "campus": "pyc",
+          "id": 1474,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 242268
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MIHUTA",
+          "login": "mmihail",
+          "campus": "pyc",
+          "id": 1464,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 292731
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SOUBRAMANIEN",
+          "login": "sbaayvin",
+          "campus": "pyc",
+          "id": 1466,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 98768
+              }
+            }
+          }
+        },
+        {
+          "firstName": "STAILI",
+          "login": "silyes",
+          "campus": "pyc",
+          "id": 1463,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 71293
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VONIN-KABEL",
+          "login": "vyvenlee",
+          "campus": "pyc",
+          "id": 1472,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 59580
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MOUFFOK",
+          "login": "msena",
+          "campus": "pyc",
+          "id": 1987,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 2677
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALCARAZ",
+          "login": "alhugo",
+          "campus": "pyc",
+          "id": 1461,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 65068
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BEN AHMED",
+          "login": "bhamza",
+          "campus": "pyc",
+          "id": 1731,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 94442
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HARHAD",
+          "login": "hdjebril",
+          "campus": "pyc",
+          "id": 1456,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 530507
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KERVOELEN",
+          "login": "kerwann",
+          "campus": "pyc",
+          "id": 1458,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 359269
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LAO",
+          "login": "ljacques",
+          "campus": "pyc",
+          "id": 1454,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 72281
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PARVIN",
+          "login": "pkevin",
+          "campus": "pyc",
+          "id": 1459,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 89105
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PIGEON",
+          "login": "pdorian",
+          "campus": "pyc",
+          "id": 1469,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 58705
+              }
+            }
+          }
+        },
+        {
+          "firstName": "QIN",
+          "login": "qlea",
+          "campus": "pyc",
+          "id": 1471,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 61678
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TEKTEN",
+          "login": "tkaan",
+          "campus": "pyc",
+          "id": 1470,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 242618
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GEORGIN",
+          "login": "getom",
+          "campus": "pyc",
+          "id": 1963,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 52468
+              }
+            }
+          }
+        },
+        {
+          "firstName": "REZKI",
+          "login": "rmehdi",
+          "campus": "pyc",
+          "id": 1965,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 9314
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KANMEGNE TABOUGUIE",
+          "login": "kandrela",
+          "campus": "pyc",
+          "id": 1978,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 7677
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AMBA",
+          "login": "aterence",
+          "campus": "pyc",
+          "id": 1487,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 96931
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ARTHUR",
+          "login": "afabien",
+          "campus": "pyc",
+          "id": 1467,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 568869
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BALIKDJIAN ",
+          "login": "balucas",
+          "campus": "pyc",
+          "id": 1494,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 269369
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BATAILLE",
+          "login": "bathomas",
+          "campus": "pyc",
+          "id": 1498,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 108494
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BEN YOUSSEF",
+          "login": "bsajed",
+          "campus": "pyc",
+          "id": 1489,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 55144
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BOINAMADI",
+          "login": "byann",
+          "campus": "pyc",
+          "id": 1486,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BONHOMME ",
+          "login": "bonathan",
+          "campus": "pyc",
+          "id": 1504,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 105031
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CAMARA",
+          "login": "cabdoula",
+          "campus": "pyc",
+          "id": 1495,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 53805
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CAMARA",
+          "login": "cdjibril",
+          "campus": "pyc",
+          "id": 1478,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 168505
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CAZIN",
+          "login": "calexis",
+          "campus": "pyc",
+          "id": 1497,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 187818
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DABO",
+          "login": "dliliane",
+          "campus": "pyc",
+          "id": 1462,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 208045
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DUMET",
+          "login": "dludovic",
+          "campus": "pyc",
+          "id": 1485,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 164981
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ERDOGAN",
+          "login": "eferdi",
+          "campus": "pyc",
+          "id": 1475,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 96955
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FOURNIER",
+          "login": "fyann",
+          "campus": "pyc",
+          "id": 1501,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 342182
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GARCIA",
+          "login": "ggabriel",
+          "campus": "pyc",
+          "id": 1492,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 115718
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GATTOLIN",
+          "login": "gnuma",
+          "campus": "pyc",
+          "id": 1490,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 28403
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HAMEDI",
+          "login": "helisa",
+          "campus": "pyc",
+          "id": 1502,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 101231
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HARDUIN",
+          "login": "hlucien",
+          "campus": "pyc",
+          "id": 1496,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 53805
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JIN",
+          "login": "jalexand",
+          "campus": "pyc",
+          "id": 1477,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 193557
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KREUWEN",
+          "login": "kjulie",
+          "campus": "pyc",
+          "id": 1500,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 759648
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MADIEU-KOMLA",
+          "login": "mjoshua",
+          "campus": "pyc",
+          "id": 1482,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 233155
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MARIE",
+          "login": "mdamien",
+          "campus": "pyc",
+          "id": 1476,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 248368
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MOUNIROU",
+          "login": "mwahab",
+          "campus": "pyc",
+          "id": 1493,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 75468
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NOHE ESTRADA",
+          "login": "nmaelis",
+          "campus": "pyc",
+          "id": 1481,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 363932
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PAILLARD",
+          "login": "pmathis",
+          "campus": "pyc",
+          "id": 1460,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 223118
+              }
+            }
+          }
+        },
+        {
+          "firstName": "POLYNICE",
+          "login": "polivier",
+          "campus": "pyc",
+          "id": 1503,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 132018
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PULLIG",
+          "login": "padriana",
+          "campus": "pyc",
+          "id": 1491,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 112468
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RICHARD",
+          "login": "rantoine",
+          "campus": "pyc",
+          "id": 1480,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 149894
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RIQUET",
+          "login": "rclement",
+          "campus": "pyc",
+          "id": 1479,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 32340
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ROCHE",
+          "login": "rmaxence",
+          "campus": "pyc",
+          "id": 1465,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 60455
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SMYCZYK",
+          "login": "smickael",
+          "campus": "pyc",
+          "id": 1484,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 131805
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SOULIER",
+          "login": "sbaptist",
+          "campus": "pyc",
+          "id": 1488,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 69441
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TALAVERA Y NARANJO",
+          "login": "tamadis",
+          "campus": "pyc",
+          "id": 1483,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 310094
+              }
+            }
+          }
+        },
+        {
+          "firstName": "WALSH DE SERRANT",
+          "login": "walberic",
+          "campus": "pyc",
+          "id": 1457,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 505461
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AFFOUNE",
+          "login": "aali",
+          "campus": "pyc",
+          "id": 1922,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 24503
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BELLAL",
+          "login": "bethomas",
+          "campus": "pyc",
+          "id": 1728,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 49692
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JIN",
+          "login": "jkevin",
+          "campus": "pyc",
+          "id": 1916,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 100231
+              }
+            }
+          }
+        },
+        {
+          "firstName": "KHAN",
+          "login": "kyannis",
+          "campus": "pyc",
+          "id": 1919,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 9314
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LHUILLERY",
+          "login": "lduncan",
+          "campus": "pyc",
+          "id": 1452,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 287732
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MALHOUITRE",
+          "login": "mdiego",
+          "campus": "pyc",
+          "id": 1726,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 71855
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SAIM",
+          "login": "slounes",
+          "campus": "pyc",
+          "id": 1928,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 57703
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SAME",
+          "login": "sarthur",
+          "campus": "pyc",
+          "id": 1923,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 52490
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SOGOYOU",
+          "login": "syoann",
+          "campus": "pyc",
+          "id": 1925,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 97990
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FIGUEIRA",
+          "login": "fthibaut",
+          "campus": "pyc",
+          "id": 1724,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 248369
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBABA",
+          "login": "mnadia",
+          "campus": "pyc",
+          "id": 1768,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 32228
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MINYAS",
+          "login": "myunusem",
+          "campus": "pyc",
+          "id": 1915,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 58392
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MORTIER",
+          "login": "mmatthie",
+          "campus": "pyc",
+          "id": 1499,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 82144
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GAMAH",
+          "login": "gfranck",
+          "campus": "pyc",
+          "id": 1979,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 15877
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RAKOTOMALALA",
+          "login": "rfleuryj",
+          "campus": "pyc",
+          "id": 1582,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 387282
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABDALLAH",
+          "login": "aanichat",
+          "campus": "pyc",
+          "id": 1982,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 3189
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AOUDAR",
+          "login": "aouardia",
+          "campus": "pyc",
+          "id": 1713,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 64205
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DENIEUL LE DIRAISON",
+          "login": "dmatthie",
+          "campus": "pyc",
+          "id": 1712,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 48117
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MACCARIO",
+          "login": "msofian",
+          "campus": "pyc",
+          "id": 1714,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 42342
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABDERRAHIM",
+          "login": "aines",
+          "campus": "pyc",
+          "id": 1964,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 2414
+              }
+            }
+          }
+        }
+      ]

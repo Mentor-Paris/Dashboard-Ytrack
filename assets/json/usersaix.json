@@ -1,335 +1,483 @@
-[
-    {
-        "firstName": "vincent.thebaud",
-        "login": "vincent.thebaud",
-        "campus": "aix",
-        "id": 12,
-        "xp": {
-            "amount": 304951
+ [
+        {
+          "firstName": "vincent.thebaud",
+          "login": "vincent.thebaud",
+          "campus": "aix",
+          "id": 12,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 303051
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LDOMINGUEZ",
+          "login": "LDOMINGUEZ",
+          "campus": "aix",
+          "id": 18,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 61027
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VNAULEAU",
+          "login": "VNAULEAU",
+          "campus": "aix",
+          "id": 316,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1001150
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBEY",
+          "login": "MBEY",
+          "campus": "aix",
+          "id": 317,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 909255
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LALEM",
+          "login": "LALEM",
+          "campus": "aix",
+          "id": 318,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 904308
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ADESPRES",
+          "login": "ADESPRES",
+          "campus": "aix",
+          "id": 319,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 771880
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FIMBERT",
+          "login": "FIMBERT",
+          "campus": "aix",
+          "id": 320,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 795509
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CSIAUD",
+          "login": "CSIAUD",
+          "campus": "aix",
+          "id": 321,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 765906
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LCARMINATI",
+          "login": "LCARMINATI",
+          "campus": "aix",
+          "id": 322,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 901583
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACOCCO",
+          "login": "ACOCCO",
+          "campus": "aix",
+          "id": 323,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 817707
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GPASCAL",
+          "login": "GPASCAL",
+          "campus": "aix",
+          "id": 324,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 732742
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RDEMOULIN",
+          "login": "RDEMOULIN",
+          "campus": "aix",
+          "id": 325,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 658026
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EDUCOUET",
+          "login": "EDUCOUET",
+          "campus": "aix",
+          "id": 326,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 767022
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AESTEVE",
+          "login": "AESTEVE",
+          "campus": "aix",
+          "id": 327,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 635427
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MPALMIERI",
+          "login": "MPALMIERI",
+          "campus": "aix",
+          "id": 328,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 669577
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LLESSUISSE",
+          "login": "LLESSUISSE",
+          "campus": "aix",
+          "id": 329,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 691392
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DCROUZET",
+          "login": "DCROUZET",
+          "campus": "aix",
+          "id": 330,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 648203
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CGROSIEUX",
+          "login": "CGROSIEUX",
+          "campus": "aix",
+          "id": 331,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 851895
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABRUNO",
+          "login": "ABRUNO",
+          "campus": "aix",
+          "id": 332,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 788758
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TPONDAVEN",
+          "login": "TPONDAVEN",
+          "campus": "aix",
+          "id": 333,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 787717
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RGUERARD",
+          "login": "RGUERARD",
+          "campus": "aix",
+          "id": 335,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 842093
+              }
+            }
+          }
+        },
+        {
+          "firstName": "IKIM",
+          "login": "IKIM",
+          "campus": "aix",
+          "id": 336,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 762407
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ASIRI",
+          "login": "ASIRI",
+          "campus": "aix",
+          "id": 337,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 795107
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMARCHESI",
+          "login": "MMARCHESI",
+          "campus": "aix",
+          "id": 338,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 416139
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMICHEL2",
+          "login": "MMICHEL2",
+          "campus": "aix",
+          "id": 339,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 261986
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MSARTORIBOUTY",
+          "login": "MSARTORIBOUTY",
+          "campus": "aix",
+          "id": 341,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 820041
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TSCAFFIDI",
+          "login": "TSCAFFIDI",
+          "campus": "aix",
+          "id": 342,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 807594
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LDEGUITRE",
+          "login": "LDEGUITRE",
+          "campus": "aix",
+          "id": 343,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 573456
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FGERBAUD",
+          "login": "FGERBAUD",
+          "campus": "aix",
+          "id": 344,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 631236
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LKOELLSCH",
+          "login": "LKOELLSCH",
+          "campus": "aix",
+          "id": 345,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 778442
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NLEPINAY",
+          "login": "NLEPINAY",
+          "campus": "aix",
+          "id": 346,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 870496
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JSORELARREGAIN",
+          "login": "JSORELARREGAIN",
+          "campus": "aix",
+          "id": 347,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1025753
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RSANCHEZ1",
+          "login": "RSANCHEZ1",
+          "campus": "aix",
+          "id": 348,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 672114
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VAGUERA",
+          "login": "VAGUERA",
+          "campus": "aix",
+          "id": 349,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 987934
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MFUCHS",
+          "login": "MFUCHS",
+          "campus": "aix",
+          "id": 351,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 40588
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BVIAL--SIMON",
+          "login": "BVIAL--SIMON",
+          "campus": "aix",
+          "id": 365,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 131488
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MOLIVAR",
+          "login": "MOLIVAR",
+          "campus": "aix",
+          "id": 367,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 289275
+              }
+            }
+          }
         }
-    },
-    {
-        "firstName": "LDOMINGUEZ",
-        "login": "LDOMINGUEZ",
-        "campus": "aix",
-        "id": 18,
-        "xp": {
-            "amount": 62342
-        }
-    },
-    {
-        "firstName": "VNAULEAU",
-        "login": "VNAULEAU",
-        "campus": "aix",
-        "id": 316,
-        "xp": {
-            "amount": 1013450
-        }
-    },
-    {
-        "firstName": "MBEY",
-        "login": "MBEY",
-        "campus": "aix",
-        "id": 317,
-        "xp": {
-            "amount": 911755
-        }
-    },
-    {
-        "firstName": "LALEM",
-        "login": "LALEM",
-        "campus": "aix",
-        "id": 318,
-        "xp": {
-            "amount": 912308
-        }
-    },
-    {
-        "firstName": "ADESPRES",
-        "login": "ADESPRES",
-        "campus": "aix",
-        "id": 319,
-        "xp": {
-            "amount": 776880
-        }
-    },
-    {
-        "firstName": "FIMBERT",
-        "login": "FIMBERT",
-        "campus": "aix",
-        "id": 320,
-        "xp": {
-            "amount": 797509
-        }
-    },
-    {
-        "firstName": "CSIAUD",
-        "login": "CSIAUD",
-        "campus": "aix",
-        "id": 321,
-        "xp": {
-            "amount": 766906
-        }
-    },
-    {
-        "firstName": "LCARMINATI",
-        "login": "LCARMINATI",
-        "campus": "aix",
-        "id": 322,
-        "xp": {
-            "amount": 905883
-        }
-    },
-    {
-        "firstName": "ACOCCO",
-        "login": "ACOCCO",
-        "campus": "aix",
-        "id": 323,
-        "xp": {
-            "amount": 820657
-        }
-    },
-    {
-        "firstName": "GPASCAL",
-        "login": "GPASCAL",
-        "campus": "aix",
-        "id": 324,
-        "xp": {
-            "amount": 737392
-        }
-    },
-    {
-        "firstName": "RDEMOULIN",
-        "login": "RDEMOULIN",
-        "campus": "aix",
-        "id": 325,
-        "xp": {
-            "amount": 659026
-        }
-    },
-    {
-        "firstName": "EDUCOUET",
-        "login": "EDUCOUET",
-        "campus": "aix",
-        "id": 326,
-        "xp": {
-            "amount": 768022
-        }
-    },
-    {
-        "firstName": "AESTEVE",
-        "login": "AESTEVE",
-        "campus": "aix",
-        "id": 327,
-        "xp": {
-            "amount": 637927
-        }
-    },
-    {
-        "firstName": "MPALMIERI",
-        "login": "MPALMIERI",
-        "campus": "aix",
-        "id": 328,
-        "xp": {
-            "amount": 672177
-        }
-    },
-    {
-        "firstName": "LLESSUISSE",
-        "login": "LLESSUISSE",
-        "campus": "aix",
-        "id": 329,
-        "xp": {
-            "amount": 695892
-        }
-    },
-    {
-        "firstName": "DCROUZET",
-        "login": "DCROUZET",
-        "campus": "aix",
-        "id": 330,
-        "xp": {
-            "amount": 650203
-        }
-    },
-    {
-        "firstName": "CGROSIEUX",
-        "login": "CGROSIEUX",
-        "campus": "aix",
-        "id": 331,
-        "xp": {
-            "amount": 857545
-        }
-    },
-    {
-        "firstName": "ABRUNO",
-        "login": "ABRUNO",
-        "campus": "aix",
-        "id": 332,
-        "xp": {
-            "amount": 790908
-        }
-    },
-    {
-        "firstName": "TPONDAVEN",
-        "login": "TPONDAVEN",
-        "campus": "aix",
-        "id": 333,
-        "xp": {
-            "amount": 789717
-        }
-    },
-    {
-        "firstName": "RGUERARD",
-        "login": "RGUERARD",
-        "campus": "aix",
-        "id": 335,
-        "xp": {
-            "amount": 844093
-        }
-    },
-    {
-        "firstName": "IKIM",
-        "login": "IKIM",
-        "campus": "aix",
-        "id": 336,
-        "xp": {
-            "amount": 762907
-        }
-    },
-    {
-        "firstName": "ASIRI",
-        "login": "ASIRI",
-        "campus": "aix",
-        "id": 337,
-        "xp": {
-            "amount": 799107
-        }
-    },
-    {
-        "firstName": "MMARCHESI",
-        "login": "MMARCHESI",
-        "campus": "aix",
-        "id": 338,
-        "xp": {
-            "amount": 417639
-        }
-    },
-    {
-        "firstName": "MMICHEL2",
-        "login": "MMICHEL2",
-        "campus": "aix",
-        "id": 339,
-        "xp": {
-            "amount": 263486
-        }
-    },
-    {
-        "firstName": "MSARTORIBOUTY",
-        "login": "MSARTORIBOUTY",
-        "campus": "aix",
-        "id": 341,
-        "xp": {
-            "amount": 844291
-        }
-    },
-    {
-        "firstName": "TSCAFFIDI",
-        "login": "TSCAFFIDI",
-        "campus": "aix",
-        "id": 342,
-        "xp": {
-            "amount": 811594
-        }
-    },
-    {
-        "firstName": "LDEGUITRE",
-        "login": "LDEGUITRE",
-        "campus": "aix",
-        "id": 343,
-        "xp": {
-            "amount": 573956
-        }
-    },
-    {
-        "firstName": "FGERBAUD",
-        "login": "FGERBAUD",
-        "campus": "aix",
-        "id": 344,
-        "xp": {
-            "amount": 635236
-        }
-    },
-    {
-        "firstName": "LKOELLSCH",
-        "login": "LKOELLSCH",
-        "campus": "aix",
-        "id": 345,
-        "xp": {
-            "amount": 780942
-        }
-    },
-    {
-        "firstName": "NLEPINAY",
-        "login": "NLEPINAY",
-        "campus": "aix",
-        "id": 346,
-        "xp": {
-            "amount": 873496
-        }
-    },
-    {
-        "firstName": "JSORELARREGAIN",
-        "login": "JSORELARREGAIN",
-        "campus": "aix",
-        "id": 347,
-        "xp": {
-            "amount": 1025753
-        }
-    },
-    {
-        "firstName": "RSANCHEZ1",
-        "login": "RSANCHEZ1",
-        "campus": "aix",
-        "id": 348,
-        "xp": {
-            "amount": 680464
-        }
-    },
-    {
-        "firstName": "VAGUERA",
-        "login": "VAGUERA",
-        "campus": "aix",
-        "id": 349,
-        "xp": {
-            "amount": 993734
-        }
-    },
-    {
-        "firstName": "MFUCHS",
-        "login": "MFUCHS",
-        "campus": "aix",
-        "id": 351,
-        "xp": {
-            "amount": 41588
-        }
-    },
-    {
-        "firstName": "BVIAL--SIMON",
-        "login": "BVIAL--SIMON",
-        "campus": "aix",
-        "id": 365,
-        "xp": {
-            "amount": 133488
-        }
-    },
-    {
-        "firstName": "MOLIVAR",
-        "login": "MOLIVAR",
-        "campus": "aix",
-        "id": 367,
-        "xp": {
-            "amount": 291775
-        }
-    }
-]
+      ]

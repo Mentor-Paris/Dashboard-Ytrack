@@ -1,534 +1,1341 @@
 [
-  {
-    "firstName": "COBEJERO",
-    "login": "COBEJERO",
-    "campus": "nantes",
-    "id": 13,
-    "xp": {
-      "amount": 1445325
-    }
-  },
-  {
-    "firstName": "SPLOTTU1",
-    "login": "SPLOTTU1",
-    "campus": "nantes",
-    "id": 15,
-    "xp": {
-      "amount": 263
-    }
-  },
-  {
-    "firstName": "ABOUFFARD",
-    "login": "ABOUFFARD",
-    "campus": "nantes",
-    "id": 27,
-    "xp": {
-      "amount": 515941
-    }
-  },
-  {
-    "firstName": "ALETROU",
-    "login": "ALETROU",
-    "campus": "nantes",
-    "id": 28,
-    "xp": {
-      "amount": 241927
-    }
-  },
-  {
-    "firstName": "NMARTIN1",
-    "login": "NMARTIN1",
-    "campus": "nantes",
-    "id": 29,
-    "xp": {
-      "amount": 63877
-    }
-  },
-  {
-    "firstName": "FDAGNAS",
-    "login": "FDAGNAS",
-    "campus": "nantes",
-    "id": 30,
-    "xp": {
-      "amount": 732428
-    }
-  },
-  {
-    "firstName": "LJONES",
-    "login": "LJONES",
-    "campus": "nantes",
-    "id": 31,
-    "xp": {
-      "amount": 409193
-    }
-  },
-  {
-    "firstName": "SPLOTTU",
-    "login": "SPLOTTU",
-    "campus": "nantes",
-    "id": 32,
-    "xp": {
-      "amount": 500
-    }
-  },
-  {
-    "firstName": "MLOYERVIAUD",
-    "login": "MLOYERVIAUD",
-    "campus": "nantes",
-    "id": 33,
-    "xp": {
-      "amount": 193215
-    }
-  },
-  {
-    "firstName": "MLEGER",
-    "login": "MLEGER",
-    "campus": "nantes",
-    "id": 34,
-    "xp": {
-      "amount": 675354
-    }
-  },
-  {
-    "firstName": "YYASSER",
-    "login": "YYASSER",
-    "campus": "nantes",
-    "id": 35,
-    "xp": {
-      "amount": 820220
-    }
-  },
-  {
-    "firstName": "OMOREAU",
-    "login": "OMOREAU",
-    "campus": "nantes",
-    "id": 36,
-    "xp": {
-      "amount": 625018
-    }
-  },
-  {
-    "firstName": "YBOURGERON",
-    "login": "YBOURGERON",
-    "campus": "nantes",
-    "id": 37,
-    "xp": {
-      "amount": 483440
-    }
-  },
-  {
-    "firstName": "EDUMONT1",
-    "login": "EDUMONT1",
-    "campus": "nantes",
-    "id": 38,
-    "xp": {
-      "amount": 438679
-    }
-  },
-  {
-    "firstName": "LTEILLIAIS",
-    "login": "LTEILLIAIS",
-    "campus": "nantes",
-    "id": 39,
-    "xp": {
-      "amount": 460092
-    }
-  },
-  {
-    "firstName": "QOBOUNOU",
-    "login": "QOBOUNOU",
-    "campus": "nantes",
-    "id": 40,
-    "xp": {
-      "amount": 951433
-    }
-  },
-  {
-    "firstName": "MGRELLIER",
-    "login": "MGRELLIER",
-    "campus": "nantes",
-    "id": 41,
-    "xp": {
-      "amount": 276515
-    }
-  },
-  {
-    "firstName": "LBROCHARD",
-    "login": "LBROCHARD",
-    "campus": "nantes",
-    "id": 42,
-    "xp": {
-      "amount": 347590
-    }
-  },
-  {
-    "firstName": "PCOME",
-    "login": "PCOME",
-    "campus": "nantes",
-    "id": 44,
-    "xp": {
-      "amount": 631819
-    }
-  },
-  {
-    "firstName": "NMELLAL",
-    "login": "NMELLAL",
-    "campus": "nantes",
-    "id": 45,
-    "xp": {
-      "amount": 367429
-    }
-  },
-  {
-    "firstName": "NBESSEMOULIN",
-    "login": "NBESSEMOULIN",
-    "campus": "nantes",
-    "id": 47,
-    "xp": {
-      "amount": 444116
-    }
-  },
-  {
-    "firstName": "RFAVRIL",
-    "login": "RFAVRIL",
-    "campus": "nantes",
-    "id": 48,
-    "xp": {
-      "amount": 405468
-    }
-  },
-  {
-    "firstName": "NSCHNEIDER",
-    "login": "NSCHNEIDER",
-    "campus": "nantes",
-    "id": 49,
-    "xp": {
-      "amount": 1232684
-    }
-  },
-  {
-    "firstName": "KDHESSE",
-    "login": "KDHESSE",
-    "campus": "nantes",
-    "id": 50,
-    "xp": {
-      "amount": 421202
-    }
-  },
-  {
-    "firstName": "KGUYODO",
-    "login": "KGUYODO",
-    "campus": "nantes",
-    "id": 51,
-    "xp": {
-      "amount": 725530
-    }
-  },
-  {
-    "firstName": "NSEGURA",
-    "login": "NSEGURA",
-    "campus": "nantes",
-    "id": 52,
-    "xp": {
-      "amount": 435631
-    }
-  },
-  {
-    "firstName": "EPINOT",
-    "login": "EPINOT",
-    "campus": "nantes",
-    "id": 54,
-    "xp": {
-      "amount": 454643
-    }
-  },
-  {
-    "firstName": "ACLAVIER",
-    "login": "ACLAVIER",
-    "campus": "nantes",
-    "id": 55,
-    "xp": {
-      "amount": 415765
-    }
-  },
-  {
-    "firstName": "TBOURMAUD",
-    "login": "TBOURMAUD",
-    "campus": "nantes",
-    "id": 56,
-    "xp": {
-      "amount": 473492
-    }
-  },
-  {
-    "firstName": "MVERON",
-    "login": "MVERON",
-    "campus": "nantes",
-    "id": 57,
-    "xp": {
-      "amount": 437728
-    }
-  },
-  {
-    "firstName": "julien",
-    "login": "JSOSTHENE",
-    "campus": "nantes",
-    "id": 377,
-    "xp": {}
-  },
-  {
-    "firstName": "LVANDERSCHOOTEN1",
-    "login": "LVANDERSCHOOTEN1",
-    "campus": "nantes",
-    "id": 387,
-    "xp": {}
-  },
-  {
-    "firstName": "NHOUNGBEDJI",
-    "login": "NHOUNGBEDJI",
-    "campus": "nantes",
-    "id": 389,
-    "xp": {}
-  },
-  {
-    "firstName": "FLOUE",
-    "login": "FLOUE",
-    "campus": "nantes",
-    "id": 728,
-    "xp": {
-      "amount": 680645
-    }
-  },
-  {
-    "firstName": "FLATTE",
-    "login": "FLATTE",
-    "campus": "nantes",
-    "id": 729,
-    "xp": {
-      "amount": 516798
-    }
-  },
-  {
-    "firstName": "FQUICY",
-    "login": "FQUICY",
-    "campus": "nantes",
-    "id": 730,
-    "xp": {
-      "amount": 441743
-    }
-  },
-  {
-    "firstName": "SKARSENTI",
-    "login": "SKARSENTI",
-    "campus": "nantes",
-    "id": 731,
-    "xp": {
-      "amount": 547585
-    }
-  },
-  {
-    "firstName": "LACHARD",
-    "login": "LACHARD",
-    "campus": "nantes",
-    "id": 732,
-    "xp": {
-      "amount": 470230
-    }
-  },
-  {
-    "firstName": "MCEBILE",
-    "login": "MCEBILE",
-    "campus": "nantes",
-    "id": 733,
-    "xp": {
-      "amount": 386800
-    }
-  },
-  {
-    "firstName": "JCROIZIER",
-    "login": "JCROIZIER",
-    "campus": "nantes",
-    "id": 734,
-    "xp": {
-      "amount": 644359
-    }
-  },
-  {
-    "firstName": "JOUTIN",
-    "login": "JOUTIN",
-    "campus": "nantes",
-    "id": 735,
-    "xp": {
-      "amount": 410644
-    }
-  },
-  {
-    "firstName": "MBOURSE",
-    "login": "MBOURSE",
-    "campus": "nantes",
-    "id": 736,
-    "xp": {
-      "amount": 612520
-    }
-  },
-  {
-    "firstName": "NRIVALANT",
-    "login": "NRIVALANT",
-    "campus": "nantes",
-    "id": 737,
-    "xp": {
-      "amount": 468422
-    }
-  },
-  {
-    "firstName": "JGUENARD",
-    "login": "JGUENARD",
-    "campus": "nantes",
-    "id": 738,
-    "xp": {
-      "amount": 513946
-    }
-  },
-  {
-    "firstName": "PDELANOU",
-    "login": "PDELANOU",
-    "campus": "nantes",
-    "id": 739,
-    "xp": {
-      "amount": 297728
-    }
-  },
-  {
-    "firstName": "AROLLAND1",
-    "login": "AROLLAND1",
-    "campus": "nantes",
-    "id": 740,
-    "xp": {
-      "amount": 768601
-    }
-  },
-  {
-    "firstName": "NBOURRY",
-    "login": "NBOURRY",
-    "campus": "nantes",
-    "id": 741,
-    "xp": {
-      "amount": 540882
-    }
-  },
-  {
-    "firstName": "LAUBIN",
-    "login": "LAUBIN",
-    "campus": "nantes",
-    "id": 742,
-    "xp": {
-      "amount": 277806
-    }
-  },
-  {
-    "firstName": "MAUGEREAU",
-    "login": "MAUGEREAU",
-    "campus": "nantes",
-    "id": 743,
-    "xp": {
-      "amount": 349945
-    }
-  },
-  {
-    "firstName": "DHERVOUET",
-    "login": "DHERVOUET",
-    "campus": "nantes",
-    "id": 744,
-    "xp": {
-      "amount": 536233
-    }
-  },
-  {
-    "firstName": "YENNOUHI",
-    "login": "YENNOUHI",
-    "campus": "nantes",
-    "id": 745,
-    "xp": {
-      "amount": 687248
-    }
-  },
-  {
-    "firstName": "MTOURABI1",
-    "login": "MTOURABI1",
-    "campus": "nantes",
-    "id": 746,
-    "xp": {
-      "amount": 394742
-    }
-  },
-  {
-    "firstName": "PPIAUGER",
-    "login": "PPIAUGER",
-    "campus": "nantes",
-    "id": 748,
-    "xp": {
-      "amount": 551528
-    }
-  },
-  {
-    "firstName": "MLETESSIER",
-    "login": "MLETESSIER",
-    "campus": "nantes",
-    "id": 750,
-    "xp": {
-      "amount": 252705
-    }
-  },
-  {
-    "firstName": "FCORMERAIS",
-    "login": "FCORMERAIS",
-    "campus": "nantes",
-    "id": 751,
-    "xp": {
-      "amount": 753085
-    }
-  },
-  {
-    "firstName": "ECARDOSO",
-    "login": "ECARDOSO",
-    "campus": "nantes",
-    "id": 753,
-    "xp": {
-      "amount": 631088
-    }
-  },
-  {
-    "firstName": "MCHEVALIER1",
-    "login": "MCHEVALIER1",
-    "campus": "nantes",
-    "id": 754,
-    "xp": {
-      "amount": 765666
-    }
-  },
-  {
-    "firstName": "ARAYNAUD",
-    "login": "ARAYNAUD",
-    "campus": "nantes",
-    "id": 755,
-    "xp": {
-      "amount": 714898
-    }
-  },
-  {
-    "firstName": "ATIDJANI",
-    "login": "ATIDJANI",
-    "campus": "nantes",
-    "id": 756,
-    "xp": {
-      "amount": 274080
-    }
-  },
-  {
-    "firstName": "PFACONNIER",
-    "login": "PFACONNIER",
-    "campus": "nantes",
-    "id": 559,
-    "xp": {}
-  }
-]
+      {
+        "firstName": "COBEJERO",
+        "login": "COBEJERO",
+        "campus": "nantes",
+        "id": 13,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 1440675
+            }
+          }
+        }
+      },
+      {
+        "firstName": "SPLOTTU1",
+        "login": "SPLOTTU1",
+        "campus": "nantes",
+        "id": 15,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 263
+            }
+          }
+        }
+      },
+      {
+        "firstName": "ABOUFFARD",
+        "login": "ABOUFFARD",
+        "campus": "nantes",
+        "id": 27,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 511041
+            }
+          }
+        }
+      },
+      {
+        "firstName": "ALETROU",
+        "login": "ALETROU",
+        "campus": "nantes",
+        "id": 28,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 241927
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NMARTIN1",
+        "login": "NMARTIN1",
+        "campus": "nantes",
+        "id": 29,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 63377
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FDAGNAS",
+        "login": "FDAGNAS",
+        "campus": "nantes",
+        "id": 30,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 733128
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LJONES",
+        "login": "LJONES",
+        "campus": "nantes",
+        "id": 31,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 406543
+            }
+          }
+        }
+      },
+      {
+        "firstName": "SPLOTTU",
+        "login": "SPLOTTU",
+        "campus": "nantes",
+        "id": 32,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": null
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MLOYERVIAUD",
+        "login": "MLOYERVIAUD",
+        "campus": "nantes",
+        "id": 33,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 193215
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MLEGER",
+        "login": "MLEGER",
+        "campus": "nantes",
+        "id": 34,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 673854
+            }
+          }
+        }
+      },
+      {
+        "firstName": "YYASSER",
+        "login": "YYASSER",
+        "campus": "nantes",
+        "id": 35,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 813020
+            }
+          }
+        }
+      },
+      {
+        "firstName": "OMOREAU",
+        "login": "OMOREAU",
+        "campus": "nantes",
+        "id": 36,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 619518
+            }
+          }
+        }
+      },
+      {
+        "firstName": "YBOURGERON",
+        "login": "YBOURGERON",
+        "campus": "nantes",
+        "id": 37,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 483440
+            }
+          }
+        }
+      },
+      {
+        "firstName": "EDUMONT1",
+        "login": "EDUMONT1",
+        "campus": "nantes",
+        "id": 38,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 437379
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LTEILLIAIS",
+        "login": "LTEILLIAIS",
+        "campus": "nantes",
+        "id": 39,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 457842
+            }
+          }
+        }
+      },
+      {
+        "firstName": "QOBOUNOU",
+        "login": "QOBOUNOU",
+        "campus": "nantes",
+        "id": 40,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 951433
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MGRELLIER",
+        "login": "MGRELLIER",
+        "campus": "nantes",
+        "id": 41,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 273015
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LBROCHARD",
+        "login": "LBROCHARD",
+        "campus": "nantes",
+        "id": 42,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 347090
+            }
+          }
+        }
+      },
+      {
+        "firstName": "PCOME",
+        "login": "PCOME",
+        "campus": "nantes",
+        "id": 44,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 631819
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NMELLAL",
+        "login": "NMELLAL",
+        "campus": "nantes",
+        "id": 45,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 366179
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NBESSEMOULIN",
+        "login": "NBESSEMOULIN",
+        "campus": "nantes",
+        "id": 47,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 444116
+            }
+          }
+        }
+      },
+      {
+        "firstName": "RFAVRIL",
+        "login": "RFAVRIL",
+        "campus": "nantes",
+        "id": 48,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 405468
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NSCHNEIDER",
+        "login": "NSCHNEIDER",
+        "campus": "nantes",
+        "id": 49,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 1231584
+            }
+          }
+        }
+      },
+      {
+        "firstName": "KDHESSE",
+        "login": "KDHESSE",
+        "campus": "nantes",
+        "id": 50,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 421202
+            }
+          }
+        }
+      },
+      {
+        "firstName": "KGUYODO",
+        "login": "KGUYODO",
+        "campus": "nantes",
+        "id": 51,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 719280
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NSEGURA",
+        "login": "NSEGURA",
+        "campus": "nantes",
+        "id": 52,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 431931
+            }
+          }
+        }
+      },
+      {
+        "firstName": "EPINOT",
+        "login": "EPINOT",
+        "campus": "nantes",
+        "id": 54,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 454643
+            }
+          }
+        }
+      },
+      {
+        "firstName": "ACLAVIER",
+        "login": "ACLAVIER",
+        "campus": "nantes",
+        "id": 55,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 414365
+            }
+          }
+        }
+      },
+      {
+        "firstName": "TBOURMAUD",
+        "login": "TBOURMAUD",
+        "campus": "nantes",
+        "id": 56,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 467242
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MVERON",
+        "login": "MVERON",
+        "campus": "nantes",
+        "id": 57,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 435378
+            }
+          }
+        }
+      },
+      {
+        "firstName": "julien",
+        "login": "JSOSTHENE",
+        "campus": "nantes",
+        "id": 377,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": null
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LVANDERSCHOOTEN1",
+        "login": "LVANDERSCHOOTEN1",
+        "campus": "nantes",
+        "id": 387,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": null
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NHOUNGBEDJI",
+        "login": "NHOUNGBEDJI",
+        "campus": "nantes",
+        "id": 389,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": null
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FLOUE",
+        "login": "FLOUE",
+        "campus": "nantes",
+        "id": 728,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 748931
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FLATTE",
+        "login": "FLATTE",
+        "campus": "nantes",
+        "id": 729,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 509367
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FQUICY",
+        "login": "FQUICY",
+        "campus": "nantes",
+        "id": 730,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 451180
+            }
+          }
+        }
+      },
+      {
+        "firstName": "SKARSENTI",
+        "login": "SKARSENTI",
+        "campus": "nantes",
+        "id": 731,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 608707
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LACHARD",
+        "login": "LACHARD",
+        "campus": "nantes",
+        "id": 732,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 486180
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MCEBILE",
+        "login": "MCEBILE",
+        "campus": "nantes",
+        "id": 733,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 370057
+            }
+          }
+        }
+      },
+      {
+        "firstName": "JCROIZIER",
+        "login": "JCROIZIER",
+        "campus": "nantes",
+        "id": 734,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 729869
+            }
+          }
+        }
+      },
+      {
+        "firstName": "JOUTIN",
+        "login": "JOUTIN",
+        "campus": "nantes",
+        "id": 735,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 485568
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MBOURSE",
+        "login": "MBOURSE",
+        "campus": "nantes",
+        "id": 736,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 658207
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NRIVALANT",
+        "login": "NRIVALANT",
+        "campus": "nantes",
+        "id": 737,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 502806
+            }
+          }
+        }
+      },
+      {
+        "firstName": "JGUENARD",
+        "login": "JGUENARD",
+        "campus": "nantes",
+        "id": 738,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 537306
+            }
+          }
+        }
+      },
+      {
+        "firstName": "PDELANOU",
+        "login": "PDELANOU",
+        "campus": "nantes",
+        "id": 739,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 297728
+            }
+          }
+        }
+      },
+      {
+        "firstName": "AROLLAND1",
+        "login": "AROLLAND1",
+        "campus": "nantes",
+        "id": 740,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 864533
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NBOURRY",
+        "login": "NBOURRY",
+        "campus": "nantes",
+        "id": 741,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 548044
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LAUBIN",
+        "login": "LAUBIN",
+        "campus": "nantes",
+        "id": 742,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 258204
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MAUGEREAU",
+        "login": "MAUGEREAU",
+        "campus": "nantes",
+        "id": 743,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 363479
+            }
+          }
+        }
+      },
+      {
+        "firstName": "DHERVOUET",
+        "login": "DHERVOUET",
+        "campus": "nantes",
+        "id": 744,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 556368
+            }
+          }
+        }
+      },
+      {
+        "firstName": "YENNOUHI",
+        "login": "YENNOUHI",
+        "campus": "nantes",
+        "id": 745,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 798234
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MTOURABI1",
+        "login": "MTOURABI1",
+        "campus": "nantes",
+        "id": 746,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 465216
+            }
+          }
+        }
+      },
+      {
+        "firstName": "PPIAUGER",
+        "login": "PPIAUGER",
+        "campus": "nantes",
+        "id": 748,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 617331
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MLETESSIER",
+        "login": "MLETESSIER",
+        "campus": "nantes",
+        "id": 750,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 251916
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FCORMERAIS",
+        "login": "FCORMERAIS",
+        "campus": "nantes",
+        "id": 751,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 803857
+            }
+          }
+        }
+      },
+      {
+        "firstName": "ECARDOSO",
+        "login": "ECARDOSO",
+        "campus": "nantes",
+        "id": 753,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 595294
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MCHEVALIER1",
+        "login": "MCHEVALIER1",
+        "campus": "nantes",
+        "id": 754,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 828959
+            }
+          }
+        }
+      },
+      {
+        "firstName": "ARAYNAUD",
+        "login": "ARAYNAUD",
+        "campus": "nantes",
+        "id": 755,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 789908
+            }
+          }
+        }
+      },
+      {
+        "firstName": "ATIDJANI",
+        "login": "ATIDJANI",
+        "campus": "nantes",
+        "id": 756,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 318480
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NAVARRO",
+        "login": "nmathias",
+        "campus": "nantes",
+        "id": 1364,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 104769
+            }
+          }
+        }
+      },
+      {
+        "firstName": "DROUINEAU",
+        "login": "dnoa",
+        "campus": "nantes",
+        "id": 1650,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 134871
+            }
+          }
+        }
+      },
+      {
+        "firstName": "JEGOU",
+        "login": "jtom",
+        "campus": "nantes",
+        "id": 1645,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 201674
+            }
+          }
+        }
+      },
+      {
+        "firstName": "BAMAS",
+        "login": "baremy",
+        "campus": "nantes",
+        "id": 1646,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 102383
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LESIEUR",
+        "login": "lrichard",
+        "campus": "nantes",
+        "id": 1647,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 83305
+            }
+          }
+        }
+      },
+      {
+        "firstName": "BAROTIN",
+        "login": "bemeric",
+        "campus": "nantes",
+        "id": 1660,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 127221
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NICOLAS",
+        "login": "ngurvan",
+        "campus": "nantes",
+        "id": 1676,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 113208
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LEMEE",
+        "login": "letienne",
+        "campus": "nantes",
+        "id": 1672,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 19438
+            }
+          }
+        }
+      },
+      {
+        "firstName": "ACHARD",
+        "login": "aenzo",
+        "campus": "nantes",
+        "id": 1683,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 28164
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FAVRIL",
+        "login": "fpierrea",
+        "campus": "nantes",
+        "id": 1682,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 49327
+            }
+          }
+        }
+      },
+      {
+        "firstName": "GIRARD",
+        "login": "gryangir",
+        "campus": "nantes",
+        "id": 1681,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 42438
+            }
+          }
+        }
+      },
+      {
+        "firstName": "HAMON",
+        "login": "hmatheo",
+        "campus": "nantes",
+        "id": 1670,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 73205
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LAUVRAY",
+        "login": "lnoa",
+        "campus": "nantes",
+        "id": 1653,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 161779
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LORET",
+        "login": "lesteban",
+        "campus": "nantes",
+        "id": 1678,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 30701
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LOUIS",
+        "login": "lsimon",
+        "campus": "nantes",
+        "id": 1654,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 63614
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MÉNARD",
+        "login": "mcharles",
+        "campus": "nantes",
+        "id": 1671,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 79566
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NZONZA",
+        "login": "ntayvadi",
+        "campus": "nantes",
+        "id": 1655,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 35164
+            }
+          }
+        }
+      },
+      {
+        "firstName": "OGER",
+        "login": "okylian",
+        "campus": "nantes",
+        "id": 1661,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 142847
+            }
+          }
+        }
+      },
+      {
+        "firstName": "SAILLARD",
+        "login": "stom",
+        "campus": "nantes",
+        "id": 1673,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 71354
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NAERT",
+        "login": "nmatthia",
+        "campus": "nantes",
+        "id": 1663,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 40663
+            }
+          }
+        }
+      },
+      {
+        "firstName": "SORGIATI",
+        "login": "ssacha",
+        "campus": "nantes",
+        "id": 1664,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 124871
+            }
+          }
+        }
+      },
+      {
+        "firstName": "PFACONNIER",
+        "login": "PFACONNIER",
+        "campus": "nantes",
+        "id": 559,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": null
+            }
+          }
+        }
+      },
+      {
+        "firstName": "BOURIGAULT",
+        "login": "btilio",
+        "campus": "nantes",
+        "id": 1668,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 33290
+            }
+          }
+        }
+      },
+      {
+        "firstName": "ROUXELIN",
+        "login": "rlouis",
+        "campus": "nantes",
+        "id": 1659,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 92379
+            }
+          }
+        }
+      },
+      {
+        "firstName": "OLAX-BARGAIN",
+        "login": "olenny",
+        "campus": "nantes",
+        "id": 1644,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 20564
+            }
+          }
+        }
+      },
+      {
+        "firstName": "BEHAGUE",
+        "login": "bremy",
+        "campus": "nantes",
+        "id": 1581,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 60653
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FAKHFAKH",
+        "login": "frayen",
+        "campus": "nantes",
+        "id": 1666,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 49988
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MESGUEN",
+        "login": "mmateo",
+        "campus": "nantes",
+        "id": 1643,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 121493
+            }
+          }
+        }
+      },
+      {
+        "firstName": "BELLAUD",
+        "login": "bmatias",
+        "campus": "nantes",
+        "id": 1679,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 117983
+            }
+          }
+        }
+      },
+      {
+        "firstName": "BATISTA LOBATO DE SOUZA",
+        "login": "blucas",
+        "campus": "nantes",
+        "id": 1374,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 196719
+            }
+          }
+        }
+      },
+      {
+        "firstName": "CHAFFAUX",
+        "login": "ckevin",
+        "campus": "nantes",
+        "id": 1665,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 152797
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FERRON",
+        "login": "fevan",
+        "campus": "nantes",
+        "id": 1669,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 145507
+            }
+          }
+        }
+      },
+      {
+        "firstName": "FUZEAU",
+        "login": "fmaxime",
+        "campus": "nantes",
+        "id": 1675,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 122145
+            }
+          }
+        }
+      },
+      {
+        "firstName": "GUILLET",
+        "login": "gevan",
+        "campus": "nantes",
+        "id": 1657,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 68879
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LACOMBE",
+        "login": "larthur",
+        "campus": "nantes",
+        "id": 1684,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 109757
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LEROI",
+        "login": "lremi",
+        "campus": "nantes",
+        "id": 1556,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 154073
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LE BOURHIS",
+        "login": "levan",
+        "campus": "nantes",
+        "id": 1658,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 36988
+            }
+          }
+        }
+      },
+      {
+        "firstName": "MARTIN",
+        "login": "mdorian",
+        "campus": "nantes",
+        "id": 1667,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 23713
+            }
+          }
+        }
+      },
+      {
+        "firstName": "NGONO ABANDA",
+        "login": "nchristi",
+        "campus": "nantes",
+        "id": 1709,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 7763
+            }
+          }
+        }
+      },
+      {
+        "firstName": "PAYRAUDEAU",
+        "login": "psulien",
+        "campus": "nantes",
+        "id": 1652,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 81068
+            }
+          }
+        }
+      },
+      {
+        "firstName": "SILOTIA",
+        "login": "smathis",
+        "campus": "nantes",
+        "id": 1656,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 132744
+            }
+          }
+        }
+      },
+      {
+        "firstName": "BIGOT",
+        "login": "bilucas",
+        "campus": "nantes",
+        "id": 1680,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 152870
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LAURENT",
+        "login": "laremi",
+        "campus": "nantes",
+        "id": 1651,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": 160160
+            }
+          }
+        }
+      },
+      {
+        "firstName": "LRICHARD1",
+        "login": "LRICHARD1",
+        "campus": "nantes",
+        "id": 449,
+        "xps_aggregate": {
+          "aggregate": {
+            "sum": {
+              "amount": null
+            }
+          }
+        }
+      }
+    ]

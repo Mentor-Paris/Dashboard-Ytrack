@@ -1,855 +1,1276 @@
 [
-    {
-        "firstName": "FCOURDESSE",
-        "login": "FCOURDESSE",
-        "campus": "lyon",
-        "id": 248,
-        "xp": {
-            "amount": 7080722
-        }
-    },
-    {
-        "firstName": "TNOEL",
-        "login": "TNOEL",
-        "campus": "lyon",
-        "id": 249,
-        "xp": {
-            "amount": 399421
-        }
-    },
-    {
-        "firstName": "HPOIZAT",
-        "login": "HPOIZAT",
-        "campus": "lyon",
-        "id": 250,
-        "xp": {
-            "amount": 683396
-        }
-    },
-    {
-        "firstName": "IHACQUIN",
-        "login": "IHACQUIN",
-        "campus": "lyon",
-        "id": 251,
-        "xp": {
-            "amount": 274913
-        }
-    },
-    {
-        "firstName": "EKAPLAN",
-        "login": "EKAPLAN",
-        "campus": "lyon",
-        "id": 252,
-        "xp": {
-            "amount": 350316
-        }
-    },
-    {
-        "firstName": "CVEY",
-        "login": "CVEY",
-        "campus": "lyon",
-        "id": 253,
-        "xp": {
-            "amount": 7284829
-        }
-    },
-    {
-        "firstName": "AFAILLER",
-        "login": "AFAILLER",
-        "campus": "lyon",
-        "id": 254,
-        "xp": {
-            "amount": 360073
-        }
-    },
-    {
-        "firstName": "CPAYET",
-        "login": "CPAYET",
-        "campus": "lyon",
-        "id": 255,
-        "xp": {
-            "amount": 1100918
-        }
-    },
-    {
-        "firstName": "RSILVYLELIGOIS",
-        "login": "RSILVYLELIGOIS",
-        "campus": "lyon",
-        "id": 256,
-        "xp": {
-            "amount": 643622
-        }
-    },
-    {
-        "firstName": "GPETTA",
-        "login": "GPETTA",
-        "campus": "lyon",
-        "id": 257,
-        "xp": {
-            "amount": 6479923
-        }
-    },
-    {
-        "firstName": "LTHORENS",
-        "login": "LTHORENS",
-        "campus": "lyon",
-        "id": 259,
-        "xp": {
-            "amount": 431475
-        }
-    },
-    {
-        "firstName": "MDINVILLE",
-        "login": "MDINVILLE",
-        "campus": "lyon",
-        "id": 260,
-        "xp": {
-            "amount": 440447
-        }
-    },
-    {
-        "firstName": "OCAN",
-        "login": "OCAN",
-        "campus": "lyon",
-        "id": 261,
-        "xp": {
-            "amount": 349015
-        }
-    },
-    {
-        "firstName": "MKJIDAA",
-        "login": "MKJIDAA",
-        "campus": "lyon",
-        "id": 262,
-        "xp": {
-            "amount": 183638
-        }
-    },
-    {
-        "firstName": "ACHAMBAS",
-        "login": "ACHAMBAS",
-        "campus": "lyon",
-        "id": 263,
-        "xp": {
-            "amount": 310376
-        }
-    },
-    {
-        "firstName": "LREYNARD",
-        "login": "LREYNARD",
-        "campus": "lyon",
-        "id": 264,
-        "xp": {
-            "amount": 344891
-        }
-    },
-    {
-        "firstName": "MMEUNIER",
-        "login": "MMEUNIER",
-        "campus": "lyon",
-        "id": 265,
-        "xp": {
-            "amount": 400201
-        }
-    },
-    {
-        "firstName": "FELHANI",
-        "login": "FELHANI",
-        "campus": "lyon",
-        "id": 266,
-        "xp": {
-            "amount": 482679
-        }
-    },
-    {
-        "firstName": "MLECHERF",
-        "login": "MLECHERF",
-        "campus": "lyon",
-        "id": 268,
-        "xp": {
-            "amount": 924103
-        }
-    },
-    {
-        "firstName": "BLY",
-        "login": "BLY",
-        "campus": "lyon",
-        "id": 270,
-        "xp": {
-            "amount": 325070
-        }
-    },
-    {
-        "firstName": "Thomas",
-        "login": "TDIETRICH",
-        "campus": "lyon",
-        "id": 271,
-        "xp": {
-            "amount": 426212
-        }
-    },
-    {
-        "firstName": "TMEIGNIER",
-        "login": "TMEIGNIER",
-        "campus": "lyon",
-        "id": 272,
-        "xp": {
-            "amount": 437873
-        }
-    },
-    {
-        "firstName": "ALYONNET",
-        "login": "ALYONNET",
-        "campus": "lyon",
-        "id": 273,
-        "xp": {
-            "amount": 347083
-        }
-    },
-    {
-        "firstName": "RVITTE",
-        "login": "RVITTE",
-        "campus": "lyon",
-        "id": 274,
-        "xp": {
-            "amount": 419465
-        }
-    },
-    {
-        "firstName": "ABELAIDOUNI",
-        "login": "ABELAIDOUNI",
-        "campus": "lyon",
-        "id": 275,
-        "xp": {
-            "amount": 568271
-        }
-    },
-    {
-        "firstName": "NTHOMAS",
-        "login": "NTHOMAS",
-        "campus": "lyon",
-        "id": 276,
-        "xp": {
-            "amount": 144815
-        }
-    },
-    {
-        "firstName": "CFRASCA",
-        "login": "CFRASCA",
-        "campus": "lyon",
-        "id": 278,
-        "xp": {
-            "amount": 400233
-        }
-    },
-    {
-        "firstName": "TGAULE",
-        "login": "TGAULE",
-        "campus": "lyon",
-        "id": 279,
-        "xp": {
-            "amount": 414959
-        }
-    },
-    {
-        "firstName": "CBARRESI",
-        "login": "CBARRESI",
-        "campus": "lyon",
-        "id": 280,
-        "xp": {
-            "amount": 494029
-        }
-    },
-    {
-        "firstName": "TBEAL",
-        "login": "TBEAL",
-        "campus": "lyon",
-        "id": 281,
-        "xp": {
-            "amount": 565255
-        }
-    },
-    {
-        "firstName": "SALONSO",
-        "login": "SALONSO",
-        "campus": "lyon",
-        "id": 282,
-        "xp": {
-            "amount": 748728
-        }
-    },
-    {
-        "firstName": "YVOLLAIRE",
-        "login": "YVOLLAIRE",
-        "campus": "lyon",
-        "id": 283,
-        "xp": {
-            "amount": 475931
-        }
-    },
-    {
-        "firstName": "YDEHHANI",
-        "login": "YDEHHANI",
-        "campus": "lyon",
-        "id": 284,
-        "xp": {
-            "amount": 856865
-        }
-    },
-    {
-        "firstName": "PRAMPON",
-        "login": "PRAMPON",
-        "campus": "lyon",
-        "id": 285,
-        "xp": {
-            "amount": 756213
-        }
-    },
-    {
-        "firstName": "Arthur",
-        "login": "APATUREL",
-        "campus": "lyon",
-        "id": 286,
-        "xp": {
-            "amount": 558734
-        }
-    },
-    {
-        "firstName": "AGUERIN",
-        "login": "AGUERIN",
-        "campus": "lyon",
-        "id": 287,
-        "xp": {
-            "amount": 279447
-        }
-    },
-    {
-        "firstName": "HROUMAGNE",
-        "login": "HROUMAGNE",
-        "campus": "lyon",
-        "id": 288,
-        "xp": {
-            "amount": 588320
-        }
-    },
-    {
-        "firstName": "ACAPITAIN",
-        "login": "ACAPITAIN",
-        "campus": "lyon",
-        "id": 289,
-        "xp": {
-            "amount": 390773
-        }
-    },
-    {
-        "firstName": "QFAYOLLE",
-        "login": "QFAYOLLE",
-        "campus": "lyon",
-        "id": 290,
-        "xp": {
-            "amount": 644237
-        }
-    },
-    {
-        "firstName": "QJUVET",
-        "login": "QJUVET",
-        "campus": "lyon",
-        "id": 291,
-        "xp": {
-            "amount": 670869
-        }
-    },
-    {
-        "firstName": "NCABOURG",
-        "login": "NCABOURG",
-        "campus": "lyon",
-        "id": 292,
-        "xp": {
-            "amount": 569544
-        }
-    },
-    {
-        "firstName": "AGELIN1",
-        "login": "AGELIN1",
-        "campus": "lyon",
-        "id": 293,
-        "xp": {
-            "amount": 859293
-        }
-    },
-    {
-        "firstName": "LTISSERAND2",
-        "login": "LTISSERAND2",
-        "campus": "lyon",
-        "id": 295,
-        "xp": {
-            "amount": 10425
-        }
-    },
-    {
-        "firstName": "NLOSSIGNOLDRILLIEN",
-        "login": "NLOSSIGNOLDRILLIEN",
-        "campus": "lyon",
-        "id": 296,
-        "xp": {
-            "amount": 268611
-        }
-    },
-    {
-        "firstName": "CBILGER",
-        "login": "CBILGER",
-        "campus": "lyon",
-        "id": 297,
-        "xp": {
-            "amount": 428365
-        }
-    },
-    {
-        "firstName": "PGOURGOUILLON",
-        "login": "PGOURGOUILLON",
-        "campus": "lyon",
-        "id": 298,
-        "xp": {
-            "amount": 692450
-        }
-    },
-    {
-        "firstName": "JKHALIFE",
-        "login": "JKHALIFE",
-        "campus": "lyon",
-        "id": 299,
-        "xp": {
-            "amount": 680645
-        }
-    },
-    {
-        "firstName": "TLEDIEU",
-        "login": "TLEDIEU",
-        "campus": "lyon",
-        "id": 300,
-        "xp": {
-            "amount": 740833
-        }
-    },
-    {
-        "firstName": "MNESTILE",
-        "login": "MNESTILE",
-        "campus": "lyon",
-        "id": 301,
-        "xp": {
-            "amount": 235512
-        }
-    },
-    {
-        "firstName": "MTORRES",
-        "login": "MTORRES",
-        "campus": "lyon",
-        "id": 302,
-        "xp": {
-            "amount": 279804
-        }
-    },
-    {
-        "firstName": "OMAILLOT",
-        "login": "OMAILLOT",
-        "campus": "lyon",
-        "id": 303,
-        "xp": {
-            "amount": 384428
-        }
-    },
-    {
-        "firstName": "TBRUYERE",
-        "login": "TBRUYERE",
-        "campus": "lyon",
-        "id": 309,
-        "xp": {
-            "amount": 385985
-        }
-    },
-    {
-        "firstName": "LBARTHELEMY1",
-        "login": "LBARTHELEMY1",
-        "campus": "lyon",
-        "id": 310,
-        "xp": {
-            "amount": 7192962
-        }
-    },
-    {
-        "firstName": "LBOURRY",
-        "login": "LBOURRY",
-        "campus": "lyon",
-        "id": 314,
-        "xp": {
-            "amount": 710644
-        }
-    },
-    {
-        "firstName": "HDANSOU",
-        "login": "HDANSOU",
-        "campus": "lyon",
-        "id": 356,
-        "xp": {
-            "amount": 419508
-        }
-    },
-    {
-        "firstName": "LGUNARAJAH",
-        "login": "LGUNARAJAH",
-        "campus": "lyon",
-        "id": 382,
-        "xp": {
-            "amount": 48995
-        }
-    },
-    {
-        "firstName": "VRIAMON1",
-        "login": "VRIAMON1",
-        "campus": "lyon",
-        "id": 460,
-        "xp": {
-            "amount": 15700
-        }
-    },
-    {
-        "firstName": "JCAETANO",
-        "login": "JCAETANO",
-        "campus": "lyon",
-        "id": 687,
-        "xp": {
-            "amount": 63525
-        }
-    },
-    {
-        "firstName": "EBAILEY",
-        "login": "EBAILEY",
-        "campus": "lyon",
-        "id": 688,
-        "xp": {
-            "amount": 33375
-        }
-    },
-    {
-        "firstName": "JVEZIN",
-        "login": "JVEZIN",
-        "campus": "lyon",
-        "id": 689,
-        "xp": {
-            "amount": 20175
-        }
-    },
-    {
-        "firstName": "APOINSIGNON",
-        "login": "APOINSIGNON",
-        "campus": "lyon",
-        "id": 690,
-        "xp": {
-            "amount": 55025
-        }
-    },
-    {
-        "firstName": "WSAIOUDI",
-        "login": "WSAIOUDI",
-        "campus": "lyon",
-        "id": 691,
-        "xp": {
-            "amount": 59025
-        }
-    },
-    {
-        "firstName": "LHOSPICE",
-        "login": "LHOSPICE",
-        "campus": "lyon",
-        "id": 693,
-        "xp": {
-            "amount": 50225
-        }
-    },
-    {
-        "firstName": "RPOTIGNON",
-        "login": "RPOTIGNON",
-        "campus": "lyon",
-        "id": 694,
-        "xp": {
-            "amount": 20775
-        }
-    },
-    {
-        "firstName": "ACELEBI",
-        "login": "ACELEBI",
-        "campus": "lyon",
-        "id": 695,
-        "xp": {
-            "amount": 55025
-        }
-    },
-    {
-        "firstName": "EGUIGNABAUDET",
-        "login": "EGUIGNABAUDET",
-        "campus": "lyon",
-        "id": 697,
-        "xp": {
-            "amount": 55425
-        }
-    },
-    {
-        "firstName": "ADUMONT2",
-        "login": "ADUMONT2",
-        "campus": "lyon",
-        "id": 698,
-        "xp": {
-            "amount": 49125
-        }
-    },
-    {
-        "firstName": "RFENZL",
-        "login": "RFENZL",
-        "campus": "lyon",
-        "id": 699,
-        "xp": {
-            "amount": 41075
-        }
-    },
-    {
-        "firstName": "BVERNET",
-        "login": "BVERNET",
-        "campus": "lyon",
-        "id": 702,
-        "xp": {
-            "amount": 61225
-        }
-    },
-    {
-        "firstName": "VPAIRE",
-        "login": "VPAIRE",
-        "campus": "lyon",
-        "id": 705,
-        "xp": {
-            "amount": 25275
-        }
-    },
-    {
-        "firstName": "LCOURNOLLETRODRIGUEZ",
-        "login": "LCOURNOLLETRODRIGUEZ",
-        "campus": "lyon",
-        "id": 706,
-        "xp": {
-            "amount": 23725
-        }
-    },
-    {
-        "firstName": "FMARQUES",
-        "login": "FMARQUES",
-        "campus": "lyon",
-        "id": 707,
-        "xp": {
-            "amount": 25525
-        }
-    },
-    {
-        "firstName": "RGRENIER1",
-        "login": "RGRENIER1",
-        "campus": "lyon",
-        "id": 708,
-        "xp": {
-            "amount": 40275
-        }
-    },
-    {
-        "firstName": "ABERTIER1",
-        "login": "ABERTIER1",
-        "campus": "lyon",
-        "id": 709,
-        "xp": {
-            "amount": 67575
-        }
-    },
-    {
-        "firstName": "UROSSI",
-        "login": "UROSSI",
-        "campus": "lyon",
-        "id": 710,
-        "xp": {
-            "amount": 17075
-        }
-    },
-    {
-        "firstName": "MPOINTARD",
-        "login": "MPOINTARD",
-        "campus": "lyon",
-        "id": 711,
-        "xp": {
-            "amount": 38975
-        }
-    },
-    {
-        "firstName": "RFENO",
-        "login": "RFENO",
-        "campus": "lyon",
-        "id": 712,
-        "xp": {
-            "amount": 46725
-        }
-    },
-    {
-        "firstName": "NSEREIR",
-        "login": "NSEREIR",
-        "campus": "lyon",
-        "id": 713,
-        "xp": {
-            "amount": 29125
-        }
-    },
-    {
-        "firstName": "GSANCHEZ1",
-        "login": "GSANCHEZ1",
-        "campus": "lyon",
-        "id": 714,
-        "xp": {
-            "amount": 15225
-        }
-    },
-    {
-        "firstName": "CCOINDARDLAGRESLE",
-        "login": "CCOINDARDLAGRESLE",
-        "campus": "lyon",
-        "id": 715,
-        "xp": {
-            "amount": 39225
-        }
-    },
-    {
-        "firstName": "TTIRABOSCHI",
-        "login": "TTIRABOSCHI",
-        "campus": "lyon",
-        "id": 716,
-        "xp": {
-            "amount": 14275
-        }
-    },
-    {
-        "firstName": "JDURA",
-        "login": "JDURA",
-        "campus": "lyon",
-        "id": 717,
-        "xp": {
-            "amount": 66175
-        }
-    },
-    {
-        "firstName": "SCAPPE",
-        "login": "SCAPPE",
-        "campus": "lyon",
-        "id": 718,
-        "xp": {
-            "amount": 32225
-        }
-    },
-    {
-        "firstName": "JAOUADJ",
-        "login": "JAOUADJ",
-        "campus": "lyon",
-        "id": 719,
-        "xp": {
-            "amount": 37525
-        }
-    },
-    {
-        "firstName": "LLACHAL",
-        "login": "LLACHAL",
-        "campus": "lyon",
-        "id": 720,
-        "xp": {
-            "amount": 14735
-        }
-    },
-    {
-        "firstName": "GTHOYER",
-        "login": "GTHOYER",
-        "campus": "lyon",
-        "id": 721,
-        "xp": {
-            "amount": 56575
-        }
-    },
-    {
-        "firstName": "GDENIS",
-        "login": "GDENIS",
-        "campus": "lyon",
-        "id": 723,
-        "xp": {
-            "amount": 195638
-        }
-    },
-    {
-        "firstName": "MBARRE",
-        "login": "MBARRE",
-        "campus": "lyon",
-        "id": 725,
-        "xp": {
-            "amount": 60775
-        }
-    },
-    {
-        "firstName": "DNGUYEN2",
-        "login": "DNGUYEN2",
-        "campus": "lyon",
-        "id": 726,
-        "xp": {
-            "amount": 36425
-        }
-    },
-    {
-        "firstName": "MALVINE",
-        "login": "MALVINE",
-        "campus": "lyon",
-        "id": 727,
-        "xp": {
-            "amount": 69139
-        }
-    },
-    {
-        "firstName": "MHENRIST",
-        "login": "MHENRIST",
-        "campus": "lyon",
-        "id": 786,
-        "xp": {
-            "amount": 22725
-        }
-    },
-    {
-        "firstName": "AFRANCOIS1",
-        "login": "AFRANCOIS1",
-        "campus": "lyon",
-        "id": 788,
-        "xp": {
-            "amount": 80325
-        }
-    },
-    {
-        "firstName": "RLAHLIMI",
-        "login": "RLAHLIMI",
-        "campus": "lyon",
-        "id": 789,
-        "xp": {}
-    },
-    {
-        "firstName": "ESEGURET1",
-        "login": "ESEGURET1",
-        "campus": "lyon",
-        "id": 792,
-        "xp": {
-            "amount": 58725
-        }
-    },
-    {
-        "firstName": "ADELLOSO",
-        "login": "ADELLOSO",
-        "campus": "lyon",
-        "id": 809,
-        "xp": {
-            "amount": 48225
-        }
-    }
-]
+        {
+          "firstName": "FCOURDESSE",
+          "login": "FCOURDESSE",
+          "campus": "lyon",
+          "id": 248,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1390696
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TNOEL",
+          "login": "TNOEL",
+          "campus": "lyon",
+          "id": 249,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 398531
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HPOIZAT",
+          "login": "HPOIZAT",
+          "campus": "lyon",
+          "id": 250,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 682811
+              }
+            }
+          }
+        },
+        {
+          "firstName": "IHACQUIN",
+          "login": "IHACQUIN",
+          "campus": "lyon",
+          "id": 251,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 274438
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EKAPLAN",
+          "login": "EKAPLAN",
+          "campus": "lyon",
+          "id": 252,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 349801
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CVEY",
+          "login": "CVEY",
+          "campus": "lyon",
+          "id": 253,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1379438
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AFAILLER",
+          "login": "AFAILLER",
+          "campus": "lyon",
+          "id": 254,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 359833
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CPAYET",
+          "login": "CPAYET",
+          "campus": "lyon",
+          "id": 255,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1097298
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RSILVYLELIGOIS",
+          "login": "RSILVYLELIGOIS",
+          "campus": "lyon",
+          "id": 256,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 642647
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GPETTA",
+          "login": "GPETTA",
+          "campus": "lyon",
+          "id": 257,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 813600
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LTHORENS",
+          "login": "LTHORENS",
+          "campus": "lyon",
+          "id": 259,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 431375
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MDINVILLE",
+          "login": "MDINVILLE",
+          "campus": "lyon",
+          "id": 260,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 440232
+              }
+            }
+          }
+        },
+        {
+          "firstName": "OCAN",
+          "login": "OCAN",
+          "campus": "lyon",
+          "id": 261,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 348900
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MKJIDAA",
+          "login": "MKJIDAA",
+          "campus": "lyon",
+          "id": 262,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 183488
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACHAMBAS",
+          "login": "ACHAMBAS",
+          "campus": "lyon",
+          "id": 263,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 310326
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LREYNARD",
+          "login": "LREYNARD",
+          "campus": "lyon",
+          "id": 264,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 341606
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MMEUNIER",
+          "login": "MMEUNIER",
+          "campus": "lyon",
+          "id": 265,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 400201
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FELHANI",
+          "login": "FELHANI",
+          "campus": "lyon",
+          "id": 266,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 482164
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MLECHERF",
+          "login": "MLECHERF",
+          "campus": "lyon",
+          "id": 268,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 918568
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BLY",
+          "login": "BLY",
+          "campus": "lyon",
+          "id": 270,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 324460
+              }
+            }
+          }
+        },
+        {
+          "firstName": "Thomas",
+          "login": "TDIETRICH",
+          "campus": "lyon",
+          "id": 271,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 424192
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TMEIGNIER",
+          "login": "TMEIGNIER",
+          "campus": "lyon",
+          "id": 272,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 428498
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ALYONNET",
+          "login": "ALYONNET",
+          "campus": "lyon",
+          "id": 273,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 380088
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RVITTE",
+          "login": "RVITTE",
+          "campus": "lyon",
+          "id": 274,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 419140
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABELAIDOUNI",
+          "login": "ABELAIDOUNI",
+          "campus": "lyon",
+          "id": 275,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 567916
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NTHOMAS",
+          "login": "NTHOMAS",
+          "campus": "lyon",
+          "id": 276,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 144425
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CFRASCA",
+          "login": "CFRASCA",
+          "campus": "lyon",
+          "id": 278,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 398158
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TGAULE",
+          "login": "TGAULE",
+          "campus": "lyon",
+          "id": 279,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 414294
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CBARRESI",
+          "login": "CBARRESI",
+          "campus": "lyon",
+          "id": 280,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 491254
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TBEAL",
+          "login": "TBEAL",
+          "campus": "lyon",
+          "id": 281,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 564855
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SALONSO",
+          "login": "SALONSO",
+          "campus": "lyon",
+          "id": 282,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 748173
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YVOLLAIRE",
+          "login": "YVOLLAIRE",
+          "campus": "lyon",
+          "id": 283,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 475071
+              }
+            }
+          }
+        },
+        {
+          "firstName": "YDEHHANI",
+          "login": "YDEHHANI",
+          "campus": "lyon",
+          "id": 284,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 922150
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PRAMPON",
+          "login": "PRAMPON",
+          "campus": "lyon",
+          "id": 285,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 755548
+              }
+            }
+          }
+        },
+        {
+          "firstName": "Arthur",
+          "login": "APATUREL",
+          "campus": "lyon",
+          "id": 286,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 556429
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AGUERIN",
+          "login": "AGUERIN",
+          "campus": "lyon",
+          "id": 287,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 279202
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HROUMAGNE",
+          "login": "HROUMAGNE",
+          "campus": "lyon",
+          "id": 288,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 587855
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACAPITAIN",
+          "login": "ACAPITAIN",
+          "campus": "lyon",
+          "id": 289,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 390378
+              }
+            }
+          }
+        },
+        {
+          "firstName": "QFAYOLLE",
+          "login": "QFAYOLLE",
+          "campus": "lyon",
+          "id": 290,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 679732
+              }
+            }
+          }
+        },
+        {
+          "firstName": "QJUVET",
+          "login": "QJUVET",
+          "campus": "lyon",
+          "id": 291,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 669974
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NCABOURG",
+          "login": "NCABOURG",
+          "campus": "lyon",
+          "id": 292,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 569274
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AGELIN1",
+          "login": "AGELIN1",
+          "campus": "lyon",
+          "id": 293,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 857948
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LTISSERAND2",
+          "login": "LTISSERAND2",
+          "campus": "lyon",
+          "id": 295,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 10425
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NLOSSIGNOLDRILLIEN",
+          "login": "NLOSSIGNOLDRILLIEN",
+          "campus": "lyon",
+          "id": 296,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 268501
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CBILGER",
+          "login": "CBILGER",
+          "campus": "lyon",
+          "id": 297,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 427740
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PGOURGOUILLON",
+          "login": "PGOURGOUILLON",
+          "campus": "lyon",
+          "id": 298,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 691400
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JKHALIFE",
+          "login": "JKHALIFE",
+          "campus": "lyon",
+          "id": 299,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 680335
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TLEDIEU",
+          "login": "TLEDIEU",
+          "campus": "lyon",
+          "id": 300,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 740628
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MNESTILE",
+          "login": "MNESTILE",
+          "campus": "lyon",
+          "id": 301,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 235277
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MTORRES",
+          "login": "MTORRES",
+          "campus": "lyon",
+          "id": 302,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 279514
+              }
+            }
+          }
+        },
+        {
+          "firstName": "OMAILLOT",
+          "login": "OMAILLOT",
+          "campus": "lyon",
+          "id": 303,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 383983
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TBRUYERE",
+          "login": "TBRUYERE",
+          "campus": "lyon",
+          "id": 309,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 385885
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LBARTHELEMY1",
+          "login": "LBARTHELEMY1",
+          "campus": "lyon",
+          "id": 310,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1676437
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LBOURRY",
+          "login": "LBOURRY",
+          "campus": "lyon",
+          "id": 314,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 710219
+              }
+            }
+          }
+        },
+        {
+          "firstName": "HDANSOU",
+          "login": "HDANSOU",
+          "campus": "lyon",
+          "id": 356,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 418653
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LGUNARAJAH",
+          "login": "LGUNARAJAH",
+          "campus": "lyon",
+          "id": 382,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 104100
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VRIAMON1",
+          "login": "VRIAMON1",
+          "campus": "lyon",
+          "id": 460,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 15700
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JCAETANO",
+          "login": "JCAETANO",
+          "campus": "lyon",
+          "id": 687,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 129275
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EBAILEY",
+          "login": "EBAILEY",
+          "campus": "lyon",
+          "id": 688,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 84175
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JVEZIN",
+          "login": "JVEZIN",
+          "campus": "lyon",
+          "id": 689,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 39075
+              }
+            }
+          }
+        },
+        {
+          "firstName": "APOINSIGNON",
+          "login": "APOINSIGNON",
+          "campus": "lyon",
+          "id": 690,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 86375
+              }
+            }
+          }
+        },
+        {
+          "firstName": "WSAIOUDI",
+          "login": "WSAIOUDI",
+          "campus": "lyon",
+          "id": 691,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 102225
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LHOSPICE",
+          "login": "LHOSPICE",
+          "campus": "lyon",
+          "id": 693,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 98325
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RPOTIGNON",
+          "login": "RPOTIGNON",
+          "campus": "lyon",
+          "id": 694,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 34475
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ACELEBI",
+          "login": "ACELEBI",
+          "campus": "lyon",
+          "id": 695,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 107875
+              }
+            }
+          }
+        },
+        {
+          "firstName": "EGUIGNABAUDET",
+          "login": "EGUIGNABAUDET",
+          "campus": "lyon",
+          "id": 697,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 109375
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ADUMONT2",
+          "login": "ADUMONT2",
+          "campus": "lyon",
+          "id": 698,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 101625
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RFENZL",
+          "login": "RFENZL",
+          "campus": "lyon",
+          "id": 699,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 77875
+              }
+            }
+          }
+        },
+        {
+          "firstName": "BVERNET",
+          "login": "BVERNET",
+          "campus": "lyon",
+          "id": 702,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 88825
+              }
+            }
+          }
+        },
+        {
+          "firstName": "VPAIRE",
+          "login": "VPAIRE",
+          "campus": "lyon",
+          "id": 705,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 52225
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LCOURNOLLETRODRIGUEZ",
+          "login": "LCOURNOLLETRODRIGUEZ",
+          "campus": "lyon",
+          "id": 706,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 45325
+              }
+            }
+          }
+        },
+        {
+          "firstName": "FMARQUES",
+          "login": "FMARQUES",
+          "campus": "lyon",
+          "id": 707,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 25525
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RGRENIER1",
+          "login": "RGRENIER1",
+          "campus": "lyon",
+          "id": 708,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 69725
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ABERTIER1",
+          "login": "ABERTIER1",
+          "campus": "lyon",
+          "id": 709,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 139875
+              }
+            }
+          }
+        },
+        {
+          "firstName": "UROSSI",
+          "login": "UROSSI",
+          "campus": "lyon",
+          "id": 710,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 41675
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MPOINTARD",
+          "login": "MPOINTARD",
+          "campus": "lyon",
+          "id": 711,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 54075
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RFENO",
+          "login": "RFENO",
+          "campus": "lyon",
+          "id": 712,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 46725
+              }
+            }
+          }
+        },
+        {
+          "firstName": "NSEREIR",
+          "login": "NSEREIR",
+          "campus": "lyon",
+          "id": 713,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 68275
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GSANCHEZ1",
+          "login": "GSANCHEZ1",
+          "campus": "lyon",
+          "id": 714,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 55825
+              }
+            }
+          }
+        },
+        {
+          "firstName": "CCOINDARDLAGRESLE",
+          "login": "CCOINDARDLAGRESLE",
+          "campus": "lyon",
+          "id": 715,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 57375
+              }
+            }
+          }
+        },
+        {
+          "firstName": "TTIRABOSCHI",
+          "login": "TTIRABOSCHI",
+          "campus": "lyon",
+          "id": 716,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 38225
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JDURA",
+          "login": "JDURA",
+          "campus": "lyon",
+          "id": 717,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 105425
+              }
+            }
+          }
+        },
+        {
+          "firstName": "SCAPPE",
+          "login": "SCAPPE",
+          "campus": "lyon",
+          "id": 718,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 53025
+              }
+            }
+          }
+        },
+        {
+          "firstName": "JAOUADJ",
+          "login": "JAOUADJ",
+          "campus": "lyon",
+          "id": 719,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 73175
+              }
+            }
+          }
+        },
+        {
+          "firstName": "LLACHAL",
+          "login": "LLACHAL",
+          "campus": "lyon",
+          "id": 720,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 33885
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GTHOYER",
+          "login": "GTHOYER",
+          "campus": "lyon",
+          "id": 721,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 77175
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GDENIS",
+          "login": "GDENIS",
+          "campus": "lyon",
+          "id": 723,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 195638
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MBARRE",
+          "login": "MBARRE",
+          "campus": "lyon",
+          "id": 725,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 106575
+              }
+            }
+          }
+        },
+        {
+          "firstName": "DNGUYEN2",
+          "login": "DNGUYEN2",
+          "campus": "lyon",
+          "id": 726,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 80325
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MALVINE",
+          "login": "MALVINE",
+          "campus": "lyon",
+          "id": 727,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 223115
+              }
+            }
+          }
+        },
+        {
+          "firstName": "MHENRIST",
+          "login": "MHENRIST",
+          "campus": "lyon",
+          "id": 786,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 22725
+              }
+            }
+          }
+        },
+        {
+          "firstName": "AFRANCOIS1",
+          "login": "AFRANCOIS1",
+          "campus": "lyon",
+          "id": 788,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 192064
+              }
+            }
+          }
+        },
+        {
+          "firstName": "RLAHLIMI",
+          "login": "RLAHLIMI",
+          "campus": "lyon",
+          "id": 789,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": null
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ESEGURET1",
+          "login": "ESEGURET1",
+          "campus": "lyon",
+          "id": 792,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 90875
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ADELLOSO",
+          "login": "ADELLOSO",
+          "campus": "lyon",
+          "id": 809,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 96175
+              }
+            }
+          }
+        },
+        {
+          "firstName": "GIRARDI",
+          "login": "galban",
+          "campus": "lyon",
+          "id": 1588,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 518778
+              }
+            }
+          }
+        },
+        {
+          "firstName": "PICARD",
+          "login": "pemma",
+          "campus": "lyon",
+          "id": 1583,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 243540
+              }
+            }
+          }
+        },
+        {
+          "firstName": "ERUAUD",
+          "login": "ERUAUD",
+          "campus": "lyon",
+          "id": 14,
+          "xps_aggregate": {
+            "aggregate": {
+              "sum": {
+                "amount": 1552152
+              }
+            }
+          }
+        }
+      ]

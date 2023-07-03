@@ -1,816 +1,1212 @@
 [
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/exam-03",
-        "endAt": "2020-10-15T03:05:00.136+00:00",
-        "registration": {
-            "startAt": "2020-10-01T10:05:00+00:00",
-            "eventStartAt": "2020-10-14T23:05:00+00:00",
-            "endAt": "2020-10-14T22:05:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/exam-02",
-        "endAt": "2020-09-25T11:00:00+00:00",
-        "registration": {
-            "startAt": "2020-09-24T07:00:00+00:00",
-            "eventStartAt": "2020-09-25T07:30:00+00:00",
-            "endAt": "2020-09-25T10:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/quadchecker",
-        "endAt": "2020-10-15T07:05:00+00:00",
-        "registration": {
-            "startAt": "2020-10-01T10:05:00+00:00",
-            "eventStartAt": "2020-10-15T03:05:00+00:00",
-            "endAt": "2020-10-14T22:05:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/final-exam",
-        "endAt": "2020-10-16T01:05:00.524+00:00",
-        "registration": {
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/final-exam",
+          "endAt": "2020-10-16T01:05:00.524+00:00",
+          "registration": {
             "startAt": "2020-10-08T04:05:00+00:00",
             "eventStartAt": "2020-10-15T17:05:00+00:00",
             "endAt": "2020-10-15T16:05:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/sudoku",
-        "endAt": "2020-10-12T21:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-30T10:05:00+00:00",
-            "eventStartAt": "2020-10-08T17:10:00+00:00",
-            "endAt": "2020-10-08T17:09:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/quad",
-        "endAt": "2020-09-20T21:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-17T10:05:00+00:00",
-            "eventStartAt": "2020-09-18T12:00:00+00:00",
-            "endAt": "2020-09-18T11:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-js",
-        "endAt": "2022-04-30T21:59:00+00:00",
-        "registration": {
-            "startAt": "2022-03-29T12:04:00+00:00",
-            "eventStartAt": "2022-03-29T12:11:00+00:00",
-            "endAt": "2022-03-29T12:05:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/exam-03",
-        "endAt": "2020-10-15T11:06:00.711+00:00",
-        "registration": {
-            "startAt": "2020-10-03T18:06:00+00:00",
-            "eventStartAt": "2020-10-15T07:06:00+00:00",
-            "endAt": "2020-10-15T06:06:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-js/sortable",
-        "endAt": "2022-04-18T07:59:00+00:00",
-        "registration": {
-            "startAt": "2022-04-11T13:11:00+00:00",
-            "eventStartAt": "2022-04-15T06:11:00+00:00",
-            "endAt": "2022-04-15T01:11:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-js/clonernews",
-        "endAt": "2022-04-24T21:59:00+00:00",
-        "registration": {
-            "startAt": "2022-04-18T13:11:00+00:00",
-            "eventStartAt": "2022-04-22T06:11:00+00:00",
-            "endAt": "2022-04-22T01:11:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/final-exam",
-        "endAt": "2020-10-15T09:06:00.239+00:00",
-        "registration": {
-            "startAt": "2020-10-10T12:06:00+00:00",
-            "eventStartAt": "2020-10-15T01:06:00+00:00",
-            "endAt": "2020-10-15T00:06:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/sudoku",
-        "endAt": "2020-10-12T21:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-30T10:05:00+00:00",
-            "eventStartAt": "2020-10-08T17:10:00+00:00",
-            "endAt": "2020-10-08T09:10:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/sudoku",
-        "endAt": "2020-10-12T21:59:00+00:00",
-        "registration": {
-            "startAt": "2020-09-30T10:05:00+00:00",
-            "eventStartAt": "2020-10-08T17:10:00+00:00",
-            "endAt": "2020-10-08T17:09:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/bilan-01",
-        "endAt": "2020-09-18T14:30:00.98+00:00",
-        "registration": {
-            "startAt": "2020-09-18T09:20:00+00:00",
-            "eventStartAt": "2020-09-18T12:00:00+00:00",
-            "endAt": "2020-09-18T11:58:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/quad",
-        "endAt": "2020-09-20T21:59:00.981+00:00",
-        "registration": {
-            "startAt": "2020-09-18T04:00:00+00:00",
-            "eventStartAt": "2020-09-18T12:00:00+00:00",
-            "endAt": "2020-09-18T11:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/quad",
-        "endAt": "2020-09-20T21:59:00.981+00:00",
-        "registration": {
-            "startAt": "2020-09-18T04:00:00+00:00",
-            "eventStartAt": "2020-09-18T12:00:00+00:00",
-            "endAt": "2020-09-18T11:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/bilan-01",
-        "endAt": "2020-09-18T14:30:00.981+00:00",
-        "registration": {
-            "startAt": "2020-09-18T09:21:00+00:00",
-            "eventStartAt": "2020-09-18T12:00:00+00:00",
-            "endAt": "2020-09-18T11:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/bilan-01",
-        "endAt": "2020-09-18T14:30:00.981+00:00",
-        "registration": {
-            "startAt": "2020-09-18T05:00:00+00:00",
-            "eventStartAt": "2020-09-18T12:00:00+00:00",
-            "endAt": "2020-09-18T11:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/quadchecker",
-        "endAt": "2020-10-17T15:06:00+00:00",
-        "registration": {
-            "startAt": "2020-10-03T18:06:00+00:00",
-            "eventStartAt": "2020-10-15T11:06:00+00:00",
-            "endAt": "2020-10-15T06:06:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/exam-02",
-        "endAt": "2020-09-25T11:00:00+00:00",
-        "registration": {
-            "startAt": "2020-09-24T07:00:00+00:00",
-            "eventStartAt": "2020-09-25T07:30:00+00:00",
-            "endAt": "2020-09-25T07:29:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/exam-02",
-        "endAt": "2020-09-25T11:00:00+00:00",
-        "registration": {
-            "startAt": "2020-09-24T07:00:00+00:00",
-            "eventStartAt": "2020-09-25T07:30:00+00:00",
-            "endAt": "2020-09-25T10:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/final-exam",
-        "endAt": "2020-10-15T08:59:00.706+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/final-exam",
+          "endAt": "2020-10-15T08:59:00.706+00:00",
+          "registration": {
             "startAt": "2020-10-10T11:59:00+00:00",
             "eventStartAt": "2020-10-15T00:59:00+00:00",
             "endAt": "2020-10-14T23:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/exam-03",
-        "endAt": "2020-10-15T10:59:00.133+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/exam-02",
+          "endAt": "2020-09-25T11:00:00+00:00",
+          "registration": {
+            "startAt": "2020-09-24T07:00:00+00:00",
+            "eventStartAt": "2020-09-25T07:30:00+00:00",
+            "endAt": "2020-09-25T10:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/exam-02",
+          "endAt": "2020-09-25T11:00:00+00:00",
+          "registration": {
+            "startAt": "2020-09-24T07:00:00+00:00",
+            "eventStartAt": "2020-09-25T07:30:00+00:00",
+            "endAt": "2020-09-25T07:29:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/exam-02",
+          "endAt": "2020-09-25T11:00:00+00:00",
+          "registration": {
+            "startAt": "2020-09-24T07:00:00+00:00",
+            "eventStartAt": "2020-09-25T07:30:00+00:00",
+            "endAt": "2020-09-25T10:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go",
+          "endAt": "2020-10-10T01:05:00+00:00",
+          "registration": {
+            "startAt": "2020-09-14T09:05:00.168658+00:00",
+            "eventStartAt": "2020-09-14T09:05:00.168658+00:00",
+            "endAt": "2020-09-14T09:05:00.168658+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/quad",
+          "endAt": "2020-09-20T21:59:00.981+00:00",
+          "registration": {
+            "startAt": "2020-09-18T04:00:00+00:00",
+            "eventStartAt": "2020-09-18T12:00:00+00:00",
+            "endAt": "2020-09-18T11:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/quad",
+          "endAt": "2020-09-20T21:59:00.981+00:00",
+          "registration": {
+            "startAt": "2020-09-18T04:00:00+00:00",
+            "eventStartAt": "2020-09-18T12:00:00+00:00",
+            "endAt": "2020-09-18T11:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/bilan-01",
+          "endAt": "2020-09-18T14:30:00.98+00:00",
+          "registration": {
+            "startAt": "2020-09-18T09:20:00+00:00",
+            "eventStartAt": "2020-09-18T12:00:00+00:00",
+            "endAt": "2020-09-18T11:58:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/bilan-01",
+          "endAt": "2020-09-18T14:30:00.981+00:00",
+          "registration": {
+            "startAt": "2020-09-18T09:21:00+00:00",
+            "eventStartAt": "2020-09-18T12:00:00+00:00",
+            "endAt": "2020-09-18T11:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/bilan-01",
+          "endAt": "2020-09-18T14:30:00.981+00:00",
+          "registration": {
+            "startAt": "2020-09-18T05:00:00+00:00",
+            "eventStartAt": "2020-09-18T12:00:00+00:00",
+            "endAt": "2020-09-18T11:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/quad",
+          "endAt": "2020-09-20T21:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-17T10:05:00+00:00",
+            "eventStartAt": "2020-09-18T12:00:00+00:00",
+            "endAt": "2020-09-18T11:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/exam-03",
+          "endAt": "2020-10-15T03:05:00.136+00:00",
+          "registration": {
+            "startAt": "2020-10-01T10:05:00+00:00",
+            "eventStartAt": "2020-10-14T23:05:00+00:00",
+            "endAt": "2020-10-14T22:05:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/quadchecker",
+          "endAt": "2020-10-15T07:05:00+00:00",
+          "registration": {
+            "startAt": "2020-10-01T10:05:00+00:00",
+            "eventStartAt": "2020-10-15T03:05:00+00:00",
+            "endAt": "2020-10-14T22:05:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/final-exam",
+          "endAt": "2020-10-15T09:06:00.239+00:00",
+          "registration": {
+            "startAt": "2020-10-10T12:06:00+00:00",
+            "eventStartAt": "2020-10-15T01:06:00+00:00",
+            "endAt": "2020-10-15T00:06:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/exam-03",
+          "endAt": "2020-10-15T10:59:00.133+00:00",
+          "registration": {
             "startAt": "2020-10-03T17:59:00+00:00",
             "eventStartAt": "2020-10-15T06:59:00+00:00",
             "endAt": "2020-10-15T05:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go/quadchecker",
-        "endAt": "2020-10-17T14:59:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/sudoku",
+          "endAt": "2020-10-12T21:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-30T10:05:00+00:00",
+            "eventStartAt": "2020-10-08T17:10:00+00:00",
+            "endAt": "2020-10-08T17:09:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/sudoku",
+          "endAt": "2020-10-12T21:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-30T10:05:00+00:00",
+            "eventStartAt": "2020-10-08T17:10:00+00:00",
+            "endAt": "2020-10-08T09:10:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/sudoku",
+          "endAt": "2020-10-12T21:59:00+00:00",
+          "registration": {
+            "startAt": "2020-09-30T10:05:00+00:00",
+            "eventStartAt": "2020-10-08T17:10:00+00:00",
+            "endAt": "2020-10-08T17:09:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/exam-03",
+          "endAt": "2020-10-15T11:06:00.711+00:00",
+          "registration": {
+            "startAt": "2020-10-03T18:06:00+00:00",
+            "eventStartAt": "2020-10-15T07:06:00+00:00",
+            "endAt": "2020-10-15T06:06:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/quadchecker",
+          "endAt": "2020-10-17T15:06:00+00:00",
+          "registration": {
+            "startAt": "2020-10-03T18:06:00+00:00",
+            "eventStartAt": "2020-10-15T11:06:00+00:00",
+            "endAt": "2020-10-15T06:06:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go/quadchecker",
+          "endAt": "2020-10-17T14:59:00+00:00",
+          "registration": {
             "startAt": "2020-10-03T17:59:00+00:00",
             "eventStartAt": "2020-10-15T10:59:00+00:00",
             "endAt": "2020-10-15T05:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-labo/final-exam",
-        "endAt": "2020-12-07T14:50:04.193+00:00",
-        "registration": {
-            "startAt": "2020-12-05T17:50:03.571+00:00",
-            "eventStartAt": "2020-12-07T06:50:03.571+00:00",
-            "endAt": "2020-12-07T05:50:03.571+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/div-01/piscine-js",
-        "endAt": "2021-06-01T17:10:00+00:00",
-        "registration": {
-            "startAt": "2021-02-03T21:45:00+00:00",
-            "eventStartAt": "2021-02-04T08:15:00+00:00",
-            "endAt": "2021-02-04T08:15:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/div-01/piscine-js",
-        "endAt": "2021-06-01T17:10:00+00:00",
-        "registration": {
-            "startAt": "2021-02-03T21:45:00+00:00",
-            "eventStartAt": "2021-02-04T08:15:00+00:00",
-            "endAt": "2021-02-04T08:15:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/div-01/piscine-js",
-        "endAt": "2021-06-01T11:45:00+00:00",
-        "registration": {
-            "startAt": "2021-02-03T21:45:00+00:00",
-            "eventStartAt": "2021-02-04T08:15:00+00:00",
-            "endAt": "2021-02-04T08:15:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go",
-        "endAt": "2020-10-10T01:05:00+00:00",
-        "registration": {
-            "startAt": "2020-09-14T09:05:00.168658+00:00",
-            "eventStartAt": "2020-09-14T09:05:00.168658+00:00",
-            "endAt": "2020-09-14T09:05:00.168658+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": null,
-        "path": "/pyc/div-01",
-        "endAt": "2024-09-05T13:16:00+00:00",
-        "registration": {
-            "startAt": "2020-11-05T13:00:00+00:00",
-            "eventStartAt": "2020-11-05T13:10:00+00:00",
-            "endAt": "2020-11-05T13:10:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/exam-01",
-        "endAt": "2021-06-05T01:15:00.399+00:00",
-        "registration": {
-            "startAt": "2021-06-03T08:15:00.213+00:00",
-            "eventStartAt": "2021-06-04T21:15:00.213+00:00",
-            "endAt": "2021-06-04T20:15:00.213+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/exam-02",
-        "endAt": "2021-06-12T01:15:00.64+00:00",
-        "registration": {
-            "startAt": "2021-06-10T08:15:00.213+00:00",
-            "eventStartAt": "2021-06-11T21:15:00.213+00:00",
-            "endAt": "2021-06-11T20:15:00.213+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/web-discovery",
-        "endAt": "2022-06-25T01:21:00.79+00:00",
-        "registration": {
-            "startAt": "2022-05-30T08:51:00+00:00",
-            "eventStartAt": "2022-05-30T08:59:00+00:00",
-            "endAt": "2022-05-30T08:58:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/exam-03",
-        "endAt": "2021-06-19T01:15:00.83+00:00",
-        "registration": {
-            "startAt": "2021-06-17T08:15:00.213+00:00",
-            "eventStartAt": "2021-06-18T21:15:00.213+00:00",
-            "endAt": "2021-06-18T20:15:00.213+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/final-exam",
-        "endAt": "2021-06-25T23:15:00.821+00:00",
-        "registration": {
-            "startAt": "2021-06-24T02:15:00.213+00:00",
-            "eventStartAt": "2021-06-25T15:15:00.213+00:00",
-            "endAt": "2021-06-25T14:15:00.213+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/quad",
-        "endAt": "2021-06-07T05:15:00.224+00:00",
-        "registration": {
-            "startAt": "2021-06-03T08:15:00.213+00:00",
-            "eventStartAt": "2021-06-05T01:15:00.213+00:00",
-            "endAt": "2021-06-04T20:15:00.213+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/c-sharp",
-        "endAt": "2022-07-24T05:44:00+00:00",
-        "registration": {
-            "startAt": "2022-06-21T13:44:00+00:00",
-            "eventStartAt": "2022-06-27T13:44:00+00:00",
-            "endAt": "2022-06-22T13:44:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/quadchecker",
-        "endAt": "2021-06-21T05:15:00.719+00:00",
-        "registration": {
-            "startAt": "2021-06-17T08:15:00.213+00:00",
-            "eventStartAt": "2021-06-19T01:15:00.213+00:00",
-            "endAt": "2021-06-18T20:15:00.213+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/sudoku",
-        "endAt": "2021-06-14T05:15:00.809+00:00",
-        "registration": {
-            "startAt": "2021-06-10T08:15:00.213+00:00",
-            "eventStartAt": "2021-06-12T01:15:00.213+00:00",
-            "endAt": "2021-06-11T20:15:00.213+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/exam-01",
-        "endAt": "2021-06-12T01:15:00.64+00:00",
-        "registration": {
-            "startAt": "2021-06-10T08:15:00.122+00:00",
-            "eventStartAt": "2021-06-11T21:15:00.122+00:00",
-            "endAt": "2021-06-11T20:15:00.122+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/exam-02",
-        "endAt": "2021-06-19T01:15:00.83+00:00",
-        "registration": {
-            "startAt": "2021-06-17T08:15:00.122+00:00",
-            "eventStartAt": "2021-06-18T21:15:00.122+00:00",
-            "endAt": "2021-06-18T20:15:00.122+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/exam-03",
-        "endAt": "2021-06-26T01:15:00.181+00:00",
-        "registration": {
-            "startAt": "2021-06-24T08:15:00.122+00:00",
-            "eventStartAt": "2021-06-25T21:15:00.122+00:00",
-            "endAt": "2021-06-25T20:15:00.122+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/final-exam",
-        "endAt": "2021-07-02T23:15:00.199+00:00",
-        "registration": {
-            "startAt": "2021-07-01T02:15:00.122+00:00",
-            "eventStartAt": "2021-07-02T15:15:00.122+00:00",
-            "endAt": "2021-07-02T14:15:00.122+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/quad",
-        "endAt": "2021-06-14T05:15:00.809+00:00",
-        "registration": {
-            "startAt": "2021-06-10T08:15:00.122+00:00",
-            "eventStartAt": "2021-06-12T01:15:00.122+00:00",
-            "endAt": "2021-06-11T20:15:00.122+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/quadchecker",
-        "endAt": "2021-06-28T05:15:00.664+00:00",
-        "registration": {
-            "startAt": "2021-06-24T08:15:00.122+00:00",
-            "eventStartAt": "2021-06-26T01:15:00.122+00:00",
-            "endAt": "2021-06-25T20:15:00.122+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original/sudoku",
-        "endAt": "2021-06-21T05:15:00.719+00:00",
-        "registration": {
-            "startAt": "2021-06-17T08:15:00.122+00:00",
-            "eventStartAt": "2021-06-19T01:15:00.122+00:00",
-            "endAt": "2021-06-18T20:15:00.122+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-web-discovery/carbon-copy",
-        "endAt": "2021-07-06T05:15:01.12+00:00",
-        "registration": {
-            "startAt": "2021-07-03T08:15:00.593+00:00",
-            "eventStartAt": "2021-07-05T01:15:00.593+00:00",
-            "endAt": "2021-07-04T20:15:00.593+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-web-discovery/ephemeris",
-        "endAt": "2021-07-13T05:15:01.059+00:00",
-        "registration": {
-            "startAt": "2021-07-09T08:15:00.593+00:00",
-            "eventStartAt": "2021-07-11T01:15:00.593+00:00",
-            "endAt": "2021-07-10T20:15:00.593+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original",
-        "endAt": "2021-06-25T23:15:00.213+00:00",
-        "registration": {
-            "startAt": "2021-05-27T07:15:00+00:00",
-            "eventStartAt": "2021-05-31T07:15:00+00:00",
-            "endAt": "2021-05-30T21:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/go-challenge/final-exam",
-        "endAt": "2021-11-19T16:20:00.984+00:00",
-        "registration": {
-            "startAt": "2021-11-17T19:00:00+00:00",
-            "eventStartAt": "2021-11-19T08:20:00+00:00",
-            "endAt": "2021-11-19T08:00:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/go-challenge/exam-02",
-        "endAt": "2021-10-29T11:20:00.496+00:00",
-        "registration": {
-            "startAt": "2021-10-27T18:00:00+00:00",
-            "eventStartAt": "2021-10-29T07:20:00+00:00",
-            "endAt": "2021-10-29T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/go-challenge/exam-03",
-        "endAt": "2021-11-05T12:20:24.12+00:00",
-        "registration": {
-            "startAt": "2021-11-03T19:00:00+00:00",
-            "eventStartAt": "2021-11-05T08:18:00+00:00",
-            "endAt": "2021-11-05T08:00:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/go-challenge/exam-01",
-        "endAt": "2021-10-22T16:20:00.174+00:00",
-        "registration": {
-            "startAt": "2021-10-20T18:00:00+00:00",
-            "eventStartAt": "2021-10-22T12:20:00+00:00",
-            "endAt": "2021-10-22T12:19:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/go-challenge/quad",
-        "endAt": "2021-10-25T06:45:00+00:00",
-        "registration": {
-            "startAt": "2021-10-20T17:00:00+00:00",
-            "eventStartAt": "2021-10-22T13:00:00+00:00",
-            "endAt": "2021-10-22T13:00:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/go-challenge/rattrapage",
-        "endAt": "2021-11-08T17:01:00.019+00:00",
-        "registration": {
-            "startAt": "2021-11-08T08:13:00+00:00",
-            "eventStartAt": "2021-11-08T13:01:00+00:00",
-            "endAt": "2021-11-08T13:00:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go",
-        "endAt": "2020-10-10T01:05:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go",
+          "endAt": "2020-10-10T01:05:00+00:00",
+          "registration": {
             "startAt": "2020-09-14T08:50:00+00:00",
             "eventStartAt": "2020-09-14T13:02:00+00:00",
             "endAt": "2020-09-14T12:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go",
-        "endAt": "2020-10-10T01:05:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go",
+          "endAt": "2020-10-10T01:05:00+00:00",
+          "registration": {
             "startAt": "2020-09-14T09:05:00.168658+00:00",
             "eventStartAt": "2020-09-14T09:05:00.168658+00:00",
             "endAt": "2020-09-14T09:05:00.168658+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": null,
-        "path": "/pyc/div-01",
-        "endAt": "2404-02-26T18:00:00+00:00",
-        "registration": {
-            "startAt": "2020-11-04T18:50:00+00:00",
-            "eventStartAt": "2020-11-05T07:45:00+00:00",
-            "endAt": "2020-11-04T19:00:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": null,
-        "path": "/pyc/div-01",
-        "endAt": "2024-09-05T13:16:00+00:00",
-        "registration": {
-            "startAt": "2020-11-05T13:00:00+00:00",
-            "eventStartAt": "2020-11-05T13:10:00+00:00",
-            "endAt": "2020-11-05T13:10:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-labo",
-        "endAt": "2020-12-07T14:50:00+00:00",
-        "registration": {
-            "startAt": "2020-11-11T07:50:00+00:00",
-            "eventStartAt": "2020-11-11T08:00:00+00:00",
-            "endAt": "2020-11-11T07:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-go-original",
-        "endAt": "2021-07-02T23:15:00.122+00:00",
-        "registration": {
-            "startAt": "2021-06-01T08:10:00+00:00",
-            "eventStartAt": "2021-06-07T07:15:00+00:00",
-            "endAt": "2021-06-07T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-web-discovery",
-        "endAt": "2021-07-24T23:15:00.593+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-web-discovery",
+          "endAt": "2021-07-24T23:15:00.593+00:00",
+          "registration": {
             "startAt": "2021-06-28T12:20:00+00:00",
             "eventStartAt": "2021-06-29T07:15:00+00:00",
             "endAt": "2021-06-29T07:00:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-sql",
-        "endAt": "2021-09-27T08:13:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": null,
+          "path": "/pyc/div-01",
+          "endAt": "2024-09-05T13:16:00+00:00",
+          "registration": {
+            "startAt": "2020-11-05T13:00:00+00:00",
+            "eventStartAt": "2020-11-05T13:10:00+00:00",
+            "endAt": "2020-11-05T13:10:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": null,
+          "path": "/pyc/div-01",
+          "endAt": "2024-09-05T13:16:00+00:00",
+          "registration": {
+            "startAt": "2020-11-05T13:00:00+00:00",
+            "eventStartAt": "2020-11-05T13:10:00+00:00",
+            "endAt": "2020-11-05T13:10:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-labo",
+          "endAt": "2020-12-07T14:50:00+00:00",
+          "registration": {
+            "startAt": "2020-11-11T07:50:00+00:00",
+            "eventStartAt": "2020-11-11T08:00:00+00:00",
+            "endAt": "2020-11-11T07:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-labo/final-exam",
+          "endAt": "2020-12-07T14:50:04.193+00:00",
+          "registration": {
+            "startAt": "2020-12-05T17:50:03.571+00:00",
+            "eventStartAt": "2020-12-07T06:50:03.571+00:00",
+            "endAt": "2020-12-07T05:50:03.571+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": null,
+          "path": "/pyc/div-01",
+          "endAt": "2404-02-26T18:00:00+00:00",
+          "registration": {
+            "startAt": "2020-11-04T18:50:00+00:00",
+            "eventStartAt": "2020-11-05T07:45:00+00:00",
+            "endAt": "2020-11-04T19:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/exam-01",
+          "endAt": "2021-06-05T01:15:00.399+00:00",
+          "registration": {
+            "startAt": "2021-06-03T08:15:00.213+00:00",
+            "eventStartAt": "2021-06-04T21:15:00.213+00:00",
+            "endAt": "2021-06-04T20:15:00.213+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/quad",
+          "endAt": "2021-06-07T05:15:00.224+00:00",
+          "registration": {
+            "startAt": "2021-06-03T08:15:00.213+00:00",
+            "eventStartAt": "2021-06-05T01:15:00.213+00:00",
+            "endAt": "2021-06-04T20:15:00.213+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/div-01/piscine-js",
+          "endAt": "2021-06-01T11:45:00+00:00",
+          "registration": {
+            "startAt": "2021-02-03T21:45:00+00:00",
+            "eventStartAt": "2021-02-04T08:15:00+00:00",
+            "endAt": "2021-02-04T08:15:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/div-01/piscine-js",
+          "endAt": "2021-06-01T17:10:00+00:00",
+          "registration": {
+            "startAt": "2021-02-03T21:45:00+00:00",
+            "eventStartAt": "2021-02-04T08:15:00+00:00",
+            "endAt": "2021-02-04T08:15:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/div-01/piscine-js",
+          "endAt": "2021-06-01T17:10:00+00:00",
+          "registration": {
+            "startAt": "2021-02-03T21:45:00+00:00",
+            "eventStartAt": "2021-02-04T08:15:00+00:00",
+            "endAt": "2021-02-04T08:15:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/exam-02",
+          "endAt": "2021-06-12T01:15:00.64+00:00",
+          "registration": {
+            "startAt": "2021-06-10T08:15:00.213+00:00",
+            "eventStartAt": "2021-06-11T21:15:00.213+00:00",
+            "endAt": "2021-06-11T20:15:00.213+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/exam-01",
+          "endAt": "2021-06-12T01:15:00.64+00:00",
+          "registration": {
+            "startAt": "2021-06-10T08:15:00.122+00:00",
+            "eventStartAt": "2021-06-11T21:15:00.122+00:00",
+            "endAt": "2021-06-11T20:15:00.122+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/sudoku",
+          "endAt": "2021-06-14T05:15:00.809+00:00",
+          "registration": {
+            "startAt": "2021-06-10T08:15:00.213+00:00",
+            "eventStartAt": "2021-06-12T01:15:00.213+00:00",
+            "endAt": "2021-06-11T20:15:00.213+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/quad",
+          "endAt": "2021-06-14T05:15:00.809+00:00",
+          "registration": {
+            "startAt": "2021-06-10T08:15:00.122+00:00",
+            "eventStartAt": "2021-06-12T01:15:00.122+00:00",
+            "endAt": "2021-06-11T20:15:00.122+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/exam-03",
+          "endAt": "2021-06-19T01:15:00.83+00:00",
+          "registration": {
+            "startAt": "2021-06-17T08:15:00.213+00:00",
+            "eventStartAt": "2021-06-18T21:15:00.213+00:00",
+            "endAt": "2021-06-18T20:15:00.213+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/exam-02",
+          "endAt": "2021-06-19T01:15:00.83+00:00",
+          "registration": {
+            "startAt": "2021-06-17T08:15:00.122+00:00",
+            "eventStartAt": "2021-06-18T21:15:00.122+00:00",
+            "endAt": "2021-06-18T20:15:00.122+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/quadchecker",
+          "endAt": "2021-06-21T05:15:00.719+00:00",
+          "registration": {
+            "startAt": "2021-06-17T08:15:00.213+00:00",
+            "eventStartAt": "2021-06-19T01:15:00.213+00:00",
+            "endAt": "2021-06-18T20:15:00.213+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/sudoku",
+          "endAt": "2021-06-21T05:15:00.719+00:00",
+          "registration": {
+            "startAt": "2021-06-17T08:15:00.122+00:00",
+            "eventStartAt": "2021-06-19T01:15:00.122+00:00",
+            "endAt": "2021-06-18T20:15:00.122+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original",
+          "endAt": "2021-06-25T23:15:00.213+00:00",
+          "registration": {
+            "startAt": "2021-05-27T07:15:00+00:00",
+            "eventStartAt": "2021-05-31T07:15:00+00:00",
+            "endAt": "2021-05-30T21:59:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/final-exam",
+          "endAt": "2021-06-25T23:15:00.821+00:00",
+          "registration": {
+            "startAt": "2021-06-24T02:15:00.213+00:00",
+            "eventStartAt": "2021-06-25T15:15:00.213+00:00",
+            "endAt": "2021-06-25T14:15:00.213+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/exam-03",
+          "endAt": "2021-06-26T01:15:00.181+00:00",
+          "registration": {
+            "startAt": "2021-06-24T08:15:00.122+00:00",
+            "eventStartAt": "2021-06-25T21:15:00.122+00:00",
+            "endAt": "2021-06-25T20:15:00.122+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/quadchecker",
+          "endAt": "2021-06-28T05:15:00.664+00:00",
+          "registration": {
+            "startAt": "2021-06-24T08:15:00.122+00:00",
+            "eventStartAt": "2021-06-26T01:15:00.122+00:00",
+            "endAt": "2021-06-25T20:15:00.122+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original",
+          "endAt": "2021-07-02T23:15:00.122+00:00",
+          "registration": {
+            "startAt": "2021-06-01T08:10:00+00:00",
+            "eventStartAt": "2021-06-07T07:15:00+00:00",
+            "endAt": "2021-06-07T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-go-original/final-exam",
+          "endAt": "2021-07-02T23:15:00.199+00:00",
+          "registration": {
+            "startAt": "2021-07-01T02:15:00.122+00:00",
+            "eventStartAt": "2021-07-02T15:15:00.122+00:00",
+            "endAt": "2021-07-02T14:15:00.122+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-web-discovery/carbon-copy",
+          "endAt": "2021-07-06T05:15:01.12+00:00",
+          "registration": {
+            "startAt": "2021-07-03T08:15:00.593+00:00",
+            "eventStartAt": "2021-07-05T01:15:00.593+00:00",
+            "endAt": "2021-07-04T20:15:00.593+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-web-discovery/ephemeris",
+          "endAt": "2021-07-13T05:15:01.059+00:00",
+          "registration": {
+            "startAt": "2021-07-09T08:15:00.593+00:00",
+            "eventStartAt": "2021-07-11T01:15:00.593+00:00",
+            "endAt": "2021-07-10T20:15:00.593+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-sql",
+          "endAt": "2021-09-27T08:13:00+00:00",
+          "registration": {
             "startAt": "2021-09-13T07:50:00+00:00",
             "eventStartAt": "2021-09-13T07:56:00+00:00",
             "endAt": "2021-09-13T07:55:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/go-challenge",
-        "endAt": "2021-11-13T08:46:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/go-challenge",
+          "endAt": "2021-11-13T08:46:00+00:00",
+          "registration": {
             "startAt": "2021-10-13T06:30:00+00:00",
             "eventStartAt": "2021-10-13T09:46:00+00:00",
             "endAt": "2021-10-13T09:45:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/web-discovery",
-        "endAt": "2021-11-20T01:46:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/go-challenge/exam-02",
+          "endAt": "2021-10-29T11:20:00.496+00:00",
+          "registration": {
+            "startAt": "2021-10-27T18:00:00+00:00",
+            "eventStartAt": "2021-10-29T07:20:00+00:00",
+            "endAt": "2021-10-29T07:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/go-challenge/final-exam",
+          "endAt": "2021-11-19T16:20:00.984+00:00",
+          "registration": {
+            "startAt": "2021-11-17T19:00:00+00:00",
+            "eventStartAt": "2021-11-19T08:20:00+00:00",
+            "endAt": "2021-11-19T08:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/go-challenge/exam-01",
+          "endAt": "2021-10-22T16:20:00.174+00:00",
+          "registration": {
+            "startAt": "2021-10-20T18:00:00+00:00",
+            "eventStartAt": "2021-10-22T12:20:00+00:00",
+            "endAt": "2021-10-22T12:19:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/go-challenge/quad",
+          "endAt": "2021-10-25T06:45:00+00:00",
+          "registration": {
+            "startAt": "2021-10-20T17:00:00+00:00",
+            "eventStartAt": "2021-10-22T13:00:00+00:00",
+            "endAt": "2021-10-22T13:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/go-challenge/exam-03",
+          "endAt": "2021-11-05T12:20:24.12+00:00",
+          "registration": {
+            "startAt": "2021-11-03T19:00:00+00:00",
+            "eventStartAt": "2021-11-05T08:18:00+00:00",
+            "endAt": "2021-11-05T08:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/web-discovery",
+          "endAt": "2021-11-20T01:46:00+00:00",
+          "registration": {
             "startAt": "2021-10-25T08:45:00+00:00",
             "eventStartAt": "2021-10-25T08:58:00+00:00",
             "endAt": "2021-10-25T08:57:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/web-disco-certif",
-        "endAt": "2021-11-22T04:22:00.965+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/go-challenge/rattrapage",
+          "endAt": "2021-11-08T17:01:00.019+00:00",
+          "registration": {
+            "startAt": "2021-11-08T08:13:00+00:00",
+            "eventStartAt": "2021-11-08T13:01:00+00:00",
+            "endAt": "2021-11-08T13:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/web-disco-certif",
+          "endAt": "2021-11-22T04:22:00.965+00:00",
+          "registration": {
             "startAt": "2021-10-27T12:20:00+00:00",
             "eventStartAt": "2021-10-27T12:22:00+00:00",
             "endAt": "2021-10-27T12:21:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/c-sharp",
-        "endAt": "2021-11-30T19:30:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/c-sharp",
+          "endAt": "2021-11-30T19:30:00+00:00",
+          "registration": {
             "startAt": "2021-11-15T07:45:00+00:00",
             "eventStartAt": "2021-11-15T07:45:00+00:00",
             "endAt": "2021-11-15T07:45:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/projet-paris-2122",
-        "endAt": "2022-07-15T07:55:00+00:00",
-        "registration": {
-            "startAt": "2021-11-19T13:20:00+00:00",
-            "eventStartAt": "2021-11-19T13:20:00+00:00",
-            "endAt": "2021-11-19T13:20:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/challenge-php",
-        "endAt": "2022-01-31T17:00:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-php",
+          "endAt": "2022-01-31T17:00:00+00:00",
+          "registration": {
             "startAt": "2021-12-05T17:18:00+00:00",
             "eventStartAt": "2021-12-05T17:19:00+00:00",
             "endAt": "2021-12-05T17:18:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": null,
-        "path": "/pyc/piscine-go-22-23",
-        "endAt": "2022-10-03T00:00:00+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-01",
+          "endAt": "2022-12-06T18:14:07.259+00:00",
+          "registration": {
+            "startAt": "2022-12-05T01:14:06.257+00:00",
+            "eventStartAt": "2022-12-06T14:14:06.257+00:00",
+            "endAt": "2022-12-06T13:14:06.257+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/quad",
+          "endAt": "2022-12-13T12:14:06.258+00:00",
+          "registration": {
+            "startAt": "2022-12-09T15:14:06.257+00:00",
+            "eventStartAt": "2022-12-11T08:14:06.257+00:00",
+            "endAt": "2022-12-11T03:14:06.257+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js/sortable",
+          "endAt": "2022-04-18T07:59:00+00:00",
+          "registration": {
+            "startAt": "2022-04-11T13:11:00+00:00",
+            "eventStartAt": "2022-04-15T06:11:00+00:00",
+            "endAt": "2022-04-15T01:11:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js/clonernews",
+          "endAt": "2022-04-24T21:59:00+00:00",
+          "registration": {
+            "startAt": "2022-04-18T13:11:00+00:00",
+            "eventStartAt": "2022-04-22T06:11:00+00:00",
+            "endAt": "2022-04-22T01:11:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js",
+          "endAt": "2022-04-30T21:59:00+00:00",
+          "registration": {
+            "startAt": "2022-03-29T12:04:00+00:00",
+            "eventStartAt": "2022-03-29T12:11:00+00:00",
+            "endAt": "2022-03-29T12:05:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js/sortable",
+          "endAt": "2022-12-20T11:30:01.547+00:00",
+          "registration": {
+            "startAt": "2022-12-16T14:30:00.609+00:00",
+            "eventStartAt": "2022-12-18T07:30:00.609+00:00",
+            "endAt": "2022-12-18T02:30:00.609+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js/clonernews",
+          "endAt": "2022-12-27T11:30:01.084+00:00",
+          "registration": {
+            "startAt": "2022-12-23T14:30:00.609+00:00",
+            "eventStartAt": "2022-12-25T07:30:00.609+00:00",
+            "endAt": "2022-12-25T02:30:00.609+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/projet-paris-2122",
+          "endAt": "2022-07-15T07:55:00+00:00",
+          "registration": {
+            "startAt": "2021-11-19T13:20:00+00:00",
+            "eventStartAt": "2021-11-19T13:20:00+00:00",
+            "endAt": "2021-11-19T13:20:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/web-discovery",
+          "endAt": "2022-06-25T01:21:00.79+00:00",
+          "registration": {
+            "startAt": "2022-05-30T08:51:00+00:00",
+            "eventStartAt": "2022-05-30T08:59:00+00:00",
+            "endAt": "2022-05-30T08:58:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/c-sharp",
+          "endAt": "2022-07-24T05:44:00+00:00",
+          "registration": {
+            "startAt": "2022-06-21T13:44:00+00:00",
+            "eventStartAt": "2022-06-27T13:44:00+00:00",
+            "endAt": "2022-06-22T13:44:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js",
+          "endAt": "2023-01-01T05:30:00.609+00:00",
+          "registration": {
+            "startAt": "2022-12-06T13:27:00+00:00",
+            "eventStartAt": "2022-12-06T13:30:00+00:00",
+            "endAt": "2022-12-06T13:29:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-csharp-22-23",
+          "endAt": "2023-02-04T00:04:00+00:00",
+          "registration": {
+            "startAt": "2023-01-09T08:04:00+00:00",
+            "eventStartAt": "2023-01-09T08:04:00+00:00",
+            "endAt": "2023-01-09T08:04:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-php-22-23",
+          "endAt": "2023-01-02T23:01:00+00:00",
+          "registration": {
+            "startAt": "2022-11-29T10:12:00+00:00",
+            "eventStartAt": "2022-11-29T10:12:00+00:00",
+            "endAt": "2022-11-29T10:12:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23",
+          "endAt": "2022-10-03T00:00:00+00:00",
+          "registration": {
             "startAt": "2022-09-05T06:45:00+00:00",
             "eventStartAt": "2022-09-07T08:00:00+00:00",
             "endAt": "2022-09-07T07:59:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/piscine-go-22-23/quad",
-        "endAt": "2022-09-12T06:45:00.307+00:00",
-        "registration": {
-            "startAt": "2022-09-09T08:00:00+00:00",
-            "eventStartAt": "2022-09-10T06:45:00+00:00",
-            "endAt": "2022-09-10T06:45:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": null,
-        "path": "/pyc/piscine-ux-cread",
-        "endAt": "2022-10-08T23:31:00+00:00",
-        "registration": {
-            "startAt": "2022-09-13T06:45:00+00:00",
-            "eventStartAt": "2022-09-13T07:13:00+00:00",
-            "endAt": "2022-09-13T07:13:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": "done",
-        "path": "/pyc/piscine-go-22-23/exam-01",
-        "endAt": "2022-09-09T10:45:00.753+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-sql",
+          "endAt": "2022-10-31T09:46:45.052+00:00",
+          "registration": {
+            "startAt": "2022-09-30T08:09:00+00:00",
+            "eventStartAt": "2022-10-03T06:53:00+00:00",
+            "endAt": "2022-09-30T08:09:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-01",
+          "endAt": "2022-09-09T10:45:00.753+00:00",
+          "registration": {
             "startAt": "2022-09-08T06:45:00+00:00",
             "eventStartAt": "2022-09-09T06:45:00+00:00",
             "endAt": "2022-09-09T06:45:00+00:00"
-        }
-    },
-    {
-        "campus": "pyc",
-        "status": null,
-        "path": "/pyc/parcours-illustrator",
-        "endAt": "2022-09-19T11:40:00.532+00:00",
-        "registration": {
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/quad",
+          "endAt": "2022-09-12T06:45:00.307+00:00",
+          "registration": {
+            "startAt": "2022-09-09T08:00:00+00:00",
+            "eventStartAt": "2022-09-10T06:45:00+00:00",
+            "endAt": "2022-09-10T06:45:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-ux-cread",
+          "endAt": "2022-10-08T23:31:00+00:00",
+          "registration": {
+            "startAt": "2022-09-13T06:45:00+00:00",
+            "eventStartAt": "2022-09-13T07:13:00+00:00",
+            "endAt": "2022-09-13T07:13:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-02",
+          "endAt": "2022-09-16T10:45:00+00:00",
+          "registration": {
+            "startAt": "2022-09-15T06:45:00+00:00",
+            "eventStartAt": "2022-09-16T06:45:00+00:00",
+            "endAt": "2022-09-16T06:45:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-02",
+          "endAt": "2022-09-16T11:42:54.286+00:00",
+          "registration": {
+            "startAt": "2022-09-16T07:42:00+00:00",
+            "eventStartAt": "2022-09-16T07:42:00+00:00",
+            "endAt": "2022-09-16T07:42:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/projet-paris-2223",
+          "endAt": "2023-02-21T09:07:00+00:00",
+          "registration": {
+            "startAt": "2022-10-04T09:05:00+00:00",
+            "eventStartAt": "2022-10-04T09:06:00+00:00",
+            "endAt": "2022-10-04T09:05:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/parcours-illustrator",
+          "endAt": "2022-09-19T11:40:00.532+00:00",
+          "registration": {
             "startAt": "2022-09-12T06:45:00+00:00",
             "eventStartAt": "2022-09-12T13:00:00+00:00",
             "endAt": "2022-09-12T13:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-03",
+          "endAt": "2022-09-23T11:15:00+00:00",
+          "registration": {
+            "startAt": "2022-09-22T06:45:00+00:00",
+            "eventStartAt": "2022-09-23T07:15:00+00:00",
+            "endAt": "2022-09-23T07:14:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-02",
+          "endAt": "2022-09-23T11:15:00.381+00:00",
+          "registration": {
+            "startAt": "2022-09-21T08:00:00+00:00",
+            "eventStartAt": "2022-09-23T07:15:00+00:00",
+            "endAt": "2022-09-21T08:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-ux-marketcom",
+          "endAt": "2022-09-25T12:00:00.36+00:00",
+          "registration": {
+            "startAt": "2022-09-19T07:00:00+00:00",
+            "eventStartAt": "2022-09-19T07:30:00+00:00",
+            "endAt": "2022-09-19T07:25:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-04",
+          "endAt": "2022-09-30T07:06:00+00:00",
+          "registration": {
+            "startAt": "2022-09-29T07:45:00+00:00",
+            "eventStartAt": "2022-09-30T06:45:00+00:00",
+            "endAt": "2022-09-30T06:45:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-03",
+          "endAt": "2022-09-30T11:19:00+00:00",
+          "registration": {
+            "startAt": "2022-09-30T07:18:00+00:00",
+            "eventStartAt": "2022-09-30T07:18:00+00:00",
+            "endAt": "2022-09-30T07:18:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-02",
+          "endAt": "2022-09-30T11:20:00+00:00",
+          "registration": {
+            "startAt": "2022-09-30T07:13:00+00:00",
+            "eventStartAt": "2022-09-30T07:14:00+00:00",
+            "endAt": "2022-09-30T07:14:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/sudoku",
+          "endAt": "2022-10-02T20:01:00+00:00",
+          "registration": {
+            "startAt": "2022-09-29T06:45:00+00:00",
+            "eventStartAt": "2022-09-30T16:01:00+00:00",
+            "endAt": "2022-09-30T16:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23",
+          "endAt": "2022-10-30T23:08:00+00:00",
+          "registration": {
+            "startAt": "2022-10-03T07:07:00+00:00",
+            "eventStartAt": "2022-10-05T07:07:00+00:00",
+            "endAt": "2022-10-03T07:07:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-01",
+          "endAt": "2022-10-05T11:08:05.555+00:00",
+          "registration": {
+            "startAt": "2022-10-03T18:08:04.553+00:00",
+            "eventStartAt": "2022-10-05T07:08:04.553+00:00",
+            "endAt": "2022-10-05T06:08:04.553+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-04",
+          "endAt": "2022-10-05T15:08:05.556+00:00",
+          "registration": {
+            "startAt": "2022-10-03T18:08:04.553+00:00",
+            "eventStartAt": "2022-10-05T07:08:04.553+00:00",
+            "endAt": "2022-10-05T06:08:04.553+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/parcours-photoshop",
+          "endAt": "2022-10-10T04:20:00+00:00",
+          "registration": {
+            "startAt": "2022-09-14T11:50:00+00:00",
+            "eventStartAt": "2022-09-14T12:00:00+00:00",
+            "endAt": "2022-09-14T12:00:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/csharp-22-23",
+          "endAt": "2022-11-20T08:11:45.448+00:00",
+          "registration": {
+            "startAt": "2022-10-25T16:11:00+00:00",
+            "eventStartAt": "2022-10-25T16:11:00+00:00",
+            "endAt": "2022-10-25T16:11:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23",
+          "endAt": "2023-01-01T06:14:00+00:00",
+          "registration": {
+            "startAt": "2022-12-06T14:14:00+00:00",
+            "eventStartAt": "2022-12-06T14:14:00+00:00",
+            "endAt": "2022-12-06T14:14:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-02",
+          "endAt": "2022-10-05T11:08:05.555+00:00",
+          "registration": {
+            "startAt": "2022-10-03T18:08:04.553+00:00",
+            "eventStartAt": "2022-10-05T07:08:04.553+00:00",
+            "endAt": "2022-10-05T06:08:04.553+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-03",
+          "endAt": "2022-10-05T11:08:05.556+00:00",
+          "registration": {
+            "startAt": "2022-10-03T18:08:04.553+00:00",
+            "eventStartAt": "2022-10-05T07:08:04.553+00:00",
+            "endAt": "2022-10-05T06:08:04.553+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/sudoku",
+          "endAt": "2022-10-07T11:08:05.556+00:00",
+          "registration": {
+            "startAt": "2022-10-03T14:08:04.553+00:00",
+            "eventStartAt": "2022-10-05T07:08:04.553+00:00",
+            "endAt": "2022-10-05T02:08:04.553+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/quad",
+          "endAt": "2022-10-12T05:08:04.909+00:00",
+          "registration": {
+            "startAt": "2022-10-08T08:08:04.553+00:00",
+            "eventStartAt": "2022-10-10T01:08:04.553+00:00",
+            "endAt": "2022-10-09T20:08:04.553+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-02",
+          "endAt": "2022-12-06T18:14:07.259+00:00",
+          "registration": {
+            "startAt": "2022-12-05T01:14:06.257+00:00",
+            "eventStartAt": "2022-12-06T14:14:06.257+00:00",
+            "endAt": "2022-12-06T13:14:06.257+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-03",
+          "endAt": "2022-12-06T18:14:07.259+00:00",
+          "registration": {
+            "startAt": "2022-12-05T01:14:06.257+00:00",
+            "eventStartAt": "2022-12-06T14:14:06.257+00:00",
+            "endAt": "2022-12-06T13:14:06.257+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/exam-04",
+          "endAt": "2022-12-06T22:14:07.259+00:00",
+          "registration": {
+            "startAt": "2022-12-05T01:14:06.257+00:00",
+            "eventStartAt": "2022-12-06T14:14:06.257+00:00",
+            "endAt": "2022-12-06T13:14:06.257+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-go-22-23/sudoku",
+          "endAt": "2022-12-08T18:14:07.259+00:00",
+          "registration": {
+            "startAt": "2022-12-04T21:14:06.257+00:00",
+            "eventStartAt": "2022-12-06T14:14:06.257+00:00",
+            "endAt": "2022-12-06T09:14:06.257+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/piscine-js-22-23",
+          "endAt": "2023-04-08T00:34:22.848+00:00",
+          "registration": {
+            "startAt": "2023-03-13T08:31:00+00:00",
+            "eventStartAt": "2023-03-13T08:32:00+00:00",
+            "endAt": "2023-03-13T08:31:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js",
+          "endAt": "2023-04-25T06:41:00+00:00",
+          "registration": {
+            "startAt": "2023-03-09T14:41:00+00:00",
+            "eventStartAt": "2023-03-09T14:41:00+00:00",
+            "endAt": "2023-03-09T14:41:00+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js/sortable",
+          "endAt": "2023-03-23T12:41:50.92+00:00",
+          "registration": {
+            "startAt": "2023-03-19T15:41:50.556+00:00",
+            "eventStartAt": "2023-03-21T08:41:50.556+00:00",
+            "endAt": "2023-03-21T03:41:50.556+00:00"
+          }
+        },
+        {
+          "campus": "pyc",
+          "status": "done",
+          "path": "/pyc/challenge-js/clonernews",
+          "endAt": "2023-03-30T12:41:50.719+00:00",
+          "registration": {
+            "startAt": "2023-03-26T15:41:50.556+00:00",
+            "eventStartAt": "2023-03-28T08:41:50.556+00:00",
+            "endAt": "2023-03-28T03:41:50.556+00:00"
+          }
         }
-    }
-]
+      ]
