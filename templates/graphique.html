@@ -2,13 +2,13 @@
 {{ template "header.html" .}}
 
     <!-- <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> -->
-    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <!-- <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
-    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script> -->
 
     <h2>📊 Statistiques 📊</h2>
 
-    <py-env> 
+    <!-- <py-env> 
 - pandas
 - matplotlib
 - seaborn
@@ -17,7 +17,7 @@
   - /json/usersnational.json
   - /json/usersnationalxp.json
   - /files/merge_data_user.csv
-    </py-env>
+    </py-env> -->
 
     <br>
 
@@ -30,7 +30,7 @@
         <p>Nombre Etudiants Aix-En-Provence : {{ index .countcampus "aix" }} Etudiants</p> 
     </div>
 
-    <h4>Attendez 20secondes et les graphiques apparaîtront</h4>
+    <!-- <h4>Attendez 20secondes et les graphiques apparaîtront</h4>
 
     <div id="plot"></div>
     <div id="plot2"></div>
@@ -138,7 +138,7 @@
         ax.axis('equal') 
 
         fig
-    </py-script>
+    </py-script> -->
 
 <!--Embed the footer.html template at this location-->
 {{ template "footer.html" .}}
