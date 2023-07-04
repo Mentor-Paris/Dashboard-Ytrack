@@ -2,13 +2,13 @@
 {{ template "header.html" .}}
 
     <!-- <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" /> -->
-    <!-- <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
-    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script> -->
+    <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 
     <h2>📊 Statistiques 📊</h2>
 
-    <!-- <py-env> 
+    <py-env> 
 - pandas
 - matplotlib
 - seaborn
@@ -17,7 +17,7 @@
   - /json/usersnational.json
   - /json/usersnationalxp.json
   - /files/merge_data_user.csv
-    </py-env> -->
+    </py-env>
 
     <br>
 
@@ -28,9 +28,38 @@
         <p>Nombre Etudiants Lyon : {{ index .countcampus "lyon" }} Etudiants</p> 
         <p>Nombre Etudiants Nantes : {{ index .countcampus "nantes" }} Etudiants</p> 
         <p>Nombre Etudiants Aix-En-Provence : {{ index .countcampus "aix" }} Etudiants</p> 
+        <p>Nombre Etudiants Lille : {{ index .countcampus "lille" }} Etudiants</p>
+        <p>Nombre Etudiants Casablanca : {{ index .countcampus "casablanca" }} Etudiants</p>
+        <p>Nombre Etudiants Montpellier : {{ index .countcampus "montpellier" }} Etudiants</p>
+        <p>Nombre Etudiants Nice-Sophia : {{ index .countcampus "nice-sophia" }} Etudiants</p>
+
+        {{ $pyc := index .countcampus "pyc"}}
+        {{ $bordeaux := index .countcampus "bordeaux"}}
+        {{  $toulouse := index .countcampus "toulouse"}}
+        {{  $lyon := index .countcampus "lyon"}}
+        {{  $nantes := index .countcampus "nantes"}}
+        {{  $aix := index .countcampus "aix"}}
+        {{  $lille := index .countcampus "lille"}}
+        {{  $casablanca := index .countcampus "casablanca"}}
+        {{  $montpellier := index .countcampus "montpellier"}}
+        {{  $nice := index .countcampus "nice-sophia"}}
+
+        {{  $total := add $pyc $bordeaux }}
+        {{ $total = add $total $toulouse }}
+        {{ $total = add $total $lyon }}
+        {{ $total = add $total $nantes }}
+        {{ $total = add $total $aix }}
+        {{ $total = add $total $lille }}
+        {{ $total = add $total $casablanca }}
+        {{ $total = add $total $montpellier }}
+        {{ $total = add $total $nice }}
+
+        <br>
+        <br>
+        <p>Nombre Total Etudiants : {{ $total}} Etudiants</p>
     </div>
 
-    <!-- <h4>Attendez 20secondes et les graphiques apparaîtront</h4>
+    <h4>Attendez 20secondes et les graphiques apparaîtront</h4>
 
     <div id="plot"></div>
     <div id="plot2"></div>
@@ -64,22 +93,22 @@
         usercampus = usercampus.rename(columns={'firstName': 'login'})
 
         userfinalnational = usercampus = pd.read_csv("merge_data_user.csv")
-        userfinalnational["xp"] = userfinalnational["xp"].replace(r'\D+', '', regex=True)
-        userfinalnational["xp"] = userfinalnational["xp"].replace(r'', 0, regex=True)
-        userfinalnational["xp"] = userfinalnational["xp"].astype('float')
+        userfinalnational["xps_aggregate"] = userfinalnational["xps_aggregate"].astype('float')
 
-        xpuser = userfinalnational.sort_values(by="xp", ascending=False)
-        xpuser = xpuser[xpuser["xp"] !=0]
-        xpuser = xpuser.dropna()
-        xpuser["xp"] = xpuser["xp"].astype('int')
+        xpuser = userfinalnational.sort_values(by="xps_aggregate", ascending=False)
+        xpuser = xpuser[xpuser["xps_aggregate"] !=0]
+        
+        if xpuser["xps_aggregate"].isna().any():
+            xpuser = xpuser.dropna(subset=["xps_aggregate"])
+        xpuser["xps_aggregate"] = xpuser["xps_aggregate"].astype('int')
 
-        main_variables = xpuser.groupby('login', as_index=False).agg({'xp': 'mean'})
+        main_variables = xpuser.groupby('login', as_index=False).agg({'xps_aggregate': 'mean'})
 
         fig, ax = plt.subplots(figsize=(20, 10))
-
-        sns.histplot(main_variables ['xp'], ax=ax, label='_nolegend_', kde=False)
-        ax.axvline(main_variables ['xp'].mean(), color='#c9082a', label='Xp Mean')
-
+        
+        sns.histplot(main_variables['xps_aggregate'], ax=ax, label='_nolegend_', kde=False)
+        ax.axvline(main_variables['xps_aggregate'].mean(), color='#c9082a', label='Xp Mean')
+        
         ax.yaxis.set_label_text('Count of Students')
         ax.xaxis.set_label_text('Number Xp')
         plt.suptitle('Distribution of Number Xp Data', fontsize=22)
@@ -90,7 +119,7 @@
     </py-script>
 
     <py-script>
-        fig = go.Figure(data=go.Scatter(x=main_variables['xp'],
+        fig = go.Figure(data=go.Scatter(x=main_variables['xps_aggregate'],
                     mode='markers',
                     text=main_variables['login'],
                     marker=dict(color='#17408b')
@@ -111,7 +140,7 @@
     <py-script output="plot3">
         xpuser_aix = xpuser[xpuser['campus'] != 'aix']
         xpuser_aix_nantes = xpuser_aix[xpuser_aix['campus'] != 'nantes']
-        xp_by_campus = xpuser_aix_nantes.groupby(['campus'])['xp'].agg(['mean', 'count'])
+        xp_by_campus = xpuser_aix_nantes.groupby(['campus'])['xps_aggregate'].agg(['mean', 'count'])
 
         fig, ax = plt.subplots(figsize=(16, 8))
         
@@ -129,16 +158,17 @@
         dc = xpuser["campus"].value_counts().to_frame()
 
         fig, ax = plt.subplots()
-
-        labels = 'pyc', 'bordeaux', 'toulouse', 'lyon','nantes','aix'
-        explode = (0.1, 0.1, 0, 0, 0, 0) 
         
-        ax.pie(dc["campus"], explode=explode, labels=labels,autopct='%1.1f%%',shadow=True, startangle=90)
+        labels = 'pyc', 'bordeaux', 'toulouse', 'lyon','nantes','aix', 'lille', "casablanca", "montpellier", "nice-sophia"
+        explode = (0.1, 0.1, 0, 0, 0, 0, 0, 0, 0, 0)  # explode 1st slice
+        
+        ax.pie(dc["campus"], explode=explode,autopct='%1.1f%%',shadow=True, startangle=90)
+        ax.legend(labels, loc="best")
         plt.suptitle('Distribution of Students of campus', fontsize=22)
         ax.axis('equal') 
-
+        
         fig
-    </py-script> -->
+    </py-script>
 
 <!--Embed the footer.html template at this location-->
 {{ template "footer.html" .}}
