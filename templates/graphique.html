@@ -157,15 +157,19 @@
     <py-script output="plot4">
         dc = xpuser["campus"].value_counts().to_frame()
 
+        filtered_dc = dc[dc["campus"] >= 30]
+        
+        filtered_dc.loc["Others"] = dc[dc["campus"] < 30].sum()
+        
         fig, ax = plt.subplots()
         
-        labels = 'pyc', 'bordeaux', 'toulouse', 'lyon','nantes','aix', 'lille', "casablanca", "montpellier", "nice-sophia"
-        explode = (0.1, 0.1, 0, 0, 0, 0, 0, 0, 0, 0)  # explode 1st slice
+        labels = 'pyc', 'bordeaux', 'toulouse', 'lyon','nantes','aix',"autres"
+        explode = (0.1, 0.1, 0, 0, 0, 0, 0)
         
-        ax.pie(dc["campus"], explode=explode,autopct='%1.1f%%',shadow=True, startangle=90)
+        ax.pie(filtered_dc["campus"], explode=explode,autopct='%1.1f%%',shadow=True, startangle=90)
         ax.legend(labels, loc="best")
         plt.suptitle('Distribution of Students of campus', fontsize=22)
-        ax.axis('equal') 
+        ax.axis('equal')
         
         fig
     </py-script>
