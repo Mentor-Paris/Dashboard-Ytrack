@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-To run this project you need :
+To run this project you need to install and get libraires :
 
 [Golang 1.18](https://go.dev/dl/)
 [Gin](https://pkg.go.dev/github.com/gin-gonic/gin#readme-quick-start)
